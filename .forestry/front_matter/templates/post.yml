@@ -21,4 +21,5 @@ fields:
   default: ''
   description: Add publishing date here
 pages:
+- content/events/september-29-2018-wismatyc-conference.md
 - content/events/april-13-14-2018-ohiomatyc-conference.md

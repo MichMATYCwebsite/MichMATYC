@@ -14,5 +14,9 @@ fields:
   hidden: false
   default: ''
   description: Add page title here
+- type: boolean
+  name: showdate
+  label: Show Date
+  hidden: false
 pages:
 - content/conferences.md

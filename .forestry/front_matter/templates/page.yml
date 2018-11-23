@@ -15,7 +15,7 @@ fields:
   default: ''
   description: Add page title here
 - type: include
-  name: template_
+  name: single-no-date
   label: 'Template '
   template: post
 pages:

@@ -6,7 +6,7 @@
 
 <div class="posts">
 {{ range first 3 (where .Data.Pages "Section" "announcements") -}}
-<article class="post" style="padding-left: 2rem;">
+<article class="post">
   <h3 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
   </h3>
@@ -25,7 +25,7 @@
 
 <div class="posts">
   {{ range first 3 (where .Data.Pages "Section" "events") -}}
-  <article class="post" style="padding-left: 2rem;">
+  <article class="post">
     <h3 class="post-title">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h3>

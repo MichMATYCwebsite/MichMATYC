@@ -34,8 +34,11 @@ a.social {
     .content {
       max-width: 44rem;
     }
-  }
+ 
   .container {
     max-width: 44rem;
   }
-  
+}
+  article.post {
+      padding-left: 1rem;
+  }

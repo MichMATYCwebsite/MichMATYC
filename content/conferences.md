@@ -1,5 +1,6 @@
 +++
 layout = "page"
+showdate = false
 title = "Conferences"
 [menu.main]
 weight = 1
@@ -14,10 +15,10 @@ Conference Website: Check out [this link](https://sites.google.com/view/michmat
 ### Previous Conferences
 
 ##### MichMATYC 2017
-Check out the [conference website](https://sites.google.com/view/2017-michmatyc-conference/home) for details about MichMATYC 2017.  
+Check out the [conference website](https://sites.google.com/view/2017-michmatyc-conference/home) for details about MichMATYC 2017.
 
 ##### MichMATYC 2016
-Link for Information on Accessibility (from Conference panelist): [Click here](http://webaccess.msu.edu/Tutorials/index.html)  
+Link for Information on Accessibility (from Conference panelist): [Click here](http://webaccess.msu.edu/Tutorials/index.html)
 
 ##### MichMATYC 2015
 * The Greatest Hits of Active Learning with Damon Givehand ([PDF with notes](http://www.michmatyc.org/Conferences/MichMATYC2015/Session_1_notes.pdf) / [PDF without notes](http://www.michmatyc.org/Conferences/MichMATYC2015/Session_1_no_notes.pdf))

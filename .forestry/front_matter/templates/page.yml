@@ -14,5 +14,9 @@ fields:
   hidden: false
   default: ''
   description: Add page title here
+- type: include
+  name: template_
+  label: 'Template '
+  template: post
 pages:
 - content/conferences.md

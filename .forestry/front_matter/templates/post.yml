@@ -21,6 +21,7 @@ fields:
   default: ''
   description: Add publishing date here
 pages:
+- content/events/event-d.md
 - content/events/event-c.md
 - content/events/event-b.md
 - content/events/event-a.md

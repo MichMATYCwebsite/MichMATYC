@@ -8,21 +8,21 @@ weight = 1
 +++
 ### Upcoming Conference
 
-##### >> October 12-13 - MichMATYC 2018
+##### October 12-13 - MichMATYC 2018
 
->> Host: Kalamazoo Valley Community College, Kalamazoo, MI
+Host: Kalamazoo Valley Community College, Kalamazoo, MI
 
->> Conference Website: Check out [this link](https://sites.google.com/view/michmatyc2018/home) to see the official 2018 MichMATYC Conference Website!
+Conference Website: Check out [this link](https://sites.google.com/view/michmatyc2018/home) to see the official 2018 MichMATYC Conference Website!
 
 ### Previous Conferences
 
-##### >> MichMATYC 2017
+##### MichMATYC 2017
 
->> Check out the [conference website](https://sites.google.com/view/2017-michmatyc-conference/home) for details about MichMATYC 2017.
+Check out the [conference website](https://sites.google.com/view/2017-michmatyc-conference/home) for details about MichMATYC 2017.
 
 ##### MichMATYC 2016
 
-Link for Information on Accessibility (from Conference panelist): [Click here](http://webaccess.msu.edu/Tutorials/index.html)
+* Link for Information on Accessibility (from Conference panelist): [Click here](http://webaccess.msu.edu/Tutorials/index.html)
 
 ##### MichMATYC 2015
 

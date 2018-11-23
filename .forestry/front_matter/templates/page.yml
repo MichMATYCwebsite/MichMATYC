@@ -7,7 +7,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: page
+  default: single-no-date
 - name: title
   label: Title
   type: text

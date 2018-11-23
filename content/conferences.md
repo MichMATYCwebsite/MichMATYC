@@ -2,7 +2,7 @@
 layout = "page"
 title = "Conferences"
 [menu.main]
-weight = 2
+weight = 1
 
 +++
 ### Upcoming Conference

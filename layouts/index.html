@@ -1,0 +1,43 @@
+{{ define "main" -}}
+
+{{ partial "welcome.html" }}
+
+{{ partial "annoncements.html" }}
+
+<div class="posts">
+{{ range first 2 (where .Data.Pages "Section" "announcements") -}}
+<article class="post" style="padding-left: 2rem;">
+  <h3 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </h3>
+  <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+  {{ .Summary }}
+  {{ if .Truncated }}
+  <div class="read-more-link">
+    <a href="{{ .RelPermalink }}">Read More…</a>
+  </div>
+  {{ end }}
+</article>
+{{- end }}
+</div>
+
+{{ partial "events.html" }}
+
+<div class="posts">
+  {{ range first 2 (where .Data.Pages "Section" "events") -}}
+  <article class="post" style="padding-left: 2rem;">
+    <h3 class="post-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h3>
+    <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+    {{ .Summary }}
+    {{ if .Truncated }}
+    <div class="read-more-link">
+      <a href="{{ .RelPermalink }}">Read More…</a>
+    </div>
+    {{ end }}
+  </article>
+  {{- end }}
+  </div>
+
+{{- end }}

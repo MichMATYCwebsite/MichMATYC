@@ -1,0 +1,25 @@
+<aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <!-- <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a> -->
+      <h1>Mich MATYC</h1>
+      <p class="lead">
+      {{ with .Site.Params.description }} {{.}} {{ else }}the Michigan affiliate of the  American Mathematical Association of Two Year Colleges <a href="https://amatyc.site-ym.com/" target="_blank">AMATYC</a>
+      {{end}}
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    <a class = "social" href="https://www.facebook.com/MichMATYC/?__tn__=kC-R&eid=ARB0pslMmNC57xbvcY-jpQcAYeAL9dFZCzQKKwETb4BJVP0gzUaNeS-_2a1ouhp2ZVCugjWp7W34Humf&hc_ref=ARQb5SL1SipB9fFntYspCxveiIxioHEIUbPr2O8INWIR_9B_zLY-RZkMHmTedlCyVMs&fref=nf&__xts__[0]=68.ARCLLTYNzBSDv-hFFp7CM5tJygjz85uZxW-8khVStecip_SAinG9JdA5wAwALZnda4KHJdn1IRYhRTVip-SwqWCaFhbkgBE79Vu3hvnQuJtkbLE_h1ypci29c7IY6NgV3OKNeP2tkt1JgAXAndBOn4Eq0Eb1ehgXdgXV-_dtJERXKV_TPbeImgFgxBIjOuPvbgsw9i4xWD-Bo1GXsjmzrWLpIAbmnjCEwSdCXdvk5jdmXvDLP3bVQw_a0AeTLY8QGO5bZHIPo0PNxN7yk9JU14pE8_pRuFvT9U0fs_ZKP45nK46RgzDokwBalGbIw-XJLRoLzGW5HZXZ_8v8V2rVVAT1CQ"> <i class="fab fa-facebook-square"></i></a>
+    <a class = "social" href="https://twitter.com/hashtag/MichMATYC?src=hash"> <i class="fab fa-twitter-square"></i></a>
+    <!-- <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p> -->
+  </div>
+</aside>

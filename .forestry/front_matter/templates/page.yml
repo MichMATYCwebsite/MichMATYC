@@ -7,7 +7,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: single-no-date
+  default: post
 - name: title
   label: Title
   type: text

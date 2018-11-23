@@ -12,7 +12,7 @@ sections:
   path: config.toml
   label: Site Configuration
 - type: directory
-  path: content/posts
+  path: content/announcements
   label: Posts
   create: all
   match: "**/*"

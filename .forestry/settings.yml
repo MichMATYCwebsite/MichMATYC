@@ -6,11 +6,16 @@ webhook_url:
 sections:
 - type: document
   path: FIRSTSTEPS.md
-  label: Welcome - Start Here!
+  label: Installation (please ignore)
   read_only: true
-- type: document
-  path: config.toml
-  label: Site Configuration
+- type: directory
+  path: content/events
+  label: Events
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
 - type: directory
   path: content/announcements
   label: Announcements
@@ -19,6 +24,9 @@ sections:
   new_doc_ext: md
   templates:
   - post
+- type: document
+  path: config.toml
+  label: Site Configuration
 - type: directory
   path: content
   label: Pages

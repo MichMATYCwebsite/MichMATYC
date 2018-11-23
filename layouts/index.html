@@ -5,7 +5,7 @@
 {{ partial "annoncements.html" }}
 
 <div class="posts">
-{{ range first 2 (where .Data.Pages "Section" "announcements") -}}
+{{ range first 3 (where .Data.Pages "Section" "announcements") -}}
 <article class="post" style="padding-left: 2rem;">
   <h3 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -24,7 +24,7 @@
 {{ partial "events.html" }}
 
 <div class="posts">
-  {{ range first 2 (where .Data.Pages "Section" "events") -}}
+  {{ range first 3 (where .Data.Pages "Section" "events") -}}
   <article class="post" style="padding-left: 2rem;">
     <h3 class="post-title">
       <a href="{{ .Permalink }}">{{ .Title }}</a>

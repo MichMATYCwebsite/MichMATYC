@@ -10,9 +10,8 @@ weight = 1
 
 ##### October 12-13 - MichMATYC 2018
 
-Host: Kalamazoo Valley Community College, Kalamazoo, MI
-
-Conference Website: Check out [this link](https://sites.google.com/view/michmatyc2018/home) to see the official 2018 MichMATYC Conference Website!
+* Host: Kalamazoo Valley Community College, Kalamazoo, MI
+* Conference Website: Check out [this link](https://sites.google.com/view/michmatyc2018/home) to see the official 2018 MichMATYC Conference Website!
 
 ### Previous Conferences
 

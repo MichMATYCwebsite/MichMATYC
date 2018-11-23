@@ -4,10 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: FIRSTSTEPS.md
-  label: Installation (please ignore)
-  read_only: true
+- type: directory
+  path: content/announcements
+  label: Announcements
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
 - type: directory
   path: content/events
   label: Events
@@ -17,23 +21,15 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/announcements
-  label: Announcements
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - post
-- type: document
-  path: config.toml
-  label: Site Configuration
-- type: directory
   path: content
   label: Pages
   create: documents
   match: "*"
   templates:
   - page
+- type: document
+  path: config.toml
+  label: Site Configuration
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

@@ -13,7 +13,7 @@ sections:
   label: Site Configuration
 - type: directory
   path: content/announcements
-  label: Posts
+  label: Announcements
   create: all
   match: "**/*"
   new_doc_ext: md

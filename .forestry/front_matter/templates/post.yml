@@ -21,4 +21,5 @@ fields:
   default: ''
   description: Add publishing date here
 pages:
+- content/announcements/michmatyc-mentoring-program-miteam-accepting-participants-for-second-cohort.md
 - content/announcements/participate-in-our-2018-michmatyc-conference.md

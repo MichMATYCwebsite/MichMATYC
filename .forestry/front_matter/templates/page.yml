@@ -14,9 +14,5 @@ fields:
   hidden: false
   default: ''
   description: Add page title here
-- type: include
-  name: single-no-date
-  label: 'Template '
-  template: post
 pages:
 - content/conferences.md

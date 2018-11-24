@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "page"
 showdate = false
 title = "Links"

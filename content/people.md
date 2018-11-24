@@ -3,6 +3,8 @@ date = "2018-11-24T18:36:00+00:00"
 layout = "post"
 showdate = false
 title = "People"
+[menu.main]
+weight = 5
 
 +++
 ##### MichMATYC Officers

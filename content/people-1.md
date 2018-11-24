@@ -28,3 +28,7 @@ weight = 1
 ##### MichMATYC Campus Representatives
 
 Below is the contact information for the representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please contact webmaster Mark Pelfrey at [mpelfrey@swmich.edu](mailto:mpelfrey@swmich.edu)  
+
+* [Alpena Community College](http://www.alpenacc.edu/): Dan Rothe [rothed@alpenacc.edu](mailto:rothed@alpenacc.edu)  
+* [Bay De Noc Community College](http://www.baycollege.edu/): Britt Slade  [sladeb@baycollege.edu](mailto:sladeb@baycollege.edu)  
+* [Delta College](http://www.delta.edu/): Frances Lichtman  [franceslichtman@delta.edu](mailto:franceslichtman@delta.edu)    

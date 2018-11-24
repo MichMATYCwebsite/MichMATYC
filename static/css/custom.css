@@ -45,6 +45,8 @@ a.social {
   margin-right: 1rem;
 }
 
+
+
 @media (min-width: 48em) {
   .content {
     max-width: 44rem;
@@ -56,4 +58,18 @@ a.social {
 }
 article.post {
   padding-left: 1rem;
+}
+
+.content {
+    padding-bottom: 2rem;
+}
+
+footer p {
+    margin-bottom: 0;
+    text-align: center;
+}
+
+footer i {
+    color: red;
+    padding: 0 .2rem;
 }

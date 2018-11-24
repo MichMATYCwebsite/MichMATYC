@@ -1,16 +1,5 @@
 <script>
-
-// window.addEventListener("load", function() {
-//   var wrap = document.getElementById("preloader");
-//   document.body.removeChild(wrap);
-// });
-
-// document.body.className += ' fade-out';
-
-// document.main.className += ' fade-out';
-
 document.querySelector('main').className += ' fade-out';
-
 window.addEventListener(
     'load',
     function load()
@@ -19,6 +8,14 @@ window.addEventListener(
         document.querySelector('main').classList.remove('fade-out');
     },
     false);
+</script>
+
+<script>
+
+// window.addEventListener("load", function() {
+//   var wrap = document.getElementById("preloader");
+//   document.body.removeChild(wrap);
+// });
 
       function openSlideMenu() {
         document.getElementById("mobile-side-menu").style.left = "0px";
@@ -28,9 +25,9 @@ window.addEventListener(
       }
       function closeSlideMenu() {
         document.getElementById("mobile-side-menu").style.left = "-250px";
-        let dimmedBg = document.getElementById("dim");
-        dimmedBg.classList.add("clear");
-        dimmedBg.classList.remove("dimmed");
+        // let dimmedBg = document.getElementById("dim");
+        // dimmedBg.classList.add("clear");
+        // dimmedBg.classList.remove("dimmed");
       }
       window.addEventListener("mouseup", function(event) {
         var sideNav = document.getElementById("mobile-side-menu");

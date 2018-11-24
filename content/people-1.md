@@ -2,6 +2,8 @@
 layout = "page"
 showdate = false
 title = "People"
+[menu.main]
+weight = 1
 
 +++
 ##### MichMATYC Officers  

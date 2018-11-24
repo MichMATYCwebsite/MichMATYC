@@ -5,6 +5,21 @@
 //   document.body.removeChild(wrap);
 // });
 
+// document.body.className += ' fade-out';
+
+// document.main.className += ' fade-out';
+
+document.querySelector('main').className += ' fade-out';
+
+window.addEventListener(
+    'load',
+    function load()
+    {
+        window.removeEventListener('load', load, false);
+        document.querySelector('main').classList.remove('fade-out');
+    },
+    false);
+
       function openSlideMenu() {
         document.getElementById("mobile-side-menu").style.left = "0px";
         let dimmedBg = document.getElementById("dim");

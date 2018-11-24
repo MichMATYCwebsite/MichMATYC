@@ -54,6 +54,16 @@ html {
   }
 }
 
+main {
+  opacity: 1;
+  transition: 1s opacity;
+}
+
+main.fade-out {
+  opacity: 0;
+  transition: none;
+}
+
 /* ################################ */
 /* ########### Logo      ########## */
 /* ################################ */

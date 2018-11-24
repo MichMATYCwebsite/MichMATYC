@@ -21,6 +21,14 @@ sections:
   templates:
   - post
 - type: directory
+  path: content/conferences
+  label: Conferences
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
   path: content
   label: Pages
   create: documents

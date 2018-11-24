@@ -24,3 +24,7 @@ weight = 1
 * [Julie Gunckelmann, Professional Development Coordinator, AMATYC](mailto:jagunkel@oaklandcc.edu)
 
 <br/>
+
+##### MichMATYC Campus Representatives
+
+Below is the contact information for the representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please contact webmaster Mark Pelfrey at [mpelfrey@swmich.edu](mailto:mpelfrey@swmich.edu)  

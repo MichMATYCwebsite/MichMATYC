@@ -50,7 +50,9 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2017</td>
 
-<td class="tg-c3ow">Feb-17</td>
+<td class="tg-c3ow">
+
+<a href="[http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf](http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf "http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf")" target="_blank">Feb-17</a></td>
 
 <td class="tg-c3ow">May-17</td>
 

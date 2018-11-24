@@ -1,29 +1,30 @@
 <script>
 
-window.addEventListener("load", function() {
-  var wrap = document.getElementById("preloader");
-  document.body.removeChild(wrap);
-});
+// window.addEventListener("load", function() {
+//   var wrap = document.getElementById("preloader");
+//   document.body.removeChild(wrap);
+// });
 
-function openSlideMenu() {
-  document.getElementById("side-menu").style.left = "0px";
-  let dimmedBg = document.getElementById("dim");
-  dimmedBg.classList.add("dimmed");
-  dimmedBg.classList.remove("clear");
-}
-function closeSlideMenu() {
-  document.getElementById("side-menu").style.left = "-250px";
-  let dimmedBg = document.getElementById("dim");
-  dimmedBg.classList.add("clear");
-  dimmedBg.classList.remove("dimmed");
-}
-window.addEventListener("mouseup", function(event) {
-  var sideNav = document.getElementById("side-menu");
-  if (event.target != sideNav && event.target.parentNode != sideNav) {
-    document.getElementById("side-menu").style.left = "-250px";
-    let dimmedBg = document.getElementById("dim");
-    dimmedBg.classList.add("clear");
-    dimmedBg.classList.remove("dimmed");
-  }
-});
+      function openSlideMenu() {
+        document.getElementById("mobile-side-menu").style.left = "0px";
+        let dimmedBg = document.getElementById("dim");
+        dimmedBg.classList.add("dimmed");
+        dimmedBg.classList.remove("clear");
+      }
+      function closeSlideMenu() {
+        document.getElementById("mobile-side-menu").style.left = "-250px";
+        let dimmedBg = document.getElementById("dim");
+        dimmedBg.classList.add("clear");
+        dimmedBg.classList.remove("dimmed");
+      }
+      window.addEventListener("mouseup", function(event) {
+        var sideNav = document.getElementById("mobile-side-menu");
+        if (event.target != sideNav && event.target.parentNode != sideNav) {
+          document.getElementById("mobile-side-menu").style.left = "-250px";
+          let dimmedBg = document.getElementById("dim");
+          dimmedBg.classList.add("clear");
+          dimmedBg.classList.remove("dimmed");
+        }
+      });
+
 </script>

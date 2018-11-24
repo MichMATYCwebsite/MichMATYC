@@ -157,6 +157,25 @@ html {
   transition: all 0.2s ease-in-out;
 }
 
+
+#mobile-side-menu {
+  display: block;
+}
+
+#side-menu {
+  display: none;
+}
+
+@media (min-width: 48em) {
+  #mobile-side-menu {
+    display: none;
+  }
+  #side-menu {
+    display: block;
+  }
+}
+
+
 /* ################################ */
 /* ########### Sidebar ############ */
 /* ################################ */
@@ -183,6 +202,10 @@ a.social {
 }
 
 
+/* ################################ */
+/* ########### Content ############ */
+/* ################################ */
+
 @media (min-width: 48em) {
   .content {
     max-width: 44rem;
@@ -191,7 +214,9 @@ a.social {
   .container {
     max-width: 44rem;
   }
+
 }
+
 article.post {
   padding-left: 1rem;
 }

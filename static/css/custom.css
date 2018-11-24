@@ -25,7 +25,7 @@ html {
 }
 
 
-@media (min-width: 1600px) {
+@media (max-width: 1600px) {
     #Logo {
         display: none;
     }

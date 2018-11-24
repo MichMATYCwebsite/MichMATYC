@@ -19,8 +19,8 @@ fields:
   label: Show Date
   hidden: false
 pages:
-- content/links.md
 - content/people.md
+- content/links.md
 - content/conferences.md
 - content/funding.md
 - content/newsletter.md

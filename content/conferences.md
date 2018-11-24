@@ -1,5 +1,5 @@
 +++
-layout = "conferences"
+layout = "list-conferences"
 showdate = false
 title = "Conferences"
 

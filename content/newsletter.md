@@ -54,9 +54,9 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf" target="_blank">Feb-17</a></td>
 
-<td class="tg-c3ow">May-17</td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterMay2017.pdf" target="_blank">May-17</a></td>
 
-<td class="tg-c3ow">Sep-17</td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2017.pdf" target="_blank">Sep-17</a></td>
 
 </tr>
 

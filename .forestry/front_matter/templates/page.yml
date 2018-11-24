@@ -19,5 +19,6 @@ fields:
   label: Show Date
   hidden: false
 pages:
+- content/newsletter.md
 - content/join.md
 - content/conferences.md

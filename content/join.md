@@ -1,7 +1,7 @@
 +++
 layout = "page"
 showdate = false
-title = "Join MichMATYC"
+title = "Join"
 [menu.main]
 weight = 2
 

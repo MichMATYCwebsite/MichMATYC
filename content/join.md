@@ -2,6 +2,9 @@
 layout = "page"
 showdate = false
 title = "Join"
+[menu.main]
+name = "Join MichMATYC"
+weight = 2
 
 +++
 ### Join MichMATYC

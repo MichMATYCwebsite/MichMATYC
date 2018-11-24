@@ -19,6 +19,7 @@ fields:
   label: Show Date
   hidden: false
 pages:
+- content/funding.md
 - content/newsletter.md
 - content/join.md
 - content/conferences.md

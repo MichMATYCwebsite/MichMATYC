@@ -3,7 +3,7 @@ layout = "page"
 showdate = false
 title = "Conferences"
 [menu.main]
-weight = 1
+weight = 2
 
 +++
 ### Upcoming Conference

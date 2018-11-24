@@ -4,7 +4,7 @@ showdate = false
 title = "Join"
 [menu.main]
 name = "Join MichMATYC"
-weight = 2
+weight = 1
 
 +++
 ### Join MichMATYC

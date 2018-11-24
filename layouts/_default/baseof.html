@@ -1,13 +1,21 @@
 {{ partial "head.html" . }}
   <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
+
+  {{ partial "preloader.html" . }}
   {{ partial "sidebar.html" . }}
+
+  <div id="dim">
+ 
+  {{ partial "hamburger.html" }}
   {{ partial "logo.html" . }}
+
     <main class="content container">
     {{ block "main" . -}}
     {{- end }}
     {{ partial "footer.html" . }}
     </main>
     
+  </div>
 
     {{ template "_internal/google_analytics_async.html" . }}
     {{ partial "js.html" . }}

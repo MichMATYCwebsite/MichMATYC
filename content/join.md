@@ -1,14 +1,11 @@
 +++
 layout = "page"
 showdate = false
-title = "Join"
+title = "Join MichMATYC"
 [menu.main]
-name = "Join MichMATYC"
 weight = 1
 
 +++
-### Join MichMATYC
-
 The annual membership fee for being a member of MichMATYC is just $5! Please fill out this online application form. After, please download the membership application form either as [MS Word](http://www.michmatyc.org/Membership%20Application%20form/memberform.doc) or [PDF](http://www.michmatyc.org/Membership%20Application%20form/memberform.pdf), and please mail it to
 
 Sam Bazzi  

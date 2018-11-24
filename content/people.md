@@ -2,6 +2,8 @@
 layout = "page"
 showdate = false
 title = "Links"
+[menu.main]
+weight = 6
 
 +++
 [About MichMATYC](http://www.michmatyc.org/About.html)

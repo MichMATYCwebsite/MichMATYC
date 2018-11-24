@@ -6,7 +6,7 @@ title = "People"
 weight = 1
 
 +++
-##### MichMATYC Officers  
+##### MichMATYC Officers
 
 * [Anna Cox, Kellogg CC, President](mailto:coxa@kellogg.edu)
 * [Sam Bazzi, Henry Ford College, Secretary/Treasurer](mailto:sbazzi@hfcc.edu)
@@ -14,4 +14,13 @@ weight = 1
 * [Lisa Winch, Kalamazoo Community College, Affiliate Delegate](mailto:lwinch@kvcc.edu)
 * [Michael Pemberton, Lansing Community College, Affiliate Delegate](mailto:pembertm@lcc.edu)
 
-  
+<br/>
+
+##### AMATYC Leadership in Michigan  
+
+* [Jim Ham, President, AMATYC](mailto:jaham1729@gmail.com)
+* [Jonathan Oaks, Midwest Vice President, AMATYC](mailto:oaksj@macomb.edu)
+* [David Tannor, Treasurer, AMATYC](mailto:davetannor@gmail.com)
+* [Julie Gunckelmann, Professional Development Coordinator, AMATYC](mailto:jagunkel@oaklandcc.edu)
+
+<br/>

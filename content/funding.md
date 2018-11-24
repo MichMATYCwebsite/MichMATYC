@@ -25,3 +25,12 @@ Established in 1999, the MichMATYC Teaching Excellence Award recognizes the high
 [Award Requirements](http://www.michmatyc.org/TeachingExcellenceAwardDocuments/Criteria_2018.pdf)   -   [Nomination Form](http://www.michmatyc.org/TeachingExcellenceAwardDocuments/MichMATYC_Nom_Form_2018.pdf)  
 Contact Information: Laura Wiklund, Chair, Teaching Excellence Award Committee  
 Email: [lkwicklu@oaklandcc.edu](mailto:lkwicklu@oaklandcc.edu)
+
+##### MichMATYC Grants
+
+  
+The Michigan Mathematical Association of Two-Year Colleges was founded to provide a venue for interaction between the mathematics faculties at community colleges across the state of Michigan. Our top priorities are to share ideas, consolidate resources, and plan for the future needs of community college students in the state. In this spirit, MichMATYC is offering grants of up to $500 to support the activities of its membership. This money can be used for things including but not limited to innovative programs, events or projects that will significantly enhance a students' classroom experience or professional development shared among regional institutions.  
+  
+For details about eligibility, grant requirements, and contact information, follow the link below.  
+  
+[MichMATYC Grant Application](https://docs.google.com/a/swmich.edu/forms/d/1vch8Bp80naTAcFQe6NPceMnXV4IbQ9W8ttkZ5YK74Y4/viewform)  

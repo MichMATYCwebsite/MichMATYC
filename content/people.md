@@ -10,6 +10,8 @@ weight = 6
   
 [Mathematics Courses at Michigan Community Colleges](http://www-personal.umich.edu/\~vmesa/Community%20Colleges/CommunityColleges.html)  
 
+<br/>
+
 ##### Professional Organizations  
 
 [The Association for Computing Machinery (ACM)](http://www.acm.org/)

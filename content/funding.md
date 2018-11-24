@@ -2,183 +2,25 @@
 draft = true
 layout = "page"
 showdate = false
-title = "Funding"
+title = "Awards, Scholarships & Grants"
 
 +++
-The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - is archived on this page. There are usually three issues per year, in February, May, and September. Please submit information you would like to have included in the newsletter to Desidera Kooswinarsinindyah at [Kooswinarsinindyahd@macomb.edu](mailto:Koowinarsinindyahd@macomb.edu).
+Below you will find information regarding awards, scholarships and grants offered by MichMATYC. If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.  
 
-<br/>
+### Karen Sharp Student Scholarship Award
 
-<style type="text/css">
+  
+Established in 2000 by the Executive Board of MichMATYC, the MichMATYC Student Scholarship Award recognizes an outstanding mathematics student. Beginning in 2012, the scholarship was named in honor of Karen Sharp, who had a fundamental role in the founding of our organization.  
+  
+NOTE: UPDATED SCHOLARSHIP FORMS COMING SOON!  
+2018 - 2019 Application deadline: **June 1, 2018**  
+[Scholarship Application Form](https://goo.gl/forms/iGuMmWnMFETJnAr13)  
 
-.tg  {border-collapse:collapse;border-spacing:0;}
+### MichMATYC Teaching Excellence Award
 
-.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+Established in 1999, the MichMATYC Teaching Excellence Award recognizes the high quality of instruction occurring at Michigan's two-year colleges. The selection criteria include instructional effectiveness and support of students, professional involvement and professional development activities, interaction with colleagues and service to department and college.
 
-.tg th{font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-
-</style>
-
-<table class="tg">
-
-<tr>
-
-<th class="tg-c3ow">Year</th>
-
-<th class="tg-c3ow">I</th>
-
-<th class="tg-c3ow">II</th>
-
-<th class="tg-c3ow">III</th>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2018</td>
-
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf" target="_blank"> Feb-18</a></td>
-
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf" target="_blank"> May-18</a></td>
-
-<td class="tg-c3ow"></td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2017</td>
-
-<td class="tg-c3ow">
-
-<a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf" target="_blank">Feb-17</a></td>
-
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterMay2017.pdf" target="_blank">May-17</a></td>
-
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2017.pdf" target="_blank">Sep-17</a></td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2016</td>
-
-<td class="tg-c3ow">Feb-16</td>
-
-<td class="tg-c3ow">May-16</td>
-
-<td class="tg-c3ow">Sep-16</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2015</td>
-
-<td class="tg-c3ow">Feb-15</td>
-
-<td class="tg-c3ow"></td>
-
-<td class="tg-c3ow">Sep-15</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2014</td>
-
-<td class="tg-c3ow">Feb-14</td>
-
-<td class="tg-c3ow">May-14</td>
-
-<td class="tg-c3ow">Sep-14</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2013</td>
-
-<td class="tg-c3ow">Feb-13</td>
-
-<td class="tg-c3ow">May-13</td>
-
-<td class="tg-c3ow">Sep-13</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2012</td>
-
-<td class="tg-c3ow">Feb-12</td>
-
-<td class="tg-c3ow">May-12</td>
-
-<td class="tg-c3ow">Sep-12</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2011</td>
-
-<td class="tg-c3ow">Feb-11</td>
-
-<td class="tg-c3ow">May-11</td>
-
-<td class="tg-c3ow">Sep-11</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2010</td>
-
-<td class="tg-c3ow">Feb-10</td>
-
-<td class="tg-c3ow"></td>
-
-<td class="tg-c3ow">Sep-10</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2009</td>
-
-<td class="tg-c3ow">Mar-09</td>
-
-<td class="tg-c3ow"></td>
-
-<td class="tg-c3ow">Sep-09</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2008</td>
-
-<td class="tg-c3ow">Winter 2008</td>
-
-<td class="tg-c3ow">Fall 2008</td>
-
-<td class="tg-c3ow"></td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2007</td>
-
-<td class="tg-c3ow">Winter 2007</td>
-
-<td class="tg-c3ow">Fall 2007</td>
-
-<td class="tg-c3ow"></td>
-
-</tr>
-
-</table>
+2018 Nomination deadline: May 18, 2018  
+[Award Requirements](http://www.michmatyc.org/TeachingExcellenceAwardDocuments/Criteria_2018.pdf)   -   [Nomination Form](http://www.michmatyc.org/TeachingExcellenceAwardDocuments/MichMATYC_Nom_Form_2018.pdf)  
+Contact Information: Laura Wiklund, Chair, Teaching Excellence Award Committee  
+Email: [lkwicklu@oaklandcc.edu](mailto:lkwicklu@oaklandcc.edu)  

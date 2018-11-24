@@ -8,6 +8,8 @@ weight = 3
 +++
 The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - is archived on this page. There are usually three issues per year, in February, May, and September. Please submit information you would like to have included in the newsletter to Desidera Kooswinarsinindyah at [Kooswinarsinindyahd@macomb.edu](mailto:Koowinarsinindyahd@macomb.edu).
 
+<br/>
+
 <style type="text/css">
 
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -140,7 +142,7 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow">September 2010</td>
+<td class="tg-c3ow">Sep-10</td>
 
 </tr>
 
@@ -152,7 +154,7 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow">September 2009</td>
+<td class="tg-c3ow">Sep-09</td>
 
 </tr>
 

@@ -142,7 +142,7 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow">September 2010</td>
+<td class="tg-c3ow">Sep-10</td>
 
 </tr>
 
@@ -154,7 +154,7 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow">September 2009</td>
+<td class="tg-c3ow">Sep-09</td>
 
 </tr>
 

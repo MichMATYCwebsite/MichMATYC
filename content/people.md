@@ -4,7 +4,7 @@ layout = "post"
 showdate = false
 title = "People"
 [menu.main]
-weight = 5
+weight = 4
 
 +++
 ##### MichMATYC Officers

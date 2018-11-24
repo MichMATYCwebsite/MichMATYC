@@ -19,4 +19,5 @@ fields:
   label: Show Date
   hidden: false
 pages:
+- content/join.md
 - content/conferences.md

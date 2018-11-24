@@ -27,7 +27,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - post
+  - page
 - type: directory
   path: content
   label: Pages

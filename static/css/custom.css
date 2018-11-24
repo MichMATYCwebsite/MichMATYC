@@ -1,48 +1,52 @@
 :root {
-    --mb: 4rem;
+  --mb: 4rem;
 }
 
 html {
-    overflow-y: scroll;
+  overflow-y: scroll;
 }
 
 .p-main {
-    margin-bottom: var(--mb);
+  margin-bottom: var(--mb);
 }
 
 #Logo {
-    margin: 0;
-    position: absolute;
-    top: 3rem;
-    right: 6rem;
-    width: 8rem;
-    height: auto;
-    border-radius: 50%;
-    border: 2px solid white;
-    -webkit-box-shadow: 0px 0px 36px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 36px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 36px 0px rgba(0,0,0,0.75);
+  margin: 0;
+  position: absolute;
+  top: 3rem;
+  right: 6rem;
+  width: 8rem;
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid white;
+  -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
+}
+
+.mylink {
+  padding-top: 3rem;
 }
 
 .sidebar {
-    -webkit-box-shadow: 0px 0px 36px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 36px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 36px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
 }
 
 a.social {
-    margin-right: 1rem;
+  margin-right: 1rem;
 }
 
 @media (min-width: 48em) {
-    .content {
-      max-width: 44rem;
-    }
- 
+  .content {
+    max-width: 44rem;
+  }
+
   .container {
     max-width: 44rem;
   }
 }
-  article.post {
-      padding-left: 1rem;
-  }
+article.post {
+  padding-left: 1rem;
+}

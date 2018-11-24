@@ -3,8 +3,10 @@
   {{ partial "sidebar.html" . }}
   {{ partial "logo.html" . }}
     <main class="content container">
-    {{ block "main" . -}}{{- end }}
+    {{ block "main" . -}}
+    {{- end }}
     </main>
+    
 
     {{ template "_internal/google_analytics_async.html" . }}
     {{ partial "js.html" . }}

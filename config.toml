@@ -2,7 +2,7 @@ baseURL = "https://michmatyc.netlify.com/"
 languageCode = "en-us"
 theme = "hyde"
 title = "MichMATYC"
-[blackfriday] 
+[blackfriday]
 hrefTargetBlank = true
 [params]
 disqusShortname = ""

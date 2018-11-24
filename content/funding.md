@@ -3,6 +3,9 @@ draft = true
 layout = "page"
 showdate = false
 title = "Awards, Scholarships & Grants"
+[menu.main]
+name = "Funding"
+weight = 4
 
 +++
 Below you will find information regarding awards, scholarships and grants offered by MichMATYC. If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.  

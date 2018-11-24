@@ -38,9 +38,9 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2018</td>
 
-<td class="tg-c3ow"><a href="[http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf](http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf "http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf")" target="_blank"> Feb-18</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf" target="_blank"> Feb-18</a></td>
 
-<td class="tg-c3ow"><a href="[http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf](http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf "http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf")" target="_blank"> May-18</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf" target="_blank"> May-18</a></td>
 
 <td class="tg-c3ow"></td>
 

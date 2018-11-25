@@ -4,5 +4,7 @@ layout = "post"
 showdate = false
 title = "Conferences"
 type = "list-conference"
+[menu.main]
+weight = 3
 
 +++

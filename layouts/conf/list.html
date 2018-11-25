@@ -1,6 +1,8 @@
 {{ define "main" -}}
 
-<h2>Upcoming conferences</h2>
+<h1>Upcoming conferences</h1>
+
+<hr>
 
 <div class="posts">
   {{ range where .Site.RegularPages "Section" "upcoming" -}}
@@ -19,7 +21,9 @@
 {{- end }}
 </div>
 
-<h2>Previous conferences</h2>
+<h1>Previous conferences</h1>
+
+<hr>
 
 <div class="posts">
   {{ range first 10 (where .Site.RegularPages "Section" "conferences") -}}

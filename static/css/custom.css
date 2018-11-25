@@ -194,6 +194,21 @@ main.fade-out {
   }
 }
 
+#mobile-side-menu a {
+  text-transform: uppercase;
+  padding-bottom: .5rem;
+  padding-top: .5rem;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#mobile-side-menu a:hover,
+#mobile-side-menu a:visited,
+#mobile-side-menu a:focus {
+  text-decoration: none;
+}
+
+
 
 /* ################################ */
 /* ########### Sidebar ############ */
@@ -250,10 +265,28 @@ footer p {
 }
 
 footer i {
+  padding: 0 .2rem;
+}
+
+footer .fa-heart {
     color: red;
-    padding: 0 .2rem;
 }
 
 .fa-link {
   margin-left: 1rem;
+}
+
+html,body {
+  height:100%;
+}
+
+main.content {
+  min-height: 100%;
+  position:relative;
+}
+
+footer {
+  position:absolute;
+  bottom: 2rem;
+  width: 100%;
 }

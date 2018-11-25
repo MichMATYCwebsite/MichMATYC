@@ -3,7 +3,7 @@
 <h2>Upcoming conferences</h2>
 
 <div class="posts">
-{{ range where .Data.Pages "Section" "upcoming" -}}
+  {{ range where .Data.Pages "Section" "upcoming" -}}
 <article class="post">
   <h3 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>

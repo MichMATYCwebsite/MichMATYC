@@ -253,3 +253,7 @@ footer i {
     color: red;
     padding: 0 .2rem;
 }
+
+.fa-link {
+  margin-left: 1rem;
+}

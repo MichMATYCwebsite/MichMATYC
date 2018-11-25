@@ -3,7 +3,7 @@
 <h2>Upcoming conferences</h2>
 
 <div class="posts">
-  {{ range where .Data.Pages "Section" "upcoming" -}}
+  {{ range where .Site.RegularPages "Section" "upcoming" -}}
 <article class="post">
   <h3 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>
@@ -22,7 +22,7 @@
 <h2>Previous conferences</h2>
 
 <div class="posts">
-  {{ range first 10 (where .Data.Pages "Section" "conferences") -}}
+  {{ range first 10 (where .Site.RegularPages "Section" "conferences") -}}
   <article class="post">
     <h3 class="post-title">
       <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>

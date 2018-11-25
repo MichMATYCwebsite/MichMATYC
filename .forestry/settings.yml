@@ -28,7 +28,7 @@ sections:
   new_doc_ext: md
 - type: directory
   path: content/conferences
-  label: Previous Conferences
+  label: Previous conf.
   create: all
   match: "**/*"
   new_doc_ext: md

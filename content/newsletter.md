@@ -66,11 +66,11 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2016</td>
 
-<td class="tg-c3ow">Feb-16</td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2016.pdf" target="_blank">Feb-16</a></td>
 
-<td class="tg-c3ow">May-16</td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterMay2016.pdf" target="_blank">May-16</a></td>
 
-<td class="tg-c3ow">Sep-16</td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2016.pdf" target="_blank">Sep-16</a></td>
 
 </tr>
 
@@ -183,3 +183,6 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 </tr>
 
 </table>
+
+Note:  For 2007 and 2008, each file is approximately 1 megabyte and download time will depend on connection speed.
+For 2009 and later, file sizes are generally 200 kilobytes and reasonable for almost any connection speed.

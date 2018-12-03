@@ -40,9 +40,9 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2018</td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf" target="_blank"> Feb-18</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf" target="_blank"> February 2018</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf" target="_blank"> May-18</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf" target="_blank"> May 2018</a></td>
 
 <td class="tg-c3ow"></td>
 
@@ -54,11 +54,11 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">
 
-<a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf" target="_blank">Feb-17</a></td>
+<a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf" target="_blank">February 2017</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterMay2017.pdf" target="_blank">May-17</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterMay2017.pdf" target="_blank">May 2017</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2017.pdf" target="_blank">Sep-17</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2017.pdf" target="_blank">September 2017</a></td>
 
 </tr>
 
@@ -66,11 +66,11 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2016</td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2016.pdf" target="_blank">Feb-16</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2016.pdf" target="_blank">February 2016</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterMay2016.pdf" target="_blank">May-16</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCMay16.pdf" target="_blank">May 2016</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2016.pdf" target="_blank">Sep-16</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2016.pdf" target="_blank">September 2016</a></td>
 
 </tr>
 
@@ -78,11 +78,11 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2015</td>
 
-<td class="tg-c3ow">Feb-15</td>
+<td class="tg-c3ow"><a href="Newsletters/MichMatycNewsletterFebruary2015.pdf.pdf" target="_blank">February 2015</a></td>
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow">Sep-15</td>
+<td class="tg-c3ow"><a href="Newsletters/MichMATYCSept15.pdf" target="_blank">September 2015</a></td>
 
 </tr>
 

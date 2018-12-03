@@ -184,5 +184,5 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 </table>
 
-Note:  For 2007 and 2008, each file is approximately 1 megabyte and download time will depend on connection speed.
+Note:  For 2007 and 2008, each file is approximately 1 megabyte and download time will depend on connection speed.<br />
 For 2009 and later, file sizes are generally 200 kilobytes and reasonable for almost any connection speed.

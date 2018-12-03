@@ -6,7 +6,7 @@ title = "Newsletter"
 weight = 4
 
 +++
-The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - is archived on this page. There are usually three issues per year, in February, May, and September. Please submit information you would like to have included in the newsletter to Desidera Kooswinarsinindyah at [Kooswinarsinindyahd@macomb.edu](mailto:Koowinarsinindyahd@macomb.edu).
+The electronic version of the MichMATYC newsletter (The MichMATYC Sum-Times) is distributed to members three times a year; in February, May, and September. Previous editions of the newsletter are archived on this page. If you are interested in submitting information to be included in the next newsletter edition, please submit your article to Desidera Kooswinarsinindyah, The MichMATYC Sum-Times Editor at [Kooswinarsinindyahd@macomb.edu](mailto:Koowinarsinindyahd@macomb.edu).
 
 <br/>
 
@@ -40,9 +40,9 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2018</td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf" target="_blank"> February 2018</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2018.pdf" target="_blank"> February</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf" target="_blank"> May 2018</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCNewsletterMay2018.pdf" target="_blank"> May</a></td>
 
 <td class="tg-c3ow"></td>
 
@@ -54,11 +54,11 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">
 
-<a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf" target="_blank">February 2017</a></td>
+<a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2017.pdf" target="_blank">February</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterMay2017.pdf" target="_blank">May 2017</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterMay2017.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2017.pdf" target="_blank">September 2017</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2017.pdf" target="_blank">September</a></td>
 
 </tr>
 
@@ -66,11 +66,11 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2016</td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2016.pdf" target="_blank">February 2016</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterFebruary2016.pdf" target="_blank">February</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCMay16.pdf" target="_blank">May 2016</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMATYCMay16.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2016.pdf" target="_blank">September 2016</a></td>
+<td class="tg-c3ow"><a href="http://www.michmatyc.org/Newsletters/MichMatycNewsletterSept2016.pdf" target="_blank">September</a></td>
 
 </tr>
 
@@ -78,11 +78,11 @@ The electronic version of the MichMATYC newsletter - The MichMATYC SUM-TIMES - i
 
 <td class="tg-c3ow">2015</td>
 
-<td class="tg-c3ow"><a href="Newsletters/MichMatycNewsletterFebruary2015.pdf.pdf" target="_blank">February 2015</a></td>
+<td class="tg-c3ow"><a href="Newsletters/MichMatycNewsletterFebruary2015.pdf.pdf" target="_blank">February</a></td>
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow"><a href="Newsletters/MichMATYCSept15.pdf" target="_blank">September 2015</a></td>
+<td class="tg-c3ow"><a href="Newsletters/MichMATYCSept15.pdf" target="_blank">September</a></td>
 
 </tr>
 

@@ -9,6 +9,46 @@ weight = 2
 +++
 ##### MichMATYC Officers
 
+<div class="leadership-card">
+
+<div class="leadership-card-head"> ![](/uploads/placeholder.png)
+
+<p class="name">Anna Cox</p>
+
+<p class="title">President</p>
+
+</div>
+
+<div class="contact-wrap">
+
+<div class="contact-info"> <i class="fas fa-home"></i>
+
+<p> <a href="[https://www.gvltec.edu/](https://www.gvltec.edu/ "https://www.gvltec.edu/")" target="_blank"> Placeholder</a></p>
+
+</div>
+
+<div class="contact-info"> <i class="far fa-address-card"></i>
+
+<p>Placeholder </p>
+
+</div>
+
+<div class="contact-info"> <i class="far fa-address-card"></i>
+
+<p>Placeholder</p>
+
+</div>
+
+<div class="contact-info"> <i class="fas fa-envelope"></i>
+
+<p> <a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">Email</a></p>
+
+</div>
+
+</div>
+
+</div>
+
 * [Anna Cox, Kellogg CC, President](mailto:coxa@kellogg.edu)
 * [Sam Bazzi, Henry Ford College, Secretary/Treasurer](mailto:sbazzi@hfcc.edu)
 * [Cindi Wade, St. Clair Community College, Past President](mailto:cwade@sc4.edu)

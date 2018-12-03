@@ -19,7 +19,7 @@ fields:
   label: Show Date
   hidden: false
 pages:
-- content/people.md
-- content/funding.md
-- content/newsletter.md
 - content/join.md
+- content/funding.md
+- content/people.md
+- content/newsletter.md

@@ -21,14 +21,14 @@ fields:
   default: ''
   description: Add publishing date here
 pages:
-- content/conferences/2017.md
-- content/conferences/2016.md
 - content/announcements/if-you-are-not-already-a-member-consider-joining-michmatyc.md
-- content/announcements/michmatyc-mentoring-program-miteam-accepting-participants-for-second-cohort.md
-- content/announcements/participate-in-our-2018-michmatyc-conference.md
-- content/events/event-b.md
-- content/events/event-a.md
-- content/events/event-d.md
-- content/events/event-e.md
-- content/events/event-c.md
+- content/conferences/2016.md
+- content/conferences/2017.md
 - content/announcements/michmatyc-grants-are-now-available.md
+- content/events/event-c.md
+- content/events/event-e.md
+- content/events/event-d.md
+- content/events/event-a.md
+- content/events/event-b.md
+- content/announcements/participate-in-our-2018-michmatyc-conference.md
+- content/announcements/michmatyc-mentoring-program-miteam-accepting-participants-for-second-cohort.md

@@ -72,7 +72,7 @@ main.fade-out {
   margin: 0;
   position: absolute;
   top: 3rem;
-  right: 6rem;
+  right: 4rem;
   width: 8rem;
   height: auto;
   border-radius: 50%;
@@ -243,11 +243,11 @@ a.social {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 59rem;
+    max-width: 56rem;
   }
 
   .container {
-    max-width: 59rem;
+    max-width: 56rem;
   }
 
 }
@@ -329,7 +329,7 @@ footer {
 }
 
 
-@media (max-width: 1500px) {
+@media (max-width: 1600px) {
   .leadership-card {
     width: 100%;
   }

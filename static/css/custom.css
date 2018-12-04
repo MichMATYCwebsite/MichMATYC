@@ -242,11 +242,11 @@ a.social {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 44rem;
+    max-width: 54rem;
   }
 
   .container {
-    max-width: 44rem;
+    max-width: 54rem;
   }
 
 }
@@ -303,6 +303,10 @@ footer {
 
 .leadership-wrap {
   padding-top: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .leadership-card {

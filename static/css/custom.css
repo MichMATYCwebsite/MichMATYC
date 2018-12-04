@@ -314,7 +314,7 @@ footer {
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
-  width: 50%;
+  width: 100%;
   padding: 0 1rem;
   margin-bottom: 2rem;
 }

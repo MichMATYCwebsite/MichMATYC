@@ -352,7 +352,7 @@ footer {
 }
 
 .leadership-card-head img {
-    border-radius: 10px;
+    border-radius: 50%;
     width: 5rem;
     height: 5rem;
     border: 1px solid grey;
@@ -368,10 +368,6 @@ footer {
 .leadership-card-head p.name {
     margin: 0;
   margin-top: .5rem;
-}
-
-.leadership-card a {
-    color: inherit;
 }
 
 section#officers h3 {

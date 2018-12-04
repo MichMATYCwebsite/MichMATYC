@@ -301,7 +301,9 @@ footer {
 }
 
 
-
+.leadership-wrap {
+  margin-top: 1rem;
+}
 
 .leadership-card {
   display: -webkit-box;

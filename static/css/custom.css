@@ -80,10 +80,11 @@ main.fade-out {
   -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
+  z-index: 200;
 }
 
 
-@media (max-width: 1600px) {
+@media (max-width: 1800px) {
     #Logo {
         display: none;
     }
@@ -307,6 +308,13 @@ footer {
   display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;
+}
+
+
+@media (max-height: 1500px) {
+  .leadership-card {
+    width: 100%;
+  }
 }
 
 .leadership-card {

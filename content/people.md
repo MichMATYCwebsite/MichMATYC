@@ -9,51 +9,7 @@ weight = 2
 +++
 ##### MichMATYC Officers
 
-<div class="leadership-card">
-
-<div class="leadership-card-head"> ![](/uploads/placeholder.png)
-
-<p class="name">Anna Cox</p>
-
-<p class="title">President</p>
-
-</div>
-
-<div class="contact-wrap">
-
-<div class="contact-info"> <i class="fas fa-home"></i>
-
-<p> <a href="[https://www.gvltec.edu/](https://www.gvltec.edu/ "https://www.gvltec.edu/")" target="_blank"> Placeholder</a></p>
-
-</div>
-
-<div class="contact-info"> <i class="far fa-address-card"></i>
-
-<p>Placeholder </p>
-
-</div>
-
-<div class="contact-info"> <i class="far fa-address-card"></i>
-
-<p>Placeholder</p>
-
-</div>
-
-<div class="contact-info"> <i class="fas fa-envelope"></i>
-
-<p> <a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">Email</a></p>
-
-</div>
-
-</div>
-
-</div>
-
-* [Anna Cox, Kellogg CC, President](mailto:coxa@kellogg.edu)
-* [Sam Bazzi, Henry Ford College, Secretary/Treasurer](mailto:sbazzi@hfcc.edu)
-* [Cindi Wade, St. Clair Community College, Past President](mailto:cwade@sc4.edu)
-* [Lisa Winch, Kalamazoo Community College, Affiliate Delegate](mailto:lwinch@kvcc.edu)
-* [Michael Pemberton, Lansing Community College, Affiliate Delegate](mailto:pembertm@lcc.edu)
+<div class="leadership-wrap"> <div class="leadership-card"> <div class="leadership-card-head"> <img src="/uploads/placeholder.png" class="leadership"> <p class="name">Anna Cox</p><p class="title">President</p></div><div class="contact-wrap"> <div class="contact-info"> <i class="fas fa-home"></i> <p> <a href="[http://www.kellogg.edu/](http://www.kellogg.edu/ "http://www.kellogg.edu/")" target="_blank"> Kellog Community College</a></p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p> 450 North Avenue</p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p>Battle Creek, MI 49017</p></div><div class="contact-info"> <i class="fas fa-envelope"></i> <p> <a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">Email</a></p></div></div></div><div class="leadership-card"> <div class="leadership-card-head"> <img src="/uploads/placeholder.png" class="leadership"> <p class="name">Anna Cox</p><p class="title">President</p></div><div class="contact-wrap"> <div class="contact-info"> <i class="fas fa-home"></i> <p> <a href="[https://www.hfcc.edu/](https://www.hfcc.edu/ "https://www.hfcc.edu/")" target="_blank"> Henry Ford Community College</a></p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p>5101 Evergreen Rd.</p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p>Dearborn, MI 48128</p></div><div class="contact-info"> <i class="fas fa-envelope"></i> <p> <a href="mailto:sbazzi@hfcc.edu?Subject=MichMATYC">Email</a></p></div></div></div><div class="leadership-card"> <div class="leadership-card-head"> <img src="/uploads/placeholder.png" class="leadership"> <p class="name">Cindi Wade</p><p class="title">Past President</p></div><div class="contact-wrap"> <div class="contact-info"> <i class="fas fa-home"></i> <p> <a href="[https://www.sc4.edu/](https://www.sc4.edu/ "https://www.sc4.edu/")" target="_blank"> St. Clair Community College</a></p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p> 323 Erie St.</p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p>Port Huron, MI 48061</p></div><div class="contact-info"> <i class="fas fa-envelope"></i> <p> <a href="mailto:cwade@sc4.edu?Subject=MichMATYC">Email</a></p></div></div></div><div class="leadership-card"> <div class="leadership-card-head"> <img src="/uploads/placeholder.png" class="leadership"> <p class="name">Anna Cox</p><p class="title">President</p></div><div class="contact-wrap"> <div class="contact-info"> <i class="fas fa-home"></i> <p> <a href="[http://www.kellogg.edu/](http://www.kellogg.edu/ "http://www.kellogg.edu/")" target="_blank"> Kellog Community College</a></p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p> 450 North Avenue</p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p>Battle Creek, MI 49017</p></div><div class="contact-info"> <i class="fas fa-envelope"></i> <p> <a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">Email</a></p></div></div></div><div class="leadership-card"> <div class="leadership-card-head"> <img src="/uploads/placeholder.png" class="leadership"> <p class="name">Anna Cox</p><p class="title">President</p></div><div class="contact-wrap"> <div class="contact-info"> <i class="fas fa-home"></i> <p> <a href="[https://www.hfcc.edu/](https://www.hfcc.edu/ "https://www.hfcc.edu/")" target="_blank"> Henry Ford Community College</a></p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p>5101 Evergreen Rd.</p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p>Dearborn, MI 48128</p></div><div class="contact-info"> <i class="fas fa-envelope"></i> <p> <a href="mailto:sbazzi@hfcc.edu?Subject=MichMATYC">Email</a></p></div></div></div><div class="leadership-card"> <div class="leadership-card-head"> <img src="/uploads/placeholder.png" class="leadership"> <p class="name">Cindi Wade</p><p class="title">Past President</p></div><div class="contact-wrap"> <div class="contact-info"> <i class="fas fa-home"></i> <p> <a href="[https://www.sc4.edu/](https://www.sc4.edu/ "https://www.sc4.edu/")" target="_blank"> St. Clair Community College</a></p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p> 323 Erie St.</p></div><div class="contact-info"> <i class="far fa-address-card"></i> <p>Port Huron, MI 48061</p></div><div class="contact-info"> <i class="fas fa-envelope"></i> <p> <a href="mailto:cwade@sc4.edu?Subject=MichMATYC">Email</a></p></div></div></div></div>
 
 <br/>
 

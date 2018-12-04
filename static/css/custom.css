@@ -358,6 +358,7 @@ footer {
     border: 1px solid grey;
     -webkit-box-shadow: 0px 0px 27px 1px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 0px 27px 1px rgba(0, 0, 0, 0.75);
+    margin: 0;
   }
 .leadership-card-head p.title {
   font-weight: bold;
@@ -367,7 +368,7 @@ footer {
 
 .leadership-card-head p.name {
     margin: 0;
-  margin-top: .5rem;
+    margin-top: .5rem;
 }
 
 section#officers h3 {

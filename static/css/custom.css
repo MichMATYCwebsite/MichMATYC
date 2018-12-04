@@ -316,8 +316,8 @@ footer {
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
-  width: 100%;
-  padding: 0 1rem;
+  width: 50%;
+  padding: 0;
   margin-bottom: 2rem;
 }
 
@@ -325,7 +325,7 @@ footer {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    padding: .25em 0;
+    /* padding: .25em 0; */
 }
 
 .leadership-card .contact-info p {

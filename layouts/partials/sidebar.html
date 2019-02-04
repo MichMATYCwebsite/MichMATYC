@@ -23,9 +23,11 @@
 
 
 <aside class="sidebar" id="side-menu">
+    <img src="{{ .Site.BaseURL }}uploads/logo.gif" alt="Logo" id="LogoMain">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <!-- <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a> -->
+    
       <h1>Mich MATYC</h1>
       <p class="lead">
       {{ with .Site.Params.description }} {{.}} {{ else }}the Michigan affiliate of the  American Mathematical Association of Two Year Colleges <a href="https://amatyc.site-ym.com/" target="_blank">AMATYC</a>
@@ -34,9 +36,9 @@
     </div>
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
+        <li class="animate"><a href="{{ .Site.BaseURL }}" style="font-weight: bold;">Home</a> </li>
         {{ range .Site.Menus.main -}}
-          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+          <li class="animate"><a href="{{.URL}}" style="font-weight: bold;"> {{ .Name }} </a></li>
         {{- end }}
         <li style="padding-top: 1rem;">      <a class = "social" href="https://www.facebook.com/MichMATYC/" target="_blank"> <i class="fab fa-facebook-square"></i></a>
           <a class = "social" href="https://twitter.com/hashtag/MichMATYC?src=hash" target="_blank"> <i class="fab fa-twitter-square"></i></a></li>

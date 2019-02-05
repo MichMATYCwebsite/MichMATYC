@@ -11,10 +11,11 @@
 
     <main class="content container">
     {{ block "main" . -}}
+    
     {{- end }}
     {{ partial "footer.html" . }}
     </main>
-    
+
   </div>
 
     {{ template "_internal/google_analytics_async.html" . }}

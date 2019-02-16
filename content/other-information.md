@@ -35,15 +35,13 @@ On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://se
 
 <tr>
 
-<td class="tg-c3ow">2017</td>
+<td class="tg-c3ow">2015 - 2017</td>
 
-<td class="tg-c3ow">
+<td class="tg-c3ow">Cindie Wade, St. Clair CC <br/>  
+Doug Mace, Kirtland CC</td>
 
-<a href="/uploads/MichMatycNewsletterFebruary2017.pdf" target="_blank">Feb</a></td>
-
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2017.pdf" target="_blank">May</a></td>
-
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2017.pdf" target="_blank">Sep</a></td>
+<td class="tg-c3ow">2015 Macomb CC <br/>  
+2016 Delta College</td>
 
 </tr>
 

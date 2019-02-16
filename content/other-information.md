@@ -136,13 +136,14 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2008</td>
+<td class="tg-c3ow">1999 - 2001</td>
 
-<td class="tg-c3ow"><a href="/uploads/WI2008newsletter.pdf" target="_blank">Winter</a></td>
+<td class="tg-c3ow">Jim Ham, Delta College</td>
 
-<td class="tg-c3ow"></td>
+<td class="tg-c3ow">1999 North Central Michigan College <br/>  
+2000 Delta College<br/>
 
-<td class="tg-c3ow"><a href="/uploads/FA2008newsletter.pdf" target="_blank">Fall</a></td>
+Summer Workshop (Grand Rapids CC)</td>
 
 </tr>
 

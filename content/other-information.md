@@ -9,4 +9,168 @@ title = "Other Information"
 
 On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://sections.maa.org/michigan/) Michigan section meeting at Oakland University. Karen Sharp called the meeting, explaining the need for a Michigan section of AMATYC. The organization was founded to provide a venue for interaction between the mathematics faculties at community colleges across the State of Michigan. An opportunity to share ideas, consolidate resources, and plan for the future needs of community college students in the state became primary functions of MichMATYC, as well as connecting to university mathematics. Its organizational rules and policies are contained in its [constitution](https://www.michmatyc.org/Constitution.html).
 
+<table class="tg">
+
+<tr>
+
+<th class="tg-c3ow">Year</th>
+
+<th class="tg-c3ow">I</th>
+
+<th class="tg-c3ow">II</th>
+
+<th class="tg-c3ow">III</th>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2018</td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2018.pdf" target="_blank"> Feb</a></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2017</td>
+
+<td class="tg-c3ow">
+
+<a href="/uploads/MichMatycNewsletterFebruary2017.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2017.pdf" target="_blank">May</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2017.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2016</td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2016.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMATYCMay16.pdf" target="_blank">May</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2016.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2015</td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2015.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMATYCSept15.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2014</td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFeb2014.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2014.pdf" target="_blank">May</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2014.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2013</td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMATYCNewsletterFebruary_2013.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay_2013.pdf" target="_blank">
+
+May</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSeptember 2013.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2012</td>
+
+<td class="tg-c3ow"><a href="/uploads/Feb 2012 MichMATYC Newsletter.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/May 2012 MichMATYC Newsletter.pdf" target="_blank">May</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/Sept 2012 MichMATYC Newsletter.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2011</td>
+
+<td class="tg-c3ow"><a href="/uploads/Feb2011MichMATYCNewsletter.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/May2011MichMATYCNewsletter.pdf" target="_blank">May</a></td>
+
+<td class="tg-c3ow"><a href="/uploads/Sept2011MichMATYCnewsletter.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2010</td>
+
+<td class="tg-c3ow"><a href="/uploads/Feb2010MichMATYCnewsletter.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"><a href="/uploads/Sept2010MichMATYCnewsletter.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2009</td>
+
+<td class="tg-c3ow"><a href="/uploads/March2009MichMATYCnewsletter.pdf" target="_blank">Mar</a></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"><a href="/uploads/Sept2009MichMATYCnewsletter.pdf" target="_blank">Sep</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2008</td>
+
+<td class="tg-c3ow"><a href="/uploads/WI2008newsletter.pdf" target="_blank">Winter</a></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"><a href="/uploads/FA2008newsletter.pdf" target="_blank">Fall</a></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2007</td>
+
+<td class="tg-c3ow"><a href="/uploads/WI2007newsletter.pdf" target="_blank">Winter</a></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"><a href="/uploads/FA2007newsletter.pdf" target="_blank">Fall</a></td>
+
+</tr>
+
+</table>
+
 ### [Michigan Transfer Agreement](https://www.macrao.org/Publications/MTA.asp)

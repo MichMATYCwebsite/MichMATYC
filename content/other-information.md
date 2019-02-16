@@ -113,18 +113,6 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2010</td>
-
-<td class="tg-c3ow"><a href="/uploads/Feb2010MichMATYCnewsletter.pdf" target="_blank">Feb</a></td>
-
-<td class="tg-c3ow"></td>
-
-<td class="tg-c3ow"><a href="/uploads/Sept2010MichMATYCnewsletter.pdf" target="_blank">Sep</a></td>
-
-</tr>
-
-<tr>
-
 <td class="tg-c3ow">2001 - 2003</td>
 
 <td class="tg-c3ow">Cindie Wade, St. Clair County CC</td>

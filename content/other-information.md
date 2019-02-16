@@ -73,8 +73,6 @@ Doug Mace, Kirtland CC</td>
 
 <td class="tg-c3ow">Maria Andersen, Muskegon CC</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2014.pdf" target="_blank">May</a></td>
-
 <td class="tg-c3ow">2009 Henry Ford College <br/>  
 2010 Muskegon CC</td>
 
@@ -93,25 +91,23 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2012</td>
+<td class="tg-c3ow">2005 - 2007</td>
 
-<td class="tg-c3ow"><a href="/uploads/Feb 2012 MichMATYC Newsletter.pdf" target="_blank">Feb</a></td>
+<td class="tg-c3ow">Phoebe Lutz, Delta College</td>
 
-<td class="tg-c3ow"><a href="/uploads/May 2012 MichMATYC Newsletter.pdf" target="_blank">May</a></td>
-
-<td class="tg-c3ow"><a href="/uploads/Sept 2012 MichMATYC Newsletter.pdf" target="_blank">Sep</a></td>
+<td class="tg-c3ow">2005 Kirtland CC <br/>  
+2006 Kalamazoo Valley CC</td>
 
 </tr>
 
 <tr>
 
-<td class="tg-c3ow">2011</td>
+<td class="tg-c3ow">2003 - 2005</td>
 
-<td class="tg-c3ow"><a href="/uploads/Feb2011MichMATYCNewsletter.pdf" target="_blank">Feb</a></td>
+<td class="tg-c3ow">Jan Roy, Montcalm CC</td>
 
-<td class="tg-c3ow"><a href="/uploads/May2011MichMATYCNewsletter.pdf" target="_blank">May</a></td>
-
-<td class="tg-c3ow"><a href="/uploads/Sept2011MichMATYCnewsletter.pdf" target="_blank">Sep</a></td>
+<td class="tg-c3ow">2003 Lansing CC <br/>  
+2004 Grand Rapids CC</td>
 
 </tr>
 
@@ -129,13 +125,12 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2009</td>
+<td class="tg-c3ow">2001 - 2003</td>
 
-<td class="tg-c3ow"><a href="/uploads/March2009MichMATYCnewsletter.pdf" target="_blank">Mar</a></td>
+<td class="tg-c3ow">Cindie Wade, St. Clair County CC</td>
 
-<td class="tg-c3ow"></td>
-
-<td class="tg-c3ow"><a href="/uploads/Sept2009MichMATYCnewsletter.pdf" target="_blank">Sep</a></td>
+<td class="tg-c3ow">2001 Henry Ford College <br/>  
+2002 Monroe CC</td>
 
 </tr>
 

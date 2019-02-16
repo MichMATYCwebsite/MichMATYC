@@ -103,9 +103,9 @@ class=title>Affiliate Delegate</div>
 
 <div class=leadership-card>
 
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Anna Cox<p
+<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Michael Pemberton<p
 
-class=title>President</div>
+class=title>Affiliate Delegate</div>
 
 <div class=contact-wrap>
 
@@ -126,8 +126,6 @@ class=title>President</div>
 </div>
 
 </div>
-
-<br/>
 
 ### AMATYC Leadership in Michigan
 

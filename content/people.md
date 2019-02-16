@@ -103,9 +103,9 @@ class=title>Affiliate Delegate</div>
 
 <div class=leadership-card>
 
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Michael </p> <p class=name>Pemberton</p>
+<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Michael </p> <p class=name style="margin-top: 0;">Pemberton</p>
 
- class=title>Affiliate Delegate</div>
+<p class=title>Affiliate Delegate</div>
 
 <div class=contact-wrap>
 

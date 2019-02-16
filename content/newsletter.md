@@ -138,11 +138,11 @@ The electronic version of the MichMATYC newsletter (The MichMATYC Sum-Times) is 
 
 <td class="tg-c3ow">2010</td>
 
-<td class="tg-c3ow">Feb-10</td>
+<td class="tg-c3ow"><a href="/uploads/Feb2010MichMATYCnewsletter.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow">Sep-10</td>
+<td class="tg-c3ow"><a href="/uploads/Sept2010MichMATYCnewsletter.pdf" target="_blank">Sep</a></td>
 
 </tr>
 
@@ -150,11 +150,11 @@ The electronic version of the MichMATYC newsletter (The MichMATYC Sum-Times) is 
 
 <td class="tg-c3ow">2009</td>
 
-<td class="tg-c3ow">Mar-09</td>
+<td class="tg-c3ow"><a href="/uploads/March2009MichMATYCnewsletter.pdf" target="_blank">Mar</a></td>
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow">Sep-09</td>
+<td class="tg-c3ow"><a href="/uploads/Sept2009MichMATYCnewsletter.pdf" target="_blank">Sep</a></td>
 
 </tr>
 
@@ -162,11 +162,11 @@ The electronic version of the MichMATYC newsletter (The MichMATYC Sum-Times) is 
 
 <td class="tg-c3ow">2008</td>
 
-<td class="tg-c3ow">Winter 2008</td>
-
-<td class="tg-c3ow">Fall 2008</td>
+<td class="tg-c3ow"><a href="/uploads/WI2008newsletter.pdf" target="_blank">Winter</a></td>
 
 <td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"><a href="/uploads/FA2008newsletter.pdf" target="_blank">Fall</a></td>
 
 </tr>
 
@@ -174,11 +174,11 @@ The electronic version of the MichMATYC newsletter (The MichMATYC Sum-Times) is 
 
 <td class="tg-c3ow">2007</td>
 
-<td class="tg-c3ow">Winter 2007</td>
-
-<td class="tg-c3ow">Fall 2007</td>
+<td class="tg-c3ow"><a href="/uploads/WI2007newsletter.pdf" target="_blank">Winter</a></td>
 
 <td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"><a href="/uploads/FA2007newsletter.pdf" target="_blank">Fall</a></td>
 
 </tr>
 

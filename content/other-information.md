@@ -17,23 +17,19 @@ On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://se
 
 <th class="tg-c3ow">Year</th>
 
-<th class="tg-c3ow">I</th>
+<th class="tg-c3ow">President(s)</th>
 
-<th class="tg-c3ow">II</th>
-
-<th class="tg-c3ow">III</th>
+<th class="tg-c3ow">Conferences</th>
 
 </tr>
 
 <tr>
 
-<td class="tg-c3ow">2018</td>
+<td class="tg-c3ow">2017 - 2019</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2018.pdf" target="_blank"> Feb</a></td>
+<td class="tg-c3ow">Anna Cox, Kellogg CC</td>
 
-<td class="tg-c3ow"></td>
-
-<td class="tg-c3ow"></td>
+<td class="tg-c3ow">2017 Baker College</td>
 
 </tr>
 
@@ -174,5 +170,3 @@ May</a></td>
 </tr>
 
 </table>
-
-### [Michigan Transfer Agreement](https://www.macrao.org/Publications/MTA.asp)

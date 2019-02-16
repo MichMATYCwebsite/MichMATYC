@@ -157,7 +157,7 @@ Below is the contact information for the representatives from each member instit
 * [Macomb Community College](http://www.macomb.edu/) South Campus: Jon Oaks [oaksj@macomb.edu](mailto:oaksj@macomb.edu)
 * [Mid-Michigan Community College](http://www.midmich.cc.mi.us/): David Kedrowski [dkedrows@midmich.edu](mailto:dkedrows@midmich.edudkedrows@midmich.edu)
 * [Monroe County Community College](http://www.monroeccc.edu/): Vinnie Maltese [vmaltese@monroeccc.edu](mailto:vmaltese@monroeccc.edu)
-* [Montcalm Community College](http://www.montcalm.edu/): Brianne Lodholtz [briannel@montcalm.edu]()
+* [Montcalm Community College](http://www.montcalm.edu/): Brianne Lodholtz \[Brianne Lodholtz\](mailto:briannel@montcalm.edu)
 * [Mott Community College](http://www.mcc.edu/): Bernard Cunningham [bernard.cunningham@mcc.edu](mailto:bernard.cunninghamp@mcc.edu)
 * [Muskegon Community College](http://www.muskegon.cc.mi.us/): Gary Nonnemacher [gary.nonnemacher@muskegoncc.edu](mailto:Gary.Nonnemacher@muskegoncc.edu)
 * [North Central Michigan College](http://www.ncmc.cc.mi.us/): Gary Kersting [gkersting@ncmich.edu](mailto:gkers@ncmich.edu)

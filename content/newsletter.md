@@ -42,7 +42,7 @@ The electronic version of the MichMATYC newsletter (The MichMATYC Sum-Times) is 
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2018.pdf" target="_blank"> Feb</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMATYCNewsletterMay2018.pdf" target="_blank"> May</a></td>
+<td class="tg-c3ow"></td>
 
 <td class="tg-c3ow"></td>
 

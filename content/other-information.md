@@ -149,13 +149,13 @@ Summer Workshop (Grand Rapids CC)</td>
 
 <tr>
 
-<td class="tg-c3ow">2007</td>
+<td class="tg-c3ow">1998 - 1999</td>
 
-<td class="tg-c3ow"><a href="/uploads/WI2007newsletter.pdf" target="_blank">Winter</a></td>
+<td class="tg-c3ow">Doug Mace, Baker College of Flint</td>
 
-<td class="tg-c3ow"></td>
+<td class="tg-c3ow">1998 Macomb CC <br/>
 
-<td class="tg-c3ow"><a href="/uploads/FA2007newsletter.pdf" target="_blank">Fall</a></td>
+Summer Workshop (Grand Rapids CC)</td>
 
 </tr>
 

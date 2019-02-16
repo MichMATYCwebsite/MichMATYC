@@ -47,51 +47,47 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2016</td>
+<td class="tg-c3ow">2013 - 2015</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2016.pdf" target="_blank">Feb</a></td>
+<td class="tg-c3ow">Jack Rotman, Lansing CC</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMATYCMay16.pdf" target="_blank">May</a></td>
-
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2016.pdf" target="_blank">Sep</a></td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">2015</td>
-
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2015.pdf" target="_blank">Feb</a></td>
-
-<td class="tg-c3ow"></td>
-
-<td class="tg-c3ow"><a href="/uploads/MichMATYCSept15.pdf" target="_blank">Sep</a></td>
+<td class="tg-c3ow">2013 Oakland CC <br/>  
+2014 Lake Michigan College</td>
 
 </tr>
 
 <tr>
 
-<td class="tg-c3ow">2014</td>
+<td class="tg-c3ow">2011 - 2015</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFeb2014.pdf" target="_blank">Feb</a></td>
+<td class="tg-c3ow">Bernard Cunningham, Mott CC</td>
+
+<td class="tg-c3ow">2011 Lansing CC <br/>  
+2012 Monroe County CC</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2009 - 2011</td>
+
+<td class="tg-c3ow">Maria Andersen, Muskegon CC</td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2014.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2014.pdf" target="_blank">Sep</a></td>
+<td class="tg-c3ow">2009 Henry Ford College <br/>  
+2010 Muskegon CC</td>
 
 </tr>
 
 <tr>
 
-<td class="tg-c3ow">2013</td>
+<td class="tg-c3ow">2007 - 2009</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMATYCNewsletterFebruary_2013.pdf" target="_blank">Feb</a></td>
+<td class="tg-c3ow">Lisa Winch, Kalamazoo Valley CC</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay_2013.pdf" target="_blank">
-
-May</a></td>
-
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSeptember 2013.pdf" target="_blank">Sep</a></td>
+<td class="tg-c3ow">2007 Mott CC <br/>  
+2008 Delta College</td>
 
 </tr>
 

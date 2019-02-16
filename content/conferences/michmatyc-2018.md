@@ -1,6 +1,5 @@
 +++
 date = "2019-02-16T20:29:25+00:00"
-draft = true
 layout = "post"
 showdate = false
 title = "MichMATYC 2018"

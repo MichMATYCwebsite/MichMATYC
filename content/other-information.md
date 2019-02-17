@@ -342,7 +342,21 @@ Delta College QR Course Information
 
 <td class="tg-c3ow"><a href="/uploads/EMU-Math110-michmatyc-qr-workshop.pdf" target="_blank">
 
-Delta College QR Course Information
+EMU QR Course Information
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Henry Ford College</td>
+
+<td class="tg-c3ow"><a href="/uploads/Henry_Ford_College_MATH-131_Mathematics_for_the_Modern_World.pdf" target="_blank">
+
+Henry Ford College QR Course Information
 
 </a>
 
@@ -366,25 +380,19 @@ Delta College QR Course Information
 
 <tr>
 
-<td class="tg-c3ow">Association of American Colleges and Universities</td>
+<td class="tg-c3ow">Kalamazoo Valley Community College</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
+<td class="tg-c3ow"><a href="/uploads/KVCC_Math114_Mathematical_Ideas.pdf" target="_blank">
 
-Delta College QR Course Information
+KVCC QR Course Information
 
 </a>
 
-</td>
+<br/>
 
-</tr>
+<a href="/uploads/KVCC_Pathways.pdf" target="_blank">
 
-<tr>
-
-<td class="tg-c3ow">Association of American Colleges and Universities</td>
-
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
-
-Delta College QR Course Information
+KVCC Math Pathways Document
 
 </a>
 

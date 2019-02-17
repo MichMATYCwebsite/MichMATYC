@@ -1,0 +1,4 @@
+//Caching schema
+<FilesMatch "\.(gif)$">
+Header set Cache-Control "max-age=1607040000"
+</FilesMatch>

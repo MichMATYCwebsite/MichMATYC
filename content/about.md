@@ -3,6 +3,8 @@ date = "2019-02-17T23:29:16+00:00"
 layout = "post"
 showdate = false
 title = "About"
+[menu.main]
+weight = 2
 
 +++
 ### Placeholder

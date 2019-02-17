@@ -7,11 +7,11 @@ hrefTargetBlank = true
 [[menu.main]]
 name = "Other Information"
 url = "https://michmatyc.netlify.com/other-information/"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Conferences"
 url = "https://michmatyc.netlify.com/conf/"
-weight = 3
+weight = 4
 [params]
 disqusShortname = ""
 googleAnalytics = ""

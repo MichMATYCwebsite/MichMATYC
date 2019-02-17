@@ -300,11 +300,13 @@ If you have any questions concerning QR Course Development, please contact Jack 
 
 <td class="tg-c3ow">Association of American Colleges and Universities</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
 
 Quantitative Literacy VALUE Rubric
 
 </a>
+
+</td>
 
 </tr>
 

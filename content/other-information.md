@@ -322,7 +322,13 @@ Quantitative Literacy VALUE Rubric
 
 <td class="tg-c3ow">Delta College</td>
 
-<td class="tg-c3ow"><a href="/uploads/DeltaCollegeQRInformation.pdf" target="_blank"></td>
+<td class="tg-c3ow"><a href="/uploads/DeltaCollegeQRInformation.pdf" target="_blank">
+
+QR Standards & References
+
+</a>
+
+</td>
 
 </tr>
 

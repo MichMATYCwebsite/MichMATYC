@@ -498,7 +498,7 @@ No! Members can feel free to email [MichMATYC-List@michmatyc.org](mailto:MichMAT
 
 ##### How do I become a member of MichMATYC in order to use the MichMATYC ListServ?
 
-Head to the [Join MichMATYC](https://www.michmatyc.org/Join%20MichMATYC%201.html) page for more information!
+Head to the [Join MichMATYC](/join/) page for more information!
 
 ### AMATYC's Student Math League in Michigan
 
@@ -513,8 +513,7 @@ Find a link to archived results of Michigan's successes in the Student Math Leag
 * [Developmental Mathematics: an Online Community](http://dm-live.wikispaces.com/)
 * [Mathematics Courses at Michigan Community Colleges](http://www-personal.umich.edu/\~vmesa/Community%20Colleges/CommunityColleges.html)
 
-  #####   
-  Professional Organizations
+  ##### Professional Organizations
 * [The Association for Computing Machinery (ACM)](http://www.acm.org/)
 * [American Association for the Advancement of Science (AAAS)](http://www.aaas.org/)
 * [The American Mathematical Association of Two-Year Colleges (AMATYC)](http://www.amatyc.org/)

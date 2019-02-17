@@ -483,3 +483,28 @@ OCC QR Course Information
 </tr>
 
 </table>
+
+### MichMATYC ListServ
+
+Members of MichMATYC are automatically included in our email discussion list "MichMATYC ListServ". This email list is inteded for both official organizational business and the individual interests of members and member institutions. The email list can be used by members to request information from other colleges, to share ideas, or discuss issues. Only members of MichMATYC can join the list. If you are a member of MichMATYC, please add [MichMATYC-List@michmatyc.org]() and [michmatyc.org]() to your "safe-senders" list. The email list is maintained by the treasurer/secretary.
+
+##### How do I use the MichMATYC ListServ?
+
+MichMATYC members may send an email to [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) to have their messages distrubuted to other members of the list - it is as simple as that! However, please note that only emails from MichMATYC members will be allowed to be sent through the ListServ.
+
+##### Do I need to email the webmaster to use the ListServ?
+
+  
+No! Members can feel free to email [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) directly to distribute their messages.
+
+##### How do I become a member of MichMATYC in order to use the MichMATYC ListServ?
+
+Head to the [Join MichMATYC](https://www.michmatyc.org/Join%20MichMATYC%201.html) page for more information!
+
+### AMATYC's Student Math League in Michigan
+
+The Student Math League (SML) consists of over 190 colleges nationwide. Each year, these schools compete in the Student Math League Contest, sponsored by AMATYC. The contest consists of two rounds: one in the fall, and another in the winter. Prizes are awarded to the top scorers. Schools in Michigan compete both regionally in the Midwest Region (including Illinois, Indiana, Kentucky, Michigan, Ohio and Wisconsin) and on the national stage.  
+  
+More information on the Student Math League can be found by [clicking here.](http://www.amatyc.org/?page=StudentMathLeague)
+
+Find a link to archived results of Michigan's successes in the Student Math League by 

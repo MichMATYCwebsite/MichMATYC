@@ -454,4 +454,40 @@ Mott CC Math Pathways Document
 
 </tr>
 
+<tr>
+
+<td class="tg-c3ow">Muskegon Community College</td>
+
+<td class="tg-c3ow"><a href="/uploads/Muskegon_Math_107A_W01_W02_W03_Syllabus_Winter_2015.pdf" target="_blank">
+
+Muskegon CC QR Course Information
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Oakland Community College</td>
+
+<td class="tg-c3ow"><a href="/uploads/Oakland_Math1125_Math_Literacy.pdf" target="_blank">
+
+OCC Math Literacy Course Information
+
+</a>
+
+<br/>
+
+<a href="/uploads/Oakland_Math1525_Quantitative_Reasoning.pdf" target="_blank">
+
+OCC QR Course Information
+
+</a>
+
+</td>
+
+</tr>
+
 </table>

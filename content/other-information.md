@@ -276,9 +276,13 @@ Summer Workshops (Grand Rapids CC)</td>
 
 </table>
 
+<br/>
+
 ### MichMATYC Grant Application
 
 Our top priorities are to share ideas, consolidate resources, and plan for the future needs of community college students in the state of Michigan. In this spirit, MichMATYC is offering a grant of up to $500 to support the activities of its membership, including but not limited to innovative programs, events or projects that will significantly enhance a students' classroom experience or professional development shared among regional institutions. [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSd2bZPDtyGPZMrQf1TYjjF49lGC037V3yygPozVifNPwk5PZA/viewform).
+
+<br/>
 
 ### QR Courses
 
@@ -484,6 +488,8 @@ OCC QR Course Information
 
 </table>
 
+<br/>
+
 ### MichMATYC ListServ
 
 Members of MichMATYC are automatically included in our email discussion list "MichMATYC ListServ". This email list is inteded for both official organizational business and the individual interests of members and member institutions. The email list can be used by members to request information from other colleges, to share ideas, or discuss issues. Only members of MichMATYC can join the list. If you are a member of MichMATYC, please add [MichMATYC-List@michmatyc.org]() and [michmatyc.org]() to your "safe-senders" list. The email list is maintained by the treasurer/secretary.
@@ -500,6 +506,8 @@ No! Members can feel free to email [MichMATYC-List@michmatyc.org](mailto:MichMAT
 
 Head to the [Join MichMATYC](/join/) page for more information!
 
+<br/>
+
 ### AMATYC's Student Math League in Michigan
 
 The Student Math League (SML) consists of over 190 colleges nationwide. Each year, these schools compete in the Student Math League Contest, sponsored by AMATYC. The contest consists of two rounds: one in the fall, and another in the winter. Prizes are awarded to the top scorers. Schools in Michigan compete both regionally in the Midwest Region (including Illinois, Indiana, Kentucky, Michigan, Ohio and Wisconsin) and on the national stage.
@@ -507,6 +515,8 @@ The Student Math League (SML) consists of over 190 colleges nationwide. Each yea
 More information on the Student Math League can be found by [clicking here.](http://www.amatyc.org/?page=StudentMathLeague)
 
 Find a link to archived results of Michigan's successes in the Student Math League by [clicking here](/uploads/SMLResultsUpdate9.20.15.pdf).
+
+<br/>
 
 ### Links & Partner Organizations
 

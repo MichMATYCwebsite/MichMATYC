@@ -6,6 +6,7 @@ title = "MichMATYC"
 hrefTargetBlank = true
 [[menu.main]]
 name = "Conferences"
+url = "https://michmatyc.netlify.com/conf/"
 weight = 3
 [params]
 disqusShortname = ""

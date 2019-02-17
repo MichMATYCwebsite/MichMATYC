@@ -448,14 +448,6 @@ Mott CC Math Pathways Document
 
 <tr>
 
-<td class="tg-c3ow">Association of American Colleges and Universities</td>
-
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
-
-</tr>
-
-<tr>
-
 <td class="tg-c3ow">Muskegon Community College</td>
 
 <td class="tg-c3ow"><a href="/uploads/Muskegon_Math_107A_W01_W02_W03_Syllabus_Winter_2015.pdf" target="_blank">

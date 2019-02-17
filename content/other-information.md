@@ -494,7 +494,6 @@ MichMATYC members may send an email to [MichMATYC-List@michmatyc.org](mailto:Mic
 
 ##### Do I need to email the webmaster to use the ListServ?
 
-  
 No! Members can feel free to email [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) directly to distribute their messages.
 
 ##### How do I become a member of MichMATYC in order to use the MichMATYC ListServ?
@@ -503,8 +502,40 @@ Head to the [Join MichMATYC](https://www.michmatyc.org/Join%20MichMATYC%201.html
 
 ### AMATYC's Student Math League in Michigan
 
-The Student Math League (SML) consists of over 190 colleges nationwide. Each year, these schools compete in the Student Math League Contest, sponsored by AMATYC. The contest consists of two rounds: one in the fall, and another in the winter. Prizes are awarded to the top scorers. Schools in Michigan compete both regionally in the Midwest Region (including Illinois, Indiana, Kentucky, Michigan, Ohio and Wisconsin) and on the national stage.  
-  
+The Student Math League (SML) consists of over 190 colleges nationwide. Each year, these schools compete in the Student Math League Contest, sponsored by AMATYC. The contest consists of two rounds: one in the fall, and another in the winter. Prizes are awarded to the top scorers. Schools in Michigan compete both regionally in the Midwest Region (including Illinois, Indiana, Kentucky, Michigan, Ohio and Wisconsin) and on the national stage.
+
 More information on the Student Math League can be found by [clicking here.](http://www.amatyc.org/?page=StudentMathLeague)
 
-Find a link to archived results of Michigan's successes in the Student Math League by 
+Find a link to archived results of Michigan's successes in the Student Math League by [clicking here](/uploads/SMLResultsUpdate9.20.15.pdf).
+
+### Links & Partner Organizations
+
+* [Developmental Mathematics: an Online Community](http://dm-live.wikispaces.com/)
+* [Mathematics Courses at Michigan Community Colleges](http://www-personal.umich.edu/\~vmesa/Community%20Colleges/CommunityColleges.html)
+
+  #####   
+  Professional Organizations
+* [The Association for Computing Machinery (ACM)](http://www.acm.org/)
+* [American Association for the Advancement of Science (AAAS)](http://www.aaas.org/)
+* [The American Mathematical Association of Two-Year Colleges (AMATYC)](http://www.amatyc.org/)
+* [AMATYC Beyond Crossroads website](http://beyondcrossroads.matyc.org/)
+* [The American Mathematical Society (AMS)](http://e-math.ams.org/)
+* [Association for Women in Mathematics (AWM)](http://www.awm-math.org/)
+* [Canadian Mathematical Society (CMS)](http://camel.math.ca/)
+* [Conference Board of the Mathematical Sciences (CBMS)](http://www.cbmsweb.org/)
+* [The Mathematical Association of America (MAA)](http://www.maa.org/)
+* [Michigan Community College Association (MCCA)](http://www.mcca.org/)
+
+[Michigan Section of The Mathematical Association of America](http://sections.maa.org/michigan/)
+
+[The Michigan Council of Teachers of Mathematics (MCTM)](http://www.mictm.org/)
+
+[Mu Alpha Theta](http://www.mualphatheta.org/)
+
+[The National Council of Teachers of Mathematics (NCTM)](http://www.nctm.org/)
+
+[The Society for Industrial and Applied Mathematics (SIAM)](http://www.siam.org/)
+
+[Michigan Developmental Education Consortium](http://www.mdec.net/)
+
+[National Association for Developmental Education](http://www.nade.net/)

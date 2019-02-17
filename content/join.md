@@ -3,7 +3,7 @@ layout = "page"
 showdate = false
 title = "Join"
 [menu.main]
-weight = 1
+weight = 2
 
 +++
 The annual membership fee for being a member of MichMATYC is just $5! 

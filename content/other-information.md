@@ -275,3 +275,49 @@ Summer Workshops (Grand Rapids CC)</td>
 </tr>
 
 </table>
+
+### MichMATYC Grant Application
+
+Our top priorities are to share ideas, consolidate resources, and plan for the future needs of community college students in the state of Michigan. In this spirit, MichMATYC is offering a grant of up to $500 to support the activities of its membership, including but not limited to innovative programs, events or projects that will significantly enhance a students' classroom experience or professional development shared among regional institutions. [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSd2bZPDtyGPZMrQf1TYjjF49lGC037V3yygPozVifNPwk5PZA/viewform).
+
+### QR Courses
+
+In February 2015, MichMATYC member schools were invted to attend a workshop regarding development of Quantitative Reasoning (QR) courses which are MTA compliant. Below are documents from various MichMATYC institutions detailing their efforts in creating these courses.  
+  
+If you have any questions concerning QR Course Development, please contact Jack Rotman at [rotmanj@lcc.edu](mailto:rotmanj@lcc.edu). If you would like your institution's QR materials posted to this page, please send documents and pertinent details to webmaster Mark Pelfrey at [mpelfrey@swmich.edu](mailto:mpelfrey@swmich.edu).
+
+<table class="tg">
+
+<tr>
+
+<th class="tg-c3ow">Institution</th>
+
+<th class="tg-c3ow">Documents</th>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Association of American Colleges and Universities</td>
+
+<td class="tg-c3ow">Jack Rotman, Lansing CC</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1983 - 1985</td>
+
+<td class="tg-c3ow">Karen Sharp, Mott CC</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1981 - 1983</td>
+
+<td class="tg-c3ow">James Verhanovitz, Delta College</td>
+
+</tr>
+
+</table>

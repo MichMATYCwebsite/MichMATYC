@@ -464,6 +464,7 @@ footer {
   align-items: center;
   width: 8rem;
   margin-right: 1.5rem;
+  min-width: 128px;
 }
 
 .leadership-card-head img {

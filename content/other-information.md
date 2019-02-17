@@ -390,11 +390,19 @@ KVCC Math Pathways Document
 
 <tr>
 
-<td class="tg-c3ow">Association of American Colleges and Universities</td>
+<td class="tg-c3ow">Lansing Community College</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
+<td class="tg-c3ow"><a href="/uploads/LCC_Math119_Application_for_Living.pdf" target="_blank">
 
-Delta College QR Course Information
+LCC QR Course Information
+
+</a>
+
+<br/>
+
+<a href="/uploads/LCC_Pathways.pdf" target="_blank">
+
+LCC Math Pathways Document
 
 </a>
 
@@ -404,11 +412,33 @@ Delta College QR Course Information
 
 <tr>
 
-<td class="tg-c3ow">Association of American Colleges and Universities</td>
+<td class="tg-c3ow">Mid Michigan Community College</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
+<td class="tg-c3ow"><a href="/uploads/MidMich_MAT_114_Handout_2.6.2015.pdf" target="_blank">
 
-Delta College QR Course Information
+MMCC QR Course Information
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Mott Community College</td>
+
+<td class="tg-c3ow"><a href="/uploads/Mott_CC_Math115_Foundations_of_Mathematics_II.pdf" target="_blank">
+
+Mott CC QR Course Information
+
+</a>
+
+<br/>
+
+<a href="/uploads/Mott_CC_Pathways.pdf" target="_blank">
+
+Mott CC Math Pathways Document
 
 </a>
 

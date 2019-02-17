@@ -147,4 +147,131 @@ Summer Workshop (Grand Rapids CC)</td>
 
 </tr>
 
+<tr>
+
+<td class="tg-c3ow">1997 - 1998</td>
+
+<td class="tg-c3ow">Gladys Rockind, Oakland CC, Auburn Hills</td>
+
+<td class="tg-c3ow">1997 Kalamazoo Valley CC</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1996 - 1997</td>
+
+<td class="tg-c3ow">Anita Johnston, Jackson College</td>
+
+<td class="tg-c3ow">1996 Jackson College <br/>
+
+Summer Workshop (Grand Rapids CC)</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1995 - 1996</td>
+
+<td class="tg-c3ow">Janina Udrys, Schoolcraft College</td>
+
+<td class="tg-c3ow">1995 Schoolcraft College <br/>
+
+Summer Workshops (Grand Rapids CC)</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1994 - 1995</td>
+
+<td class="tg-c3ow">Jim Chesla, Grand Rapids CC</td>
+
+<td class="tg-c3ow">1994 Delta College</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1993 - 1994</td>
+
+<td class="tg-c3ow">Lowell Stultz, Kalamazoo Valley CC</td>
+
+<td class="tg-c3ow">1993 Oakland CC, Auburn Hills Campus</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1992 - 1993</td>
+
+<td class="tg-c3ow">Jim Roznowski, Delta College</td>
+
+<td class="tg-c3ow">1992 Grand Rapids CC</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1989 - 1991</td>
+
+<td class="tg-c3ow">Dawn Schmidt, Delta College</td>
+
+<td class="tg-c3ow">1989 Kalamazoo Valley CC <br/>  
+1990 Delta College</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1987 - 1989</td>
+
+<td class="tg-c3ow">Barbara Near, Henry Ford College</td>
+
+<td class="tg-c3ow">1987 Delta College <br/>  
+1988 Washtenaw CC</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1985 - 1987</td>
+
+<td class="tg-c3ow">Nancy Williams, Oakland CC</td>
+
+<td class="tg-c3ow">1985 Washtenaw CC <br/>  
+1986 Lansing CC</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1991 - 1992</td>
+
+<td class="tg-c3ow">Jack Rotman, Lansing CC</td>
+
+<td class="tg-c3ow">1991 Lansing CC</td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1983 - 1985</td>
+
+<td class="tg-c3ow">Karen Sharp, Mott CC</td>
+
+<td class="tg-c3ow"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">1981 - 1983</td>
+
+<td class="tg-c3ow">James Verhanovitz, Delta College</td>
+
+<td class="tg-c3ow"></td>
+
+</tr>
+
 </table>

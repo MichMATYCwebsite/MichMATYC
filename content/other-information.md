@@ -510,10 +510,9 @@ Find a link to archived results of Michigan's successes in the Student Math Leag
 
 ### Links & Partner Organizations
 
+* [Michigan Transfer Agreement](https://www.macrao.org/Publications/MTA.asp)
 * [Developmental Mathematics: an Online Community](http://dm-live.wikispaces.com/)
 * [Mathematics Courses at Michigan Community Colleges](http://www-personal.umich.edu/\~vmesa/Community%20Colleges/CommunityColleges.html)
-
-  ##### Professional Organizations
 * [The Association for Computing Machinery (ACM)](http://www.acm.org/)
 * [American Association for the Advancement of Science (AAAS)](http://www.aaas.org/)
 * [The American Mathematical Association of Two-Year Colleges (AMATYC)](http://www.amatyc.org/)

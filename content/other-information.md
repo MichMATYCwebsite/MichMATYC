@@ -282,8 +282,8 @@ Our top priorities are to share ideas, consolidate resources, and plan for the f
 
 ### QR Courses
 
-In February 2015, MichMATYC member schools were invted to attend a workshop regarding development of Quantitative Reasoning (QR) courses which are MTA compliant. Below are documents from various MichMATYC institutions detailing their efforts in creating these courses.  
-  
+In February 2015, MichMATYC member schools were invted to attend a workshop regarding development of Quantitative Reasoning (QR) courses which are MTA compliant. Below are documents from various MichMATYC institutions detailing their efforts in creating these courses.
+
 If you have any questions concerning QR Course Development, please contact Jack Rotman at [rotmanj@lcc.edu](mailto:rotmanj@lcc.edu). If you would like your institution's QR materials posted to this page, please send documents and pertinent details to webmaster Mark Pelfrey at [mpelfrey@swmich.edu](mailto:mpelfrey@swmich.edu).
 
 <table class="tg">
@@ -300,23 +300,85 @@ If you have any questions concerning QR Course Development, please contact Jack 
 
 <td class="tg-c3ow">Association of American Colleges and Universities</td>
 
-<td class="tg-c3ow">Jack Rotman, Lansing CC</td>
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
 
 </tr>
 
 <tr>
 
-<td class="tg-c3ow">1983 - 1985</td>
+<td class="tg-c3ow">MichMATYC</td>
 
-<td class="tg-c3ow">Karen Sharp, Mott CC</td>
+<td class="tg-c3ow"><a href="/uploads/QR_standards_and_references_Feb2015_Rotman.pdf" target="_blank">
+
+Quantitative Literacy VALUE Rubric
+
+</a>
+
+</td>
 
 </tr>
 
 <tr>
 
-<td class="tg-c3ow">1981 - 1983</td>
+<td class="tg-c3ow">Delta College</td>
 
-<td class="tg-c3ow">James Verhanovitz, Delta College</td>
+<td class="tg-c3ow"><a href="/uploads/DeltaCollegeQRInformation.pdf" target="_blank"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Eastern Michigan University</td>
+
+<td class="tg-c3ow"><a href="/uploads/EMU-Math110-michmatyc-qr-workshop.pdf" target="_blank"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Association of American Colleges and Universities</td>
+
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Association of American Colleges and Universities</td>
+
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Association of American Colleges and Universities</td>
+
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Association of American Colleges and Universities</td>
+
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Association of American Colleges and Universities</td>
+
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">Association of American Colleges and Universities</td>
+
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
 
 </tr>
 

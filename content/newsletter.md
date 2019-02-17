@@ -3,7 +3,7 @@ layout = "page"
 showdate = false
 title = "Newsletter"
 [menu.main]
-weight = 6
+weight = 5
 
 +++
 The electronic version of the MichMATYC newsletter (The MichMATYC Sum-Times) is distributed to members three times a year; in February, May, and September. Previous editions of the newsletter are archived on this page. If you are interested in submitting information to be included in the next newsletter edition, please submit your article to Desidera Kooswinarsinindyah, The MichMATYC Sum-Times Editor at [Kooswinarsinindyahd@macomb.edu](mailto:Koowinarsinindyahd@macomb.edu).

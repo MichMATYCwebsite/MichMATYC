@@ -4,7 +4,7 @@ layout = "post"
 showdate = false
 title = "Other Information"
 [menu.main]
-weight = 7
+weight = 6
 
 +++
 ### QR Courses

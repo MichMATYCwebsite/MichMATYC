@@ -368,20 +368,6 @@ Henry Ford College QR Course Information
 
 <tr>
 
-<td class="tg-c3ow">Association of American Colleges and Universities</td>
-
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
-
-Delta College QR Course Information
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
 <td class="tg-c3ow">Kalamazoo Valley Community College</td>
 
 <td class="tg-c3ow"><a href="/uploads/KVCC_Math114_Mathematical_Ideas.pdf" target="_blank">

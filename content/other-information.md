@@ -525,17 +525,10 @@ Find a link to archived results of Michigan's successes in the Student Math Leag
 * [Conference Board of the Mathematical Sciences (CBMS)](http://www.cbmsweb.org/)
 * [The Mathematical Association of America (MAA)](http://www.maa.org/)
 * [Michigan Community College Association (MCCA)](http://www.mcca.org/)
-
-[Michigan Section of The Mathematical Association of America](http://sections.maa.org/michigan/)
-
-[The Michigan Council of Teachers of Mathematics (MCTM)](http://www.mictm.org/)
-
-[Mu Alpha Theta](http://www.mualphatheta.org/)
-
-[The National Council of Teachers of Mathematics (NCTM)](http://www.nctm.org/)
-
-[The Society for Industrial and Applied Mathematics (SIAM)](http://www.siam.org/)
-
-[Michigan Developmental Education Consortium](http://www.mdec.net/)
-
-[National Association for Developmental Education](http://www.nade.net/)
+* [Michigan Section of The Mathematical Association of America](http://sections.maa.org/michigan/)
+* [The Michigan Council of Teachers of Mathematics (MCTM)](http://www.mictm.org/)
+* [Mu Alpha Theta](http://www.mualphatheta.org/)
+* [The National Council of Teachers of Mathematics (NCTM)](http://www.nctm.org/)
+* [The Society for Industrial and Applied Mathematics (SIAM)](http://www.siam.org/)
+* [Michigan Developmental Education Consortium](http://www.mdec.net/)
+* [National Association for Developmental Education](http://www.nade.net/)

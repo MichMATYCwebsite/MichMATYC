@@ -302,6 +302,10 @@ If you have any questions concerning QR Course Development, please contact Jack 
 
 <td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
 
+Quantitative Literacy VALUE Rubric
+
+</a>
+
 </tr>
 
 <tr>
@@ -310,7 +314,7 @@ If you have any questions concerning QR Course Development, please contact Jack 
 
 <td class="tg-c3ow"><a href="/uploads/QR_standards_and_references_Feb2015_Rotman.pdf" target="_blank">
 
-Quantitative Literacy VALUE Rubric
+QR Standards & References
 
 </a>
 
@@ -324,7 +328,7 @@ Quantitative Literacy VALUE Rubric
 
 <td class="tg-c3ow"><a href="/uploads/DeltaCollegeQRInformation.pdf" target="_blank">
 
-QR Standards & References
+Delta College QR Course Information
 
 </a>
 
@@ -336,7 +340,13 @@ QR Standards & References
 
 <td class="tg-c3ow">Eastern Michigan University</td>
 
-<td class="tg-c3ow"><a href="/uploads/EMU-Math110-michmatyc-qr-workshop.pdf" target="_blank"></td>
+<td class="tg-c3ow"><a href="/uploads/EMU-Math110-michmatyc-qr-workshop.pdf" target="_blank">
+
+Delta College QR Course Information
+
+</a>
+
+</td>
 
 </tr>
 
@@ -344,7 +354,13 @@ QR Standards & References
 
 <td class="tg-c3ow">Association of American Colleges and Universities</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
+
+Delta College QR Course Information
+
+</a>
+
+</td>
 
 </tr>
 
@@ -352,7 +368,13 @@ QR Standards & References
 
 <td class="tg-c3ow">Association of American Colleges and Universities</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
+
+Delta College QR Course Information
+
+</a>
+
+</td>
 
 </tr>
 
@@ -360,7 +382,13 @@ QR Standards & References
 
 <td class="tg-c3ow">Association of American Colleges and Universities</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
+
+Delta College QR Course Information
+
+</a>
+
+</td>
 
 </tr>
 
@@ -368,7 +396,13 @@ QR Standards & References
 
 <td class="tg-c3ow">Association of American Colleges and Universities</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
+
+Delta College QR Course Information
+
+</a>
+
+</td>
 
 </tr>
 
@@ -376,7 +410,13 @@ QR Standards & References
 
 <td class="tg-c3ow">Association of American Colleges and Universities</td>
 
-<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank"></td>
+<td class="tg-c3ow"><a href="/uploads/QuantitativeLiteracy-LEAP-Rubric.pdf" target="_blank">
+
+Delta College QR Course Information
+
+</a>
+
+</td>
 
 </tr>
 

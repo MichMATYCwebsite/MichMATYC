@@ -4,6 +4,12 @@ theme = "hyde"
 title = "MichMATYC"
 [blackfriday]
 hrefTargetBlank = true
+[[menu.main]]
+name = "Other Information"
+weight = 7
+[[menu.main]]
+name = "Conferences"
+weight = 4
 [params]
 disqusShortname = ""
 googleAnalytics = ""

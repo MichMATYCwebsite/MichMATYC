@@ -9,7 +9,7 @@ title = "About"
 
 ### About MichMATYC
 
-On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://sections.maa.org/michigan/) Michigan section meeting at Oakland University. Karen Sharp called the meeting, explaining the need for a Michigan section of AMATYC. The organization was founded to provide a venue for interaction between the mathematics faculties at community colleges across the State of Michigan. An opportunity to share ideas, consolidate resources, and plan for the future needs of community college students in the state became primary functions of MichMATYC, as well as connecting to university mathematics. Its organizational rules and policies are contained in its [constitution](/uploads/constitution.pdf).
+On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://sections.maa.org/michigan/) Michigan section meeting at Oakland University. Karen Sharp called the meeting, explaining the need for a Michigan section of AMATYC. The organization was founded to provide a venue for interaction between the mathematics faculties at community colleges across the State of Michigan. An opportunity to share ideas, consolidate resources, and plan for the future needs of community college students in the state became primary functions of MichMATYC, as well as connecting to university mathematics. Its organizational rules and policies are contained in its [Constitution](/uploads/constitution.pdf).
 
 <table class="tg">
 
@@ -39,7 +39,7 @@ On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://se
 <td class="tg-c3ow">2015 - 2017</td>
 
 <td class="tg-c3ow">Cindie Wade, St. Clair County CC <br/>  
-Doug Mace, Kirtland Community College</td>
+Doug Mace, Kirtland CC</td>
 
 <td class="tg-c3ow">2015: Macomb Community College <br/>  
 2016: Delta College</td>
@@ -186,7 +186,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <td class="tg-c3ow">1994 - 1995</td>
 
-<td class="tg-c3ow">Jim Chesla, Grand Rapids CCe</td>
+<td class="tg-c3ow">Jim Chesla, Grand Rapids CC</td>
 
 <td class="tg-c3ow">1994: Delta College</td>
 

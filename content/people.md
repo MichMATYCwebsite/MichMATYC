@@ -138,7 +138,7 @@ class=title>Affiliate Delegate</div>
 
 ### MichMATYC Campus Representatives
 
-Below is the contact information for the representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please contact webmaster Mark Pelfrey at [mpelfrey@swmich.edu](mailto:mpelfrey@swmich.edu)
+Below is the contact information for the campus representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please send your request to [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
 
 * [Alpena Community College](http://www.alpenacc.edu/): [Dan Rothe](mailto:rothed@alpenacc.edu)
 * [Bay De Noc Community College](http://www.baycollege.edu/): [Britt Slade](mailto:sladeb@baycollege.edu)

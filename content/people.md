@@ -307,10 +307,10 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[Cindie Wade] (mailto:cwade@stclair.cc.mi.us)
 </td></tr>
 
+<tr>
 <td class="tg-c3ow">[Schoolcraft Community College](http://www.schoolcraft.edu/)
 </td>
 
-<tr>
 <td class="tg-c3ow">[Audrey Mingela](mailto:amingela@schoolcraft.edu)
 </td></tr>
 

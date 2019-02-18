@@ -25,7 +25,7 @@ On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://se
 
 <tr>
 
-<td class="tg-c3ow">2017 - 2019</td>
+<td class="tg-c3ow">2017-2019</td>
 
 <td class="tg-c3ow">Anna Cox, Kellogg CC</td>
 
@@ -36,7 +36,7 @@ On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://se
 
 <tr>
 
-<td class="tg-c3ow">2015 - 2017</td>
+<td class="tg-c3ow">2015-2017</td>
 
 <td class="tg-c3ow">Cindie Wade, St. Clair County CC <br/>  
 Doug Mace, Kirtland CC</td>
@@ -48,7 +48,7 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2013 - 2015</td>
+<td class="tg-c3ow">2013-2015</td>
 
 <td class="tg-c3ow">Jack Rotman, Lansing CC</td>
 
@@ -59,7 +59,7 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2011 - 2015</td>
+<td class="tg-c3ow">2011-2015</td>
 
 <td class="tg-c3ow">Bernard Cunningham, Mott CC</td>
 
@@ -70,7 +70,7 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2009 - 2011</td>
+<td class="tg-c3ow">2009-2011</td>
 
 <td class="tg-c3ow">Maria Andersen, Muskegon CC</td>
 
@@ -81,7 +81,7 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2007 - 2009</td>
+<td class="tg-c3ow">2007-2009</td>
 
 <td class="tg-c3ow">Lisa Winch, Kalamazoo Valley CC</td>
 
@@ -92,7 +92,7 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2005 - 2007</td>
+<td class="tg-c3ow">2005-2007</td>
 
 <td class="tg-c3ow">Phoebe Lutz, Delta College</td>
 
@@ -103,7 +103,7 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2003 - 2005</td>
+<td class="tg-c3ow">2003-2005</td>
 
 <td class="tg-c3ow">Jan Roy, Montcalm CC</td>
 
@@ -114,7 +114,7 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">2001 - 2003</td>
+<td class="tg-c3ow">2001-2003</td>
 
 <td class="tg-c3ow">Cindie Wade, St. Clair County CC</td>
 
@@ -125,7 +125,7 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 
-<td class="tg-c3ow">1999 - 2001</td>
+<td class="tg-c3ow">1999-2001</td>
 
 <td class="tg-c3ow">Jim Ham, Delta College</td>
 
@@ -138,7 +138,7 @@ Summer Workshop (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1998 - 1999</td>
+<td class="tg-c3ow">1998-1999</td>
 
 <td class="tg-c3ow">Doug Mace, Baker College of Flint</td>
 
@@ -150,7 +150,7 @@ Summer Workshop (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1997 - 1998</td>
+<td class="tg-c3ow">1997-1998</td>
 
 <td class="tg-c3ow">Gladys Rockind, Oakland CC, Auburn Hills</td>
 
@@ -160,7 +160,7 @@ Summer Workshop (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1996 - 1997</td>
+<td class="tg-c3ow">1996-1997</td>
 
 <td class="tg-c3ow">Anita Johnston, Jackson College</td>
 
@@ -172,7 +172,7 @@ Summer Workshop (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1995 - 1996</td>
+<td class="tg-c3ow">1995-1996</td>
 
 <td class="tg-c3ow">Janina Udrys, Schoolcraft College</td>
 
@@ -184,7 +184,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1994 - 1995</td>
+<td class="tg-c3ow">1994-1995</td>
 
 <td class="tg-c3ow">Jim Chesla, Grand Rapids CC</td>
 
@@ -194,7 +194,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1993 - 1994</td>
+<td class="tg-c3ow">1993-1994</td>
 
 <td class="tg-c3ow">Lowell Stultz, Kalamazoo Valley CC</td>
 
@@ -204,7 +204,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1992 - 1993</td>
+<td class="tg-c3ow">1992-1993</td>
 
 <td class="tg-c3ow">Jim Roznowski, Delta College</td>
 
@@ -214,7 +214,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1989 - 1991</td>
+<td class="tg-c3ow">1989-1991</td>
 
 <td class="tg-c3ow">Dawn Schmidt, Delta College</td>
 
@@ -225,7 +225,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1987 - 1989</td>
+<td class="tg-c3ow">1987-1989</td>
 
 <td class="tg-c3ow">Barbara Near, Henry Ford College</td>
 
@@ -236,7 +236,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1985 - 1987</td>
+<td class="tg-c3ow">1985-1987</td>
 
 <td class="tg-c3ow">Nancy Williams, Oakland CC</td>
 
@@ -247,17 +247,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1991 - 1992</td>
-
-<td class="tg-c3ow">Jack Rotman, Lansing CC</td>
-
-<td class="tg-c3ow">1991: Lansing Community College</td>
-
-</tr>
-
-<tr>
-
-<td class="tg-c3ow">1983 - 1985</td>
+<td class="tg-c3ow">1983-1985</td>
 
 <td class="tg-c3ow">Karen Sharp, Mott CC</td>
 
@@ -267,7 +257,7 @@ Summer Workshops (Grand Rapids Community College)</td>
 
 <tr>
 
-<td class="tg-c3ow">1981 - 1983</td>
+<td class="tg-c3ow">1981-1983</td>
 
 <td class="tg-c3ow">James Verhanovitz, Delta College</td>
 

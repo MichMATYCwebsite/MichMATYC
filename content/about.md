@@ -268,5 +268,4 @@ Summer Workshops (Grand Rapids Community College)</td>
 </tr>
 
 </table>
-
 <br/>

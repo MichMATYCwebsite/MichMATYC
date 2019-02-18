@@ -24,10 +24,16 @@ window.addEventListener(
         dimmedBg.classList.remove("clear");
       }
       function closeSlideMenu() {
-        document.getElementById("mobile-side-menu").style.left = "-220px";
+        // setTimeout(
+        //   function(){document.getElementById("mobile-side-menu").style.left = "-220px";}, 200
+        // );
+        // document.getElementById("mobile-side-menu").style.left = "-220px";
+        // document.getElementById("mobile-side-menu").style.display = "none";
+        // document.getElementById("mobile-side-menu").style.opacity = "0";
         // let dimmedBg = document.getElementById("dim");
         // dimmedBg.classList.add("clear");
         // dimmedBg.classList.remove("dimmed");
+        
       }
       window.addEventListener("mouseup", function(event) {
         var sideNav = document.getElementById("mobile-side-menu");

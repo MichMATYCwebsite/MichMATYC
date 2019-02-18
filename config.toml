@@ -4,14 +4,6 @@ theme = "hyde"
 title = "MichMATYC"
 [blackfriday]
 hrefTargetBlank = true
-[[menu.main]]
-name = "Other Information"
-url = "https://michmatyc.netlify.com/other-information/"
-weight = 7
-[[menu.main]]
-name = "Conferences"
-url = "https://michmatyc.netlify.com/conf/"
-weight = 4
 [params]
 disqusShortname = ""
 googleAnalytics = ""

@@ -1,12 +1,7 @@
-+++
-date = "2019-02-17T23:29:16+00:00"
-layout = "post"
-showdate = false
-title = "About"
-[menu.main]
-weight = 1
+### About MichMATYC
 
-+++
+On May 2, 1981, thirteen two-year college instructors met at the [MAA](http://sections.maa.org/michigan/) Michigan section meeting at Oakland University. Karen Sharp called the meeting, explaining the need for a Michigan section of AMATYC. The organization was founded to provide a venue for interaction between the mathematics faculties at community colleges across the State of Michigan. An opportunity to share ideas, consolidate resources, and plan for the future needs of community college students in the state became primary functions of MichMATYC, as well as connecting to university mathematics. Its organizational rules and policies are contained in its [constitution](/uploads/constitution.pdf).
+
 <table class="tg">
 
 <tr>
@@ -26,7 +21,6 @@ weight = 1
 <td class="tg-c3ow">Anna Cox, Kellogg Community College</td>
 
 <td class="tg-c3ow">2017: Baker College<br />
-
 2018: Kalamazoo Valley Community College</td>
 
 </tr>
@@ -36,11 +30,9 @@ weight = 1
 <td class="tg-c3ow">2015 - 2017</td>
 
 <td class="tg-c3ow">Cindie Wade, St. Clair Community College <br/>  
-
 Doug Mace, Kirtland Community College</td>
 
 <td class="tg-c3ow">2015: Macomb Community College <br/>  
-
 2016: Delta College</td>
 
 </tr>
@@ -52,7 +44,6 @@ Doug Mace, Kirtland Community College</td>
 <td class="tg-c3ow">Jack Rotman, Lansing Community College</td>
 
 <td class="tg-c3ow">2013: Oakland Community College <br/>  
-
 2014: Lake Michigan College</td>
 
 </tr>
@@ -64,7 +55,6 @@ Doug Mace, Kirtland Community College</td>
 <td class="tg-c3ow">Bernard Cunningham, Mott Community College</td>
 
 <td class="tg-c3ow">2011: Lansing Community College<br/>  
-
 2012: Monroe County Community College</td>
 
 </tr>
@@ -76,7 +66,6 @@ Doug Mace, Kirtland Community College</td>
 <td class="tg-c3ow">Maria Andersen, Muskegon Community College</td>
 
 <td class="tg-c3ow">2009: Henry Ford College <br/>  
-
 2010: Muskegon Community College</td>
 
 </tr>
@@ -88,7 +77,6 @@ Doug Mace, Kirtland Community College</td>
 <td class="tg-c3ow">Lisa Winch, Kalamazoo Valley Community College</td>
 
 <td class="tg-c3ow">2007: Mott Community College <br/>  
-
 2008: Delta College</td>
 
 </tr>
@@ -100,7 +88,6 @@ Doug Mace, Kirtland Community College</td>
 <td class="tg-c3ow">Phoebe Lutz, Delta College</td>
 
 <td class="tg-c3ow">2005: Kirtland Community College <br/>  
-
 2006: Kalamazoo Valley Community College</td>
 
 </tr>
@@ -112,7 +99,6 @@ Doug Mace, Kirtland Community College</td>
 <td class="tg-c3ow">Jan Roy, Montcalm Community College</td>
 
 <td class="tg-c3ow">2003: Lansing Community College <br/>  
-
 2004: Grand Rapids Community College</td>
 
 </tr>
@@ -124,7 +110,6 @@ Doug Mace, Kirtland Community College</td>
 <td class="tg-c3ow">Cindie Wade, St. Clair County Community College</td>
 
 <td class="tg-c3ow">2001: Henry Ford College <br/>  
-
 2002: Monroe County Community College</td>
 
 </tr>
@@ -136,7 +121,6 @@ Doug Mace, Kirtland Community College</td>
 <td class="tg-c3ow">Jim Ham, Delta College</td>
 
 <td class="tg-c3ow">1999: North Central Michigan College <br/>  
-
 2000: Delta College<br/>
 
 Summer Workshop (Grand Rapids Community College)</td>
@@ -226,7 +210,6 @@ Summer Workshops (Grand Rapids Community College)</td>
 <td class="tg-c3ow">Dawn Schmidt, Delta College</td>
 
 <td class="tg-c3ow">1989: Kalamazoo Valley Community College <br/>  
-
 1990: Delta College</td>
 
 </tr>
@@ -238,7 +221,6 @@ Summer Workshops (Grand Rapids Community College)</td>
 <td class="tg-c3ow">Barbara Near, Henry Ford College</td>
 
 <td class="tg-c3ow">1987: Delta College <br/>  
-
 1988: Washtenaw Community College</td>
 
 </tr>
@@ -250,7 +232,6 @@ Summer Workshops (Grand Rapids Community College)</td>
 <td class="tg-c3ow">Nancy Williams, Oakland Community College</td>
 
 <td class="tg-c3ow">1985: Washtenaw Community College <br/>  
-
 1986: Lansing Community College</td>
 
 </tr>
@@ -286,3 +267,5 @@ Summer Workshops (Grand Rapids Community College)</td>
 </tr>
 
 </table>
+
+<br/>

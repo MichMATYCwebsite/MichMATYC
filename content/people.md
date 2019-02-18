@@ -148,7 +148,7 @@ Below is the contact information for the representatives from each member instit
 * [Grand Rapids Community College](http://www.grcc.edu/): John Dersch [jdersch@grcc.edu](mailto:jdersch@grcc.edu)
 * [Henry Ford Community College](http://www.henryford.cc.mi.us/): Jeanine DiDonato [jdidonato@hfcc.edu](mailto:jdidonato@hfcc.edu)
 * [Jackson College](http://www.jccmi.edu/): Erik Brown [BrownErik@jccmi.edu](mailto:BrownErik@jccmi.edu)
-* [Kalamazoo Valley Community College](http://www.kvcc.edu/): Darlene Kohrman [dkohrman@kvcc.edu](mailto:dkohrman@kvcc.edu)
+* [Kalamazoo Valley Community College](http://www.kvcc.edu/): Jon Stasiuk [jstasiuk@kvcc.edu](mailto:jstasiuk@kvcc.edu)
 * [Kellogg Community College](http://www.kellogg.edu/): Sue Stetler [stetlers@kellogg.edu](mailto:stetlers@kellogg.edu)
 * [Kirtland Community College](http://www.kirtland.edu/): Greg Mink [greg.mink@kirtland.edu](mailto:greg.mink@kirtland.edu)
 * [Lake Michigan College](http://www.lakemichigancollege.edu/): Jim Larson [larson@lakemichigancollege.edu](mailto:larson@lakemichigancollege.edu)

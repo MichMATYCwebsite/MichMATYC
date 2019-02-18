@@ -37,7 +37,8 @@ a {
 h3 {
   border-left: 10px solid #A44200;
   padding-left: 1rem;
-  position: relative;
+  /* position: relative;
+  border-radius: 5px 0 0 5px; */
   /* border-bottom: 1px solid black; */
   
 }

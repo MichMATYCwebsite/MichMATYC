@@ -213,7 +213,7 @@ OCC QR Course Information
 
 ### MichMATYC ListServ
 
-Members of MichMATYC are automatically included in our email discussion list "MichMATYC ListServ". This email list is inteded for both official organizational business and the individual interests of members and member institutions. The email list can be used by members to request information from other colleges, to share ideas, or discuss issues. Only members of MichMATYC can join the list. If you are a member of MichMATYC, please add [MichMATYC-List@michmatyc.org]() and [michmatyc.org]() to your "safe-senders" list. The email list is maintained by the treasurer/secretary.
+Members of MichMATYC are automatically included in our email discussion list "MichMATYC ListServ". This email list is inteded for both official organizational business and the individual interests of members and member institutions. The email list can be used by members to request information from other colleges, to share ideas, or discuss issues. Only members of MichMATYC can join the list. If you are a member of MichMATYC, please add [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) and [michmatyc.org](mailto:michmatyc.org) to your "safe-senders" list. The email list is maintained by the treasurer/secretary.
 
 ##### How do I use the MichMATYC ListServ?
 

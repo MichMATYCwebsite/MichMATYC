@@ -28,6 +28,8 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <tr>
 
+<th class="tg-c3ow"><b>Volume</b></th>
+
 <th class="tg-c3ow"><b>Year</b></th>
 
 <th class="tg-c3ow"><b>Number 1</b></th>
@@ -39,6 +41,8 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 </tr>
 
 <tr>
+
+<td class="tg-c3ow">Volume 13</td>
 
 <td class="tg-c3ow">2019</td>
 
@@ -52,6 +56,8 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <tr>
 
+<td class="tg-c3ow">Volume 12</td>
+
 <td class="tg-c3ow">2018</td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2018.pdf" target="_blank">February</a></td>
@@ -63,6 +69,8 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 </tr>
 
 <tr>
+  
+<td class="tg-c3ow">Volume 11</td>
 
 <td class="tg-c3ow">2017</td>
 
@@ -75,6 +83,8 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 </tr>
 
 <tr>
+  
+<td class="tg-c3ow">Volume 10</td>
 
 <td class="tg-c3ow">2016</td>
 
@@ -87,6 +97,8 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 </tr>
 
 <tr>
+  
+<td class="tg-c3ow">Volume 9</td>
 
 <td class="tg-c3ow">2015</td>
 
@@ -99,6 +111,8 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 </tr>
 
 <tr>
+  
+<td class="tg-c3ow">Volume 8</td>
 
 <td class="tg-c3ow">2014</td>
 
@@ -111,6 +125,8 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 </tr>
 
 <tr>
+  
+<td class="tg-c3ow">Volume 7</td>
 
 <td class="tg-c3ow">2013</td>
 
@@ -125,6 +141,8 @@ May</a></td>
 </tr>
 
 <tr>
+  
+<td class="tg-c3ow">Volume 6</td>
 
 <td class="tg-c3ow">2012</td>
 
@@ -138,6 +156,8 @@ May</a></td>
 
 <tr>
 
+<td class="tg-c3ow">Volume 5</td>
+
 <td class="tg-c3ow">2011</td>
 
 <td class="tg-c3ow"><a href="/uploads/Feb2011MichMATYCNewsletter.pdf" target="_blank">February</a></td>
@@ -150,6 +170,8 @@ May</a></td>
 
 <tr>
 
+<td class="tg-c3ow">Volume 4</td>
+
 <td class="tg-c3ow">2010</td>
 
 <td class="tg-c3ow"><a href="/uploads/Feb2010MichMATYCnewsletter.pdf" target="_blank">February</a></td>
@@ -161,6 +183,8 @@ May</a></td>
 </tr>
 
 <tr>
+  
+ <td class="tg-c3ow">Volume 3</td>
 
 <td class="tg-c3ow">2009</td>
 
@@ -173,6 +197,8 @@ May</a></td>
 </tr>
 
 <tr>
+  
+<td class="tg-c3ow">Volume 2</td>
 
 <td class="tg-c3ow">2008</td>
 
@@ -185,7 +211,9 @@ May</a></td>
 </tr>
 
 <tr>
-
+  
+<td class="tg-c3ow">Volume 1</td>
+  
 <td class="tg-c3ow">2007</td>
 
 <td class="tg-c3ow"><a href="/uploads/WI2007newsletter.pdf" target="_blank">Winter</a></td>

@@ -9,7 +9,7 @@ weight = 7
 The electronic version of the organization's newsletter, "The MichMATYC Sum-Times", is distributed to members three times a year; in February, May, and September. If you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter edition, please submit to [Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu), Newsletter Editor, The MichMATYC Sum-Times.
 
 Previous editions of the newsletter are archived on this page. Note that for 2007 and 2008, each file is approximately one megabyte and download time will depend on connection speed. For 2009 editions and later, file sizes are generally 200 kilobytes and reasonable for almost any connection speed.
-
+<br>
 <style type="text/css">
 
 .tg  {border-collapse:collapse;border-spacing:0;}

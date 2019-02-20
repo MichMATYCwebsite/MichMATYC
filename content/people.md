@@ -89,7 +89,7 @@ class=title>Affiliate Delegate</div>
 
 <ul class=fa-ul>
 
-<li><i class="fa-li fa fas fa-home"></i><a href= "https://www.kvcc.edu/" target=_blank> Kalamazoo Community College, </a>
+<li><i class="fa-li fa fas fa-home"></i><a href= "https://www.kvcc.edu/" target=_blank> Kalamazoo Community College</a>
 
 <li><i class="fa-li fa-address-card far"></i>6767 West O Ave<li><i class="fa-li fa-address-card far"></i>Kalamazoo, MI  49009<li>
 

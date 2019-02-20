@@ -25,7 +25,7 @@ NOTE: UPDATED SCHOLARSHIP FORMS COMING SOON!
 
 Since 1999, the MichMATYC Teaching Excellence Award recognizes the high quality of instruction occurring at Michigan's two-year colleges. The selection criteria include instructional effectiveness and support of students, professional involvement and professional development activities, interaction with colleagues and service to department and college.
 
-**2019 Nomination deadline: May 17, 2019**  
+2019 Nomination deadline: **May 17, 2019**  
 [Award Requirements](http://www.michmatyc.org/TeachingExcellenceAwardDocuments/Criteria_2018.pdf) - [Nomination Form](http://www.michmatyc.org/TeachingExcellenceAwardDocuments/MichMATYC_Nom_Form_2018.pdf)<br>  
 Contact Information: [Laura Wiklund](mailto:lkwicklu@oaklandcc.edu), Chair, Teaching Excellence Award Committee
 

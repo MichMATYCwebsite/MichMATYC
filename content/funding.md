@@ -72,6 +72,18 @@ For details about eligibility, grant requirements, and contact information, foll
 
 <tr>
 
+    <td class="tg-0pky">2018</td>
+    
+    <td class="tg-0pky">Teaching Excellence Award</td>
+    
+    <td class="tg-0pky">Jack Rotman</td>
+    
+    <td class="tg-0pky">Lansing CC</td>
+
+</tr>
+
+<tr>
+
     <td class="tg-0pky">2016</td>
     
     <td class="tg-0pky">Teaching Excellence Award</td>

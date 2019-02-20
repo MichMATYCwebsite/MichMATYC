@@ -20,9 +20,9 @@ fields:
   hidden: false
 pages:
 - content/join.md
-- content/funding.md
 - content/newsletter.md
 - content/conferences/michmatyc-2018.md
 - content/people.md
 - content/other-information.md
 - content/about.md
+- content/funding.md

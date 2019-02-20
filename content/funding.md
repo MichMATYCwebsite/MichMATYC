@@ -369,4 +369,6 @@ Contact Information: [Laura Wiklund](mailto:lkwicklu@oaklandcc.edu), Chair, Teac
 
 The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) was founded to provide a venue for interaction between the mathematics faculties at community colleges across the State of Michigan. Our top priorities are to share ideas, consolidate resources, and plan for the future needs of community college students in the state. In this spirit, MichMATYC is offering grants of up to $500 to support the activities of its membership. This money can be used for things including, but not limited to, innovative programs, events or projects that will significantly enhance a students' classroom experience or professional development shared among regional institutions.
 
-For details about eligibility, grant requirements, and contact information, please see the [MichMATYC Grant Application](https://docs.google.com/a/swmich.edu/forms/d/1vch8Bp80naTAcFQe6NPceMnXV4IbQ9W8ttkZ5YK74Y4/viewform).
+[MichMATYC Grant Application](https://docs.google.com/a/swmich.edu/forms/d/1vch8Bp80naTAcFQe6NPceMnXV4IbQ9W8ttkZ5YK74Y4/viewform)
+
+For details about eligibility, grant requirements, or questions about the application process, please contact [Jon Oaks](mailto:oaksj@macomb.edu ) at [oaksj@macomb.edu](mailto:oaksj@macomb.edu).

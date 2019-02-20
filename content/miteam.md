@@ -42,7 +42,7 @@ Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Confe
 
 The deadline for consideration in MiTEAM Cohort 3 is September 1, 2019.
 
-### Previous MiTEAM Cohorts
+### List of MiTEAM Participants
 
 <style type="text/css">
 

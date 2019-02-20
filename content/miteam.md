@@ -21,7 +21,7 @@ Participants selected will attend two consecutive MichMATYC Fall Conferences whe
   * Attend four sessions during the conference with presentations specifically for new two-year math faculty,
   * Meet with a mentor to discuss ideas for their development, implementation, and evaluation of a project at the participant’s home institution.
 
-* Between Fall Conferences*
+* Between Fall Conferences
   * Communicate with consulting mentor during completion of the project between the first and second years in the program.
 
 **Second Year**
@@ -60,7 +60,7 @@ The deadline for consideration in MiTEAM Cohort 3 is September 1, 2019.
 
 <tr>
 
-    <th class="tg-0pky">Years</th>
+    <th class="tg-0pky">Year</th>
     
     <th class="tg-0pky">Cohort</th>
     
@@ -97,6 +97,5 @@ The deadline for consideration in MiTEAM Cohort 3 is September 1, 2019.
     <td class="tg-0pky">Maria Johnson</td>
     <td class="tg-0pky">Lansing CC</td>
 </tr>
-
 
 </table>

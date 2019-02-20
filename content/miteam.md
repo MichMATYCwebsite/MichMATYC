@@ -60,42 +60,42 @@ The deadline for consideration in MiTEAM Cohort 3 is September 1, 2019.
 
 <tr>
 
-    <th class="tg-0pky">Year</th>
+    <th class="tg-0pky">Name</th>
+    
+    <th class="tg-0pky">Institution</th>
+    
+    <th class="tg-0pky">Years</th>
     
     <th class="tg-0pky">Cohort</th>
-    
-    <th class="tg-0pky">Participants</th>
-    
-    <th class="tg-0pky">Institutions</th>
 
 </tr>
 
 <tr>
-    <td class="tg-0pky">2018-2019</td>
-    <td class="tg-0pky">Cohort 2</td>
     <td class="tg-0pky">Shanna Simpson-Singleton</td>
     <td class="tg-0pky">Henry Ford College</td>
+    <td class="tg-0pky">2018-2019</td>
+    <td class="tg-0pky">Cohort 2</td>
 </tr>
 
 <tr>
-    <td class="tg-0pky">2017-2018</td>
-    <td class="tg-0pky">Cohort 1</td>
     <td class="tg-0pky">Carmen Andert</td>
     <td class="tg-0pky">Grand Rapids CC</td>
+    <td class="tg-0pky">2017-2018</td>
+    <td class="tg-0pky">Cohort 1</td>
 </tr>
 
 <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky">Erik Brown</td>
     <td class="tg-0pky">Jackson College</td>
+    <td class="tg-0pky">2017-2018</td>
+    <td class="tg-0pky">Cohort 1</td>
 </tr>
 
 <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky">Maria Johnson</td>
     <td class="tg-0pky">Lansing CC</td>
+    <td class="tg-0pky">2017-2018</td>
+    <td class="tg-0pky">Cohort 1</td>
 </tr>
 
 </table>

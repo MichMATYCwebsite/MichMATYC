@@ -369,4 +369,4 @@ The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) was found
 
 [MichMATYC Grant Application](https://docs.google.com/a/swmich.edu/forms/d/1vch8Bp80naTAcFQe6NPceMnXV4IbQ9W8ttkZ5YK74Y4/viewform)
 
-For details about eligibility, grant requirements, or questions about the application process, please contact [Jon Oaks](mailto:oaksj@macomb.edu ) at [oaksj@macomb.edu](mailto:oaksj@macomb.edu).
+For more details about eligibility, grant requirements, or to ask questions about the application process, please contact [Jon Oaks](mailto:oaksj@macomb.edu).

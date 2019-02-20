@@ -213,11 +213,17 @@ Below is the contact information for the campus representatives from each member
 <tr>
 <td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) Center Campus</td>
 
-<td class="tg-c3ow">[Caroline Castel](mailto:castelc@macomb.edu)</td>
+<td class="tg-c3ow">[Caroline Castel](mailto:castelc@macomb.edu)
+
+</td></tr>
+
+<tr>
 
 <td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) South Campus </td>
 
-<td class="tg-c3ow">[Jon Oaks](mailto:oaksj@macomb.edu) </td></tr>
+<td class="tg-c3ow">[Jon Oaks](mailto:oaksj@macomb.edu) 
+
+</td></tr>
 
 <tr>
 <td class="tg-c3ow">[Mid-Michigan Community College](http://www.midmich.cc.mi.us/)

@@ -16,7 +16,7 @@ class=title>President</div>
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="http://www.kellogg.edu/" target=_blank> Kellogg Community College</a>
-<li><i class="fa-li fa-address-card far"></i>450 North Avenue<li><i class="fa-li fa-address-card far"></i>Battle Creek, MI  49017<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">Email</a>
+<li><i class="fa-li fa-address-card far"></i>450 North Avenue<li><i class="fa-li fa-address-card far"></i>Battle Creek, MI  49017<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">coxa@kellogg.edu</a>
 </ul>
 </div>
 </div>
@@ -28,7 +28,7 @@ class=title>President-Elect</div>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="http://www.lcc.edu/" target=_blank> Lansing Community College</a>
 <li><i class="fa-li fa-address-card far"></i>419 North Washington Square<li><i class="fa-li fa-address-card far"></i>Lansing, MI  48933
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:pembertm@lcc.edu?Subject=MichMATYC">Email</a>
+<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:pembertm@lcc.edu?Subject=MichMATYC">pembertm@lcc.edu</a>
 </ul>
 </div>
 </div>
@@ -40,7 +40,7 @@ class=title>Secretary/Treasurer</div>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="https://www.hfcc.edu/" target=_blank> Henry Ford College</a>
 <li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:sbazzi@hfcc.edu?Subject=MichMATYC">Email</a>
+<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:sbazzi@hfcc.edu?Subject=MichMATYC">sbazzi@hfcc.edu</a>
 </ul>
 </div>
 </div>
@@ -52,7 +52,7 @@ class=title>Affiliate Delegate</div>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href= "https://www.kvcc.edu/" target=_blank> Kalamazoo Community College</a>
 <li><i class="fa-li fa-address-card far"></i>6767 West O Ave<li><i class="fa-li fa-address-card far"></i>Kalamazoo, MI  49009<li>
-<i class="fa-li fa fas fa-envelope"></i><a href="mailto:lwinch@kvcc.edu?Subject=MichMATYC">Email</a>
+<i class="fa-li fa fas fa-envelope"></i><a href="mailto:lwinch@kvcc.edu?Subject=MichMATYC">lwinch@kvcc.edu</a>
 </ul>
 </div>
 </div>

@@ -60,13 +60,13 @@ The deadline for consideration in MiTEAM Cohort 3 is September 1, 2019.
 
 <tr>
 
-    <th class="tg-0pky">Name</th>
+    <th class="tg-0pky"><b>Name</b></th>
     
-    <th class="tg-0pky">Institution</th>
+    <th class="tg-0pky"><b>Institution</b></th>
     
-    <th class="tg-0pky">Years</th>
+    <th class="tg-0pky"><b>Years</b></th>
     
-    <th class="tg-0pky">Cohort</th>
+    <th class="tg-0pky"><b>Cohort</b></th>
 
 </tr>
 

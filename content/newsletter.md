@@ -30,11 +30,23 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <th class="tg-c3ow">Year</th>
 
-<th class="tg-c3ow">I</th>
+<th class="tg-c3ow">Edition I</th>
 
-<th class="tg-c3ow">II</th>
+<th class="tg-c3ow">Edition II</th>
 
-<th class="tg-c3ow">III</th>
+<th class="tg-c3ow">Edition III</th>
+
+</tr>
+
+<tr>
+
+<td class="tg-c3ow">2018</td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"></td>
 
 </tr>
 

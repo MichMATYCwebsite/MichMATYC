@@ -102,7 +102,7 @@ class=title>Affiliate Delegate</div>
 </div>
 
 ### AMATYC Leadership in Michigan
-<br>
+
 * [Jim Ham, President, AMATYC](mailto:jaham1729@gmail.com)
 * [Jonathan Oaks, Midwest Vice President, AMATYC](mailto:oaksj@macomb.edu)
 * [David Tannor, Treasurer, AMATYC](mailto:davetannor@gmail.com)
@@ -209,14 +209,14 @@ Below is the contact information for the campus representatives from each member
 </td></tr>
 
 <tr>
-<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) Center Campus
+<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/), Center Campus
 </td>
 
 <td class="tg-c3ow">[Caroline Castel](mailto:castelc@macomb.edu)
 </td></tr>
 
 <tr>
-<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) South Campus 
+<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/), South Campus 
 </td>
 
 <td class="tg-c3ow">[Jon Oaks](mailto:oaksj@macomb.edu)
@@ -272,10 +272,38 @@ Below is the contact information for the campus representatives from each member
 </td></tr>
 
 <tr>
-<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/) Auburn Hills Campus<br />[Oakland Community College](http://www.oaklandcc.edu/) Highland Lakes Campus<br /> [Oakland Community College](http://www.oaklandcc.edu/) Orchard Ridge Campus<br />[Oakland Community College](http://www.oaklandcc.edu/) Royal Oak Campus<br />[Oakland Community College](http://www.oaklandcc.edu/) Southfield Campus
+<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Auburn Hills Campus
 </td>
 
-<td class="tg-c3ow">[Janet Peart](mailto:jepeart@oaklandcc.edu)<br />[Emily McAllister](mailto:ehmcalli@oaklandcc.edu "blocked::mailto:ehmcalli@oaklandcc.edu")<br />[Julie Gunkelman](mailto:jagunkel@oaklandcc.edu)<br />[Celeste Bogan](mailto:clbogan@oaklandcc.edu)<br />[Celeste Bogan](mailto:clbogan@oaklandcc.edu)
+<td class="tg-c3ow">[Janet Peart](mailto:jepeart@oaklandcc.edu)
+</td></tr>
+
+<tr>
+<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Highland Lakes Campus
+</td>
+
+<td class="tg-c3ow">[Emily McAllister](mailto:ehmcalli@oaklandcc.edu "blocked::mailto:ehmcalli@oaklandcc.edu")
+</td></tr>
+
+<tr>
+<td class="tg-c3ow">[[Oakland Community College](http://www.oaklandcc.edu/), Orchard Ridge Campus
+</td>
+
+<td class="tg-c3ow">[Julie Gunkelman](mailto:jagunkel@oaklandcc.edu)
+</td></tr>
+
+<tr>
+<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Royal Oak Campus
+</td>
+
+<td class="tg-c3ow">[Celeste Bogan](mailto:clbogan@oaklandcc.edu)
+</td></tr>
+
+<tr>
+<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Southfield Campus
+</td>
+
+<td class="tg-c3ow">[Celeste Bogan](mailto:clbogan@oaklandcc.edu)<br />[Celeste Bogan](mailto:clbogan@oaklandcc.edu)
 </td></tr>
 
 <tr>

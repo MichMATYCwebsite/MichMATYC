@@ -21,11 +21,11 @@ Its organizational rules and policies are contained in its [Constitution](/uploa
 
 <tr>
 
-<th class="tg-c3ow">Year</th>
+<th class="tg-c3ow"><b>Term</b></th>
 
-<th class="tg-c3ow">President(s)</th>
+<th class="tg-c3ow"><b>President(s)</b></th>
 
-<th class="tg-c3ow">Conferences</th>
+<th class="tg-c3ow"><b>Conferences</b></th>
 
 </tr>
 

@@ -6,6 +6,7 @@ title = "MichMATYC"
 hrefTargetBlank = true
 [[menu.main]]
 name = "MiTEAM Program"
+url = "https://michmatyc.netify.com/miteam/"
 weight = 6
 [[menu.main]]
 name = "Conferences"

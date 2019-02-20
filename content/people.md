@@ -102,7 +102,6 @@ class=title>Affiliate Delegate</div>
 </div>
 
 ### AMATYC Leadership in Michigan
-
 * [Jim Ham, President, AMATYC](mailto:jaham1729@gmail.com)
 * [Jonathan Oaks, Midwest Vice President, AMATYC](mailto:oaksj@macomb.edu)
 * [David Tannor, Treasurer, AMATYC](mailto:davetannor@gmail.com)
@@ -286,7 +285,7 @@ Below is the contact information for the campus representatives from each member
 </td></tr>
 
 <tr>
-<td class="tg-c3ow">[[Oakland Community College](http://www.oaklandcc.edu/), Orchard Ridge Campus
+<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Orchard Ridge Campus
 </td>
 
 <td class="tg-c3ow">[Julie Gunkelman](mailto:jagunkel@oaklandcc.edu)
@@ -303,7 +302,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Southfield Campus
 </td>
 
-<td class="tg-c3ow">[Celeste Bogan](mailto:clbogan@oaklandcc.edu)<br />[Celeste Bogan](mailto:clbogan@oaklandcc.edu)
+<td class="tg-c3ow">[Celeste Bogan](mailto:clbogan@oaklandcc.edu)
 </td></tr>
 
 <tr>

@@ -84,6 +84,18 @@ For details about eligibility, grant requirements, and contact information, foll
 
 <tr>
 
+    <td class="tg-0pky">2017</td>
+    
+    <td class="tg-0pky">Teaching Excellence Award</td>
+    
+    <td class="tg-0pky">Jon Oaks/td>
+    
+    <td class="tg-0pky">Macomb CC</td>
+
+</tr>
+
+<tr>
+
     <td class="tg-0pky">2016</td>
     
     <td class="tg-0pky">Teaching Excellence Award</td>

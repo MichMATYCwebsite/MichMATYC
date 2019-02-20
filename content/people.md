@@ -102,6 +102,7 @@ class=title>Affiliate Delegate</div>
 </div>
 
 ### AMATYC Leadership in Michigan
+
 * [Jim Ham, President, AMATYC](mailto:jaham1729@gmail.com)
 * [Jonathan Oaks, Midwest Vice President, AMATYC](mailto:oaksj@macomb.edu)
 * [David Tannor, Treasurer, AMATYC](mailto:davetannor@gmail.com)
@@ -309,7 +310,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[St. Clair County Community College](http://www.sc4.edu/)
 </td>
 
-<td class="tg-c3ow">[Cindie Wade](mailto:mailto:cwade@stclair.cc.mi.us) </td></tr>
+<td class="tg-c3ow">[Cindie Wade](mailto:cwade@stclair.cc.mi.us) </td></tr>
 
 <tr>
 <td class="tg-c3ow">[Schoolcraft Community College](http://www.schoolcraft.edu/)

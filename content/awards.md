@@ -49,13 +49,13 @@ Contact Information: [Laura Wiklund](mailto:lkwicklu@oaklandcc.edu), Chair, Teac
 
 <tr>
 
-    <th class="tg-0pky">Year</th>
+    <th class="tg-0pky"><b>Year</b></th>
     
-    <th class="tg-0pky">Award</th>
+    <th class="tg-0pky"><b>Award</b></th>
     
-    <th class="tg-0pky">Recipient</th>
+    <th class="tg-0pky"><b>Recipient</b></th>
     
-    <th class="tg-0pky">Institution</th>
+    <th class="tg-0pky"><b>Institution</b></th>
 
 </tr>
 

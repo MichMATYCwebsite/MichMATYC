@@ -15,17 +15,13 @@ The program's goal is to provide experiences that will help new faculty at two-y
 
 Participants selected will attend two consecutive MichMATYC Fall Conferences where they will complete in a program developed for new faculty, including regular conference activities. In the intervening year, participants will be required to develop, implement, and evaluate a project at their home institution.
 
-** First Year
-MichMATYC Fall Conference
+**First Year**
 
-Hosted by Henry Ford College
-
-* Attend four sessions during the conference with presentations specifically for new two-year math faculty,
-* Meet with a mentor to discuss ideas for their development, implementation, and evaluation of a project at the participant’s home institution.
-
-* Between Fall Conferences
+* MichMATYC Fall Conference
+  * Attend four sessions during the conference with presentations specifically for new two-year math faculty,
+  * Meet with a mentor to discuss ideas for their development, implementation, and evaluation of a project at the participant’s home institution.
+  * Between Fall Conferences
   * Communicate with consulting mentor during completion of the project between the first and second years in the program.
-
 * 2020 MichMATYC Fall Conference
 
 Hosted by Lansing Community College

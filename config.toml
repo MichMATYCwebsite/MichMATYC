@@ -5,10 +5,6 @@ title = "MichMATYC"
 [blackfriday]
 hrefTargetBlank = true
 [[menu.main]]
-name = "MiTEAM Program"
-url = "https://michmatyc.netify.com/miteam/"
-weight = 6
-[[menu.main]]
 name = "Conferences"
 url = "https://michmatyc.netlify.com/conf/"
 weight = 4

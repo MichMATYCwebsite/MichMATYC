@@ -3,6 +3,8 @@ date = "2019-02-20T03:07:14+00:00"
 layout = "post"
 showdate = false
 title = "MiTEAM Program"
+[menu.main]
+weight = 6
 
 +++
 ![logo.gif](https://lh3.googleusercontent.com/wGxjJq0ImgveAgV7jNJsNw8gLH9HW2u9NbPxwdJjbmMMaihnUmKkDJmpnNZZwygB8a_eQZv6pTF1th-wv16dQL5aUROPRw-c38FFcX5zIo05cljqEsWGG1uHdClc9lj81Q9cYTwn =149x161)

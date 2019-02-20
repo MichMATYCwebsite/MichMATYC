@@ -30,11 +30,11 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <th class="tg-c3ow"><b>Year</b></th>
 
-<th class="tg-c3ow"><b>I</b></th>
+<th class="tg-c3ow"><b>Number 1</b></th>
 
-<th class="tg-c3ow"><b>II</b></th>
+<th class="tg-c3ow"><b>Number 2</b></th>
 
-<th class="tg-c3ow"><b>III</b></th>
+<th class="tg-c3ow"><b>Number 3</b></th>
 
 </tr>
 

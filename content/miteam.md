@@ -41,3 +41,62 @@ The participant’s home institution will be expected to provide support that in
 Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Conference. All faculty interested in becoming a participant in MiTEAM may apply now online at [bit.ly/MiTeam](http://bit.ly/MiTeam). Any questions or concerns regarding MiTEAM may be addressed to [Michael Pemberton](mailto:pembertm@lcc.edu), MiTEAM Program Coordinator.
 
 The deadline for consideration in MiTEAM Cohort 3 is September 1, 2019.
+
+### Previous MiTEAM Cohorts
+
+<style type="text/css">
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+
+.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+
+.tg th{font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+</style>
+
+<table class="tg">
+
+<tr>
+
+    <th class="tg-0pky">Years</th>
+    
+    <th class="tg-0pky">Cohort</th>
+    
+    <th class="tg-0pky">Participants</th>
+    
+    <th class="tg-0pky">Institutions</th>
+
+</tr>
+
+<tr>
+    <td class="tg-0pky">2018-2019</td>
+    <td class="tg-0pky">Cohort 2</td>
+    <td class="tg-0pky">Shanna Simpson-Singleton</td>
+    <td class="tg-0pky">Henry Ford College</td>
+</tr>
+
+<tr>
+    <td class="tg-0pky">2017-2018</td>
+    <td class="tg-0pky">Cohort 1</td>
+    <td class="tg-0pky">Carmen Andert</td>
+    <td class="tg-0pky">Grand Rapids CC</td>
+</tr>
+
+<tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Erik Brown</td>
+    <td class="tg-0pky">Jackson College</td>
+</tr>
+
+<tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Maria Johnson</td>
+    <td class="tg-0pky">Lansing CC</td>
+</tr>
+
+
+</table>

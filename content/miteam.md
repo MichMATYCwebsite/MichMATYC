@@ -20,25 +20,24 @@ Participants selected will attend two consecutive MichMATYC Fall Conferences whe
 * MichMATYC Fall Conference
   * Attend four sessions during the conference with presentations specifically for new two-year math faculty,
   * Meet with a mentor to discuss ideas for their development, implementation, and evaluation of a project at the participant’s home institution.
-  * Between Fall Conferences
-  * Communicate with consulting mentor during completion of the project between the first and second years in the program.
-* 2020 MichMATYC Fall Conference
 
-Hosted by Lansing Community College
+**Between Fall Conferences**
+* Communicate with consulting mentor during completion of the project between the first and second years in the program.
 
-* Attend sessions during the conference according to their interest,
-* Present their MiTEAM project during a break-out session at the conference.
+**Second Year**
+
+* MichMATYC Fall Conference
+  * Attend sessions during the conference according to their interest,
+  * Present their MiTEAM project during a break-out session at the conference.
 
 In addition to learning and networking opportunities, participants will receive a one-year membership in MichMATYC for each year of participation and a certificate of completion.
 
-**Institution Support**
+### Institution Support
 
 The participant’s home institution will be expected to provide support that includes releasing participants from teaching responsibilities to obtain professional development through attendance at the MichMATYC Fall Conference and to help financially support the member’s attendance, if possible, including conference registration, transportation, meals, and overnight accommodations.
 
-**Application Process**
+### Application Process
 
-Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Conference. All faculty interested in becoming a participant in MiTEAM may apply now online at[ **bit.ly/MiTeam**](http://bit.ly/MiTeam). Any questions or concerns regarding MiTEAM may be addressed to the Michael Pemberton, MiTEAM Program Coordinator at pembertm@lcc.edu or
-
-(517) 483-1536.
+Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Conference. All faculty interested in becoming a participant in MiTEAM may apply now online at [bit.ly/MiTeam](http://bit.ly/MiTeam). Any questions or concerns regarding MiTEAM may be addressed to the [Michael Pemberton](mailto:pembertm@lcc.edu), MiTEAM Program Coordinator.
 
 The deadline for consideration in MiTEAM Cohort 3 is September 1, 2019.

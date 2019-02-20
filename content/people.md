@@ -107,8 +107,6 @@ class=title>Affiliate Delegate</div>
 * [Jonathan Oaks, Midwest Vice President, AMATYC](mailto:oaksj@macomb.edu)
 * [David Tannor, Treasurer, AMATYC](mailto:davetannor@gmail.com)
 
-<br/>
-
 ### MichMATYC Campus Representatives
 
 Below is the contact information for the campus representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please send your request to [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
@@ -211,7 +209,9 @@ Below is the contact information for the campus representatives from each member
 </td></tr>
 
 <tr>
-<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) Center Campus</td>
+<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) Center Campus
+
+</td>
 
 <td class="tg-c3ow">[Caroline Castel](mailto:castelc@macomb.edu)
 
@@ -219,9 +219,11 @@ Below is the contact information for the campus representatives from each member
 
 <tr>
 
-<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) South Campus </td>
+<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) South Campus 
 
-<td class="tg-c3ow">[Jon Oaks](mailto:oaksj@macomb.edu) 
+</td>
+
+<td class="tg-c3ow">[Jon Oaks](mailto:oaksj@macomb.edu)
 
 </td></tr>
 
@@ -285,8 +287,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[St. Clair County Community College](http://www.sc4.edu/)
 </td>
 
-<td class="tg-c3ow">\[Cindie Wade\] (mailto:cwade@stclair.cc.mi.us)
-</td></tr>
+<td class="tg-c3ow">[Cindie Wade](mailto:mailto:cwade@stclair.cc.mi.us) </td></tr>
 
 <tr>
 <td class="tg-c3ow">[Schoolcraft Community College](http://www.schoolcraft.edu/)

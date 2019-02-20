@@ -5,24 +5,18 @@ showdate = false
 title = "MiTEAM Program"
 
 +++
-![logo.gif](https://lh3.googleusercontent.com/wGxjJq0ImgveAgV7jNJsNw8gLH9HW2u9NbPxwdJjbmMMaihnUmKkDJmpnNZZwygB8a_eQZv6pTF1th-wv16dQL5aUROPRw-c38FFcX5zIo05cljqEsWGG1uHdClc9lj81Q9cYTwn =149x161)
+The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) provides a mentoring and professional development initiative called MiTEAM (Michigan Teacher Enrichment and Mentoring) for full-time or adjunct faculty teaching mathematics in the first three years of college. The program offers professional development for new mathematics faculty to become more effective teachers and active members within the organization.
 
-**MichMATYC Mentoring Program (MiTEAM)**
+### Program Goal
 
-**Program Description**
+The program's goal is to provide experiences that will help new faculty at two-year colleges in Michigan become more effective teachers and active members of the organization, as well as the broader mathematical community. Participants in MiTEAM will gain knowledge of the culture and mission of the two-year college and its students, acquire familiarity with the scholarship of teaching, commit to continued growth in mathematics, and participate actively in professional societies.
 
-  
-The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) provides a mentoring and professional development initiative called MiTEAM (Michigan Teacher Enrichment and Mentoring) for full-time or adjunct faculty teaching mathematics in the first two years of college. The program offers professional development for new mathematics faculty to become more effective teachers and active members of the organization.
-
-**Program Goal**
-
-The program’s goal is to provide experiences that will help new faculty at two-year colleges in Michigan become more effective teachers and active members of the organization, as well as the broader mathematical community. Participants in MiTEAM will gain knowledge of the culture and mission of the two-year college and its students, acquire familiarity with the scholarship of teaching, commit to continued growth in mathematics, and participate actively in professional societies.
-
-**MiTEAM Activities and Benefits**
+### MiTEAM Activities and Benefits
 
 Participants selected will attend two consecutive MichMATYC Fall Conferences where they will complete in a program developed for new faculty, including regular conference activities. In the intervening year, participants will be required to develop, implement, and evaluate a project at their home institution.
 
-* 2019 MichMATYC Fall Conference
+** First Year
+MichMATYC Fall Conference
 
 Hosted by Henry Ford College
 

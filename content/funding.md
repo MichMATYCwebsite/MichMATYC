@@ -7,7 +7,7 @@ name = "Funding"
 weight = 5
 
 +++
-Below you will find information regarding awards, scholarships and grants offered by MichMATYC. If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.
+Below you will find information regarding awards, scholarships and grants offered by the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.
 
 <br/>
 
@@ -16,7 +16,7 @@ Below you will find information regarding awards, scholarships and grants offere
 Established in 2000 by the Executive Board of MichMATYC, the MichMATYC Student Scholarship Award recognizes an outstanding mathematics student. Beginning in 2012, the scholarship was named in honor of Karen Sharp, who had a fundamental role in the founding of our organization.
 
 NOTE: UPDATED SCHOLARSHIP FORMS COMING SOON!  
-2018 - 2019 Application deadline: **June 1, 2018**  
+2018-2019 Application deadline: **June 1, 2018**  
 [Scholarship Application Form](https://goo.gl/forms/iGuMmWnMFETJnAr13)
 
 <br/>
@@ -27,7 +27,7 @@ Since 1999, the MichMATYC Teaching Excellence Award recognizes the high quality 
 
 **2019 Nomination deadline: May 17, 2019**  
 [Award Requirements](http://www.michmatyc.org/TeachingExcellenceAwardDocuments/Criteria_2018.pdf) - [Nomination Form](http://www.michmatyc.org/TeachingExcellenceAwardDocuments/MichMATYC_Nom_Form_2018.pdf)<br>  
-Contact Information: [Laura Wiklund](mailto:lkwicklu@oaklandcc.edu) ([lkwicklu@oaklandcc.edu](mailto:lkwicklu@oaklandcc.edu)), Chair, Teaching Excellence Award Committee
+Contact Information: [Laura Wiklund](mailto:lkwicklu@oaklandcc.edu), Chair, Teaching Excellence Award Committee
 
 <br/>
 

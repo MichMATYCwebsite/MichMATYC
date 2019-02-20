@@ -7,6 +7,7 @@ title = "MiTEAM Program"
 +++
 The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) provides a mentoring and professional development initiative called MiTEAM (Michigan Teacher Enrichment and Mentoring) for full-time or adjunct faculty teaching mathematics in the first three years of college. The program offers professional development for new mathematics faculty to become more effective teachers and active members within the organization.
 
+</br>
 ### Program Goal
 
 The program's goal is to provide experiences that will help new faculty at two-year colleges in Michigan become more effective teachers and active members of the organization, as well as the broader mathematical community. Participants in MiTEAM will gain knowledge of the culture and mission of the two-year college and its students, acquire familiarity with the scholarship of teaching, commit to continued growth in mathematics, and participate actively in professional societies.
@@ -49,29 +50,19 @@ The deadline for consideration in **MiTEAM Cohort 3** is **September 1, 2019**.
 ### List of MiTEAM Participants
 
 <style type="text/css">
-
 .tg  {border-collapse:collapse;border-spacing:0;}
-
 .tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-
 .tg th{font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-
 </style>
 
 <table class="tg">
 
 <tr>
-
     <th class="tg-0pky"><b>Name</b></th>
-    
     <th class="tg-0pky"><b>Institution</b></th>
-    
     <th class="tg-0pky"><b>Years</b></th>
-    
     <th class="tg-0pky"><b>Cohort</b></th>
-
 </tr>
 
 <tr>

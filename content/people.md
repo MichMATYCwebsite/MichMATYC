@@ -69,9 +69,14 @@ Below is the contact information for the campus representatives from each member
 
 <table class="tg">
 <tr>
-  <th class="tg-c3ow"><align="left">Institution</th>
-<th class="tg-c3ow"><align="left">Campus Representative</th>
-</tr>
+  
+<tr>
+
+    <th class="tg-0pky">Institution</th>
+    
+    <th class="tg-0pky">Campus Representative</th>
+
+</tr>  
 
 <tr>
 <td class="tg-c3ow">[Alpena Community College](http://www.alpenacc.edu/)

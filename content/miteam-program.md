@@ -1,6 +1,5 @@
 +++
 date = "2019-02-20T03:07:14+00:00"
-draft = true
 layout = "post"
 showdate = false
 title = "MiTEAM Program"

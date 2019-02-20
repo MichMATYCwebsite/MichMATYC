@@ -3,7 +3,7 @@ layout = "page"
 showdate = false
 title = "Awards, Scholarships & Grants"
 [menu.main]
-name = "Awards and Scholarships"
+name = "Awards & Scholarships"
 weight = 5
 
 +++

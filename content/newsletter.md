@@ -10,8 +10,6 @@ The electronic version of the organization's newsletter, "The MichMATYC Sum-Time
 
 Previous editions of the newsletter are archived on this page. Note that for 2007 and 2008, each file is approximately one megabyte and download time will depend on connection speed. For 2009 editions and later, file sizes are generally 200 kilobytes and reasonable for almost any connection speed.
 
-<br/>
-
 <style type="text/css">
 
 .tg  {border-collapse:collapse;border-spacing:0;}

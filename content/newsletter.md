@@ -1,7 +1,7 @@
 +++
 layout = "page"
 showdate = false
-title = "The MichMATYC Sum-Times"
+title = "The Sum-Times"
 [menu.main]
 weight = 6
 

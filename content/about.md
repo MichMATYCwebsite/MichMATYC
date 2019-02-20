@@ -7,12 +7,14 @@ title = "About"
 +++
 
 
-### About MichMATYC
+### History
 
 On May 2, 1981, thirteen two-year college instructors met at the Mathematical Association of America ([MAA](http://sections.maa.org/Michigan/)) Michigan section meeting at Oakland University. Karen Sharp called the meeting, explaining the need for a Michigan section of the American Mathematical Association of Two-Year Colleges ([AMATYC](http://www.amatyc.org/)). The organization was founded to provide a venue for interaction between the mathematics faculties at community colleges across the State of Michigan. An opportunity to share ideas, consolidate resources, and plan for the future needs of community college students in the state became primary functions of MichMATYC, as well as connecting to university mathematics. 
 
+### Constitution and Bylaws
 Its organizational rules and policies are contained in its [Constitution](/uploads/constitution.pdf).
 
+### Past Presidents and Conferences
 <table class="tg">
 
 <tr>

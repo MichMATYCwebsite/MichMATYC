@@ -7,7 +7,7 @@ title = "People"
 weight = 3
 
 +++
-### MichMATYC Officers
+### MichMATYC Executive Board
 
 <div class=leadership-wrap>
 
@@ -21,13 +21,35 @@ class=title>President</div>
 
 <ul class=fa-ul>
 
-<li><i class="fa-li fa fas fa-home"></i><a href="http://www.kellogg.edu/" target=_blank> Kellog Community
+<li><i class="fa-li fa fas fa-home"></i><a href="http://www.kellogg.edu/" target=_blank> Kellogg Community
 
- College</a>
+College</a>
 
 <li><i class="fa-li fa-address-card far"></i>450 North Avenue<li><i class="fa-li fa-address-card far"></i>Battle
 
- Creek, MI 49017<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">Email</a>
+Creek, MI  49017<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">Email</a>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class=leadership-card>
+
+<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Michael Pemberton<p
+
+class=title>President-Elect</div>
+
+<div class=contact-wrap>
+
+<ul class=fa-ul>
+
+<li><i class="fa-li fa fas fa-home"></i><a href="http://www.lcc.edu/" target=_blank> Lansing Community College</a>
+
+<li><i class="fa-li fa-address-card far"></i>419 North Washington Square<li><i class="fa-li fa-address-card far"></i>Lansing, MI  48933
+
+<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:pembertm@lcc.edu?Subject=MichMATYC">Email</a>
 
 </ul>
 
@@ -47,31 +69,9 @@ class=title>Secretary/Treasurer</div>
 
 <li><i class="fa-li fa fas fa-home"></i><a href="https://www.hfcc.edu/" target=_blank> Henry Ford College</a>
 
-<li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI 48128
+<li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
 
 <li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:sbazzi@hfcc.edu?Subject=MichMATYC">Email</a>
-
-</ul>
-
-</div>
-
-</div>
-
-<div class=leadership-card>
-
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Cindi Wade<p
-
-class=title>Past President</div>
-
-<div class=contact-wrap>
-
-<ul class=fa-ul>
-
-<li><i class="fa-li fa fas fa-home"></i><a href="https://www.sc4.edu/" target=_blank> St. Clair Community College, Past</a>
-
-<li><i class="fa-li fa-address-card far"></i>323 Erie St., P.O. Box 5015<li><i class="fa-li fa-address-card far"></i>Port Huron, MI 48061-5015
-
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:cwade@sc4.edu?Subject=MichMATYC">Email</a>
 
 </ul>
 
@@ -91,37 +91,11 @@ class=title>Affiliate Delegate</div>
 
 <li><i class="fa-li fa fas fa-home"></i><a href= "https://www.kvcc.edu/" target=_blank> Kalamazoo Community College, </a>
 
-<li><i class="fa-li fa-address-card far"></i>6767 West O Ave<li><i class="fa-li fa-address-card far"></i>Kalamazoo, MI 49009<li>
+<li><i class="fa-li fa-address-card far"></i>6767 West O Ave<li><i class="fa-li fa-address-card far"></i>Kalamazoo, MI  49009<li>
 
 <i class="fa-li fa fas fa-envelope"></i><a href="mailto:lwinch@kvcc.edu?Subject=MichMATYC">Email</a>
 
 </ul>
-
-</div>
-
-</div>
-
-<div class=leadership-card>
-
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Michael </p> <p class=name style="margin-top:0;">Pemberton</p>
-
-<p class=title>Affiliate Delegate</div>
-
-<div class=contact-wrap>
-
-<ul class=fa-ul>
-
-<li><i class="fa-li fa fas fa-home"></i><a href= "https://www.lcc.edu/" target=_blank> Lansing Community
-
- College</a>
-
-<li><i class="fa-li fa-address-card far"></i>411 N. Grand Avenue<li><i class="fa-li fa-address-card far"></i>Lansing, MI 48933
-
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:pembertm@lcc.edu?Subject=MichMATYC">Email</a>
-
-</ul>
-
-</div>
 
 </div>
 
@@ -132,7 +106,6 @@ class=title>Affiliate Delegate</div>
 * [Jim Ham, President, AMATYC](mailto:jaham1729@gmail.com)
 * [Jonathan Oaks, Midwest Vice President, AMATYC](mailto:oaksj@macomb.edu)
 * [David Tannor, Treasurer, AMATYC](mailto:davetannor@gmail.com)
-* [Julie Gunckelmann, Professional Development Coordinator, AMATYC](mailto:jagunkel@oaklandcc.edu)
 
 <br/>
 
@@ -145,7 +118,7 @@ Below is the contact information for the campus representatives from each member
 <th class="tg-c3ow">College</th>
 <th class="tg-c3ow">Campus Representative</th>
 </tr>
- 
+
 <tr>
 <td class="tg-c3ow">[Alpena Community College](http://www.alpenacc.edu/)
 </td>
@@ -238,11 +211,13 @@ Below is the contact information for the campus representatives from each member
 </td></tr>
 
 <tr>
-<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) Center Campus<br />[Macomb Community College](http://www.macomb.edu/) South Campus
-</td>
+<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) Center Campus</td>
 
-<td class="tg-c3ow">[Caroline Castel](mailto:castelc@macomb.edu)<br />[Jon Oaks](mailto:oaksj@macomb.edu)
-</td></tr>
+<td class="tg-c3ow">[Caroline Castel](mailto:castelc@macomb.edu)</td>
+
+<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/) South Campus </td>
+
+<td class="tg-c3ow">[Jon Oaks](mailto:oaksj@macomb.edu) </td></tr>
 
 <tr>
 <td class="tg-c3ow">[Mid-Michigan Community College](http://www.midmich.cc.mi.us/)
@@ -299,12 +274,12 @@ Below is the contact information for the campus representatives from each member
 
 <td class="tg-c3ow">[Janet Peart](mailto:jepeart@oaklandcc.edu)<br />[Emily McAllister](mailto:ehmcalli@oaklandcc.edu "blocked::mailto:ehmcalli@oaklandcc.edu")<br />[Julie Gunkelman](mailto:jagunkel@oaklandcc.edu)<br />[Celeste Bogan](mailto:clbogan@oaklandcc.edu)<br />[Celeste Bogan](mailto:clbogan@oaklandcc.edu)
 </td></tr>
- 
+
 <tr>
 <td class="tg-c3ow">[St. Clair County Community College](http://www.sc4.edu/)
 </td>
 
-<td class="tg-c3ow">[Cindie Wade] (mailto:cwade@stclair.cc.mi.us)
+<td class="tg-c3ow">\[Cindie Wade\] (mailto:cwade@stclair.cc.mi.us)
 </td></tr>
 
 <tr>
@@ -327,7 +302,7 @@ Below is the contact information for the campus representatives from each member
 
 <td class="tg-c3ow">[Mark Batell](mailto:mfbatell@wccnet.org)
 </td></tr>
- 
+
 <tr>
 <td class="tg-c3ow">[Wayne County Community College](http://www.wcccd.edu/)
 </td>
@@ -341,4 +316,3 @@ Below is the contact information for the campus representatives from each member
 
 <td class="tg-c3ow">[Paul Drelles](mailto:pgdrelles@westshore.edu)
 </td></tr>
-

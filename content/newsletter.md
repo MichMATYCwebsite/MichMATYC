@@ -6,7 +6,7 @@ title = "The Sum-Times"
 weight = 7
 
 +++
-The electronic version of the organization's newsletter, "The MichMATYC Sum-Times", is distributed to members three times a year; in Februaryruary, May, and September. If you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter edition, please submit to [Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu), Newsletter Editor, The MichMATYC Sum-Times.
+The electronic version of the organization's newsletter, "The MichMATYC Sum-Times", is distributed to members three times a year; in February, May, and September. If you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter edition, please submit to [Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu), Newsletter Editor, The MichMATYC Sum-Times.
 
 Previous editions of the newsletter are archived on this page. Note that for 2007 and 2008, each file is approximately one megabyte and download time will depend on connection speed. For 2009 editions and later, file sizes are generally 200 kilobytes and reasonable for almost any connection speed.
 
@@ -42,7 +42,7 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow">2018</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruaryruary2018.pdf" target="_blank"> February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2018.pdf" target="_blank"> February</a></td>
 
 <td class="tg-c3ow"></td>
 
@@ -56,7 +56,7 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow">
 
-<a href="/uploads/MichMatycNewsletterFebruaryruary2017.pdf" target="_blank">February</a></td>
+<a href="/uploads/MichMatycNewsletterFebruary2017.pdf" target="_blank">February</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2017.pdf" target="_blank">May</a></td>
 
@@ -68,7 +68,7 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow">2016</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruaryruary2016.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2016.pdf" target="_blank">February</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMATYCMay16.pdf" target="_blank">May</a></td>
 
@@ -80,7 +80,7 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow">2015</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruaryruary2015.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2015.pdf" target="_blank">February</a></td>
 
 <td class="tg-c3ow"></td>
 
@@ -104,7 +104,7 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow">2013</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMATYCNewsletterFebruaryruary_2013.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMATYCNewsletterFebruary_2013.pdf" target="_blank">February</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay_2013.pdf" target="_blank">
 
@@ -142,7 +142,7 @@ May</a></td>
 
 <td class="tg-c3ow">2010</td>
 
-<td class="tg-c3ow"><a href="/uploads/February2010MichMATYCnewsletter.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/Feb2010MichMATYCnewsletter.pdf" target="_blank">February</a></td>
 
 <td class="tg-c3ow"></td>
 

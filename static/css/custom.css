@@ -503,7 +503,8 @@ footer {
 .leadership-card-head p.name {
     margin: 0;
     margin-top: .5rem;
-}
+    text-align: center;
+  }
 
 h3#michmatyc-leadership-in-michigan {
   width: 100%;

@@ -69,15 +69,13 @@ Below is the contact information for the campus representatives from each member
 
 <table class="tg">
 
-  
 <tr>
 
 <th class="tg-c3ow"><b>Institution</b></th>
 
 <th class="tg-c3ow"><b>Campus Representative</b></th>
 
-
-</tr>  
+</tr>
 
 <tr>
 <td class="tg-c3ow">[Alpena Community College](http://www.alpenacc.edu/)
@@ -178,7 +176,7 @@ Below is the contact information for the campus representatives from each member
 </td></tr>
 
 <tr>
-<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/), South Campus 
+<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/), South Campus
 </td>
 
 <td class="tg-c3ow">[Jon Oaks](mailto:oaksj@macomb.edu)

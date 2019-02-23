@@ -21,7 +21,7 @@ Its organizational rules and policies are contained in its [Constitution](/uploa
 
 <tr>
 
-<th class="tg-c3ow"><b>    Term    </b></th>
+<th class="tg-c3ow"><b>Term</b></th>
 
 <th class="tg-c3ow"><b>President(s)</b></th>
 

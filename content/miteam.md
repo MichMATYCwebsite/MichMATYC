@@ -7,11 +7,6 @@ title = "MiTEAM Program"
 +++
 The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) provides a mentoring and professional development initiative called MiTEAM (Michigan Teacher Enrichment and Mentoring) for full-time or adjunct faculty teaching mathematics in the first three years of college. The program offers professional development for new mathematics faculty to become more effective teachers and active members within the organization.
 
-Cohort 3 Application deadline: September 1, 2019<br>
-[MiTEAM Application](http://bit.ly/MiTeam)
-
-Contact Information: [Michael Pemberton](mailto:pembertm@lcc.edu), MiTEAM Coordinator
-
 </br>
 
 ### Program Goal
@@ -50,7 +45,7 @@ The participant’s home institution will be expected to provide support that in
 
 ### Application Process
 
-Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Conference. All faculty interested in becoming a participant in MiTEAM may [apply online](http://bit.ly/MiTeam). Any questions or concerns regarding MiTEAM may be addressed to [Michael Pemberton](mailto:pembertm@lcc.edu), MiTEAM Coordinator.
+Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Conference. All faculty interested in becoming a participant in MiTEAM may [apply online](http://bit.ly/MiTeam). For more information or questions regarding MiTEAM, please contact [Michael Pemberton](mailto:pembertm@lcc.edu), MiTEAM Coordinator.
 
 The deadline for consideration in **MiTEAM Cohort 3** is **September 1, 2019**.
 

@@ -34,8 +34,7 @@ Its organizational rules and policies are contained in its [Constitution](/uploa
 <td class>2017-2019</td>
 <td class="tg-c3ow">Anna Cox, Kellogg CC</td>
 
-<td class="tg-c3ow">2018: Kalamazoo Valley CC
-  <tr><td></td><td></td>
+<td class="tg-c3ow">2018: Kalamazoo Valley CC<br>
 2017: Baker College of Muskegon</td>
 </tr>
 

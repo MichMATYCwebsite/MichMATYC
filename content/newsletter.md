@@ -31,11 +31,11 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <th class="tg-c3ow"><b>Year</b></th>
 
-<th class="tg-c3ow"><b>Number 1</b></th>
+<th class="tg-c3ow"><b>No. 1</b></th>
 
-<th class="tg-c3ow"><b>Number 2</b></th>
+<th class="tg-c3ow"><b>No. 2</b></th>
 
-<th class="tg-c3ow"><b>Number 3</b></th>
+<th class="tg-c3ow"><b>No. 3</b></th>
 
 </tr>
 
@@ -59,95 +59,95 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow">2018</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2018.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2018.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2018.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2018.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2018.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
 <tr>
-  
+
 <td class="tg-c3ow">Volume 11</td>
 
 <td class="tg-c3ow">2017</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2017.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2017.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2017.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2017.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2017.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
 <tr>
-  
+
 <td class="tg-c3ow">Volume 10</td>
 
 <td class="tg-c3ow">2016</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2016.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2016.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMATYCMay16.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2016.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2016.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
 <tr>
-  
+
 <td class="tg-c3ow">Volume 9</td>
 
 <td class="tg-c3ow">2015</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2015.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2015.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMATYCSept15.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMATYCSept15.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
 <tr>
-  
+
 <td class="tg-c3ow">Volume 8</td>
 
 <td class="tg-c3ow">2014</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFeb2014.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFeb2014.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay2014.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2014.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2014.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
 <tr>
-  
+
 <td class="tg-c3ow">Volume 7</td>
 
 <td class="tg-c3ow">2013</td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMATYCNewsletterFebruary_2013.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMATYCNewsletterFebruary_2013.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterMay_2013.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSeptember 2013.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSeptember 2013.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
 <tr>
-  
+
 <td class="tg-c3ow">Volume 6</td>
 
 <td class="tg-c3ow">2012</td>
 
-<td class="tg-c3ow"><a href="/uploads/Feb 2012 MichMATYC Newsletter.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/Feb 2012 MichMATYC Newsletter.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/May 2012 MichMATYC Newsletter.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/Sept 2012 MichMATYC Newsletter.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/Sept 2012 MichMATYC Newsletter.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
@@ -157,11 +157,11 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow">2011</td>
 
-<td class="tg-c3ow"><a href="/uploads/Feb2011MichMATYCNewsletter.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/Feb2011MichMATYCNewsletter.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"><a href="/uploads/May2011MichMATYCNewsletter.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/Sept2011MichMATYCnewsletter.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/Sept2011MichMATYCnewsletter.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
@@ -171,17 +171,17 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow">2010</td>
 
-<td class="tg-c3ow"><a href="/uploads/Feb2010MichMATYCnewsletter.pdf" target="_blank">February</a></td>
+<td class="tg-c3ow"><a href="/uploads/Feb2010MichMATYCnewsletter.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow"><a href="/uploads/Sept2010MichMATYCnewsletter.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/Sept2010MichMATYCnewsletter.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
 <tr>
-  
- <td class="tg-c3ow">Volume 3</td>
+
+<td class="tg-c3ow">Volume 3</td>
 
 <td class="tg-c3ow">2009</td>
 
@@ -189,12 +189,12 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow"><a href="/uploads/Sept2009MichMATYCnewsletter.pdf" target="_blank">September</a></td>
+<td class="tg-c3ow"><a href="/uploads/Sept2009MichMATYCnewsletter.pdf" target="_blank">Sept</a></td>
 
 </tr>
 
 <tr>
-  
+
 <td class="tg-c3ow">Volume 2</td>
 
 <td class="tg-c3ow">2008</td>
@@ -208,9 +208,9 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 </tr>
 
 <tr>
-  
+
 <td class="tg-c3ow">Volume 1</td>
-  
+
 <td class="tg-c3ow">2007</td>
 
 <td class="tg-c3ow"><a href="/uploads/WI2007newsletter.pdf" target="_blank">Winter</a></td>

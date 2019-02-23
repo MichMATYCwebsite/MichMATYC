@@ -32,94 +32,71 @@ Its organizational rules and policies are contained in its [Constitution](/uploa
 <tr>
 
 <td class>2017-2019</td>
-
 <td class="tg-c3ow">Anna Cox, Kellogg CC</td>
 
-<td class="tg-c3ow">2017: Baker College of Muskegon<br />
-2018: Kalamazoo Valley Community College</td>
-
+<td class="tg-c3ow">2018: Kalamazoo Valley CC<br>
+2017: Baker College of Muskegon</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">2015-2017</td>
-
-<td class="tg-c3ow">Cindie Wade, St. Clair County CC <br/>  
+<td class="tg-c3ow">Cindie Wade, St. Clair County CC <br>  
 Doug Mace, Kirtland CC</td>
 
-<td class="tg-c3ow">2015: Macomb Community College <br/>  
-2016: Delta College</td>
-
+<td class="tg-c3ow">2016: Delta College <br>  
+2015: Macomb CC</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">2013-2015</td>
-
 <td class="tg-c3ow">Jack Rotman, Lansing CC</td>
 
-<td class="tg-c3ow">2013: Oakland Community College <br/>  
-2014: Lake Michigan College</td>
-
+<td class="tg-c3ow">2014: Lake Michigan College<br>
+2013: Oakland CC</td>  
+</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">2011-2015</td>
-
 <td class="tg-c3ow">Bernard Cunningham, Mott CC</td>
 
-<td class="tg-c3ow">2011: Lansing Community College<br/>  
-2012: Monroe County Community College</td>
-
+<td class="tg-c3ow">2012: Monroe County CC<br> 
+2011: Lansing CC<td/>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">2009-2011</td>
-
 <td class="tg-c3ow">Maria Andersen, Muskegon CC</td>
 
-<td class="tg-c3ow">2009: Henry Ford College <br/>  
-2010: Muskegon Community College</td>
-
+<td class="tg-c3ow">2010: Muskegon CC<br>  
+2009: Henry Ford College</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">2007-2009</td>
-
 <td class="tg-c3ow">Lisa Winch, Kalamazoo Valley CC</td>
 
-<td class="tg-c3ow">2007: Mott Community College <br/>  
-2008: Delta College</td>
-
+<td class="tg-c3ow">2008: Delta College<br>
+2007: Mott CC</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">2005-2007</td>
-
 <td class="tg-c3ow">Phoebe Lutz, Delta College</td>
 
-<td class="tg-c3ow">2005: Kirtland Community College <br/>  
-2006: Kalamazoo Valley Community College</td>
-
+<td class="tg-c3ow">2006: Kalamazoo Valley CC <br>  
+2005: Kirtland CC</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">2003-2005</td>
-
 <td class="tg-c3ow">Jan Roy, Montcalm CC</td>
 
-<td class="tg-c3ow">2003: Lansing Community College <br/>  
-2004: Grand Rapids Community College</td>
-
+<td class="tg-c3ow">2004: Grand Rapids CC <br>  
+2003: Lansing CC </td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">2001-2003</td>
 
 <td class="tg-c3ow">Cindie Wade, St. Clair County CC</td>

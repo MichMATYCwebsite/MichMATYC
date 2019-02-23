@@ -54,7 +54,7 @@ Doug Mace, Kirtland CC</td>
 <td class="tg-c3ow">Bernard Cunningham, Mott CC</td>
 
 <td class="tg-c3ow">2012: Monroe County CC<br> 
-2011: Lansing CC<td/>
+2011: Lansing CC</td>
 </tr>
 
 <tr>
@@ -91,155 +91,107 @@ Doug Mace, Kirtland CC</td>
 
 <tr>
 <td class="tg-c3ow">2001-2003</td>
-
 <td class="tg-c3ow">Cindie Wade, St. Clair County CC</td>
 
-<td class="tg-c3ow">2001: Henry Ford College <br/>  
-2002: Monroe County Community College</td>
-
+<td class="tg-c3ow">2002: Monroe County CC <br/>  
+2001: Henry Ford College</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1999-2001</td>
-
 <td class="tg-c3ow">Jim Ham, Delta College</td>
 
-<td class="tg-c3ow">1999: North Central Michigan College <br/>  
-2000: Delta College<br/>
-
-Summer Workshop (Grand Rapids Community College)</td>
-
+<td class="tg-c3ow">2000: Delta College <br/>  
+1999: North Central Michigan College<br/>
+Summer Workshop (Grand Rapids CC)</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1998-1999</td>
-
 <td class="tg-c3ow">Doug Mace, Baker College of Flint</td>
-
-<td class="tg-c3ow">1998: Macomb Community College <br/>
-
-Summer Workshop (Grand Rapids Community College)</td>
-
+  
+<td class="tg-c3ow">1998: Macomb CC <br/>
+Summer Workshop (Grand Rapids CC)</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1997-1998</td>
-
 <td class="tg-c3ow">Gladys Rockind, Oakland CC, Auburn Hills</td>
 
-<td class="tg-c3ow">1997: Kalamazoo Valley Community College</td>
-
+<td class="tg-c3ow">1997: Kalamazoo Valley CC</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1996-1997</td>
 
 <td class="tg-c3ow">Anita Johnston, Jackson College</td>
-
 <td class="tg-c3ow">1996: Jackson College <br/>
-
-Summer Workshop (Grand Rapids Community College)</td>
-
+Summer Workshop (Grand Rapids CC)</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1995-1996</td>
-
 <td class="tg-c3ow">Janina Udrys, Schoolcraft College</td>
 
 <td class="tg-c3ow">1995: Schoolcraft College <br/>
-
-Summer Workshops (Grand Rapids Community College)</td>
-
+Summer Workshops (Grand Rapids CC)</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1994-1995</td>
-
 <td class="tg-c3ow">Jim Chesla, Grand Rapids CC</td>
 
 <td class="tg-c3ow">1994: Delta College</td>
-
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1993-1994</td>
-
 <td class="tg-c3ow">Lowell Stultz, Kalamazoo Valley CC</td>
 
-<td class="tg-c3ow">1993: Oakland Community College, Auburn Hills Campus</td>
-
+<td class="tg-c3ow">1993: Oakland CC, Auburn Hills Campus</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1992-1993</td>
-
 <td class="tg-c3ow">Jim Roznowski, Delta College</td>
 
-<td class="tg-c3ow">1992: Grand Rapids Community College</td>
-
+<td class="tg-c3ow">1992: Grand Rapids CC</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1989-1991</td>
-
 <td class="tg-c3ow">Dawn Schmidt, Delta College</td>
 
-<td class="tg-c3ow">1989: Kalamazoo Valley Community College <br/>  
-1990: Delta College</td>
-
+<td class="tg-c3ow">1990: Delta College <br/>  
+1989: Kalamazoo Valley CC</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1987-1989</td>
-
 <td class="tg-c3ow">Barbara Near, Henry Ford College</td>
 
-<td class="tg-c3ow">1987: Delta College <br/>  
-1988: Washtenaw Community College</td>
-
+<td class="tg-c3ow">1988: Washtenaw CC <br/>  
+1987: Delta College</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1985-1987</td>
-
 <td class="tg-c3ow">Nancy Williams, Oakland CC</td>
 
-<td class="tg-c3ow">1985: Washtenaw Community College <br/>  
-1986: Lansing Community College</td>
-
+<td class="tg-c3ow">1986: Lansing CC <br/>  
+1985: Washtenaw CC</td>
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1983-1985</td>
-
 <td class="tg-c3ow">Karen Sharp, Mott CC</td>
-
 <td class="tg-c3ow"></td>
-
 </tr>
 
 <tr>
-
 <td class="tg-c3ow">1981-1983</td>
-
 <td class="tg-c3ow">James Verhanovitz, Delta College</td>
-
 <td class="tg-c3ow"></td>
-
 </tr>
 
 </table>
-<br/>

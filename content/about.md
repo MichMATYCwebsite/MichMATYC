@@ -195,4 +195,3 @@ Summer Workshops (Grand Rapids CC)</td>
 </tr>
 
 </table>
-<br>

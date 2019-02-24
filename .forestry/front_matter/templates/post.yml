@@ -21,6 +21,5 @@ fields:
   default: ''
   description: Add publishing date here
 pages:
-- content/upcoming/coffee-with-the-amatyc-midwest-vice-president.md
 - content/announcements/if-you-are-not-already-a-member-consider-joining-michmatyc.md
 - content/announcements/michmatyc-grants-are-now-available.md

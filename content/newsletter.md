@@ -10,9 +10,10 @@ The electronic version of the organization's newsletter, "The MichMATYC Sum-Time
 
 If you don't know if something would be appropriate, please ask us. The Sum-Times articles are light, short, and informative. To help you in your writing, here are a few hints. Most of our articles run in length between 300 and 500 words and tend to be one column or two columns per page.
 
-Previous editions of the newsletter are archived on this page. Note that for 2007 and 2008, each file is approximately one megabyte (MB) and download time will depend on connection speed. For 2009 editions and later, file sizes are generally 200 kilobytes (KB) and reasonable for almost any connection speed.
-
 **Contact Information**:<br/>[Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu)<br/>Newsletter Editor<br/>The MichMATYC Sum-Times
+
+### Archived Editions
+Previous editions of the newsletter are archived on this page. Note that for 2007 and 2008, each file is approximately one megabyte (MB) and download time will depend on connection speed. For 2009 editions and later, file sizes are generally 200 kilobytes (KB) and reasonable for almost any connection speed.
 
 <style type="text/css">
 

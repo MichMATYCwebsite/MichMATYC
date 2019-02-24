@@ -157,7 +157,6 @@ For more information on the competition, scholarships, and previous exams, pleas
 * [Developmental Mathematics: an Online Community](http://dm-live.wikispaces.com/)
 * [Mathematics Courses at Michigan Community Colleges](http://www-personal.umich.edu/\~vmesa/Community%20Colleges/CommunityColleges.html)
 
-<br/>
 ### Partner and State Organizations
 * [The American Mathematical Association of Two-Year Colleges (AMATYC)](http://www.amatyc.org/)
 * [AMATYC Beyond Crossroads](http://beyondcrossroads.matyc.org/)

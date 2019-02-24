@@ -12,7 +12,7 @@ If you don't know if something would be appropriate, please ask us. The Sum-Time
 
 Previous editions of the newsletter are archived on this page. Note that for 2007 and 2008, each file is approximately one megabyte (MB) and download time will depend on connection speed. For 2009 editions and later, file sizes are generally 200 kilobytes (KB) and reasonable for almost any connection speed.
 
-Contact Information:<br/>[Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu)<br/>Newsletter Editor<br/>The MichMATYC Sum-Times
+**Contact Information**:<br/>[Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu)<br/>Newsletter Editor<br/>The MichMATYC Sum-Times
 
 <style type="text/css">
 

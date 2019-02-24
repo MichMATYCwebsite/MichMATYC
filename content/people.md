@@ -60,7 +60,7 @@ class=title>Affiliate Delegate</div>
 ### MichMATYC Leadership in Michigan
 
 * [Jim Ham, President, AMATYC](mailto:jaham1729@gmail.com)
-* [Jonathan Oaks, Midwest Vice President, AMATYC](mailto:oaksj@macomb.edu)
+* [Jon Oaks, Midwest Vice President, AMATYC](mailto:jonnyoaks@gmail.com)
 * [David Tannor, Treasurer, AMATYC](mailto:davetannor@gmail.com)
 
 ### MichMATYC Campus Representatives
@@ -179,7 +179,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/), South Campus
 </td>
 
-<td class="tg-c3ow">[Jon Oaks](mailto:oaksj@macomb.edu)
+<td class="tg-c3ow">[Gary Kaplan](mailto:kaplang@macomb.edu)
 </td></tr>
 
 <tr>

@@ -4,9 +4,9 @@ layout = "post"
 title = "MichMATYC 2017"
 
 +++
-##### MichMATYC 2017
+##### 2017 MichMATYC Conference
 
-Check out the [conference website](https://sites.google.com/view/2017-michmatyc-conference/home) for details about MichMATYC 2017.
+Check out the [conference website](https://sites.google.com/view/2017-michmatyc-conference/home) for details about the conference.
 
 Mark your calendars now for yet another exciting MichMATYC Conference. Our theme, Pursuit of Excellence in Teaching and Learning, is sure to challenge you to think and reflect over our vocation as mathematicians and mathematics educators, and how best to respond to the educational needs of each student in our classrooms. Baker College is delighted to host the conference at its Muskegon campus, which will begin on Friday October 20 until Saturday October 21, 2017. We look forward to seeing you there. Share the news with colleagues, bring them along to the conference so collectively and collaboratively we may continue to forge forward to help students attain their educational and career goals. 
 

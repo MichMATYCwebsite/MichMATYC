@@ -6,9 +6,15 @@ title = "The Sum-Times"
 weight = 7
 
 +++
-The electronic version of the organization's newsletter, "The MichMATYC Sum-Times", is distributed to members three times a year - in February, May, and September. If you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter, please submit to [Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu), Newsletter Editor, The MichMATYC Sum-Times.
+The electronic version of the organization's newsletter, "The MichMATYC Sum-Times", welcomes articles of interest to members three times a year - in February, May, and September. If it is about an accomplishment of you or your colleagues, recent retirements or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article and sending it to [Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu), Newsletter Editor of The MichMATYC Sum-Times.
+
+If you don't know if something would be appropriate, please ask us. The Sum-Times articles are light, short, and informative. To help you in your writing, here are a few hints. Most of our articles run in length between 300 and 500 words and tend to be one column or two columns per page.
+
+Articles are edited and proofed with an eye toward the finished product. We typically do not involve the author in this process, but make changes when we believe that the text will be improved with the change. The goal is to make you and MichMATYC look good. In terms of formatting, if you submit a Word document, we take your document and insert it into a page layout program. Heavily formatted documents cause major difficulties at this point. In addition, remember that we are looking at narrow columns and bulleted or numbered lists do not translate well.
 
 Previous editions of the newsletter are archived on this page. Note that for 2007 and 2008, each file is approximately one megabyte (MB) and download time will depend on connection speed. For 2009 editions and later, file sizes are generally 200 kilobytes (KB) and reasonable for almost any connection speed.
+
+Contact Information:  [Desidera Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu), Editor<br/>The MichMATYC Sum-Times Newsletter
 
 <br>
 <style type="text/css">

@@ -1,6 +1,5 @@
 +++
 date = "2019-02-24T05:00:00+00:00"
-draft = true
 layout = "post"
 title = "Check out the newest edition of The Sum-Times!"
 

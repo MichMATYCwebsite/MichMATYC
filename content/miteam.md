@@ -7,8 +7,8 @@ title = "MiTEAM Program"
 +++
 The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) provides a mentoring and professional development initiative called MiTEAM (Michigan Teacher Enrichment and Mentoring) for full-time or adjunct faculty teaching mathematics in the first three years of college. The program offers professional development for new mathematics faculty to become more effective teachers and active members within the organization.
 
-**Contact Information**
-[Michael Pemberton](mailto:mppemberton@gmail.com)
+**Contact Information**<br/>
+[Michael Pemberton](mailto:mppemberton@gmail.com)<br/>
 MiTEAM Program Coordinator
 
 </br>

@@ -3,7 +3,6 @@ date = "2019-02-24T05:00:00+00:00"
 layout = "post"
 title = "Coffee with the AMATYC Midwest Vice-President"
 
-+++
 **Date**: Saturday, March 2, 2019<br/>
 **Time**: 8:00-10:00 a.m.<br/>
 
@@ -12,6 +11,7 @@ title = "Coffee with the AMATYC Midwest Vice-President"
 402 S Lafayette Ave<br/>
 Royal Oak, MI  48067<br/>
 
++++
 Get excited Michigan! Come join the AMATYC Midwest Vice-President for an informal morning of coffee and networking! Share what great things you're doing in your classes, and hopefully learn some new things from each other!
 
 If you are interested in attending, please RSVP to [Jon Oaks](mailto://jonnyoaks@gmail.com), AMATYC Midwest Vice-President or through [Facebook events](https://www.facebook.com/events/657861614612004/).

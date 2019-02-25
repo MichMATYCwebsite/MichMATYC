@@ -11,7 +11,6 @@ If you are interested in attending, please RSVP to [Jon Oaks](mailto://jonnyoaks
 
 <i class="fas fa-calendar-alt" style="margin-right: 1rem; width: 20px;"  ></i> **Date**: Saturday, March 2, 2019<br/>
 <i class="fas fa-clock" style="margin-right: 1rem;  width: 20px;"></i> **Time**: 8:00-10:00 a.m.<br/>
-
 <i class="fas fa-building" style="margin-right: 1rem;  width: 20px;"></i> **Location**: [The Office Coffee Shop](http://www.theofficecoffeeshop.com) ([map](https://www.google.com/maps/place/The+Office+Coffee+Shop/@42.4870626,-83.1501456,17z/data=!3m1!4b1!4m5!3m4!1s0x8824cf4139dacc97:0x9e6aa8575493c407!8m2!3d42.4870626!4d-83.1479569))<br/>
 402 S Lafayette Ave<br/>
 Royal Oak, MI  48067

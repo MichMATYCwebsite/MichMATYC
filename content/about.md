@@ -159,6 +159,14 @@ Summer Workshops (Grand Rapids CC)</td>
 </tr>
 
 <tr>
+<td class="tg-c3ow">1991-1992</td>
+<td class="tg-c3ow">Jack Rotman, Lansing CC</td>
+
+<td class="tg-c3ow">1991: Lansing CC<br>
+2013: Oakland CC</td>  
+</tr>
+
+<tr>
 <td class="tg-c3ow">1989-1991</td>
 <td class="tg-c3ow">Dawn Schmidt, Delta College</td>
 

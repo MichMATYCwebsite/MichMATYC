@@ -1,0 +1,14 @@
++++
+date = "2019-02-26T05:00:00+00:00"
+draft = true
+layout = "post"
+title = "Call for Proposals for 2019 MichMATYC Conference"
+
++++
+Henry Ford College will be hosting the **2019 MichMATYC Conference** on **October 11-12, 2019**. The theme of the conference is "Mistakes Allow Thinking to Happen". Proposals for presenters are now being accepted. 
+
+Anyone interested in presenting should submit a proposal by **April 30, 2019**. Please consider sharing your experience, ideas, and expertise!
+
+To  submit a proposal, please go to the 2019 MichMATYC Conference [website](www.michmatyc2019.org/present/) and then click on the "Conference Presenter Form" link.
+
+If you have questions or if you encounter problems with the online Google form, please email [April Faladeau](mailto:amfalardeau@hfcc.edu) or call (313) 845-6492.

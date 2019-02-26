@@ -393,6 +393,11 @@ article.post {
     padding-bottom: 2rem;
 }
 
+
+footer {
+  margin: 5rem 0 2rem;
+  transform: translateY(5rem);
+}
 footer p {
     margin-bottom: 0;
     text-align: center;

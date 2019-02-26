@@ -57,20 +57,12 @@ class=title>Affiliate Delegate</div>
 </div>
 </div>
 
-
-<div style="display: flex; 
-flex-direction: column;
--webkit-box-orient: vertical;
--webkit-box-direction: normal;
--ms-flex-direction: column;">
-
 ### MichMATYC Leadership in Michigan
 
 * [Jim Ham, President, AMATYC](mailto:jaham1729@gmail.com)
 * [Jon Oaks, Midwest Vice President, AMATYC](mailto:jonnyoaks@gmail.com)
 * [David Tannor, Treasurer, AMATYC](mailto:davetannor@gmail.com)
 
-</div>
 
 ### MichMATYC Campus Representatives
 

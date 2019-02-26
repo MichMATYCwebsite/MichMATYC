@@ -1,6 +1,5 @@
 +++
 date = "2019-02-26T05:00:00+00:00"
-draft = true
 layout = "post"
 title = "Call for Proposals for 2019 MichMATYC Conference"
 

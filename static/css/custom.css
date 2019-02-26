@@ -6,6 +6,7 @@
 
 html {
   overflow-y: scroll;
+  font-family: var(--primary-font);
 }
 
 .p-main {
@@ -292,6 +293,12 @@ main.fade-out {
 #mobile-side-menu {
   display: block;
   background-color:  #ECA72C;
+  padding-top: 0;
+}
+
+#mobile-side-menu * {
+  padding: 0.25rem 0;
+  font-weight: 200;
 }
 
 #side-menu {

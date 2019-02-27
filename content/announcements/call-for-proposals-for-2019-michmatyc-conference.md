@@ -8,4 +8,4 @@ Henry Ford College will be hosting the **2019 MichMATYC Conference** on **Octobe
 
 Anyone interested in presenting should submit a proposal by April 30, 2019. Please consider sharing your experience, ideas, and expertise!
 
-To  submit a proposal, please go to the <a href="https://michmatyc2019.org/present/"> 2019 MichMATYC Conference website</a> and then click on the "Conference Presenter Form" link.If you have questions or if you encounter problems with the online Google form, please email [April Faladeau](mailto:amfalardeau@hfcc.edu) or call (313) 845-6492.
+To  submit a proposal, please go to the <a href="https://michmatyc2019.org/present/"> 2019 MichMATYC Conference website</a> and then click on the <a href="https://goo.gl/forms/ikXJbYTBoIZf5aZo2"> Conference Presenter Form link</a>. If you have questions or if you encounter problems with the online Google form, please email [April Faladeau](mailto:amfalardeau@hfcc.edu) or call (313) 845-6492.

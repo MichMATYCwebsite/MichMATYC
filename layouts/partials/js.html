@@ -1,37 +1,58 @@
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"
+></script>
 
 <script>
-
-document.querySelector('main').className += ' fade-out';
-window.addEventListener(
-    'load',
-    function load()
-    {
-        window.removeEventListener('load', load, false);
-        document.querySelector('main').classList.remove('fade-out');
+  document.querySelector("main").className += " fade-out";
+  window.addEventListener(
+    "load",
+    function load() {
+      window.removeEventListener("load", load, false);
+      document.querySelector("main").classList.remove("fade-out");
     },
-    false);
+    false
+  );
 </script>
 
 <script>
+  
+  // var lastTop;
 
-      function openSlideMenu() {
-        document.getElementById("mobile-side-menu").style.left = "0px";
+  function openSlideMenu() {
+    document.getElementById("mobile-side-menu").style.left = "0px";
+    let dimmedBg = document.getElementById("dim");
+    dimmedBg.classList.add("dimmed");
+    dimmedBg.classList.remove("clear");
+    // var lastTop = $(window).scrollTop();
+    // $("body")
+    //   .addClass("noscroll")
+    //   .css({ top: -lastTop });
+  
+  }
+
+  window.addEventListener(
+    "mouseup",
+    function(event) {
+      var sideNav = document.getElementById("mobile-side-menu");
+      var lastTop = $(window).scrollTop();
+      if (event.target != sideNav && event.target.parentNode != sideNav) {
+        document.getElementById("mobile-side-menu").style.left = "-220px";
         let dimmedBg = document.getElementById("dim");
-        dimmedBg.classList.add("dimmed");
-        dimmedBg.classList.remove("clear");
+        dimmedBg.classList.add("clear");
+        dimmedBg.classList.remove("dimmed");
+      //   $("body").removeClass("noscroll");
+      //  $(window).scrollTop(lastTop);
       }
-      function closeSlideMenu() {
-        document.getElementById("mobile-side-menu").style.display = "none";
-      }
-      window.addEventListener("mouseup", function(event) {
-        var sideNav = document.getElementById("mobile-side-menu");
-        if (event.target != sideNav && event.target.parentNode != sideNav) {
-          document.getElementById("mobile-side-menu").style.left = "-220px";
-          let dimmedBg = document.getElementById("dim");
-          dimmedBg.classList.add("clear");
-          dimmedBg.classList.remove("dimmed");
-        }
-      });
+    },
+    false
+  );
 
+
+  // function closeSlideMenu() {
+  //   document.getElementById("mobile-side-menu").style.display = "none";
+  //   $("body").removeClass("noscroll");
+  //   $(window).scrollTop(lastTop);
+  // }
 </script>
-

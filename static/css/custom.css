@@ -203,17 +203,20 @@ main.fade-out {
   top: 0;
   left: 0;
   right: 0;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-between; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   z-index: 200;
-  padding: 1rem 1rem;
+  padding: 0.75rem 1rem;
   background-color:   #ECA72C;
   border-bottom: 1px solid black;
   -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
 }
+
 
 .hamburger-nav * {
   margin: 0;
@@ -231,6 +234,11 @@ main.fade-out {
   height: 2rem;
   width: auto;
   border-radius: 50%;
+}
+
+.hamburger-nav i {
+  align-self: center;
+  justify-self: end;
 }
 
 .hamburger-nav .title {

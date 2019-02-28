@@ -37,8 +37,9 @@
       if (event.target != sideNav && event.target.parentNode != sideNav) {
         document.getElementById("mobile-side-menu").style.left = "-220px";
         let dimmedBg = document.getElementById("dim");
-        dimmedBg.classList.add("clear");
         dimmedBg.classList.remove("dimmed");
+        dimmedBg.classList.add("clear");
+      
         $("body").removeClass("noscroll");
        $(window).scrollTop(lastTop);
       }
@@ -53,8 +54,9 @@
 
   function closeSlideMenu() {
     document.getElementById("mobile-side-menu").style.display = "none";
-    let dimmedBg = document.getElementById("dim");
-    dimmedBg.classList.add("clear");
-    dimmedBg.classList.remove("dimmed");
+    // let dimmedBg = document.getElementById("dim");
+    // dimmedBg.classList.remove("dimmed");
+    // dimmedBg.classList.add("clear");
+ 
   }
 </script>

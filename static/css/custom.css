@@ -254,9 +254,9 @@ main.fade-out {
   text-align: left;
   z-index: 200;
   left:-220px;
-  -webkit-transition: left .5s ease-in-out;
-  -o-transition: left .5s ease-in-out;
-  transition: left .5s ease-in-out;
+  -webkit-transition: left .3s linear;
+  -o-transition: left .3s linear;
+  transition: left .3s linear;
   -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
@@ -428,6 +428,7 @@ footer .fa-heart {
 
 .fa-link {
   margin-left: 1rem;
+  display: none;
 }
 
 html {

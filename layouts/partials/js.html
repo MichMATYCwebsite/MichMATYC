@@ -53,5 +53,8 @@
 
   function closeSlideMenu() {
     document.getElementById("mobile-side-menu").style.display = "none";
+    let dimmedBg = document.getElementById("dim");
+    dimmedBg.classList.add("clear");
+    dimmedBg.classList.remove("dimmed");
   }
 </script>

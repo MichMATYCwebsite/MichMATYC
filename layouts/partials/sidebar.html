@@ -36,9 +36,9 @@
     </div>
     <nav>
       <ul class="sidebar-nav">
-        <li class="animate"><a href="{{ .Site.BaseURL }}" onclick="closeSlideMenu()" style="font-weight: bold;">Home</a> </li>
+        <li class="animate"><a href="{{ .Site.BaseURL }}" style="font-weight: bold;">Home</a> </li>
         {{ range .Site.Menus.main -}}
-          <li class="animate"><a href="{{.URL}}" style="font-weight: bold;" onclick="closeSlideMenu()"> {{ .Name }} </a></li>
+          <li class="animate"><a href="{{.URL}}" style="font-weight: bold;"> {{ .Name }} </a></li>
         {{- end }}
         <li style="padding-top: 1rem;">      <a class = "social" href="https://www.facebook.com/MichMATYC/" target="_blank"> <i class="fab fa-facebook-square"></i></a>
           <a class = "social" href="https://twitter.com/hashtag/MichMATYC?src=hash" target="_blank"> <i class="fab fa-twitter-square"></i></a></li>

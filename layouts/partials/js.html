@@ -4,20 +4,9 @@
   crossorigin="anonymous"
 ></script>
 
-<script>
-  document.querySelector("main").className += " fade-out";
-  window.addEventListener(
-    "load",
-    function load() {
-      window.removeEventListener("load", load, false);
-      document.querySelector("main").classList.remove("fade-out");
-    },
-    false
-  );
-</script>
+
 
 <script>
-  
 
   function openSlideMenu() {    
     document.getElementById("mobile-side-menu").style.left = "0px";
@@ -49,14 +38,11 @@
   );
   }
 
-
-
-
   function closeSlideMenu() {
     document.getElementById("mobile-side-menu").style.display = "none";
     let dimmedBg = document.getElementById("dim");
     dimmedBg.classList.remove("dimmed");
     dimmedBg.classList.add("clear");
- 
   }
+
 </script>

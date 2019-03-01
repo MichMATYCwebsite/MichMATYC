@@ -131,15 +131,6 @@ main.fade-in {
 } */
 
 
-#dim {
-  opacity: 1;
-  transition: 1s opacity;
-}
-#dim.fade-out {
-  opacity: 0;
-  transition: none;
-}
-
 /* ################################ */
 /* ########### Logo      ########## */
 /* ################################ */

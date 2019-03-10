@@ -4,10 +4,7 @@ layout = "post"
 title = "See You at the 2019 Annual MAA-MichMATYC Spring Meeting"
 
 +++
-The University of Detroit Mercy Mathematics Department is host for the 2019 Annual Meeting of the Michigan Section of the 
-Mathematical Association of America (MAA) and the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). 
-The meeting will take place Friday-Saturday, April 5-6, 2019. The meeting will begin around 2:00 pm on Friday and continue until 
-around 5:00 pm on Saturday. 
+The University of Detroit Mercy Mathematics Department is host for the 2019 Annual Meeting of the <a href="http://http://sections.maa.org/michigan/">Michigan Section</a> of the <a href="http://www.maa.org">Mathematical Association of America (MAA)</a> and the <a href="http://michmatyc.org">Michigan Mathematical Association of Two-Year Colleges (MichMATYC)</a>. The meeting will take place Friday-Saturday, April 5-6, 2019. The meeting will begin around 2:00 pm on Friday and continue until around 5:00 pm on Saturday. 
 
 There will also be a workshop on inquiry-based learning on Friday morning before the start of the conference. 
 

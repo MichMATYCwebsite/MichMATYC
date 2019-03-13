@@ -57,7 +57,7 @@ class=title>Affiliate Delegate</div>
 </div>
 </div>
 
-### MichMATYC Leadership in Michigan
+### AMATYC Leadership in Michigan
 
 * [Jim Ham, President, AMATYC](mailto:jaham1729@gmail.com)
 * [Jon Oaks, Midwest Vice President, AMATYC](mailto:jonnyoaks@gmail.com)

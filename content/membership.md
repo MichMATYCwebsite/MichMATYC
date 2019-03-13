@@ -6,7 +6,9 @@ title = "Membership"
 weight = 2
 
 +++
-The strength of MichMATYC is the membership and your membership makes a statement. It tells others that your profession is important to you and that you want to be a part of its growth and direction. To join or renew membership, fill out our [membership application](https://docs.google.com/forms/d/1BvfadG2g2hn7knYdHBIJDUH3ewkWLdBye-sJSbw9PEw). Afterwards, please download the membership application form either as [Microsoft Word](http://www.michmatyc.org/Membership%20Application%20form/memberform.doc) or [PDF](http://www.michmatyc.org/Membership%20Application%20form/memberform.pdf) and mail it to:
+The strength of MichMATYC is the membership and your membership makes a statement. It tells others that your profession is important to you and that you want to be a part of its growth and direction. To join or renew membership, fill out our [membership application](https://docs.google.com/forms/d/1BvfadG2g2hn7knYdHBIJDUH3ewkWLdBye-sJSbw9PEw). Afterwards, please download the membership application form either as [Microsoft Word](http://www.michmatyc.org/Membership%20Application%20form/memberform.doc) or [PDF](http://www.michmatyc.org/Membership%20Application%20form/memberform.pdf). 
+
+You can mail your completed membership form and dues to our Secretary/Treasurer as indicated on the membership form.
 
 Sam Bazzi, Secretary/Treasurer<br>
 Department of Mathematics<br>

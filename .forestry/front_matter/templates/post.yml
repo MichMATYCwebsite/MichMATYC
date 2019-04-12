@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -23,6 +22,4 @@ fields:
 pages:
 - content/announcements/call-for-proposals-for-2019-michmatyc-conference.md
 - content/announcements/check-out-the-newest-edition-of-the-sum-times.md
-- content/events/coffee-with-the-amatyc-midwest-vice-president.md
-- content/announcements/if-you-are-not-already-a-member-consider-joining-michmatyc.md
 - content/announcements/michmatyc-grants-are-now-available.md

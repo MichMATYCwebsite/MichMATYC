@@ -110,7 +110,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[Gogebic Community College](http://www.gogebic.cc.mi.us/)
 </td>
 
-<td class="tg-c3ow">[Deborah Pletcher](mailto:Deb.Pletcher@gogebic.edu)
+<td class="tg-c3ow">[Paul LaBine](mailto:PaulL@gogebic.edu)
 </td></tr>
 
 <tr>

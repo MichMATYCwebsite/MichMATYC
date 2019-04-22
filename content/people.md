@@ -103,7 +103,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[Glen Oaks Community College](http://www.glenoaks.cc.mi.us/)
 </td>
 
-<td class="tg-c3ow">[Susan Deter](mailto:sdeter@glenoaks.cc.mi.us)
+<td class="tg-c3ow">[Michael Sandelin](mailto:msandelin@glenoaks.edu)
 </td></tr>
 
 <tr>

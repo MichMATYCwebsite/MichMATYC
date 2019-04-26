@@ -10,8 +10,8 @@ colleague or administrator, and a summary of recent student evaluations.
 
 You may send your nominations to [Laura Wicklund](mailto:lkwicklu@oaklandcc.edu), Chair of the Teaching Excellence Award Committee.
 
-Laura Wicklund, Chair
-Oakland Community College
-2900 Featherstone Rd
-Auburn Hills, MI  48326-2845
+Laura Wicklund<br>
+Oakland Community College<br>
+2900 Featherstone Rd<br>
+Auburn Hills, MI  48326-2845<br>
 Email: lkwicklu@oaklandcc.edu

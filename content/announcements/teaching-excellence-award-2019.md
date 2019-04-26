@@ -1,7 +1,7 @@
 +++
 date = "2019-04-26T05:00:00+00:00"
 layout = "post"
-title = "Nominations a colleague for the Teaching Excellence Award"
+title = "Nominate a colleague for the Teaching Excellence Award!"
 
 +++
 As we near the end of the academic year, it is time to nominate your a colleague who is a current member of MichMATYC 

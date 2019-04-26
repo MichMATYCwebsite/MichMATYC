@@ -8,6 +8,10 @@ and professional development activities, interaction with colleagues and service
 A complete nomination includes a nomination form, resume, letters of recommendation from the nominator and a 
 colleague or administrator, and a summary of recent student evaluations.
 
+2019 Nomination deadline: **June 30, 2019**  
+Award Requirements (<a href="/uploads/Criteria_2019.pdf" target="_blank">PDF</a>) (<a href="/uploads/Criteria_2019.docx" target="_blank">Word</a>)<br>
+Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">PDF</a>) (<a href="/uploads/MichMATYC_Nom_Form_2019.docx" target="_blank">Word</a>)<br>
+
 You may send your nominations to [Laura Wicklund](mailto:lkwicklu@oaklandcc.edu), Chair of the Teaching Excellence Award Committee.
 
 Laura Wicklund<br>

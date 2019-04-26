@@ -4,7 +4,7 @@ layout = "post"
 title = "Nominate a colleague for the Teaching Excellence Award!"
 
 +++
-As we near the end of the academic year, it is time to nominate your a colleague who is a current member of MichMATYC 
+As we near the end of the academic year, it is time to nominate a colleague who is a current member of MichMATYC 
 for the Teaching Excellence Award. 
 
 The award was established to recognize the high quality of instruction occurring at Michigan’s two-year colleges. 

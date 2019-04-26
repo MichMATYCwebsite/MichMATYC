@@ -27,7 +27,7 @@ Since 1999, the MichMATYC Teaching Excellence Award recognizes the high quality 
 
 2019 Nomination deadline: **June 30, 2019**  
 <a href="/uploads/Criteria_2019.pdf" target="_blank">Award Requirements</a><br>
-Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">Pdf</a>) (<a href="/uploads/MichMATYC_Nom_Form_2019.docx" target="_blank">Word</a><br>
+Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">Pdf</a>) (<a href="/uploads/MichMATYC_Nom_Form_2019.docx" target="_blank">Word</a>)<br>
 
 **Contact Information**:<br/>
 [Laura Wicklund](mailto:lkwicklu@oaklandcc.edu)<br/>

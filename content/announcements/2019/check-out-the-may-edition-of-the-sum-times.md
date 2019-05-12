@@ -1,7 +1,7 @@
 +++
 date = "2019-05-09T09:00:00+00:00"
 layout = "post"
-title = "Check out the latest edition of The Sum-Times!"
+title = "Check out the May edition of The Sum-Times!"
 
 +++
 The [May 2019](https://michmatyc.netlify.com/uploads/MichMatycNewsletterMay2019.pdf) edition of The Sum-Times has been published with great articles, college and campus updates, and exciting events to look forward to this upcoming year!

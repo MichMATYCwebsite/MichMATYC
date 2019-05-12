@@ -1,7 +1,7 @@
 +++
 date = "2019-02-24T09:00:00+00:00"
 layout = "post"
-title = "Check out the latest edition of The Sum-Times!"
+title = "Check out the February edition of The Sum-Times!"
 
 +++
 The [February 2019](https://michmatyc.netlify.com/uploads/MichMatycNewsletterFeb2019.pdf) edition of 

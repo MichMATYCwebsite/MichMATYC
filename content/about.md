@@ -136,7 +136,7 @@ Summer Workshop (Grand Rapids CC)</td>
 <td class="tg-c3ow">Janina Udrys, Schoolcraft College</td>
 
 <td class="tg-c3ow">1995: Schoolcraft College <br/>
-Summer Workshops (Grand Rapids CC)</td>
+Summer Workshop (Grand Rapids CC)</td>
 </tr>
 
 <tr>

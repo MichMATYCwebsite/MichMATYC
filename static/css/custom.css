@@ -416,8 +416,9 @@ article.post {
 
 
 footer {
-  margin: 5rem 0 2rem;
-  transform: translateY(5rem);
+  /* margin: 5rem 0 2rem;
+  transform: translateY(5rem); */
+  padding: 2rem 0 0 0 ;
 }
 footer p {
     margin-bottom: 0;

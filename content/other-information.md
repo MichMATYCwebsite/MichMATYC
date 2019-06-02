@@ -140,7 +140,7 @@ No! Members can feel free to email [MichMATYC-List@michmatyc.org](mailto:MichMAT
 
 ##### How do I become a member of MichMATYC in order to use the MichMATYC ListServ?
 
-Head to the [Join MichMATYC](/join/) page for more information!
+Head to the [Join MichMATYC](/membership/) page for more information!
 
 <br/>
 

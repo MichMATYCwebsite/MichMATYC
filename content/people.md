@@ -11,7 +11,7 @@ weight = 3
 
 <div class=leadership-wrap>
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Michael Pemberton<p
+<div class=leadership-card-head><img class=leadership src=/uploads/pemberton.jpg> <p class=name>Michael Pemberton<p
 class=title>President</div>
 <div class=contact-wrap>
 <ul class=fa-ul>

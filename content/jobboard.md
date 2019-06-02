@@ -4,7 +4,7 @@ layout = "post"
 showdate = false
 title = "Job Board"
 [menu.main]
-weight = 3
+weight = 8
 
 +++
 ### MichMATYC Job Board

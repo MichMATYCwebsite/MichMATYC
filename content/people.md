@@ -63,7 +63,7 @@ class=title>Affiliate Delegate</div>
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:sbazzi@hfcc.edu?Subject=MichMATYC">sbazzi@hfcc.edu</a>
+<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:srsimpson@hfcc.edu?Subject=MichMATYC">srsimpson@hfcc.edu</a>
 </ul>
 </div>
 </div>

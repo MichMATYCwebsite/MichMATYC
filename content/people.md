@@ -199,7 +199,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[Mid-Michigan Community College](http://www.midmich.cc.mi.us/)
 </td>
 
-<td class="tg-c3ow">[David Kedrowski](mailto:dkedrows@midmich.edudkedrows@midmich.edu)
+<td class="tg-c3ow">[David Kedrowski](mailto:dkedrows@midmich.edu)
 </td></tr>
 
 <tr>

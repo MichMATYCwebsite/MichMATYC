@@ -77,6 +77,8 @@ Chair, Teaching Excellence Award Committee
 
 <tr>
     
+    <td class="tg-0pky"></td>
+    
     <td class="td-0pky">Teaching Excellence Award</td>
     
     <td class="tg-0pky">Jack Rotman</td>

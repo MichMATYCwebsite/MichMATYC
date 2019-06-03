@@ -67,7 +67,17 @@ Chair, Teaching Excellence Award Committee
 
     <td class="tg-0pky">2018</td>
     
-    <td class="tg-0pky">Teaching Excellence Award</td>
+    <td class="tg-0pky">Karen Sharp Award</td>
+    
+    <td class="tg-0pky">Jeff Powers</td>
+    
+    <td class="tg-0pky">Grand Rapids CC</td>
+    
+</tr>
+
+<tr>
+    
+    <td class="td-0pky">Teaching Excellence Award</td>
     
     <td class="tg-0pky">Jack Rotman</td>
     

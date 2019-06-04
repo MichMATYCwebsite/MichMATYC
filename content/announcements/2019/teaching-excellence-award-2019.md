@@ -4,9 +4,6 @@ layout = "post"
 title = "Nominate a Colleague for the Teaching Excellence Award!"
 
 +++
-As we near the end of the academic year, it is time to nominate a colleague who is a current member of MichMATYC 
-for the Teaching Excellence Award. 
-
 The award was established to recognize the high quality of instruction occurring at Michigan’s two-year colleges. 
 The selection criteria include instructional effectiveness and support of students, professional involvement 
 and professional development activities, interaction with colleagues and service to department and college.

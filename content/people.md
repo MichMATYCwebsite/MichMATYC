@@ -46,11 +46,11 @@ class=title>Secretary/Treasurer</div>
 </div>
 
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Julie Gunkelman<p
+<div class=leadership-card-head><img class=leadership src=/uploads/gunkelman.jpg> <p class=name>Julie Gunkelman<p
 class=title>Affiliate Delegate</div>
 <div class=contact-wrap>
 <ul class=fa-ul>
-<li><i class="fa-li fa fas fa-home"></i><a href= "https://www.kvcc.edu/" target=_blank> Oakland Community College, Orchard Ridge</a>
+<li><i class="fa-li fa fas fa-home"></i><a href= "https://www.oaklandcc.edu/" target=_blank> Oakland Community College, Orchard Ridge</a>
 <li><i class="fa-li fa-address-card far"></i>27055 Orchard Lake Rd.<li><i class="fa-li fa-address-card far"></i>Farmington Hills, MI  48334<li>
 <i class="fa-li fa fas fa-envelope"></i><a href="mailto:jagunkel@oaklandcc.edu?Subject=MichMATYC">jagunkel@oaklandcc.edu</a>
 </ul>

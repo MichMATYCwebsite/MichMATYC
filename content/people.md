@@ -58,7 +58,7 @@ class=title>Affiliate Delegate</div>
 </div>
 
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Shanna Simpson-Singleton<p
+<div class=leadership-card-head><img class=leadership src=/uploads/simpsonsingleton.jpg> <p class=name>Shanna Simpson-Singleton<p
 class=title>Affiliate Delegate</div>
 <div class=contact-wrap>
 <ul class=fa-ul>

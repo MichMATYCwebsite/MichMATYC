@@ -1,5 +1,5 @@
 +++
-date = "2019-04-26T05:00:00+00:00"
+date = "2019-06-04T05:00:00+00:00"
 layout = "post"
 title = "Nominate a Colleague for the Teaching Excellence Award!"
 

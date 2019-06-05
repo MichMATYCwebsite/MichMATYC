@@ -210,8 +210,6 @@ Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">
 [Laura Wicklund](mailto:lkwicklu@oaklandcc.edu)<br/>
 Chair, Teaching Excellence Award Committee
 
-<br/>
-
 #### Previous Award Recipients
 
 <style type="text/css">

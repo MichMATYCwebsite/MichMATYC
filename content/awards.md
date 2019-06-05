@@ -18,7 +18,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 2018-2019 Application deadline: **August 1, 2019**  
 [Scholarship Application Form](https://bit.ly/michmatycscholarship)
 
-#### Previous Scholarship Receipients
+#### Previous Scholarship Recipients
 
 <style type="text/css">
 
@@ -38,7 +38,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 
     <th class="tg-0pky"><b>Year</b></th>
     
-    <th class="tg-0pky"><b>Scholarship Receipient</b></th>
+    <th class="tg-0pky"><b>Scholarship Recipient</b></th>
     
     <th class="tg-0pky"><b>Institution</b></th>
 

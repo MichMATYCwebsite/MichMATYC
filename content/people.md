@@ -234,7 +234,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[North Central Michigan College](http://www.ncmc.cc.mi.us/)
 </td>
 
-<td class="tg-c3ow">[Gary Kersting](mailto:gkers@ncmich.edu)
+<td class="tg-c3ow">[Gary Kerstinger](mailto:gkersting@ncmich.edu)
 </td></tr>
 
 <tr>

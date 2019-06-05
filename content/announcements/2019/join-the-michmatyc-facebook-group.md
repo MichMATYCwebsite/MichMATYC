@@ -1,5 +1,5 @@
 +++
-date = "2019-05-12T19:45:00+00:00"
+date = "2019-05-10T19:45:00+00:00"
 layout = "post"
 title = "Join the MichMATYC Facebook Group"
 

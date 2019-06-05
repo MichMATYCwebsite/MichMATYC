@@ -38,7 +38,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 
     <th class="tg-0pky"><b>Year</b></th>
     
-    <th class="tg-0pky"><b>Recipient</b></th>
+    <th class="tg-0pky"><b>Student</b></th>
     
     <th class="tg-0pky"><b>Institution</b></th>
 
@@ -212,7 +212,7 @@ Chair, Teaching Excellence Award Committee
 
 <br/>
 
-### Previous Award Recipients
+#### Previous Award Recipients
 
 <style type="text/css">
 
@@ -232,8 +232,6 @@ Chair, Teaching Excellence Award Committee
 
     <th class="tg-0pky"><b>Year</b></th>
     
-    <th class="tg-0pky"><b>Award</b></th>
-    
     <th class="tg-0pky"><b>Recipient</b></th>
     
     <th class="tg-0pky"><b>Institution</b></th>
@@ -243,20 +241,6 @@ Chair, Teaching Excellence Award Committee
 <tr>
 
     <td class="tg-0pky">2018</td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Jeff Powers</td>
-    
-    <td class="tg-0pky">Grand Rapids CC</td>
-    
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
     
     <td class="tg-0pky">Jack Rotman</td>
     
@@ -268,8 +252,6 @@ Chair, Teaching Excellence Award Committee
 
     <td class="tg-0pky">2017</td>
     
-    <td class="tg-0pky">Teaching Excellence Award</td>
-    
     <td class="tg-0pky">Jon Oaks</td>
     
     <td class="tg-0pky">Macomb CC</td>
@@ -279,8 +261,6 @@ Chair, Teaching Excellence Award Committee
 <tr>
 
     <td class="tg-0pky">2016</td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
     
     <td class="tg-0pky">Lisa Winch</td>
     
@@ -292,8 +272,6 @@ Chair, Teaching Excellence Award Committee
 
     <td class="tg-0pky">2015</td>
     
-    <td class="tg-0pky">Teaching Excellence Award</td>
-    
     <td class="tg-0pky">Mary Roberson</td>
     
     <td class="tg-0pky">Delta College</td>
@@ -303,8 +281,6 @@ Chair, Teaching Excellence Award Committee
 <tr>
 
     <td class="tg-0pky">2014</td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
     
     <td class="tg-0pky">Julie Gunkelman</td>
     
@@ -316,20 +292,6 @@ Chair, Teaching Excellence Award Committee
 
     <td class="tg-0pky">2011</td>
     
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Daniel K. Van Strien</td>
-    
-    <td class="tg-0pky">Grand Rapids CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
-    
     <td class="tg-0pky">Ria Thomas</td>
     
     <td class="tg-0pky">Southwestern Michigan College</td>
@@ -338,69 +300,7 @@ Chair, Teaching Excellence Award Committee
 
 <tr>
 
-    <td class="tg-0pky">2010</td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Christopher S. Lach</td>
-    
-    <td class="tg-0pky">Macomb CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky">2009</td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Hyun Kyung Moon</td>
-    
-    <td class="tg-0pky">Henry Ford CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky">2008</td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Mary Grocholski</td>
-    
-    <td class="tg-0pky">Delta College</td>
-
-</tr>
-
-<tr>
-
     <td class="tg-0pky">2007</td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Thanh Nguyen</td>
-    
-    <td class="tg-0pky">Grand Rapids CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Matt DeYoung</td>
-    
-    <td class="tg-0pky">Kalamazoo Valley CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
     
     <td class="tg-0pky">Susan S. Hollar</td>
     
@@ -410,57 +310,7 @@ Chair, Teaching Excellence Award Committee
 
 <tr>
 
-    <td class="tg-0pky">2006</td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Amir Sabet Sarvestani</td>
-    
-    <td class="tg-0pky">Oakland CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Dan Lambert</td>
-    
-    <td class="tg-0pky">Kalamazoo Valley CC</td>
-
-</tr>
-
-<tr>
-
     <td class="tg-0pky">2005</td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Rebecca Rasmussen</td>
-    
-    <td class="tg-0pky">Alpena CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Larry Chroraszewsk</td>
-    
-    <td class="tg-0pky">Schoolcraft College</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
     
     <td class="tg-0pky">Jim Ham</td>
     
@@ -472,32 +322,6 @@ Chair, Teaching Excellence Award Committee
 
     <td class="tg-0pky">2004</td>
     
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Meththayana Talagalage</td>
-    
-    <td class="tg-0pky">Schoolcraft College</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Karen Sharp Award</td>
-    
-    <td class="tg-0pky">Elizabeth Windsor</td>
-    
-    <td class="tg-0pky">Grand Rapids CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
-    
     <td class="tg-0pky">Gladys Rockind</td>
     
     <td class="tg-0pky">Oakland CC</td>
@@ -508,20 +332,6 @@ Chair, Teaching Excellence Award Committee
 
     <td class="tg-0pky">2001</td>
     
-    <td class="tg-0pky">Student Scholarship Award</td>
-    
-    <td class="tg-0pky">Yumiko Watanbe</td>
-    
-    <td class="tg-0pky">Grand Rapids CC</td>
-
-</tr>
-
-<tr>
-
-    <td class="tg-0pky"></td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
-    
     <td class="tg-0pky">Deb Zopf</td>
     
     <td class="tg-0pky">Henry Ford College</td>
@@ -530,21 +340,7 @@ Chair, Teaching Excellence Award Committee
 
 <tr>
 
-    <td class="tg-0pky">2000</td>
-    
-    <td class="tg-0pky">Student Scholarship Award</td>
-    
-    <td class="tg-0pky">Micah Straub</td>
-    
-    <td class="tg-0pky">Monroe County CC</td>
-
-</tr>
-
-<tr>
-
     <td class="tg-0pky">1999</td>
-    
-    <td class="tg-0pky">Teaching Excellence Award</td>
     
     <td class="tg-0pky">Annette Magyar</td>
     

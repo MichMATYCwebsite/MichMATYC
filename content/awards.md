@@ -38,7 +38,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 
     <th class="tg-0pky"><b>Year</b></th>
     
-    <th class="tg-0pky"><b>Student</b></th>
+    <th class="tg-0pky"><b>Scholarship Receipient</b></th>
     
     <th class="tg-0pky"><b>Institution</b></th>
 
@@ -232,7 +232,7 @@ Chair, Teaching Excellence Award Committee
 
     <th class="tg-0pky"><b>Year</b></th>
     
-    <th class="tg-0pky"><b>Recipient</b></th>
+    <th class="tg-0pky"><b>Award Recipient</b></th>
     
     <th class="tg-0pky"><b>Institution</b></th>
 

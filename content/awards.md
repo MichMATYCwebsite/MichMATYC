@@ -20,8 +20,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 
 **Contact Information**:<br/>
 [Lisa Winch](mailto:lwinch@kvcc.edu)<br/>
-Chair, Karen Sharp Student Scholarship Committee
-
+Chair, Karen Sharp Student Scholarship Committee<br/>
 
 #### Previous Scholarship Recipients
 
@@ -213,7 +212,7 @@ Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">
 
 **Contact Information**:<br/>
 [Laura Wicklund](mailto:lkwicklu@oaklandcc.edu)<br/>
-Chair, Teaching Excellence Award Committee
+Chair, Teaching Excellence Award Committee<br/>
 
 #### Previous Award Recipients
 

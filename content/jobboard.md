@@ -13,7 +13,7 @@ If you wish to have your position posted here, please email [michmatyc@gmail.com
 
 ### Job Searching in Higher Education?
 
-* [AAR/EEO Affirmative Action Register](aar-eeo.com)
+* [AAR/EEO Affirmative Action Register](aar-eeo.com)<br/>
 The national EEO recruitment publication is directed to females, minorities, veterans, and disabled as well as to all employment candidates.
 
 * [Higher Ed Jobs Online](http://www.higheredjobs.com)

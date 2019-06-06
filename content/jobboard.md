@@ -11,6 +11,9 @@ weight = 9
 Below are job postings from MichMATYC member institutions and from institutions within neighboring states. 
 If you wish to have your position posted here, please email [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
 
+### Mathematics Position Announcements
+
+
 ### Job Searching in Higher Education?
 
 * [AAR/EEO Affirmative Action Register](aar-eeo.com)<br/>

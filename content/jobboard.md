@@ -21,6 +21,25 @@ If you wish to have your position posted here with the list of information liste
 
 ### Mathematics Position Announcements
 
+<table class="tg">
+
+<tr>
+
+<th class="tg-c3ow"><b>Institution</b></th>
+
+<th class="tg-c3ow"><b>Date Posted</b></th>
+
+<th class="tg-c3ow"><b>Important Dates</b></th>
+
+</tr>
+
+<tr>
+<td class="tg-c3ow">
+</td>
+
+<td class="tg-c3ow">
+</td></tr>
+</table>
 
 ### Job Searching in Higher Education?
 

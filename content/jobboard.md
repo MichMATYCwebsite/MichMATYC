@@ -17,7 +17,7 @@ The posting must include the following information:
 * Date the position starts.
 * Closing date for the job posting.
 
-If you wish to have your position posted here, please email [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
+If you wish to have your position posted here with the list of information listed above in an email to [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
 
 ### Mathematics Position Announcements
 

@@ -25,7 +25,7 @@ The posting must include electronic copy of the vacancy notice, a link to the in
 <th class="tg-c3ow"><b>Important Dates</b></th>
 
 </tr>
-</table>
+</table><br>
 
 
 ### Job Searching in Higher Education?

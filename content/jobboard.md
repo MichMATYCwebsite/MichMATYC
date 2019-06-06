@@ -8,7 +8,15 @@ weight = 9
 
 +++
 
-Below are job postings from MichMATYC member institutions and from institutions within neighboring states. 
+MichMATYC is happy to post positions from its member institutions and from institutions within neighboring states related to mathematics education in the first two years of college on this Job Board. Appropriate positions would include instructor, department chair, dean, or learning center professional in the fields of mathematics and computer science. Advertisements for positions requiring knowledge of mathematics education will also be accepted and posted.
+
+The posting must include the following information:
+* Electronic copy of the vacancy notice.
+* A link to the institution's website.
+* Location of the position.
+* Date the position starts.
+* Closing date for the job posting.
+
 If you wish to have your position posted here, please email [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
 
 ### Mathematics Position Announcements

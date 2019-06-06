@@ -27,6 +27,7 @@ The posting must include electronic copy of the vacancy notice, a link to the in
 </tr>
 </table>
 
+
 ### Job Searching in Higher Education?
 
 * [AAR/EEO Affirmative Action Register](aar-eeo.com)

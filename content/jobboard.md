@@ -38,6 +38,9 @@ If you wish to have your position posted here with the list of information liste
 </td>
 
 <td class="tg-c3ow">
+</td>
+
+<td class="tg-c3ow">
 </td></tr>
 </table>
 

@@ -48,7 +48,7 @@ Doug Mace, Kirtland CC</td>
 <td class="tg-c3ow">Jack Rotman, Lansing CC</td>
 
 <td class="tg-c3ow">2014: Lake Michigan College<br>
-2013: Oakland CC</td>  
+2013: Oakland CC, Orchard Ridge Campus</td>  
 </tr>
 
 <tr>

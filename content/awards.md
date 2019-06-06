@@ -20,7 +20,8 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 
 **Contact Information**:<br/>
 [Lisa Winch](mailto:lwinch@kvcc.edu)<br/>
-Chair, Karen Sharp Student Scholarship Committee<br/>
+Chair, Student Scholarship Committee
+<br/>
 
 #### Previous Scholarship Recipients
 

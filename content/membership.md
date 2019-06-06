@@ -17,5 +17,4 @@ Henry Ford College<br>
 Dearborn MI, 48128<br>
 Email: [sbazzi@hfcc.edu](mailto:sbazzi@hfcc.edu)
 
-The annual membership fee for being a member of MichMATYC is just $5!<br> 
-We appreciate your time, efforts, and support of MichMATYC.
+The annual membership fee for being a member of MichMATYC is just $5! We appreciate your time, efforts, and support of MichMATYC.

@@ -18,6 +18,11 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 2018-2019 Application deadline: **August 1, 2019**  
 [Scholarship Application Form](https://bit.ly/michmatycscholarship)
 
+**Contact Information**:<br/>
+[Lisa Winch](mailto:lwinch@kvcc.edu)
+Chair, Karen Sharp Student Scholarship Committee
+
+
 #### Previous Scholarship Recipients
 
 <style type="text/css">

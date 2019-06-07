@@ -10,7 +10,9 @@ The electronic version of the Michigan Mathematical Association of Two-Year Coll
 
 If you don't know if something would be appropriate, please ask us. The MichMATYC Sum-Times articles are light, short, and informative. Most of our articles run in length between 300 and 500 words and tend to be one column or two columns per page.
 
-**Contact Information**:<br/>[Desidera (Indah) Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu)<br/>Newsletter Editor<br/>The MichMATYC Sum-Times
+**Contact Information**:<br/>[Desidera (Indah) Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu)<br/>
+Macomb Community College<br/>
+Newsletter Editor<br/>The MichMATYC Sum-Times
 
 <br/>
 ### Archived Editions

@@ -28,6 +28,7 @@ Oakland Community College<br>
 2900 Featherstone Rd<br>
 Auburn Hills, MI  48326-2845<br>
 Email: lkwicklu@oaklandcc.edu
+<br/>
 
 ### Call for Proposals for 2019 MichMATYC Conference
 Sat, May 11, 2019
@@ -37,11 +38,13 @@ Henry Ford College will be hosting the **2019 MichMATYC Conference** on **Octobe
 Anyone interested in presenting should submit a proposal by May 31, 2019. Please consider sharing your experience, ideas, and expertise!
 
 To  submit a proposal, please go to the <a href="https://michmatyc2019.org/present/"> 2019 MichMATYC Conference website</a> and then click on the <a href="https://goo.gl/forms/ikXJbYTBoIZf5aZo2"> Conference Presenter Form link</a>. If you have questions or if you encounter problems with the online Google form, please email [April Faladeau](mailto:amfalardeau@hfcc.edu) or call (313) 845-6492.
+<br/>
 
 ### Join the MichMATYC Facebook Group
 Fri, May 10, 2019
 
 If you would like to further network with colleagues around Michigan and neighboring states, receive additional updates, along with other news and interesting articles, please consider joining the [MichMATYC Facebook Group](https://www.facebook.com/MichMATYC/).
+<br/>
 
 ### Check out the May edition of The Sum-Times!
 Thurs, May 9, 2019
@@ -49,6 +52,7 @@ Thurs, May 9, 2019
 The [May 2019](https://michmatyc.netlify.com/uploads/MichMatycNewsletterMay2019.pdf) edition of The Sum-Times has been published with great articles, college and campus updates, and exciting events to look forward to this upcoming year!
 
 If you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter for May 2019, please submit to [Desidera (Indah) Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu), Newsletter Editor, The MichMATYC Sum-Times.
+<br/>
 
 ### Applications for MiTEAM Cohort 3
 Sun, Feb 17, 2019
@@ -56,6 +60,7 @@ Sun, Feb 17, 2019
 The deadline for applications to be considered for MiTEAM Cohort 3 is **September 1, 2019**. Any full- or part-time faculty in their first three years of college teaching interested in becoming a participant in MichMATYC MiTEAM can go to <a href="http://bit.ly/MiTeam">MichMATYC MiTEAM</a> for more information and to complete an application for consideration. If you have new colleagues within your department, encourage them to apply to be part of the next MiTEAM cohort!
 
 Contact: <a href="mailto:pembertm@lcc.edu">Michael Pemberton</a>, MiTEAM Program Coordinator
+<br/>
 
 ### Check out the February edition of The Sum-Times!
 Mon, Feb 4, 2019

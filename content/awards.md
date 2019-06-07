@@ -20,7 +20,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 
 **Contact Information**:<br/>
 [Lisa Winch](mailto:lwinch@kvcc.edu)<br/>
-Kalamazoo Valley Community College<br/>
+Kalamazoo Valley CC<br/>
 Chair, Student Scholarship Committee
 <br/><br/>
 
@@ -214,7 +214,7 @@ Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">
 
 **Contact Information**:<br/>
 [Laura Wicklund](mailto:lkwicklu@oaklandcc.edu)<br/>
-Oakland Community College, Auburn Hills<br/>
+Oakland CC, Auburn Hills<br/>
 Chair, Teaching Excellence Award Committee
 <br/><br/>
 
@@ -368,5 +368,5 @@ In this spirit, MichMATYC is offering grants of up to $500 to support the activi
 
 **Contact Information**:<br/>
 [Jon Oaks](mailto:oaksj@macomb.edu)<br/>
-Macomb Community College<br/>
+Macomb CC<br/>
 MichMATYC Grants Coordinator

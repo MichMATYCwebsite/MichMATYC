@@ -6,9 +6,9 @@ title = "Archives"
 
 +++
 
-## Announcements
+# Announcements
 
-### November 2018
+## November 2018
 <br/>
 **MichMATYC Grants are now available!**<br/>
 Tues, Nov 20, 2018

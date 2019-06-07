@@ -177,4 +177,4 @@ For more information on the competition, scholarships, and previous exams, pleas
 * [Mu Alpha Theta](http://www.mualphatheta.org/)
 * [The National Council of Teachers of Mathematics (NCTM)](http://www.nctm.org/)
 * [The Society for Industrial and Applied Mathematics (SIAM)](http://www.siam.org/)
-* [National Association for Developmental Education (NADE)](http://www.nade.net/)
+* [National Association for Student Success (NOSS)](http://www.thenoss.org/)

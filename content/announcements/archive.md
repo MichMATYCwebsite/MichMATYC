@@ -72,7 +72,7 @@ to look forward to this upcoming year!
 If you are interested in submitting an article or information to be shared with your MichMATYC colleagues 
 in the next newsletter for February 2019, please submit to [Desidera (Indah) Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu), 
 Newsletter Editor, The MichMATYC Sum-Times.
-<br/><br/>
+<br/><br/><br/>
 
 ## 2018
 

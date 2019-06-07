@@ -2,13 +2,13 @@
 date = "2019-02-16T23:06:58+00:00"
 layout = "post"
 showdate = false
-title = "Announcement Library"
+title = "Archive"
 
 +++
 
-### 2018
+### Announcements
 
-+++
+####
 date = "2018-11-20T16:21:58+00:00"
 layout = "post"
 title = "MichMATYC Grants are now available!"

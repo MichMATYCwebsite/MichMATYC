@@ -9,6 +9,7 @@ The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) provides 
 
 **Contact Information**:<br/>
 [Michael Pemberton](mailto:mppemberton@gmail.com)<br/>
+Lansing Community College<br/>
 MiTEAM Program Coordinator
 
 </br>

@@ -12,7 +12,7 @@ If you don't know if something would be appropriate, please ask us. The MichMATY
 
 **Contact Information**:<br/>[Desidera (Indah) Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu)<br/>
 Macomb Community College<br/>
-Newsletter Editor, The MichMATYC Sum-Times
+Newsletter Editor
 
 <br/>
 ### Archived Editions

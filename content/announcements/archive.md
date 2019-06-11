@@ -17,6 +17,7 @@ If you have any questions or would like additional information about the Karen S
 
 2019 Nomination deadline: **July 31, 2019**  
 <a href="http://bit.ly/michmatycscholarship/">Student Scholarship Application</a>
+<br/><br/>
 
 ### Nominate a Colleague for the Teaching Excellence Award!
 Tues, Jun 4, 2019

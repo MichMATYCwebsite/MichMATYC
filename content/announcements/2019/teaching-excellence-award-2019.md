@@ -1,14 +1,24 @@
 +++
-date = "2019-06-10T20:00:00+00:00"
+date = "2019-06-04T20:00:00+00:00"
 layout = "post"
-title = "2019 Karen Sharp Student Scholarship"
+title = "Nominate a Colleague for the Teaching Excellence Award!"
 
 +++
-I hope that everyone is having a wonderful summer! I wanted to let you know that we have extended the deadline for the 2019 Karen Sharp Student Scholarship to **July 31, 2019**.
+The award was established to recognize the high quality of instruction occurring at Michigan’s two-year colleges. 
+The selection criteria include instructional effectiveness and support of students, professional involvement 
+and professional development activities, interaction with colleagues and service to department and college.
 
-Please encourage your wonderful students from the Spring 2019 semester or current students this summer, that meet the eligibility requirements, to consider and apply for the Karen Sharp Student Scholarship of $500. The application is available for students using Google Forms at [Student Scholarship Application](http://bit.ly/michmatycscholarship). In addition, students will also need to submit a current resume, letters of recommendation, personal statement, and transcripts to be considered.
+A complete nomination includes a nomination form, resume, letters of recommendation from the nominator and a 
+colleague or administrator, and a summary of recent student evaluations.
 
-If you have any questions or would like additional information about the Karen Sharp Student Scholarship, please visit [Awards, Scholarships & Grants](https://michmatyc.netlify.com/awards/).
+2019 Nomination deadline: **June 30, 2019**  
+Award Requirements (<a href="/uploads/Criteria_2019.pdf" target="_blank">PDF</a>) (<a href="/uploads/Criteria_2019.docx" target="_blank">Word</a>)<br>
+Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">PDF</a>) (<a href="/uploads/MichMATYC_Nom_Form_2019.docx" target="_blank">Word</a>)<br>
 
-2019 Nomination deadline: **July 31, 2019**  
-[Student Scholarship Application](http://bit.ly/michmatycscholarship)
+You may send your nominations to [Laura Wicklund](mailto:lkwicklu@oaklandcc.edu), Chair of the Teaching Excellence Award Committee.
+
+Laura Wicklund<br>
+Oakland Community College<br>
+2900 Featherstone Rd<br>
+Auburn Hills, MI  48326-2845<br>
+Email: lkwicklu@oaklandcc.edu

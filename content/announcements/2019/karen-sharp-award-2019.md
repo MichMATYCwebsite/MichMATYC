@@ -1,7 +1,7 @@
 +++
 date = "2019-06-10T20:00:00+00:00"
 layout = "post"
-title = "Nominate a Colleague for the Teaching Excellence Award!"
+title = "Karen Sharp Student Scholarship"
 
 +++
 I hope that everyone is having a wonderful summer! I wanted to let you know that we have extended the deadline for the 2019 Karen Sharp Student Scholarship to **July 31, 2019**.

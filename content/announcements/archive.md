@@ -7,7 +7,8 @@ title = "Announcements Library"
 
 ## 2019
 
-### 2019 Karen Sharp Student Scholarship
+### Karen Sharp Student Scholarship
+Mon, Jun 10, 2019
 
 I hope that everyone is having a wonderful summer! I wanted to let you know that we have extended the deadline for the 2019 Karen Sharp Student Scholarship to **July 31, 2019**.
 

@@ -36,6 +36,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 * [Yahoo!](http://www.yahoo.com)
 * [HIRE-ED](http://www.hire-ed.org)
 * [JobNext Career Network](http://www.jobnext.com)
+* [Maryville University's "Top Interview Tips"](https://online.maryville.edu/online-masters-degrees/top-interview-tips-to-help-you-land-your-dream-job/)
 
 ### Job Searching Outside Academia?
 

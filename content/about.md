@@ -6,7 +6,6 @@ title = "About"
 
 +++
 
-
 ### History
 
 On May 2, 1981, thirteen two-year college instructors met at the [Mathematical Association of America (MAA)](http://sections.maa.org/michigan/) Michigan section meeting at Oakland University. Karen Sharp called the meeting, explaining the need for a Michigan section of the [American Mathematical Association of Two-Year Colleges (AMATYC)](http://www.amatyc.org/). 

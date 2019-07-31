@@ -15,7 +15,7 @@ MiTEAM Program Coordinator
 <br/>
 
 ### Program Description
-In 2017, MichMATYC created a new program titled <i>Michigan Teacher Enrichment and Mentoring</i>. The purpose of the program is to help integrate new two-year college faculty into teaching mathematics at community colleges and become active members within the state organization. Participants of MiTEAM are expected to attend several targeted sessions at the annual conference and participate in general conference activities when not in their own sessions. For more information about the goals, activities, and requirements, please see the [Program Description](https://drive.google.com/open?id=1XIJqwyt0iuWOrJzWL-dF5_Ox1Vv3yeee05ACQi6wAfM).
+In 2017, MichMATYC created a new program titled <i>Michigan Teacher Enrichment and Mentoring</i>. The purpose of the program is to help integrate new two-year college faculty into teaching mathematics at community colleges and become active members within the state organization. Participants of MiTEAM are expected to attend several targeted sessions at the annual conference and participate in general conference activities when not in their own sessions. For more information about the goals, activities, and requirements, please see the full [Program Description](https://drive.google.com/open?id=1XIJqwyt0iuWOrJzWL-dF5_Ox1Vv3yeee05ACQi6wAfM).
 
 </br>
 

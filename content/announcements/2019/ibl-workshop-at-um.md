@@ -27,7 +27,8 @@ While the term IBL (inquiry-based learning) is intentionally "big tent" and refe
 students to collaborate on rich mathematical tasks, we'll take the view in this workshop that there are four pillars of IBL 
 teaching to help us define our focus:
 
-*Student engagement in meaningful mathematics,
-*Student collaboration for sense making, 
-*Instructor inquiry into student thinking, and 
-*Equitable instructional practice to include all in rigorous mathematical learning and mathematical identity building.
+<ul>
+  <li>Student engagement in meaningful mathematics,</li>
+  <li>Student collaboration for sense making,</li>
+  <li>Instructor inquiry into student thinking, and</li> 
+  <li>Equitable instructional practice to include all in rigorous mathematical learning and mathematical identity building.</li></ul>

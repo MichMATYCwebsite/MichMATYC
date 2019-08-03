@@ -40,3 +40,36 @@ teaching to help us define our focus:
   <li>Equitable instructional practice to include all in rigorous mathematical learning and mathematical identity building.</li></ul>
 <br/>
 
+### 2019 AMATYC Conference in Milwaukee
+Sat, Jun 1, 2019
+
+The 45th Annual AMATYC Conference is going to be GREAT! 
+The conference is making its debut in Wisconsin, so take advantage of this opportunity to attend an 
+awesome national annual conference right here in our region!
+
+Our keynote speakers are [James Tanton](http://www.jamestanton.com) and [Francis Su](https://www.math.hmc.edu/~su/), 
+and our featured speakers are [Michael Steele](https://uwm.edu/education/people/steele-michael-d/) and [Alan Zollman](https://www.ius.edu/biographies/index.php/?bioID=161).
+
+The best part of the conference is always the networking – so don't miss this chance to hang out with 
+likeminded math professors from all over the country! You'll learn a lot, you'll be inspired, you'll have fun, 
+and you'll never want to miss another AMATYC Conference!
+<br/><br/>
+
+### 2019 Annual MAA-MichMATYC Spring Meeting
+Sun, Mar 10, 2019
+
+Mark your calendars now for this year’s annual conference. You don’t want to miss it!<br/>
+**Host: Henry Ford College, Dearborn, Michigan. Dates: October 11-12, 2019.**
+
+More information regarding the conference will be posted. We can't wait to see you there!
+<br/><br/>
+
+## 2018
+
+### Mark Your Calendars for the 2019 MichMATYC Conference
+Fri, Nov 23, 2018
+
+Mark your calendars now for this year’s annual conference. You don’t want to miss it!<br/>
+**Host: Henry Ford College, Dearborn, Michigan. Dates: October 11-12, 2019.**
+
+More information regarding the conference will be posted. We can't wait to see you there!

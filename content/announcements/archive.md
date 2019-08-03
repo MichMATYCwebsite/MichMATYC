@@ -38,7 +38,7 @@ teaching to help us define our focus:
   <li>Student collaboration for sense making,</li>
   <li>Instructor inquiry into student thinking, and</li> 
   <li>Equitable instructional practice to include all in rigorous mathematical learning and mathematical identity building.</li></ul>
-<br/><br/>
+<br/>
 
 ### Karen Sharp Student Scholarship
 Mon, Jun 10, 2019

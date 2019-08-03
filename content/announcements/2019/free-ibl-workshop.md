@@ -1,5 +1,5 @@
 +++
-date = "2019-08-01T018:09:00+00:00"
+date = "2019-08-01T18:09:00+00:00"
 layout = "post"
 title = "Free IBL Worskhop at University of Michigan"
 

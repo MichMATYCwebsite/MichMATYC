@@ -13,14 +13,15 @@ The workshop will run approximately from 1:00-5:00 pm, Tuesday-Thursday, August 
 The workshop is appropriate for many levels of experience and interest in IBL teaching—whether you’ve taught IBL for years, 
 or are simply looking for small ways to make your classroom more interactive and exploratory. During the workshop participants will:
 
-*Watch and reflect upon on selected video clips,
-*Discuss key facets of IBL teaching,
-*Read and discuss some of the education literature,
-*Discuss challenges of IBL teaching and strategies,
-*Make concrete plans for creating a classroom climate,
-*Have coffee and cookies with fellow participants;
+<ul>
+  <li>Watch and reflect upon on selected video clips,</li>
+  <li>Discuss key facets of IBL teaching,</li>
+  <li>Read and discuss some of the education literature</li>
+  <li>Discuss challenges of IBL teaching and strategies,</li>
+  <li>Make concrete plans for creating a classroom climate,</li>
+  <li>Have coffee and cookies with fellow participants;</li>
 
-*And, if time allows, take part in an IBL lesson!
+  <li>And, if time allows, take part in an IBL lesson!</li></ul>
 
 While the term IBL (inquiry-based learning) is intentionally "big tent" and refers to a wide range of pedagogies that invite 
 students to collaborate on rich mathematical tasks, we'll take the view in this workshop that there are four pillars of IBL 

@@ -24,7 +24,7 @@
 {{ partial "events.html" }}
 
 <div class="posts">
-  {{ range first 5 (where .Data.Pages "Section" "events") -}}
+  {{ range first 3 (where .Data.Pages "Section" "events") -}}
   <article class="post">
     <h3 class="post-title">
       <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>

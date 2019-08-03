@@ -4,7 +4,7 @@ layout = "post"
 title = "Check Out, Use, and Contribute to Convergence"
 
 +++
-This is an invitation for you to check out, use, and contribute to [Convergence](http://www.maa.org/press/periodicals/convergence, 
+This is an invitation for you to check out, use, and contribute to <a href="http://www.maa.org/press/periodicals/convergence">Convergence</a>, 
 an online MAA resource where history, mathematics, and teaching converge.
 
 Convergence is a free, open-access "onscreen" publication, rather than a typical electronic journal consisting of pdf downloads. 

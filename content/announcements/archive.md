@@ -11,7 +11,7 @@ title = "Announcements Library"
 Fri, Aug 2, 2019
 
 This is an invitation for you to check out, use, and contribute to <a href="http://www.maa.org/press/periodicals/convergence">Convergence</a>, 
-an online MAA resource where history, mathematics, and teaching converge.
+an online MAA resource where history, mathematics, and teaching converge.<br/><!--more-->
 
 Convergence is a free, open-access "onscreen" publication, rather than a typical electronic journal consisting of pdf downloads. 
 Since its establishment in 2004, it has provided multi-webpage peer-reviewed articles on the history of mathematics and its uses 
@@ -21,43 +21,10 @@ These materials include hundreds of colorful images, as well as animated and int
 Make Convergence your go-to resource for the history of mathematics and its uses in teaching!
 <br/><br/>
 
-### Free IBL Workshop at University of Michigan
-Thurs, Aug 1, 2019
-
-You are invited to participate in a free workshop on Inquiry-Based Learning (IBL), taking place at University of Michigan, August 27-29. 
-Facilitators are Nina White (UM) and Kyle Petersen (DePaul). The [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfzyp7B4CtMyN0uGWoe5ICT-bBX3MeU5-LsWsgW7jCFL4OLNg/viewform?fbclid=IwAR1fL7rlhjuTwy4KF9fGm5LyUi9fSHXa3TGWI8tzBdFGvDQG3mlWcikdTks)
-is now up!
-
-The workshop will run approximately from 1:00-5:00 pm, Tuesday-Thursday, August 27-29 on the University of Michigan Campus.
-
-The workshop is appropriate for many levels of experience and interest in IBL teaching—whether you’ve taught IBL for years, 
-or are simply looking for small ways to make your classroom more interactive and exploratory. During the workshop participants will:
-
-<ul>
-  <li>Watch and reflect upon on selected video clips,</li>
-  <li>Discuss key facets of IBL teaching,</li>
-  <li>Read and discuss some of the education literature</li>
-  <li>Discuss challenges of IBL teaching and strategies,</li>
-  <li>Make concrete plans for creating a classroom climate,</li>
-  <li>Have coffee and cookies with fellow participants;</li>
-
-  <li>And, if time allows, take part in an IBL lesson!</li></ul>
-
-While the term IBL (inquiry-based learning) is intentionally "big tent" and refers to a wide range of pedagogies that invite 
-students to collaborate on rich mathematical tasks, we'll take the view in this workshop that there are four pillars of IBL 
-teaching to help us define our focus:
-
-<ul>
-  <li>Student engagement in meaningful mathematics,</li>
-  <li>Student collaboration for sense making,</li>
-  <li>Instructor inquiry into student thinking, and</li> 
-  <li>Equitable instructional practice to include all in rigorous mathematical learning and mathematical identity building.</li></ul>
-<br/>
-
 ### Karen Sharp Student Scholarship
 Mon, Jun 10, 2019
 
-I hope that everyone is having a wonderful summer! I wanted to let you know that we have extended the deadline for the 2019 Karen Sharp Student Scholarship to **July 31, 2019**.
+I hope that everyone is having a wonderful summer! I wanted to let you know that we have extended the deadline for the **2019 Karen Sharp Student Scholarship** to **July 31, 2019**.<!--more-->
 
 Please encourage your wonderful students from the Spring 2019 semester or current students this summer, that meet the eligibility requirements, to consider and apply for the Karen Sharp Student Scholarship of $500. The application is available for students using Google Forms at <a href="http://bit.ly/michmatycscholarship/">Student Scholarship Application</a>. In addition, students will also need to submit a current resume, letters of recommendation, personal statement, and transcripts to be considered.
 

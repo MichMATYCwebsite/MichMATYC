@@ -62,7 +62,7 @@ Mark your calendars now for this year’s annual conference. You don’t want to
 **Host: Henry Ford College, Dearborn, Michigan. Dates: October 11-12, 2019.**
 
 More information regarding the conference will be posted. We can't wait to see you there!
-<br/><br/>
+<br/><br/><br/>
 
 ## 2018
 

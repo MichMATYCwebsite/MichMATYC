@@ -10,8 +10,8 @@ title = "Past Events"
 ### Free IBL Workshop at University of Michigan
 Thurs, Aug 1, 2019
 
-You are invited to participate in a **free workshop** on **Inquiry-Based Learning (IBL)**, taking place at University of Michigan, **August 27-29**. Facilitators are Nina White (UM) and Kyle Petersen (DePaul). The [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfzyp7B4CtMyN0uGWoe5ICT-bBX3MeU5-LsWsgW7jCFL4OLNg/viewform?fbclid=IwAR1fL7rlhjuTwy4KF9fGm5LyUi9fSHXa3TGWI8tzBdFGvDQG3mlWcikdTks)
-is now up!
+You are invited to participate in a **free workshop** on **Inquiry-Based Learning (IBL)**, taking place at **University of Michigan**, **August 27-29**. Facilitators are Nina White (UM) and Kyle Petersen (DePaul). The [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfzyp7B4CtMyN0uGWoe5ICT-bBX3MeU5-LsWsgW7jCFL4OLNg/viewform?fbclid=IwAR1fL7rlhjuTwy4KF9fGm5LyUi9fSHXa3TGWI8tzBdFGvDQG3mlWcikdTks)
+is now up!<!--more-->
 
 The workshop will run approximately from 1:00-5:00 pm, Tuesday-Thursday, August 27-29 on the University of Michigan Campus.
 

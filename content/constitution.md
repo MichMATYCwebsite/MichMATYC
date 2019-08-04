@@ -8,7 +8,7 @@ title = "Constitution and By-Laws"
 
 The official documents for the <a href="http://bit.ly/michmatycconstitution">Constitution and By-Laws</a> of the Michigan Mathematical Association of Two-Year Colleges (MichMATYC) are available upon request and are kept with the current President of the association.<br/><br/>
 
-### The Constitution
+### Constitution
 <br/>
 **Article I – Name**<br/>
 The name of the Association is the Michigan Mathematical Association of Two-Year Colleges.<br/>
@@ -57,7 +57,7 @@ This Constitution or the By-Laws may be amended by a two-thirds vote of those me
 If, at any time, the Association shall cease to carry out the purposed herein stated, all assets and property held by the Association, whether in trust or otherwise, shall, after payment of its liabilities, be paid over to the American Mathematical Association of Two-Year Colleges to be used exclusively for any project, or educational purposes, as determined by the Executive Board of that organization.
 <br/><br/><br/>
 
-### The By-Laws
+### By-Laws
 <br/>
 **Article I – Rules of Order**<br/>
 <i>Robert’s Rules of Order, Revised</i> shall be the authority of all questions and procedures not specifically stated in this Constitution and By-Laws.<br/>

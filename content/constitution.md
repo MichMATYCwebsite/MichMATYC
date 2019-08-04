@@ -111,5 +111,5 @@ Eligibility to vote on Association business or in Association elections or to ma
 
 The election shall be completed in time for publication in the Association Newsletter prior to August 1.<br/><br/>
 
-Constitution and By-Laws adopted 05/02/1981<br/>
+Constitution and By-Laws Adopted 05/02/1981<br/>
 Amended 10/01/2005

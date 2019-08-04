@@ -63,7 +63,7 @@ If, at any time, the Association shall cease to carry out the purposed herein st
 **Article II: &nbsp; Qualifications, Terms, Duties of Officers and Other Members of the Executive Board**
 <ol type="a">
    <li> Officers of this Association shall be active members of the Michigan Mathematical Association of Two-Year Colleges.</li>
-   <li> Terms of Office
+	<li> Terms of Office</li></ol>
    <ol>
       <li> All officers shall assume duties of their elective officers on June 1.</li>
       <li> The President shall serve for a period of two years, succeeding to office from the office of President-Elect. This office, if vacated, shall be filled by the Executive Board for the remainder of the term.</li>

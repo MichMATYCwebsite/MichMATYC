@@ -63,14 +63,14 @@ If, at any time, the Association shall cease to carry out the purposed herein st
 **Article II: &nbsp; Qualifications, Terms, Duties of Officers and Other Members of the Executive Board**
 <ol type="a">
    <li> Officers of this Association shall be active members of the Michigan Mathematical Association of Two-Year Colleges.</li>
-	<li> Terms of Office</li></ol>
+	<li> Terms of Office</li>
    <ol>
       <li> All officers shall assume duties of their elective officers on June 1.</li>
       <li> The President shall serve for a period of two years, succeeding to office from the office of President-Elect. This office, if vacated, shall be filled by the Executive Board for the remainder of the term.</li>
       <li> The President-Elect shall be elected to serve corresponding to the President’s second year of office. This office, if vacated, shall be filled by the Executive Board.</li>
       <li> The Secretary-Treasurer shall be elected for a period of two years and shall be subject to re-election. This office, if vacated, shall be filled by the Executive Board.</li>
       <li> The Affiliate Delegate(s) to the American Mathematical Association of Two-Year Colleges shall be appointed by the President with the approval of the Executive Board for a period of one year and shall be subject to reappointment. The number of Delegates is specified in the By-Laws of the American Mathematical Association of Two-Year Colleges.</li>
-      <li> The Immediate Past President shall serve for a period of one year, succeeding to office from the office of President. This office, if vacated, shall be filled by the Executive Board for the remainder of the term.</li></ol></li>
+      <li> The Immediate Past President shall serve for a period of one year, succeeding to office from the office of President. This office, if vacated, shall be filled by the Executive Board for the remainder of the term.</li></ol>
 
    <li> Duties of Officers
    <ol type="1">

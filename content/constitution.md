@@ -109,8 +109,7 @@ Eligibility to vote on Association business or in Association elections or to ma
 	<li> Select from the nominees candidates for each office and, in addition, provide a blank for write-in voting for each office.</li>
 	<li> Mail ballots to all members eligible to vote. The form of the ballot and directions for return of the ballot shall be determined by the Nominating Committee.</li></ol></ol>
 
-The election shall be completed in time for publication in the Association Newsletter prior to August 1.
+The election shall be completed in time for publication in the Association Newsletter prior to August 1.<br/><br/>
 
-
-Constitution and By-Laws adopted 05/02/1981
+Constitution and By-Laws adopted 05/02/1981<br/>
 Amended 10/01/2005

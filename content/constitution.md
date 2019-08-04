@@ -6,7 +6,7 @@ title = "Constitution and By-Laws"
 
 +++
 
-The official documents for the Constitution and By-Laws of the Michigan Mathematical Association of Two-Year Colleges (MichMATYC) are available upon request and is kept with the current President of the association.
+The official documents for the <a href="http://bit.ly/michmatycconstitution">Constitution and By-Laws</a> of the Michigan Mathematical Association of Two-Year Colleges (MichMATYC) are available upon request and are kept with the current President of the association.
 
 ### The Constitution
 <br/>

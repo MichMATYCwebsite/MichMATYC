@@ -51,5 +51,5 @@ Committees are appointed by the President as needed, subject to the approval of 
 **Article VIII: &nbsp; Amendment Procedure**<br/>
 This Constitution or the By-Laws may be amended by a two-thirds vote of those members present and voting at any regular meeting, provided that written notice and a copy of any proposed amendment shall have been furnished to the membership prior to the meeting.<br/>
 
-**Article IX: &nbsp; Dissolution**
+**Article IX: &nbsp; Dissolution**<br/>
 If, at any time, the Association shall cease to carry out the purposed herein stated, all assets and property held by the Association, whether in trust or otherwise, shall, after payment of its liabilities, be paid over to the American Mathematical Association of Two-Year Colleges to be used exclusively for any project, or educational purposes, as determined by the Executive Board of that organization.

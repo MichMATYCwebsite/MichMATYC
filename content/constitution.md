@@ -15,7 +15,7 @@ The name of the Association is the Michigan Mathematical Association of Two-Year
 The Michigan Mathematical Association of Two-Year Colleges is a non-profit, education association.<br/>
 
 The purposes of this Association are:<br/>
-<ol type="a")>
+<ol type="a)">
   <li>)To encourage the development of effective mathematics programs;</li>
   <li>)To afford a state forum for the interchange of ideas;</li>
   <li>)To further develop and improve the mathematics education and mathematics related experiences of students in two-year colleges;</li>

@@ -19,13 +19,21 @@ The organizational rules and policies are contained in the <a href="https://mich
 
 </br>
 
-### Past Presidents and Conferences
+### Presidents and Conferences
 
 <table class="tg">
 <tr>
 <th class="tg-c3ow"><b>Term</b></th>
 <th class="tg-c3ow"><b>President(s)</b></th>
 <th class="tg-c3ow"><b>Conferences</b></th>
+</tr>
+  
+<tr>
+<td class>2019-2021</td>
+<td class="tg-c3ow">Michael Pemberton, Lansing CC</td>
+
+<td class="tg-c3ow">2020: Lansing CC<br>
+2019: Henry Ford College</td>
 </tr>
 
 <tr>

@@ -6,9 +6,7 @@ title = "Constitution and By-Laws"
 
 +++
 
-### Constitution
-
-The Constitution of the Michigan Mathematical Association of Two-Year Colleges
+### The Constitution of the Michigan Mathematical Association of Two-Year Colleges
 
 **Article I: Name**<br/>
 The name of the Association is the Michigan Mathematical Association of Two-Year Colleges.<br/>
@@ -20,16 +18,15 @@ The purposes of this Association are:<br/>
 <ul>
   <li>To encourage the development of effective mathematics programs;</li>
   <li>To afford a state forum for the interchange of ideas;</li>
-</ul>
-
-To further develop and improve the mathematics education and mathematics related experiences of students in two-year colleges;
-To promote the professional welfare and development of its members;
-To provide the opportunity to study and keep abreast of new trends in mathematics;
-To promote professional cooperation and communication between teachers and administrators for the realization of sound education achievements;
-To promote liaison and cooperation between community colleges, other associate degree institutions, universities, public schools, and the State of Michigan;
-To promote liaison and cooperation between other mathematics and mathematics education professional organizations such as NCTM, MCTM, MAA, MAA-Michigan Section, AMTE, and MMTE;
-To promote support for the involvement in the American Mathematical Association of Two-Year Colleges.
-Article III: Membership
+  <li>To further develop and improve the mathematics education and mathematics related experiences of students in two-year colleges;</li>
+  <li>To promote the professional welfare and development of its members;</li>
+  <li>To provide the opportunity to study and keep abreast of new trends in mathematics;</li>
+  <li>To promote professional cooperation and communication between teachers and administrators for the realization of sound education achievements;</li>
+  <li>To promote liaison and cooperation between community colleges, other associate degree institutions, universities, public schools, and the State of Michigan;</li>
+  <li>To promote liaison and cooperation between other mathematics and mathematics education professional organizations such as NCTM, MCTM, MAA, MAA-Michigan Section, AMTE, and MMTE;</li>
+  <li>To promote support for the involvement in the American Mathematical Association of Two-Year Colleges.</li></ul>
+  
+**Article III: Membership**
 a)	Any teacher of mathematics or other person in support of Two-Year College Mathematics Education is eligible for regular membership.
 b)	Any institution in support of the purpose of the Association, or having offerings in mathematics at the two-year college level, is eligible for institutional membership.
 c)	Any local organization with similar purposes is eligible for affiliate membership.

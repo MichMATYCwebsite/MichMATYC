@@ -10,10 +10,10 @@ title = "Constitution and By-Laws"
 
 The Constitution of the Michigan Mathematical Association of Two-Year Colleges
 
-**Article I: Name**
-The name of the Association is the Michigan Mathematical Association of Two-Year Colleges.
+**Article I: Name**<br/>
+The name of the Association is the Michigan Mathematical Association of Two-Year Colleges.<br/>
 
-**Article II: Purpose**
+**Article II: Purpose**<br/>
 The Michigan Mathematical Association of Two-Year Colleges is a non-profit, education association.<br/>
 
 The purposes of this Association are:<br/>

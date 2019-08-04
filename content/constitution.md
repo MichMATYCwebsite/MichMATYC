@@ -6,12 +6,14 @@ title = "Constitution and By-Laws"
 
 +++
 
-### Constitution
+The official documents for the Constitution and By-Laws of the Michigan Mathematical Association of Two-Year Colleges (MichMATYC) are available upon request and is kept with the current President of the association.
+
+### The Constitution
 <br/>
-**Article I: &nbsp; Name**<br/>
+**Article I &nbsp; Name**<br/>
 The name of the Association is the Michigan Mathematical Association of Two-Year Colleges.<br/>
 
-**Article II: &nbsp; Purpose**<br/>
+**Article II &nbsp; Purpose**<br/>
 The Michigan Mathematical Association of Two-Year Colleges is a non-profit, education association.<br/>
 
 The purposes of this Association are:
@@ -26,41 +28,41 @@ The purposes of this Association are:
    <li> To promote liaison and cooperation between other mathematics and mathematics education professional organizations such as NCTM, MCTM, MAA, MAA-Michigan Section, AMTE, and MMTE;</li>
    <li> To promote support for the involvement in the American Mathematical Association of Two-Year Colleges.</li></ol>
 
-**Article III: &nbsp; Membership**
+**Article III &nbsp; Membership**
 <ol type="a">
    <li> Any teacher of mathematics or other person in support of Two-Year College Mathematics Education is eligible for regular membership.</li>
    <li> Any institution in support of the purpose of the Association, or having offerings in mathematics at the two-year college level, is eligible for institutional membership.</li>
    <li> Any local organization with similar purposes is eligible for affiliate membership.</li></ol>
    
-**Article IV: &nbsp; Dues**<br/>
+**Article IV &nbsp; Dues**<br/>
 Dues are paid by all members at the designated rate set by the By-Laws.<br/>
 
-**Article V: &nbsp; Officers**
+**Article V &nbsp; Officers**
 <ol type="a">
    <li> The officers of this Association shall be a President, a President-Elect or an Immediate Past President, a Secretary-Treasurer, and Affiliate Delegate(s) to the American Mathematical Association of Two-Year Colleges.</li>
    <li> The Executive Board of this Association shall consist of the officers of this Association.</li></ol>
    
-**Article VI: &nbsp; Meetings**
+**Article VI &nbsp; Meetings**
 <ol type="a">
    <li> There shall be a minimum of one regular meeting of the Association each year.</li>
    <li> The Executive Board of the Association shall meet a minimum of two times a year.</li></ol>
 
-**Article VII: &nbsp; Committees**<br/>
+**Article VII &nbsp; Committees**<br/>
 Committees are appointed by the President as needed, subject to the approval of a majority of the Executive Board or appointed by a majority of the Executive Board itself. Appointed committees are dissolved by the Executive Board.<br/>
 
-**Article VIII: &nbsp; Amendment Procedure**<br/>
+**Article VIII &nbsp; Amendment Procedure**<br/>
 This Constitution or the By-Laws may be amended by a two-thirds vote of those members present and voting at any regular meeting, provided that written notice and a copy of any proposed amendment shall have been furnished to the membership prior to the meeting.<br/>
 
-**Article IX: &nbsp; Dissolution**<br/>
+**Article IX &nbsp; Dissolution**<br/>
 If, at any time, the Association shall cease to carry out the purposed herein stated, all assets and property held by the Association, whether in trust or otherwise, shall, after payment of its liabilities, be paid over to the American Mathematical Association of Two-Year Colleges to be used exclusively for any project, or educational purposes, as determined by the Executive Board of that organization.
 <br/><br/><br/>
 
-### By-Laws
+### The By-Laws
 <br/>
-**Article I: &nbsp; Rules of Order**<br/>
+**Article I &nbsp; Rules of Order**<br/>
 <i>Robert’s Rules of Order, Revised</i> shall be the authority of all questions and procedures not specifically stated in this Constitution and By-Laws.<br/>
 
-**Article II: &nbsp; Qualifications, Terms, Duties of Officers and Other Members of the Executive Board**
+**Article II &nbsp; Qualifications, Terms, Duties of Officers and Other Members of the Executive Board**
 <ol type="a">
    <li> Officers of this Association shall be active members of the Michigan Mathematical Association of Two-Year Colleges.</li>
 	<li> Terms of Office</li>
@@ -80,10 +82,10 @@ If, at any time, the Association shall cease to carry out the purposed herein st
       <li> The Secretary-Treasurer shall keep all records and minutes of meetings of the Association and of the Executive Board, shall be responsible for preserving the annual reports and historical records of the Association, shall pay all routine bills as provided by the annual budget and such other bills as approved by the Executive Board and the President, shall keep all financial records and make a financial report at each meeting. A copy of these reports shall be filed as a part of the permanent records of the Association.</li>
       <li> The Affiliate Delegate(s) to the American Mathematical Association of Two-Year Colleges shall carry out the responsibilities described in the By-Laws of that Association.</li></ol></li></ol>
       
-**Article III: &nbsp; Executive Board**<br/>
+**Article III &nbsp; Executive Board**<br/>
 The members of the Executive Board shall be the officers of the Association. This committee shall sit as the governing board of the Michigan Mathematical Association of Two-Year Colleges. It shall have the power to transact the business of the Association; initiate, develop and determine the policies of the Association; work out the budget; and appoint officers as provided by this Constitution and By-Laws.<br/>
 
-**Article IV: &nbsp; Fiscal Year and Dues**
+**Article IV &nbsp; Fiscal Year and Dues**
 <ol type="a">
    <li> The fiscal year and membership year for the Association shall be from October 1 of each year through September 30 of the following year.</li>
    <li> Membership Dues</li>
@@ -92,15 +94,15 @@ The members of the Executive Board shall be the officers of the Association. Thi
 	   <li> Institutional membership in this state organization alone shall be ten dollars.</li>
 	   <li> Affiliate membership shall be complimentary and subject to Executive Board approval.</li></ol></ol>
 	   
-**Article V: &nbsp; Meetings and Quorums**
+**Article V &nbsp; Meetings and Quorums**
 <ol type="a">
    <li> There shall be a minimum of one meeting each year as specified in Article VI of the Constitution. A quorum shall consist of 10% of the membership of the Association for that year.</li>
    <li> The Executive Board shall meet a minimum of two times each year as specified in Article VI of the Constitution. A quorum for a meeting shall consist of a majority of the members of the Executive Board.</li></ol>
    
-**Article VI: &nbsp; Dues as Prerequisite for Active Participation**<br/>
+**Article VI &nbsp; Dues as Prerequisite for Active Participation**<br/>
 Eligibility to vote on Association business or in Association elections or to make nominations for officers of the Association or to serve on Association committees as a voting member, or to stand for office in the Association, or in any other way to participate actively in the business of the Association requires prior payment of dues for the fiscal year in which the membership activity is exercised.<br/>
 
-**Article VII: &nbsp; Nominations and Conduct of Election of Officers**
+**Article VII &nbsp; Nominations and Conduct of Election of Officers**
 <ol type="a">
    <li> In February of each election year, the President shall appoint a Nominating Committee in a manner consistent with Article VII of the Constitution and name a Chairperson of that committee.</li>
    <li> During March of each election year, the Nominating Committee shall solicit and receive written nominations for officers up for election as indicated in Article II of the By-Laws. Any member may nominate himself or herself or any other eligible member of the Association. The written nomination shall include a current vita or resume.</li>

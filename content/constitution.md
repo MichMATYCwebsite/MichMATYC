@@ -53,7 +53,7 @@ This Constitution or the By-Laws may be amended by a two-thirds vote of those me
 
 **Article IX: &nbsp; Dissolution**<br/>
 If, at any time, the Association shall cease to carry out the purposed herein stated, all assets and property held by the Association, whether in trust or otherwise, shall, after payment of its liabilities, be paid over to the American Mathematical Association of Two-Year Colleges to be used exclusively for any project, or educational purposes, as determined by the Executive Board of that organization.
-<br/><br/>
+<br/><br/><br/>
 
 ### By-Laws
 <br/>

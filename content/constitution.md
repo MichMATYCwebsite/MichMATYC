@@ -8,7 +8,7 @@ title = "Constitution and By-Laws"
 
 ### Constitution
 <br/>
-**Article I:  Name**<br/>
+**Article I: &nbsp;Name**<br/>
 The name of the Association is the Michigan Mathematical Association of Two-Year Colleges.<br/>
 
 **Article II:  Purpose**<br/>

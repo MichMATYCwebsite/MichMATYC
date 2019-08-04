@@ -63,22 +63,22 @@ If, at any time, the Association shall cease to carry out the purposed herein st
 **Article II: &nbsp; Qualifications, Terms, Duties of Officers and Other Members of the Executive Board**
 <ol type="a">
    <li> Officers of this Association shall be active members of the Michigan Mathematical Association of Two-Year Colleges.</li>
-   <li> Terms of Office</li>
+   <li> Terms of Office
    <ol type="1">
       <li> All officers shall assume duties of their elective officers on June 1.</li>
       <li> The President shall serve for a period of two years, succeeding to office from the office of President-Elect. This office, if vacated, shall be filled by the Executive Board for the remainder of the term.</li>
       <li> The President-Elect shall be elected to serve corresponding to the President’s second year of office. This office, if vacated, shall be filled by the Executive Board.</li>
       <li> The Secretary-Treasurer shall be elected for a period of two years and shall be subject to re-election. This office, if vacated, shall be filled by the Executive Board.</li>
       <li> The Affiliate Delegate(s) to the American Mathematical Association of Two-Year Colleges shall be appointed by the President with the approval of the Executive Board for a period of one year and shall be subject to reappointment. The number of Delegates is specified in the By-Laws of the American Mathematical Association of Two-Year Colleges.</li>
-      <li> The Immediate Past President shall serve for a period of one year, succeeding to office from the office of President. This office, if vacated, shall be filled by the Executive Board for the remainder of the term.</li></ol>
+      <li> The Immediate Past President shall serve for a period of one year, succeeding to office from the office of President. This office, if vacated, shall be filled by the Executive Board for the remainder of the term.</li></ol></li>
 
-   <li> Duties of Officers</li>
+   <li> Duties of Officers
    <ol type="1">
       <li> The President shall preside at all meetings of the Association and of the Executive Board, and shall administer the affairs of the Association. The President shall appoint all committees in a manner consistent with Article VII of the Constitution, and shall be an ex-officio member of all committees. The President shall prepare an annual report covering the activities of the Association. This report shall be filed as part of the permanent records of the Association.</li>
       <li> The President-Elect shall assist the President by performing duties as assigned and shall be an ex-officio member of all committees.</li>
       <li> The Immediate Past President shall assist the President and the Executive Board.</li>
       <li> The Secretary-Treasurer shall keep all records and minutes of meetings of the Association and of the Executive Board, shall be responsible for preserving the annual reports and historical records of the Association, shall pay all routine bills as provided by the annual budget and such other bills as approved by the Executive Board and the President, shall keep all financial records and make a financial report at each meeting. A copy of these reports shall be filed as a part of the permanent records of the Association.</li>
-      <li> The Affiliate Delegate(s) to the American Mathematical Association of Two-Year Colleges shall carry out the responsibilities described in the By-Laws of that Association.</li></ol></ol>
+      <li> The Affiliate Delegate(s) to the American Mathematical Association of Two-Year Colleges shall carry out the responsibilities described in the By-Laws of that Association.</li></ol></li></ol>
       
 **Article III: &nbsp; Executive Board**<br/>
 The members of the Executive Board shall be the officers of the Association. This committee shall sit as the governing board of the Michigan Mathematical Association of Two-Year Colleges. It shall have the power to transact the business of the Association; initiate, develop and determine the policies of the Association; work out the budget; and appoint officers as provided by this Constitution and By-Laws.<br/>

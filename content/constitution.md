@@ -93,20 +93,21 @@ The members of the Executive Board shall be the officers of the Association. Thi
 	   <li> Affiliate membership shall be complimentary and subject to Executive Board approval.</li></ol></ol>
 	   
 **Article V: &nbsp; Meetings and Quorums**
-	a)	There shall be a minimum of one meeting each year as specified in Article VI of the Constitution. 		A quorum shall consist of 10% of the membership of the Association for that year.
+<ol type="a">
+   <li> There shall be a minimum of one meeting each year as specified in Article VI of the Constitution. A quorum shall consist of 10% of the membership of the Association for that year.</li>
+   <li> The Executive Board shall meet a minimum of two times each year as specified in Article VI of the Constitution. A quorum for a meeting shall consist of a majority of the members of the Executive Board.</li></ol>
+   
+**Article VI: &nbsp; Dues as Prerequisite for Active Participation**<br/>
+Eligibility to vote on Association business or in Association elections or to make nominations for officers of the Association or to serve on Association committees as a voting member, or to stand for office in the Association, or in any other way to participate actively in the business of the Association requires prior payment of dues for the fiscal year in which the membership activity is exercised.<br/>
 
-	b)	The Executive Board shall meet a minimum of two times each year as specified in Article VI of 			the Constitution. A quorum for a meeting shall consist of a majority of the members of the 			Executive Board.
-Article VI: Dues as Prerequisite for Active Participation
-Eligibility to vote on Association business or in Association elections or to make nominations for officers of the Association or to serve on Association committees as a voting member, or to stand for office in the Association, or in any other way to participate actively in the business of the Association requires prior payment of dues for the fiscal year in which the membership activity is exercised.
-Article VII: Nominations and Conduct of Election of Officers
-	a)	In February of each election year, the President shall appoint a Nominating Committee in a 			manner consistent with Article VII of the Constitution and name a Chairperson of that committee.
-	
-	
-	b)	During March of each election year, the Nominating Committee shall solicit and receive written 			nominations for officers up for election as indicated in Article II of the By-Laws. Any member 			may nominate himself or herself or any other eligible member of the Association. The written 			nomination shall include a current vita or resume.
-
-	c)	Prior to April 15 of each election year, the Nominating Committee shall:
-			1)	Select from the nominees candidates for each office and, in addition, provide a blank for 					write-in voting for each office.
-			2)	Mail ballots to all members eligible to vote. The form of the ballot and directions for 					return of the ballot shall be determined by the Nominating Committee.
+**Article VII: &nbsp; Nominations and Conduct of Election of Officers**
+<ol type="a">
+   <li> In February of each election year, the President shall appoint a Nominating Committee in a manner consistent with Article VII of the Constitution and name a Chairperson of that committee.</li>
+   <li> During March of each election year, the Nominating Committee shall solicit and receive written nominations for officers up for election as indicated in Article II of the By-Laws. Any member may nominate himself or herself or any other eligible member of the Association. The written nomination shall include a current vita or resume.</li>
+   <li> Prior to April 15 of each election year, the Nominating Committee shall:</li>
+   <ol type="1"> 
+	<li> Select from the nominees candidates for each office and, in addition, provide a blank for write-in voting for each office.</li>
+	<li> Mail ballots to all members eligible to vote. The form of the ballot and directions for return of the ballot shall be determined by the Nominating Committee.</li></ol></ol>
 
 The election shall be completed in time for publication in the Association Newsletter prior to August 1.
 

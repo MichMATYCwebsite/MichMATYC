@@ -16,15 +16,15 @@ The Michigan Mathematical Association of Two-Year Colleges is a non-profit, educ
 
 The purposes of this Association are:<br/>
 <ol type="a">
-  <li>To encourage the development of effective mathematics programs;</li>
-  <li>To afford a state forum for the interchange of ideas;</li>
-  <li>To further develop and improve the mathematics education and mathematics related experiences of students in two-year colleges;</li>
-  <li>To promote the professional welfare and development of its members;</li>
-  <li>To provide the opportunity to study and keep abreast of new trends in mathematics;</li>
-  <li>To promote professional cooperation and communication between teachers and administrators for the realization of sound education achievements;</li>
-  <li>To promote liaison and cooperation between community colleges, other associate degree institutions, universities, public schools, and the State of Michigan;</li>
-  <li>To promote liaison and cooperation between other mathematics and mathematics education professional organizations such as NCTM, MCTM, MAA, MAA-Michigan Section, AMTE, and MMTE;</li>
-  <li>To promote support for the involvement in the American Mathematical Association of Two-Year Colleges.</li></ol>
+  <li>)To encourage the development of effective mathematics programs;</li>
+  <li>)To afford a state forum for the interchange of ideas;</li>
+  <li>)To further develop and improve the mathematics education and mathematics related experiences of students in two-year colleges;</li>
+  <li>)To promote the professional welfare and development of its members;</li>
+  <li>)To provide the opportunity to study and keep abreast of new trends in mathematics;</li>
+  <li>)To promote professional cooperation and communication between teachers and administrators for the realization of sound education achievements;</li>
+  <li>)To promote liaison and cooperation between community colleges, other associate degree institutions, universities, public schools, and the State of Michigan;</li>
+  <li>)To promote liaison and cooperation between other mathematics and mathematics education professional organizations such as NCTM, MCTM, MAA, MAA-Michigan Section, AMTE, and MMTE;</li>
+  <li>)To promote support for the involvement in the American Mathematical Association of Two-Year Colleges.</li></ol>
   
 **Article III: Membership**
 a)	Any teacher of mathematics or other person in support of Two-Year College Mathematics Education is eligible for regular membership.

@@ -5,8 +5,8 @@ showdate = false
 title = "People"
 [menu.main]
 weight = 3
-
 +++
+
 ### MichMATYC Executive Board
 
 <div class=leadership-wrap>
@@ -66,6 +66,7 @@ class=title>Affiliate Delegate</div>
 <li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
 <li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:srsimpson@hfcc.edu?Subject=MichMATYC">srsimpson@hfcc.edu</a>
 </ul>
+</div>
 </div>
 </div>
 

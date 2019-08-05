@@ -338,7 +338,7 @@ main.fade-out {
 }
 
 
-@media (max-height: 900px) {
+@media (max-height: 820px) {
   .sidebar-about p.lead{
   display: none !important;
     }
@@ -360,11 +360,12 @@ main.fade-out {
 }
 
 
-@media (max-height: 540px) {
+@media (max-height: 650px) {
   #LogoMain {
     display: none !important;
     }
 }
+
 
 /* ################################ */
 /* ########### Mobile nav ######### */
@@ -458,8 +459,8 @@ main.fade-out {
   top: 0;
   left: 0;
   width: 100%;
-  min-height: 100%;
-  min-height: 100vh;
+  /* min-height: 100%;
+  min-height: 100vh; */
 }
 
 
@@ -647,7 +648,7 @@ padding-bottom: 2rem;
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
-  width: 48%;
+  width: 50%;
   padding: 0;
   margin-bottom: 2rem;
 }
@@ -673,7 +674,8 @@ padding-bottom: 2rem;
   align-items: center;
   width: 8rem;
   margin-right: 0;
-  min-width: 128px;
+  /* min-width: 128px; */
+  width: 130px;
 }
 
 .leadership-card-head img {
@@ -702,7 +704,7 @@ h3#michmatyc-leadership-in-michigan {
 }
 
 .leadership-wrap ul {
-  width: 80%;
+  width: 100%
 }
 
 .leadership-wrap li {
@@ -720,7 +722,7 @@ h3#michmatyc-leadership-in-michigan {
 }
 
 p, .post {
-  max-width: 900px;
+  max-width: 1000px;
 }
 
 
@@ -736,6 +738,11 @@ p, .post {
   font-size: 40px;
   margin: 0;
   padding: 0;
+  border-radius: 50%;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+
  
   
 }

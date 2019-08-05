@@ -1,5 +1,5 @@
 {{ partial "head.html" . }}
-  <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
+  <body>
 
   <!-- {{ partial "preloader.html" . }} -->
   {{ partialCached "sidebar.html" . }}
@@ -9,13 +9,16 @@
   {{ partial "hamburger.html" . }}
   {{ partial "logo.html" . }}
 
-    <main class="content container" id="main" style="min-height: 100vh;display: flex; flex-direction: column; justify-content: space-between;">
+    <main class="content container" id="main">
     
+    <div class="footer-wrap">
 
     {{ block "main" . -}}
     
     {{- end }}
   
+  </div>
+
     {{ partialCached "footer.html" . }}
     </main>
   

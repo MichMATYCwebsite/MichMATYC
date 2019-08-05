@@ -2,38 +2,49 @@
 
 {{ partial "welcome.html" }}
 
-{{ partial "annoncements.html" }}
+<h3 style="margin-top: 0; ">Announcements</h3>
+<p style="margin-bottom: var(--mb);">Important announcments from our organization and from member institutions around the state and region are listed below. 
+        If you would like to have an announcement or event posted, email details to <a href="mailto:michmatyc@gmail.com">michmatyc@gmail.com</a>. Announcements and events which go beyond a particular date 
+        are archived and may be accessed in the <a href="https://michmatyc.org/announcements/archive/">announcements library</a>.
+</p>
 
 <div class="posts">
 {{ range first 5 (where .Data.Pages "Section" "announcements") -}}
 <article class="post">
-  <h3 class="post-title">
+  <h4 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>
-  </h3>
-  <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
-  {{ .Summary }}
+  </h4>
+  <p>
+    <i class="far fa-calendar-alt" style="display: inline-block; margin-right: 5px;"></i>
+  <time style="display: inline-block;" datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Jan 2, 2006" }}</time>
+</p>
+    {{ .Summary }}
   {{ if .Truncated }}
   <div class="read-more-link">
-    <a href="{{ .RelPermalink }}">Read More…</a>
+    <a href="{{ .RelPermalink }}">
+            Read more...
+    </a>
   </div>
   {{ end }}
 </article>
 {{- end }}
 </div>
 
-{{ partial "events.html" }}
-
+<h3 style="margin-bottom: 16px; margin-top: 0;">Upcoming Events</h3>    
 <div class="posts">
   {{ range first 3 (where .Data.Pages "Section" "events") -}}
   <article class="post">
-    <h3 class="post-title">
+    <h4 class="post-title">
       <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>
-    </h3>
-    <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+    </h4>
+    <p>
+        <i class="far fa-calendar-alt" style="display: inline-block; margin-right: 5px;"></i>
+      <time style="display: inline-block;" datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Jan 2, 2006" }}</time>
+    </p>
     {{ .Summary }}
     {{ if .Truncated }}
     <div class="read-more-link">
-      <a href="{{ .RelPermalink }}">Read More…</a>
+      <a href="{{ .RelPermalink }}">Read more…</a>
     </div>
     {{ end }}
   </article>

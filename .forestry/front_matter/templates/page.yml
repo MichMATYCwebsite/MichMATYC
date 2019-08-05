@@ -19,7 +19,7 @@ fields:
   hidden: false
 pages:
 - content/newsletter.md
-- content/conferences/michmatyc-2018.md
-- content/people.md
 - content/about.md
+- content/people.md
+- content/conferences/michmatyc-2018.md
 - content/other-information.md

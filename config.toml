@@ -1,8 +1,8 @@
-baseURL = "https://michmatyc.netlify.com/"
+baseURL = "https://michmatyc.org/"
 languageCode = "en-us"
+summaryLength = 20
 theme = "hyde"
 title = "MichMATYC"
-summaryLength = 20
 [blackfriday]
 hrefTargetBlank = true
 [[menu.main]]

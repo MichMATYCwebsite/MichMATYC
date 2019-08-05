@@ -98,7 +98,7 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow"><a href="/uploads/MichMATYCMay16.pdf" target="_blank">May</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2016.pdf" target="_blank">Sept</a></td>
+<td class="tg-c3ow"><a href="/uploads/MichMATYCSept16.pdf" target="_blank">Sept</a></td>
 
 </tr>
 

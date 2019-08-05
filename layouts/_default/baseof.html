@@ -2,7 +2,7 @@
   <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
 
   <!-- {{ partial "preloader.html" . }} -->
-  {{ partial "sidebar.html" . }}
+  {{ partialCached "sidebar.html" . }}
 
   <div id="dim">
  
@@ -11,13 +11,12 @@
 
     <main class="content container" id="main" style="min-height: 100vh;display: flex; flex-direction: column; justify-content: space-between;">
     
-    
 
     {{ block "main" . -}}
     
     {{- end }}
   
-    {{ partial "footer.html" . }}
+    {{ partialCached "footer.html" . }}
     </main>
   
   </div>

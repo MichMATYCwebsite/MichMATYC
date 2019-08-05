@@ -220,8 +220,8 @@ h3::before {
   position: absolute;
 } */
 
- .sidebar * {
-  color: #000000 !important;
+ .sidebar h4, .sidebar h1, .sidebar p, .sidebar a {
+  color: #000000;
 }
 
 .sidebar a:hover {
@@ -721,4 +721,41 @@ h3#michmatyc-leadership-in-michigan {
 
 p, .post {
   max-width: 900px;
+}
+
+
+.fa-stack {
+
+  width: 40px; 
+  height: 40px;
+  margin: 0;
+
+}
+.fa-outer {
+ 
+  font-size: 40px;
+  margin: 0;
+  padding: 0;
+ 
+  
+}
+
+.fa-inner {
+color: white;
+font-size: 20px; 
+margin: 0;
+padding: 0;
+padding-top: 4px;
+}
+
+.fb .fa-outer {
+  color: #3b5998;
+}
+
+.twit .fa-outer {
+  color: #55acee;
+}
+
+.linked .fa-outer {
+  color: #0077b5;
 }

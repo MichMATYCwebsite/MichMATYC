@@ -7,7 +7,6 @@ title = "Job Board"
 weight = 9
 
 +++
-
 MichMATYC is happy to post positions from its member institutions and from institutions within neighboring states related to mathematics education in the first two years of college on this Job Board. Appropriate positions would include instructor, department chair, dean, or learning center professional in the fields of mathematics and computer science. Advertisements for positions requiring knowledge of mathematics education will also be accepted and posted.
 
 The posting must include an electronic copy of the vacancy notice, a link to the institution's website, location of the position, date the position starts, and closing date for the job posting. If you wish to have your position posted here, with the list of required information, please send an email to [michmatyc@gmail.com](mailto:michmatyc@gmail.com).

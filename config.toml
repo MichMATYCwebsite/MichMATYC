@@ -7,7 +7,7 @@ title = "MichMATYC"
 hrefTargetBlank = true
 [[menu.main]]
 name = "MiTEAM Program"
-url = "https://michmatyc.netlify.com/miteam/"
+url = "https://michmatyc.org/miteam/"
 weight = 6
 [[menu.main]]
 name = "Conferences"
@@ -15,11 +15,11 @@ url = "https://michmatyc.netlify.com/conf/"
 weight = 4
 [[menu.main]]
 name = "About"
-url = "https://michmatyc.netlify.com/about/"
+url = "https://michmatyc.org/about/"
 weight = 1
 [[menu.main]]
 name = "Other Information"
-url = "https://michmatyc.netlify.com/other-information/"
+url = "https://michmatyc.org/other-information/"
 weight = 8
 [params]
 disqusShortname = ""

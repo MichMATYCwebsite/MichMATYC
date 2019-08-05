@@ -15,7 +15,7 @@ The organization was founded to provide a venue for interaction between the math
 </br>
 
 ### Constitution and Bylaws
-The organizational rules and policies are contained in the <a href="https://michmatyc.netlify.com/constitution/">MichMATYC Constitution</a>.
+The organizational rules and policies are contained in the <a href="https://michmatyc.org/constitution/">MichMATYC Constitution</a>.
 
 </br>
 

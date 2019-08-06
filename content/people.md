@@ -13,8 +13,8 @@ weight = 3
 <div class=leadership-card>
 <div class=leadership-card-head><img class=leadership src=/uploads/pemberton.jpg> 
 <div class=flex-wrap>   
-<p class=name>Michael Pemberton<p
-class=title>President
+<p class=name>Michael Pemberton
+<p class=title>President
 </div>
 </div>
 <div class=contact-wrap>
@@ -29,8 +29,8 @@ class=title>President
 <div class=leadership-card>
 <div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> 
 <div class=flex-wrap>
-<p class=name>Anna Cox<p
-class=title>Past President
+<p class=name>Anna Cox
+<p class=title>Past President
 </div>
 </div>
 <div class=contact-wrap>
@@ -44,8 +44,8 @@ class=title>Past President
 <div class=leadership-card>
 <div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> 
 <div class=flex-wrap>
-<p class=name>Sam Bazzi<p
-class=title>Secretary/Treasurer
+<p class=name>Sam Bazzi
+<p class=title>Secretary/Treasurer
 </div>
 </div>
 <div class=contact-wrap>
@@ -60,8 +60,8 @@ class=title>Secretary/Treasurer
 <div class=leadership-card>
 <div class=leadership-card-head><img class=leadership src=/uploads/gunkelman.jpg> 
 <div class=flex-wrap>
-<p class=name>Julie Gunkelman<p
-class=title>Affiliate Delegate
+<p class=name>Julie Gunkelman
+<p class=title>Affiliate Delegate
 </div>
 </div>
 <div class=contact-wrap>
@@ -76,8 +76,8 @@ class=title>Affiliate Delegate
 <div class=leadership-card>
 <div class=leadership-card-head><img class=leadership src=/uploads/simpsonsingleton.jpg> 
 <div class=flex-wrap>
-<p class=name>Shanna Simpson-Singleton<p
-class=title>Affiliate Delegate
+<p class=name>Shanna Simpson-Singleton
+<p class=title>Affiliate Delegate
 </div>
 </div>
 <div class=contact-wrap>
@@ -104,18 +104,18 @@ Below is the contact information for the campus representatives from each member
 <table class="tg">
 
 <tr>
-<th class="tg-c3ow"><b>Institution</b></th>
-<th class="tg-c3ow"><b>Campus Representative</b></th>
+<th class="tg-0pky"><b>Institution</b></th>
+<th class="tg-0pky"><b>Campus Representative</b></th>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Alpena Community College](http://www.alpenacc.edu/)</td>
-<td class="tg-c3ow">[Dan Rothe](mailto:rothed@alpenacc.edu)</td>
+<td class="tg-0pky">[Alpena Community College](http://www.alpenacc.edu/)</td>
+<td class="tg-0pky">[Dan Rothe](mailto:rothed@alpenacc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Bay De Noc Community College](http://www.baycollege.edu/)</td>
-<td class="tg-c3ow">[Britt Slade](mailto:sladeb@baycollege.edu)</td>
+<td class="tg-0pky">[Bay De Noc Community College](http://www.baycollege.edu/)</td>
+<td class="tg-0pky">[Britt Slade](mailto:sladeb@baycollege.edu)</td>
 </tr>
 
 <tr>

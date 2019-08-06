@@ -692,6 +692,7 @@ padding-bottom: 2rem;
   font-weight: bold;
   font-style: italic;
   margin:0;
+  text-align: center;
 }
 
 .leadership-card-head p.name {
@@ -704,9 +705,9 @@ h3#michmatyc-leadership-in-michigan {
   width: 80%;
 }
 
-.leadership-wrap ul {
+/* .leadership-wrap ul {
   width: 100%
-}
+} */
 
 .leadership-wrap li {
   width: 100%;

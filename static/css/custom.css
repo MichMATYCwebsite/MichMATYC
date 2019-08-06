@@ -229,11 +229,15 @@ h3::before {
 }
 
 .sidebar li.animate a {
+  -webkit-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
   transition: all .1s ease-in;
 }
 
 .sidebar li.animate a:hover {
   color: #A44200 !important;
+  -webkit-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
   transition: all .1s ease-in;
 }
 
@@ -290,10 +294,14 @@ p {
 }
 main {
   opacity: 0;
+  -webkit-transition: 1s opacity;
+  -o-transition: 1s opacity;
   transition: 1s opacity;
 }
 main.fade-out {
   opacity: 1;
+  -webkit-transition: 1s opacity;
+  -o-transition: 1s opacity;
   transition: 1s opacity;
 }
 
@@ -380,14 +388,15 @@ main.fade-out {
   /* display: flex;
   align-items: center;
   justify-content: space-between; */
+  display: -ms-grid;
   display: grid;
+  -ms-grid-columns: 60px 1fr 1fr;
   grid-template-columns: 60px 1fr 1fr;
   z-index: 200;
   padding: 0.5rem 1rem;
   background-color:   #ECA72C;
   border-bottom: 1px solid black;
   -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
 }
 
@@ -411,19 +420,26 @@ main.fade-out {
 
 
 .hamburger-nav i {
-  align-self: center;
-  justify-self: end;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  -ms-grid-column-align: end;
+      justify-self: end;
 }
 
 .hamburger-nav img {
-  align-self: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
   border-radius: 50%;
   border: 1px solid black;
 }
 
 .hamburger-nav .title {
   font-family: var(--primary-font);
-  align-self: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
   font-size: 24.375px;
 }
 
@@ -440,7 +456,6 @@ main.fade-out {
   -o-transition: left .3s linear;
   transition: left .3s linear;
   -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
 }
 
@@ -503,6 +518,9 @@ main.fade-out {
   }
 }
 
+
+
+
 #mobile-side-menu a {
   text-transform: uppercase;
   padding-bottom: .5rem;
@@ -532,7 +550,6 @@ main.fade-out {
   .sidebar {
     width: 22rem;
     -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
     left: 0;
     /* background-color: #CC9903;  */
@@ -565,12 +582,19 @@ a.social {
 .content {
   padding-top: 4rem;
   height: 100%;
+  display:-webkit-box;
+  display:-ms-flexbox;
   display:flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .footer-wrap {
-  flex-grow: 1;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
 }
 
 /* @media (min-width: 48em) {
@@ -636,7 +660,8 @@ padding-bottom: 2rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 
 
@@ -745,7 +770,6 @@ p, .post {
   padding: 0;
   border-radius: 50%;
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
 }
 
@@ -795,7 +819,7 @@ hr {
 
 @media (max-width: 770px) {
   .content {
-    padding-left: 1rem;
+    
     padding-top: 5rem;
   }
 
@@ -807,11 +831,17 @@ hr {
 
 @media (max-width: 400px) {
 .leadership-card {
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .leadership-card-head {
-  flex-direction: row;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
   width: 100%;
 }
 
@@ -838,4 +868,10 @@ hr {
 
 #amatyc-leadership-in-michigan {
   margin-top: 0;
+}
+
+@media (max-width: 48em) {
+  .content {
+    padding-left: 1rem;
+  }
 }

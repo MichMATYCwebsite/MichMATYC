@@ -23,13 +23,25 @@
   <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/hyde.css">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  
+  
+  <link rel="preload" as="font" type="font/woff2" 
+  href="{{ .Site.BaseURL }}fonts/pt-sans-v11-latin-700.woff2" crossorigin>
+
+  <link rel="preload" as="font" type="font/woff2" 
+  href="{{ .Site.BaseURL }}fonts/pt-sans-v11-latin-italic.woff2" crossorigin>
+
+  <link rel="preload" as="font" type="font/woff2" 
+  href="{{ .Site.BaseURL }}fonts/pt-sans-v11-latin-regular.woff2" crossorigin>
+
+  
   <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
-  {{ partial "head_fonts.html" . }}
+  <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/fonts.css">
+
   <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
-  <!-- <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400" rel="stylesheet"> -->
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ .Site.BaseURL }}uploads/logo.gif">

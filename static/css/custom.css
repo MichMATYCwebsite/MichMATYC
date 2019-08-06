@@ -382,7 +382,7 @@ main.fade-out {
   display: grid;
   grid-template-columns: 60px 1fr 1fr;
   z-index: 200;
-  padding: 0.75rem 1rem;
+  padding: 0.5rem 1rem;
   background-color:   #ECA72C;
   border-bottom: 1px solid black;
   -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
@@ -422,6 +422,8 @@ main.fade-out {
 
 .hamburger-nav .title {
   font-family: var(--primary-font);
+  align-self: center;
+  font-size: 24.375px;
 }
 
 .sidebar {
@@ -677,6 +679,7 @@ padding-bottom: 2rem;
   margin-right: 0;
   /* min-width: 128px; */
   width: 130px;
+  min-width: 130px;
 }
 
 .leadership-card-head img {
@@ -788,4 +791,44 @@ padding-top: 4px;
     padding-left: 1rem;
     padding-top: 5rem;
   }
+
+  hr {
+    margin: 0.75rem 0;
+  }
+}
+
+
+@media (max-width: 400px) {
+.leadership-card {
+  flex-direction: column;
+}
+
+.leadership-card-head {
+  flex-direction: row;
+  width: 100%;
+}
+
+.leadership-card-head img {
+  margin-right: 1rem;
+}
+
+.leadership-card-head p.title {
+
+  text-align: left;
+}
+
+.leadership-card-head p.name {
+
+    text-align: left;
+  }
+
+  .leadership-card ul {
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+  }
+
+}
+
+#amatyc-leadership-in-michigan {
+  margin-top: 0;
 }

@@ -11,8 +11,12 @@ weight = 3
 
 <div class=leadership-wrap>
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/pemberton.jpg> <p class=name>Michael Pemberton<p
-class=title>President</div>
+<div class=leadership-card-head><img class=leadership src=/uploads/pemberton.jpg> 
+<div class=flex-wrap>   
+<p class=name>Michael Pemberton<p
+class=title>President
+</div>
+</div>
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="http://www.lcc.edu/" target=_blank> Lansing Community College</a>
@@ -23,8 +27,12 @@ class=title>President</div>
 </div>
   
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Anna Cox<p
-class=title>Past President</div>
+<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> 
+<div class=flex-wrap>
+<p class=name>Anna Cox<p
+class=title>Past President
+</div>
+</div>
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="http://www.kellogg.edu/" target=_blank> Kellogg Community College</a>
@@ -34,8 +42,12 @@ class=title>Past President</div>
 </div>
 
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> <p class=name>Sam Bazzi<p
-class=title>Secretary/Treasurer</div>
+<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> 
+<div class=flex-wrap>
+<p class=name>Sam Bazzi<p
+class=title>Secretary/Treasurer
+</div>
+</div>
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="https://www.hfcc.edu/" target=_blank> Henry Ford College</a>
@@ -46,8 +58,12 @@ class=title>Secretary/Treasurer</div>
 </div>
 
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/gunkelman.jpg> <p class=name>Julie Gunkelman<p
-class=title>Affiliate Delegate</div>
+<div class=leadership-card-head><img class=leadership src=/uploads/gunkelman.jpg> 
+<div class=flex-wrap>
+<p class=name>Julie Gunkelman<p
+class=title>Affiliate Delegate
+</div>
+</div>
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href= "https://www.oaklandcc.edu/" target=_blank> Oakland Community College, Orchard Ridge</a>
@@ -58,8 +74,12 @@ class=title>Affiliate Delegate</div>
 </div>
 
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/simpsonsingleton.jpg> <p class=name>Shanna Simpson-Singleton<p
-class=title>Affiliate Delegate</div>
+<div class=leadership-card-head><img class=leadership src=/uploads/simpsonsingleton.jpg> 
+<div class=flex-wrap>
+<p class=name>Shanna Simpson-Singleton<p
+class=title>Affiliate Delegate
+</div>
+</div>
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="https://www.hfcc.edu/" target=_blank> Henry Ford College</a>

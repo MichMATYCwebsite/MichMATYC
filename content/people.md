@@ -102,7 +102,6 @@ class=title>Affiliate Delegate
 
 Below is the contact information for the campus representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please send your request to [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
 
-<br/>
 
 <table class="tg" style="margin-top: 20px;">
 <tr>

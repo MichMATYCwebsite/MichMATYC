@@ -104,11 +104,8 @@ Below is the contact information for the campus representatives from each member
 <table class="tg">
 
 <tr>
-
 <th class="tg-c3ow"><b>Institution</b></th>
-
 <th class="tg-c3ow"><b>Campus Representative</b></th>
-
 </tr>
 
 <tr>

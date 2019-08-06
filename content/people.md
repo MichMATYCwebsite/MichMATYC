@@ -272,5 +272,3 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow">[West Shore Community College](http://www.westshore.edu/)</td>
 <td class="tg-c3ow">[Paul Drelles](mailto:pgdrelles@westshore.edu)</td>
 </tr>
-
-</table>

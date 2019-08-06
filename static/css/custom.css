@@ -320,14 +320,15 @@ main.fade-out {
 
 
 #LogoMain {
-  border-radius: 50%;
+  /* border-radius: 50%; */
   margin: 0 auto;
-  width: 250px;
+  /* width: 250px;
   border: 1px solid black;
+  min-width: 250px;
   -webkit-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75);
-  min-width: 250px;
+  box-shadow: 0px 0px 36px 0px rgba(0, 0, 0, 0.75); */
+  width: 100%;
 }
 
 @media (max-height: 960px) {

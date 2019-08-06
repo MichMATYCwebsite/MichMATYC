@@ -190,7 +190,7 @@ Below is the contact information for the campus representatives from each member
 
 <tr>
 <td class="tg-c3ow">[Monroe County Community College](http://www.monroeccc.edu/)</td>
-<td class="tg-c3ow>[Vinnie Maltese](mailto:vmaltese@monroeccc.edu)</td>
+<td class="tg-c3ow">[Vinnie Maltese](mailto:vmaltese@monroeccc.edu)</td>
 </tr>
 
 <tr>
@@ -205,7 +205,7 @@ Below is the contact information for the campus representatives from each member
 
 <tr>
 <td class="tg-c3ow">[Muskegon Community College](http://www.muskegon.cc.mi.us/)</td>
-<td class="tg-c3ow>[Gary Nonnemacher](mailto:Gary.Nonnemacher@muskegoncc.edu)</td>
+<td class="tg-c3ow">[Gary Nonnemacher](mailto:Gary.Nonnemacher@muskegoncc.edu)</td>
 </tr>
 
 <tr>

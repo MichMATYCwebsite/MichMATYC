@@ -208,10 +208,15 @@ a {
   line-height: 3rem;
 }
 
-/* h3 {
+h4 {
   border-left: 10px solid #A44200;
-  padding-left: 1rem; 
-} */
+  padding-left: 0.5rem; 
+}
+
+h4.menu-title {
+  border-left: none;
+  padding-left: 0; 
+}
 /* 
 h3::before {
   content: '';

@@ -786,6 +786,11 @@ padding-top: 4px;
   margin-right: 10px;
 
 }
+
+hr {
+  margin: 1rem 0;
+}
+
 @media (max-width: 770px) {
   .content {
     padding-left: 1rem;

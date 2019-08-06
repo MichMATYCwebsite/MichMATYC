@@ -119,156 +119,158 @@ Below is the contact information for the campus representatives from each member
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Delta College](http://www.delta.edu/)</td>
-<td class="tg-c3ow">[Frances Lichtman](mailto:franceslichtman@delta.edu)</td>
+<td class="tg-0pky">[Delta College](http://www.delta.edu/)</td>
+<td class="tg-0pky">[Frances Lichtman](mailto:franceslichtman@delta.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Glen Oaks Community College](http://www.glenoaks.cc.mi.us/)</td>
-<td class="tg-c3ow">[Michael Sandelin](mailto:msandelin@glenoaks.edu)</td>
+<td class="tg-0pky">[Glen Oaks Community College](http://www.glenoaks.cc.mi.us/)</td>
+<td class="tg-0pky">[Michael Sandelin](mailto:msandelin@glenoaks.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Gogebic Community College](http://www.gogebic.cc.mi.us/)</td>
-<td class="tg-c3ow">[Paul LaBine](mailto:PaulL@gogebic.edu)</td>
+<td class="tg-0pky">[Gogebic Community College](http://www.gogebic.cc.mi.us/)</td>
+<td class="tg-0pky">[Paul LaBine](mailto:PaulL@gogebic.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Grand Rapids Community College](http://www.grcc.edu/)</td>
-<td class="tg-c3ow">[John Dersch](mailto:jdersch@grcc.edu)</td>
+<td class="tg-0pky">[Grand Rapids Community College](http://www.grcc.edu/)</td>
+<td class="tg-0pky">[John Dersch](mailto:jdersch@grcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Henry Ford College](http://www.henryford.cc.mi.us/)</td>
-<td class="tg-c3ow">[Jeanine DiDonato](mailto:jdidonato@hfcc.edu)</td>
+<td class="tg-0pky">[Henry Ford College](http://www.henryford.cc.mi.us/)</td>
+<td class="tg-0pky">[Jeanine DiDonato](mailto:jdidonato@hfcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Jackson College](http://www.jccmi.edu/)</td>
-<td class="tg-c3ow">[Erik Brown](mailto:BrownErik@jccmi.edu)</td>
+<td class="tg-0pky">[Jackson College](http://www.jccmi.edu/)</td>
+<td class="tg-0pky">[Erik Brown](mailto:BrownErik@jccmi.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Kalamazoo Valley Community College](http://www.kvcc.edu/)</td>
-<td class="tg-c3ow">[Jon Stasiuk](mailto:jstasiuk@kvcc.edu)</td>
+<td class="tg-0pky">[Kalamazoo Valley Community College](http://www.kvcc.edu/)</td>
+<td class="tg-0pky">[Jon Stasiuk](mailto:jstasiuk@kvcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Kellogg Community College](http://www.kellogg.edu/)</td>
-<td class="tg-c3ow">[Sue Stetler](mailto:stetlers@kellogg.edu)</td>
+<td class="tg-0pky">[Kellogg Community College](http://www.kellogg.edu/)</td>
+<td class="tg-0pky">[Sue Stetler](mailto:stetlers@kellogg.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Kirtland Community College](http://www.kirtland.edu/)</td>
-<td class="tg-c3ow">[Greg Mink](mailto:greg.mink@kirtland.edu)</td>
+<td class="tg-0pky">[Kirtland Community College](http://www.kirtland.edu/)</td>
+<td class="tg-0pky">[Greg Mink](mailto:greg.mink@kirtland.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Lake Michigan College](http://www.lakemichigancollege.edu/)</td>
-<td class="tg-c3ow">[Jim Larson](mailto:larson@lakemichigancollege.edu)</td>
+<td class="tg-0pky">[Lake Michigan College](http://www.lakemichigancollege.edu/)</td>
+<td class="tg-0pky">[Jim Larson](mailto:larson@lakemichigancollege.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Lansing Community College](http://www.lcc.edu/)</td>
-<td class="tg-c3ow">[Leslie Mohnke](mailto:mohnkel@lcc.edu)</td>
+<td class="tg-0pky">[Lansing Community College](http://www.lcc.edu/)</td>
+<td class="tg-0pky">[Leslie Mohnke](mailto:mohnkel@lcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/), Center Campus</td>
-<td class="tg-c3ow">[Caroline Castel](mailto:castelc@macomb.edu)</td>
+<td class="tg-0pky">[Macomb Community College](http://www.macomb.edu/), Center Campus</td>
+<td class="tg-0pky">[Caroline Castel](mailto:castelc@macomb.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Macomb Community College](http://www.macomb.edu/), South Campus</td>
-<td class="tg-c3ow">[Gary Kaplan](mailto:kaplang@macomb.edu)</td>
+<td class="tg-0pky">[Macomb Community College](http://www.macomb.edu/), South Campus</td>
+<td class="tg-0pky">[Gary Kaplan](mailto:kaplang@macomb.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Mid-Michigan Community College](http://www.midmich.cc.mi.us/)</td>
-<td class="tg-c3ow">[David Kedrowski](mailto:dkedrows@midmich.edu)</td>
+<td class="tg-0pky">[Mid-Michigan Community College](http://www.midmich.cc.mi.us/)</td>
+<td class="tg-0pky">[David Kedrowski](mailto:dkedrows@midmich.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Monroe County Community College](http://www.monroeccc.edu/)</td>
-<td class="tg-c3ow">[Vinnie Maltese](mailto:vmaltese@monroeccc.edu)</td>
+<td class="tg-0pky">[Monroe County Community College](http://www.monroeccc.edu/)</td>
+<td class="tg-0pky>[Vinnie Maltese](mailto:vmaltese@monroeccc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Montcalm Community College](http://www.montcalm.edu/)</td>
-<td class="tg-c3ow">[Brianne Lodholtz](mailto:briannel@montcalm.edu)</td>
+<td class="tg-0pky">[Montcalm Community College](http://www.montcalm.edu/)</td>
+<td class="tg-0pky">[Brianne Lodholtz](mailto:briannel@montcalm.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Mott Community College](http://www.mcc.edu/)</td>
-<td class="tg-c3ow">[Bernard Cunningham](mailto:bernard.cunninghamp@mcc.edu)</td>
+<td class="tg-0pky">[Mott Community College](http://www.mcc.edu/)</td>
+<td class="tg-0pky">[Bernard Cunningham](mailto:bernard.cunninghamp@mcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Muskegon Community College](http://www.muskegon.cc.mi.us/)</td>
-<td class="tg-c3ow">[Gary Nonnemacher](mailto:Gary.Nonnemacher@muskegoncc.edu)</td>
+<td class="tg-0pky">[Muskegon Community College](http://www.muskegon.cc.mi.us/)</td>
+<td class="tg-0pky>[Gary Nonnemacher](mailto:Gary.Nonnemacher@muskegoncc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[North Central Michigan College](http://www.ncmc.cc.mi.us/)</td>
-<td class="tg-c3ow">[Gary Kerstinger](mailto:gkersting@ncmich.edu)</td>
+<td class="tg-0pky">[North Central Michigan College](http://www.ncmc.cc.mi.us/)</td>
+<td class="tg-0pky">[Gary Kerstinger](mailto:gkersting@ncmich.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Northwestern Michigan College](http://www.nmc.edu/)</td>
-<td class="tg-c3ow">[Ernie East](mailto:eeast@nmc.edu)</td>
+<td class="tg-0pky">[Northwestern Michigan College](http://www.nmc.edu/)</td>
+<td class="tg-0pky">[Ernie East](mailto:eeast@nmc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Auburn Hills Campus</td>
-<td class="tg-c3ow">[Janet Peart](mailto:jepeart@oaklandcc.edu)</td>
+<td class="tg-0pky">[Oakland Community College](http://www.oaklandcc.edu/), Auburn Hills Campus</td>
+<td class="tg-0pky">[Janet Peart](mailto:jepeart@oaklandcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Highland Lakes Campus</td>
-<td class="tg-c3ow">[Emily McAllister](mailto:ehmcalli@oaklandcc.edu)</td>
+<td class="tg-0pky">[Oakland Community College](http://www.oaklandcc.edu/), Highland Lakes Campus</td>
+<td class="tg-0pky">[Emily McAllister](mailto:ehmcalli@oaklandcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Orchard Ridge Campus</td>
-<td class="tg-c3ow">[Julie Gunkelman](mailto:jagunkel@oaklandcc.edu)</td>
+<td class="tg-0pky">[Oakland Community College](http://www.oaklandcc.edu/), Orchard Ridge Campus</td>
+<td class="tg-0pky">[Julie Gunkelman](mailto:jagunkel@oaklandcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Royal Oak Campus</td>
-<td class="tg-c3ow">[Celeste Bogan](mailto:clbogan@oaklandcc.edu)</td>
+<td class="tg-0pky">[Oakland Community College](http://www.oaklandcc.edu/), Royal Oak Campus</td>
+<td class="tg-0pky">[Celeste Bogan](mailto:clbogan@oaklandcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Oakland Community College](http://www.oaklandcc.edu/), Southfield Campus</td>
-<td class="tg-c3ow">[Celeste Bogan](mailto:clbogan@oaklandcc.edu)</td>
+<td class="tg-0pky">[Oakland Community College](http://www.oaklandcc.edu/), Southfield Campus</td>
+<td class="tg-0pky">[Celeste Bogan](mailto:clbogan@oaklandcc.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[St. Clair County Community College](http://www.sc4.edu/)</td>
-<td class="tg-c3ow">[Cindie Wade](mailto:cwade@stclair.cc.mi.us)</td>
+<td class="tg-0pky">[St. Clair County Community College](http://www.sc4.edu/)</td>
+<td class="tg-0pky">[Cindie Wade](mailto:cwade@stclair.cc.mi.us)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Schoolcraft Community College](http://www.schoolcraft.edu/)</td>
-<td class="tg-c3ow">[Audrey Mingela](mailto:amingela@schoolcraft.edu)</td>
+<td class="tg-0pky">[Schoolcraft Community College](http://www.schoolcraft.edu/)</td>
+<td class="tg-0pky">[Audrey Mingela](mailto:amingela@schoolcraft.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Southwestern Michigan College](http://www.swmich.edu/)</td>
-<td class="tg-c3ow">[Ria Thomas](mailto:rthomas@swmich.edu)</td>
+<td class="tg-0pky">[Southwestern Michigan College](http://www.swmich.edu/)</td>
+<td class="tg-0pky">[Ria Thomas](mailto:rthomas@swmich.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Washtenaw Community College](http://www.washtenaw.cc.mi.us/)</td>
-<td class="tg-c3ow">[Mark Batell](mailto:mfbatell@wccnet.org)</td>
+<td class="tg-0pky">[Washtenaw Community College](http://www.washtenaw.cc.mi.us/)</td>
+<td class="tg-0pky">[Mark Batell](mailto:mfbatell@wccnet.org)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[Wayne County Community College](http://www.wcccd.edu/)</td>
-<td class="tg-c3ow">[Kevin Lawson](mailto:klawson1@wcccd.edu)</td>
+<td class="tg-0pky">[Wayne County Community College](http://www.wcccd.edu/)</td>
+<td class="tg-0pky">[Kevin Lawson](mailto:klawson1@wcccd.edu)</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">[West Shore Community College](http://www.westshore.edu/)</td>
-<td class="tg-c3ow">[Paul Drelles](mailto:pgdrelles@westshore.edu)</td>
+<td class="tg-0pky">[West Shore Community College](http://www.westshore.edu/)</td>
+<td class="tg-0pky">[Paul Drelles](mailto:pgdrelles@westshore.edu)</td>
 </tr>
+
+</table>

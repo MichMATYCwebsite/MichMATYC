@@ -209,7 +209,7 @@ a {
 }
 
 h4 {
-  border-left: 10px solid #A44200;
+  border-left: 0px solid #A44200;
   padding-left: 0.5rem; 
 }
 
@@ -220,7 +220,7 @@ h4.menu-title {
 /* 
 h3::before {
   content: '';
-  border-left: 2px solid black;
+  border-left: 0px solid black;
   height: 100%;
   position: absolute;
 } */

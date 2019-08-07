@@ -8,7 +8,7 @@ title = "Announcements Library"
 
 #### Check Out, Use, and Contribute to Convergence
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">Aug 2, 2019</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Aug 2, 2019</i>
 
 This is an invitation for you to check out, use, and contribute to <a href="http://www.maa.org/press/periodicals/convergence">Convergence</a>,
 an online MAA resource where history, mathematics, and teaching converge.<!--more--><br/>
@@ -23,7 +23,7 @@ Make Convergence your go-to resource for the history of mathematics and its uses
 
 #### Karen Sharp Student Scholarship
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">Jun 10, 2019</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Jun 10, 2019</i>
 
 I hope that everyone is having a wonderful summer! I wanted to let you know that we have extended the deadline for the **2019 Karen Sharp Student Scholarship** to **July 31, 2019**.<!--more-->
 
@@ -37,7 +37,7 @@ If you have any questions or would like additional information about the Karen S
 
 #### Nominate a Colleague for the Teaching Excellence Award!
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">Jun 4, 2019</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Jun 4, 2019</i>
 
 The award was established to recognize the high quality of instruction occurring at Michigan’s two-year colleges.
 The selection criteria include instructional effectiveness and support of students, professional involvement
@@ -61,7 +61,7 @@ Email: lkwicklu@oaklandcc.edu
 
 #### Call for Proposals for 2019 MichMATYC Conference
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">May 11, 2019</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>May 11, 2019</i>
 
 Henry Ford College will be hosting the **2019 MichMATYC Conference** on **October 11-12, 2019**. The theme of the conference is "Mistakes Allow Thinking to Happen". Proposals for presenters are now being accepted.
 
@@ -72,14 +72,14 @@ To  submit a proposal, please go to the <a href="https://michmatyc2019.org/prese
 
 #### Join the MichMATYC Facebook Group
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">May 10, 2019</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>May 10, 2019</i>
 
 If you would like to further network with colleagues around Michigan and neighboring states, receive additional updates, along with other news and interesting articles, please consider joining the [MichMATYC Facebook Group](https://www.facebook.com/MichMATYC/).
 <br/><br/>
 
 #### Check out the May edition of The Sum-Times!
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">May 9, 2019</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>May 9, 2019</i>
 
 The [May 2019](https://michmatyc.netlify.com/uploads/MichMatycNewsletterMay2019.pdf) edition of The Sum-Times has been published with great articles, college and campus updates, and exciting events to look forward to this upcoming year!
 
@@ -88,7 +88,7 @@ If you are interested in submitting an article or information to be shared with 
 
 #### Applications for MiTEAM Cohort 3
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">Feb 17, 2019</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Feb 17, 2019</i>
 
 The deadline for applications to be considered for MiTEAM Cohort 3 is **September 1, 2019**. Any full- or part-time faculty in their first three years of college teaching interested in becoming a participant in MichMATYC MiTEAM can go to <a href="http://bit.ly/michmatycmiteam">MichMATYC MiTEAM</a> for more information and to complete an application for consideration. If you have new colleagues within your department, encourage them to apply to be part of the next MiTEAM cohort!
 
@@ -97,7 +97,7 @@ Contact: <a href="mailto:pembertm@lcc.edu">Michael Pemberton</a>, MiTEAM Program
 
 #### Check out the February edition of The Sum-Times!
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">Feb 4, 2019</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Feb 4, 2019</i>
 
 The [February 2019](https://michmatyc.netlify.com/uploads/MichMatycNewsletterFeb2019.pdf) edition of
 The Sum-Times has been published with great articles, college and campus updates, and exciting events
@@ -112,7 +112,7 @@ Newsletter Editor, The MichMATYC Sum-Times.
 
 #### MichMATYC Grants are now available!
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;">Nov 20, 2018</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Nov 20, 2018</i>
 
 Do you have an idea for an innovative new classroom project or event, but don't have all the funding you need?
 MichMATYC now offers grants for members of up to $500 in support of activities of membership related to innovative

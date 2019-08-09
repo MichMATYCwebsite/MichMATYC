@@ -209,8 +209,8 @@ a {
 }
 
 h4 {
-  border-left: 0px solid #A44200;
-  padding-left: 0.0rem; 
+  border-left: 10px solid #A44200;
+  padding-left: 12px; 
 }
 
 h4.menu-title {

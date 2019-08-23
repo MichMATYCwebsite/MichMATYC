@@ -11,7 +11,7 @@ After clicking on the conference link above, then click on "Register" and on the
 We look forward to seeing you all on our campus.
 
 On behalf of the conference committee,
+<br><br>
 
-
-Sam Bazzi
+Sam Bazzi<br>
 Secretary/Treasurer

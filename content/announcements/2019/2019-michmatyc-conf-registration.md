@@ -1,7 +1,7 @@
 +++
 date = "2019-08-23T19:40:00+00:00"
 layout = "post"
-title = "Conference Registration is now OPEN"
+title = "Conference Registration is now OPEN!"
 
 +++
 We are very excited to let you know that registration for the <b>[2019 MichMATYC Conference](http://www.michmatyc2019.org)</b> that will be held at <b>Henry Ford College</b> on <b>October 11-12, 2019</b> is now OPEN! 

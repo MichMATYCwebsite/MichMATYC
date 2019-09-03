@@ -54,9 +54,49 @@ Chair, Student Scholarship Committee
 
     <td class="tg-0pky">2018</td>
     
-    <td class="tg-0pky">Jeff Powers</td>
+    <td class="tg-0pky">Jeffrey Powers</td>
     
     <td class="tg-0pky">Grand Rapids CC</td>
+    
+</tr>
+
+<tr>
+
+    <td class="tg-0pky">2017</td>
+    
+    <td class="tg-0pky">Rachel Chroninger</td>
+    
+    <td class="tg-0pky">Alpena CC</td>
+    
+</tr>
+
+<tr>
+
+    <td class="tg-0pky">2016</td>
+    
+    <td class="tg-0pky">Brianne Becker</td>
+    
+    <td class="tg-0pky">Alpena CC</td>
+    
+</tr>
+
+<tr>
+
+    <td class="tg-0pky">2016</td>
+    
+    <td class="tg-0pky">Hunter Maulk</td>
+    
+    <td class="tg-0pky">Kellogg CC</td>
+    
+</tr>
+
+<tr>
+
+    <td class="tg-0pky">2014</td>
+    
+    <td class="tg-0pky">Gerald St. James</td>
+    
+    <td class="tg-0pky">St. Clair County CC</td>
     
 </tr>
 

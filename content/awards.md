@@ -82,7 +82,7 @@ Chair, Student Scholarship Committee
 
 <tr>
 
-    <td class="tg-0pky">2016</td>
+    <td class="tg-0pky"></td>
     
     <td class="tg-0pky">Hunter Maulk</td>
     

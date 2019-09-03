@@ -52,6 +52,26 @@ Chair, Student Scholarship Committee
 
 <tr>
 
+    <td class="tg-0pky">2019</td>
+    
+    <td class="tg-0pky">Joshua Adair</td>
+    
+    <td class="tg-0pky">Kellogg CC</td>
+    
+</tr>
+
+<tr>
+
+    <td class="tg-0pky"></td>
+    
+    <td class="tg-0pky">David Hampshire</td>
+    
+    <td class="tg-0pky">Oakland CC</td>
+    
+</tr>
+
+<tr>
+
     <td class="tg-0pky">2018</td>
     
     <td class="tg-0pky">Jeffrey Powers</td>

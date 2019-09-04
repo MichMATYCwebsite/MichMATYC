@@ -13,4 +13,4 @@ by 11:59 PM on Friday, September 27.<br><br>
 
 Please let us know if you have any questions,<br><br>
 
-<a href="mailto:jagunkel@oaklandcc.edu?subject=Affiliate%20Scholarship">Julie Gunkelman</a> & <a href="mailto:srsimpson@hfcc.edu%20[undefined:srsimpson@hfcc.edu]?subject=Affiliate%20Scholarship>Shanna Simpson-Singleton</a>
+<a href="mailto:jagunkel@oaklandcc.edu?subject=Affiliate%20Scholarship">Julie Gunkelman</a> & <a href="mailto:srsimpson@hfcc.edu%20[undefined:srsimpson@hfcc.edu]?subject=Affiliate%20Scholarship">Shanna Simpson-Singleton</a>

@@ -15,5 +15,5 @@ Most of our articles run in length between 300 and 500 words and tend to be one 
 articles, college and campus updates, and upcoming exciting events!
 
 If you are interested in submitting an article or information to be shared with your MichMATYC colleagues in this month's 
-newsletter, please submit to '''[Desidera (Indah) Kooswinarsinindyah]'''(mailto:Koowinarsinindyahd@macomb.edu), 
-Newsletter Editor, The MichMATYC Sum-Times, by '''Friday, September 13'''.
+newsletter, please submit to <b>[Desidera (Indah) Kooswinarsinindyah](mailto:Koowinarsinindyahd@macomb.edu)</b>, 
+Newsletter Editor, The MichMATYC Sum-Times, by <b>Friday, September 13</b>.

@@ -200,7 +200,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow"><a href="http://www.lcc.edu/">Lansing Community College</a>
 </td>
 
-<td class="tg-c3ow"><a href="mailto:mohnkel@lcc.edu">Leslie Mohnke</a>
+<td class="tg-c3ow"><a href="mailto:johns257@lcc.edu">Maria Johnson</a>
 </td></tr>
 
 <tr>

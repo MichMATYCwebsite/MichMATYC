@@ -1,7 +1,7 @@
 +++
 date = "2019-09-08T10:58:00+00:00"
 layout = "post"
-title = "The MichMATYC Sum-Times Seeking Articles for September 2019 Edition"
+title = "The MichMATYC Sum-Times Seeking Articles for September"
 
 +++
 

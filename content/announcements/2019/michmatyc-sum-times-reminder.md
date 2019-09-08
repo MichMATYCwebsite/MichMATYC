@@ -5,7 +5,7 @@ title = "The MichMATYC Sum-Times Seeking Articles for September 2019 Edition"
 
 +++
 
-"The MichMATYC Sum-Times" is still seeking articles of interest for this month's edition. In addition to our popular "Campus News" section, if you or your colleagues would like to share accomplishments, recent retirements or new hires within your department,
+The MichMATYC Sum-Times is still seeking articles of interest for this month's edition. In addition to our popular <i>Campus News</i> section, if you or your colleagues would like to share accomplishments, recent retirements or new hires within your department,
 a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an 
 article and sending it to the Newsletter Editor.
 

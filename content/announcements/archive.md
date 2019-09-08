@@ -6,7 +6,7 @@ title = "Announcements Library"
 +++
 ### 2019
 
-#### The MichMATYC Sum-Times Seeking Articles for September
+#### The Sum-Times Seeking Articles for September
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Sep 8, 2019</i>
 

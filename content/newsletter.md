@@ -194,9 +194,9 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow"><a href="/uploads/Sept2009MichMATYCnewsletter.pdf" target="_blank">Sept</a></td>
 
-<td class="tg-c3ow"></td>
-
 <td class="tg-c3ow"><a href="/uploads/Feb2010MichMATYCnewsletter.pdf" target="_blank">Feb</a></td>
+
+<td class="tg-c3ow"></td>
 
 </tr>
 
@@ -208,9 +208,9 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow"><a href="/uploads/FA2008newsletter.pdf" target="_blank">Fall</a></td>
 
-<td class="tg-c3ow"></td>
-
 <td class="tg-c3ow"><a href="/uploads/March2009MichMATYCnewsletter.pdf" target="_blank">March</a></td>
+
+<td class="tg-c3ow"></td>
 
 </tr>
 

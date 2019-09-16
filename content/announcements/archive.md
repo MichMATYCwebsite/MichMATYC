@@ -66,23 +66,6 @@ Please let us know if you have any questions,<br>
 
 <a href="mailto:jagunkel@oaklandcc.edu?subject=Affiliate%20Scholarship">Julie Gunkelman</a> & <a href="mailto:srsimpson@hfcc.edu%20[undefined:srsimpson@hfcc.edu]?subject=Affiliate%20Scholarship">Shanna Simpson-Singleton</a><br><br>
 
-#### Conference Registration is now OPEN!
-
-<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Aug 23, 2019</i>
-
-We are very excited to let you know that registration for the <b>[2019 MichMATYC Conference](http://www.michmatyc2019.org)</b> that will be held at <b>Henry Ford College</b> on <b>October 11-12, 2019</b> is now OPEN! 
-
-After clicking on the conference link above, then click on "Register" and on the first link to fill out a form. Provide your contact information and then click on the second link to register for the conference. You will need a credit card for registration. Please let your colleagues know about this exciting event and direct them to the website if interested in attending.
-
-We look forward to seeing you all on our campus.
-
-On behalf of the conference committee,
-<br><br>
-
-Sam Bazzi<br>
-Secretary/Treasurer
-<br/><br/>
-
 #### Check Out, Use, and Contribute to Convergence
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Aug 2, 2019</i>

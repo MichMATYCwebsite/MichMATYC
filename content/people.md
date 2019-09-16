@@ -130,7 +130,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow"><a href="http://www.delta.edu/">Delta College</a>
 </td>
 
-<td class="tg-c3ow"><a href="mailto:franceslichtman@delta.edu">Frances Lichtman</a>
+<td class="tg-c3ow"><a href="mailto:pglutz@delta.edu">Phoebe Lutz</a>
 </td></tr>
 
 <tr>

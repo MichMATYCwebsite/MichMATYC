@@ -7,8 +7,26 @@ title = "Past Events"
 
 ## 2019
 
+#### Conference Registration is now OPEN!
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Aug 23, 2019</i>
+
+We are very excited to let you know that registration for the <b>[2019 MichMATYC Conference](http://www.michmatyc2019.org)</b> that will be held at <b>Henry Ford College</b> on <b>October 11-12, 2019</b> is now OPEN! 
+
+After clicking on the conference link above, then click on "Register" and on the first link to fill out a form. Provide your contact information and then click on the second link to register for the conference. You will need a credit card for registration. Please let your colleagues know about this exciting event and direct them to the website if interested in attending.
+
+We look forward to seeing you all on our campus.
+
+On behalf of the conference committee,
+<br><br>
+
+Sam Bazzi<br>
+Secretary/Treasurer
+<br/><br/>
+
 ### Free IBL Workshop at University of Michigan
-Thurs, Aug 1, 2019
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Aug 1, 2019</i>
 
 You are invited to participate in a **free workshop** on **Inquiry-Based Learning (IBL)**, taking place at **University of Michigan**, **August 27-29**. Facilitators are Nina White (UM) and Kyle Petersen (DePaul). The [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfzyp7B4CtMyN0uGWoe5ICT-bBX3MeU5-LsWsgW7jCFL4OLNg/viewform?fbclid=IwAR1fL7rlhjuTwy4KF9fGm5LyUi9fSHXa3TGWI8tzBdFGvDQG3mlWcikdTks)
 is now up!<!--more-->
@@ -40,7 +58,8 @@ teaching to help us define our focus:
 <br/><br/>
 
 ### 2019 AMATYC Conference in Milwaukee
-Sat, Jun 1, 2019
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Jun 1, 2019</i>
 
 The 45th Annual AMATYC Conference is going to be GREAT! 
 The conference is making its debut in Wisconsin, so take advantage of this opportunity to attend an 
@@ -55,7 +74,8 @@ and you'll never want to miss another AMATYC Conference!
 <br/><br/>
 
 ### 2019 Annual MAA-MichMATYC Spring Meeting
-Sun, Mar 10, 2019
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Mar 10, 2019</i>
 
 Mark your calendars now for this year’s annual conference. You don’t want to miss it!<br/>
 **Host: Henry Ford College, Dearborn, Michigan. Dates: October 11-12, 2019.**
@@ -66,7 +86,8 @@ More information regarding the conference will be posted. We can't wait to see y
 ## 2018
 
 ### Mark Your Calendars for the 2019 MichMATYC Conference
-Fri, Nov 23, 2018
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Nov 23, 2019</i>
 
 Mark your calendars now for this year’s annual conference. You don’t want to miss it!<br/>
 **Host: Henry Ford College, Dearborn, Michigan. Dates: October 11-12, 2019.**

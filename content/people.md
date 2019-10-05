@@ -28,7 +28,7 @@ class=title>President
 </div>
   
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> 
+<div class=leadership-card-head><img class=leadership src=/uploads/cox.jpg>
 <div class=flex-wrap>
 <p class=name>Anna Cox<p
 class=title>Past President
@@ -43,7 +43,7 @@ class=title>Past President
 </div>
 
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/placeholder.png> 
+<div class=leadership-card-head><img class=leadership src=/uploads/bazzi.jpg> 
 <div class=flex-wrap>
 <p class=name>Sam Bazzi<p
 class=title>Secretary/Treasurer

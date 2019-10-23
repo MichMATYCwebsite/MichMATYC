@@ -306,6 +306,16 @@ Chair, Teaching Excellence Award Committee
 
 <tr>
 
+    <td class="tg-0pky">2019</td>
+    
+    <td class="tg-0pky">Anna Cox</td>
+    
+    <td class="tg-0pky">Kellogg CC</td>
+
+</tr>
+
+<tr>
+
     <td class="tg-0pky">2018</td>
     
     <td class="tg-0pky">Jack Rotman</td>

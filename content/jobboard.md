@@ -1,5 +1,4 @@
 +++
-date = "2019-06-02T01:13:00+00:00"
 layout = "page"
 showdate = false
 title = "Job Board"

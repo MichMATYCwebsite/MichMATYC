@@ -2,12 +2,13 @@
 date = "2019-06-02T01:13:00+00:00"
 layout = "post"
 showdate = false
-title = "Lansing Community College"
+title = "Job Board"
 [menu.main]
 weight = 9
 
 +++
 ### Adjunct Instructor - Statistics and Applied Mathematics
+### Lansing Community College
 
 Job Summary and Description
 

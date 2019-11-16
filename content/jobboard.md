@@ -18,6 +18,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 <tr>
 
 <th class="tg-c3ow"><b>Institution</b></th>
+<th class="tg-c3ow">Lansing Community College</th>
 
 <th class="tg-c3ow"><b>Date Posted</b></th>
 

@@ -22,10 +22,9 @@ Required:<br>
  <li>Previous teaching experience.</li>
  <li>If teaching courses other than Mathematics, must have 18 graduate credit hours in the course’s discipline.</li></ul>
  
-Preferred:
-
-Doctoral degree (from a regionally accredited college or university) in Mathematics or Statistics or doctoral degree in a closely related field + 18 semester graduate credits (or the equivalent number of quarter hours) in Mathematics or Statistics.
-Previous teaching experience at the college level.
+Preferred:<br>
+<ul>
+ <li>Doctoral degree (from a regionally accredited college or university) in Mathematics or Statistics or doctoral degree in a closely related field + 18 semester graduate credits (or the equivalent number of quarter hours) in Mathematics or Statistics.</li>
+ <li>Previous teaching experience at the college level.</li></ul>
  
-
-Link to LCC’s job Postings: https://lcc.csod.com/ux/ats/careersite/2/home/requisition/893?c=lcc
+Link to LCC's job Postings: https://lcc.csod.com/ux/ats/careersite/2/home/requisition/893?c=lcc

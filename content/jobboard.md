@@ -23,9 +23,14 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 <th class="tg-c3ow"><b>Date Posted</b></th>
 
-<th class="tg-c3ow"><b>Important Dates</b></th>
+<th class="tg-c3ow"><b>Closing Date</b></th>
 
 </tr>
+
+<tr><td><a href="http://michmatyc.org/jobboard/lansingcc-adjunct-mathematics/>Adjunct Instructor - Mathematics</td>
+  <td><a href="http://www.lcc.edu">Lansing Community College</a></td>
+  <td>November 15, 2019</td>
+  <td>November 15, 2020</td></tr>
 </table><br>
 
 

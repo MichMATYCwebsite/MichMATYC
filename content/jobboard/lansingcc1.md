@@ -27,4 +27,4 @@ Preferred:<br>
  <li>Doctoral degree (from a regionally accredited college or university) in Mathematics or Statistics or doctoral degree in a closely related field + 18 semester graduate credits (or the equivalent number of quarter hours) in Mathematics or Statistics.</li>
  <li>Previous teaching experience at the college level.</li></ul>
  
-Link to LCC's job Postings: https://lcc.csod.com/ux/ats/careersite/2/home/requisition/893?c=lcc
+For more information, follow the link to <a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/893?c=lcc">LCC's job Postings</a>.

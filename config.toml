@@ -8,7 +8,7 @@ title = "MichMATYC"
 hrefTargetBlank = true
 [[menu.main]]
 name = "Job Board"
-url = "https://michmatyc.org/jobboard/"
+url = "https://michmatyc.org/job-board/"
 weight = 9
 [[menu.main]]
 name = "Conferences"

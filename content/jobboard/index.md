@@ -26,12 +26,12 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
 
-<tr><td><a href="http://michmatyc.org/jobboard/lansingcc-adjunct-instructor-stats/">Adjunct Instructor - Statistics and Applied Mathematics</a></td>
+<tr><td><a href="http://michmatyc.org/lansingcc-adjunct-instructor-stats/">Adjunct Instructor - Statistics and Applied Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing Community College</a></td>
   <td>November 15, 2019</td>
   <td>November 15, 2020</td></tr>
 
-<tr><td><a href="http://michmatyc.org/jobboard/lansingcc-adjunct-instructor-mathematics/">Adjunct Instructor - Mathematics</a></td>
+<tr><td><a href="http://michmatyc.org/lansingcc-adjunct-instructor-mathematics/">Adjunct Instructor - Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing Community College</a></td>
   <td>November 15, 2019</td>
   <td>November 15, 2020</td></tr>

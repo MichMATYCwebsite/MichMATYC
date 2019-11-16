@@ -10,6 +10,7 @@ weight = 9
 ### Lansing Community College
 #### Adjunct Instructor - Statistics and Applied Mathematics
 
+
 **Job Summary and Description**
 
 Adjunct (part-time) faculty to teach courses in Statistics and Applied Mathematics. Depending upon program needs and the candidate’s qualifications, teaching assignments will be on LCC’s downtown Lansing campus. Adjunct faculty are expected to work collaboratively with senior department faculty to develop course content consistent with official course syllabi, to deliver course instruction to students, and to be available for student assistance and advising outside of class. Additional responsibilities may include participation in course assessment, department/program meetings, professional development activities, and other duties as assigned.

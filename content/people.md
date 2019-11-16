@@ -7,7 +7,6 @@ title = "People"
 weight = 3
 
 +++
-
 ### MichMATYC Executive Board
 
 <div class=leadership-wrap>

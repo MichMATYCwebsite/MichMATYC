@@ -7,7 +7,8 @@ title = "Job Board"
 weight = 9
 
 +++
-### Adjunct Instructor - Statistics and Applied Mathematics<br>Lansing Community College
+### Lansing Community College
+#### Adjunct Instructor - Statistics and Applied Mathematics
 
 Job Summary and Description
 

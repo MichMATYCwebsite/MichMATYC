@@ -3,8 +3,6 @@ date = "2019-06-02T01:13:00+00:00"
 layout = "post"
 showdate = false
 title = "Job Board"
-[menu.main]
-weight = 9
 
 +++
 ### Lansing Community College

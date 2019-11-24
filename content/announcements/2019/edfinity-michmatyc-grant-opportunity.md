@@ -1,7 +1,7 @@
 +++
 date = "2019-11-24T16:01:00+00:00"
 layout = "post"
-title = "Edfinity Award Opportunity for Educators"
+title = "Edfinity and MichMATYC Grant Opportunity"
 
 +++
 Edfinity and MichMATYC wish to recognize an educator who has made substantial efforts to further the cause of equitable access to 

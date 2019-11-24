@@ -6,7 +6,7 @@ title = "Job Board"
 
 +++
 ### Lansing Community College
-#### Adjunct Instructor - Mathematics
+#### Adjunct Instructor - Statistics and Applied Mathematics
 
 <br>
 **Job Summary and Description**<br>

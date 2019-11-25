@@ -14,6 +14,7 @@
     read our newsletter, visit links to professional organizations, and much more!
 
 <h3 style="margin-bottom:0;">Upcoming conferences</h3>
+<p class="p-main"></p>
 
 <div class="posts">
   {{ range where .Site.RegularPages "Section" "upcoming" -}}
@@ -33,6 +34,7 @@
 </div>
 
 <h3 style="margin-bottom:0;">Previous conferences</h3>
+<p class="p-main"></p>
 
 <div class="posts">
   {{ range first 10 (where .Site.RegularPages "Section" "conferences") -}}

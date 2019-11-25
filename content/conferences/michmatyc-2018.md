@@ -2,10 +2,10 @@
 date = "2019-02-16T20:29:25+00:00"
 layout = "post"
 showdate = false
-title = "MichMATYC 2018"
+title = "2018 MichMATYC Conference"
 
 +++
-##### 2018 MichMATYC Conference
+##### Conference Information
 
 **Host**: Kalamazoo Valley Community College, Kalamazoo, Michigan<br/>
 **Date**: October 12-13, 2018

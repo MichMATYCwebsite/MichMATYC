@@ -1,10 +1,10 @@
 +++
 date = "2018-11-23T22:56:06+00:00"
 layout = "post"
-title = "MichMATYC 2017"
+title = "2017 MichMATYC Conference"
 
 +++
-##### 2017 MichMATYC Conference
+##### Conference Information
 
 Check out the [conference website](https://sites.google.com/view/2017-michmatyc-conference/home) for details about the conference.
 

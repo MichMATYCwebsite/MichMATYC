@@ -1,6 +1,9 @@
 {{ define "main" -}}
 
 <h2>Conferences</h2>
+
+<hr>
+
 <p class="p-main">
     Welcome to the website of the Michigan Mathematical Association of Two-Year Colleges! MichMATYC is an affiliate of the 
     <a href="https://amatyc.site-ym.com/" target="_blank">American Mathematical Association of Two Year Colleges (AMATYC)</a> &ndash; 
@@ -11,8 +14,6 @@
     read our newsletter, visit links to professional organizations, and much more!
 
 <h3 style="margin-bottom:0;">Upcoming conferences</h3>
-
-<hr>
 
 <div class="posts">
   {{ range where .Site.RegularPages "Section" "upcoming" -}}
@@ -32,8 +33,6 @@
 </div>
 
 <h3 style="margin-bottom:0;">Previous conferences</h3>
-
-<hr>
 
 <div class="posts">
   {{ range first 10 (where .Site.RegularPages "Section" "conferences") -}}

@@ -10,7 +10,7 @@ MichMATYC is happy to post positions from its member institutions and from insti
 
 The posting must include an electronic copy of the vacancy notice, a link to the institution's website, location of the position, date the position starts, and closing date for the job posting. If you wish to have your position posted here, with the list of required information, please send an email to [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
 
-### Mathematics Position Announcements
+### Position Announcements
 
 <table class="tg">
 

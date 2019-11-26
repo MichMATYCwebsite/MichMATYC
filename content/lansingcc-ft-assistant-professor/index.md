@@ -51,3 +51,5 @@ Preferred:<br>
  <li>Experience developing and leading co-support courses.</li></ul>
  
 For more information, follow the link to <a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/899?c=lcc">Lansing Community College's job postings</a>. 
+
+Lansing Community College is an equal opportunity, educational institution/employer.

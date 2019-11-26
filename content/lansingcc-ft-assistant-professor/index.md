@@ -6,7 +6,7 @@ title = "Job Board"
 
 +++
 ### Lansing Community College
-#### Full-Time Assistant Professor - Mathematics
+#### <a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/899?c=lcc">Full-Time Assistant Professor - Mathematics</a>
 
 <br>
 **Position Information**<br>
@@ -50,6 +50,5 @@ Preferred:<br>
  <li>Experience in Development Mathematics leadership support.</li>
  <li>Experience developing and leading co-support courses.</li></ul>
  
-For more information, follow the link to <a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/899?c=lcc">Lansing Community College's job postings</a>. 
-
+For more information, follow the link to <a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/899?c=lcc">Lansing Community College's job postings</a>.<br>
 Lansing Community College is an equal opportunity, educational institution/employer.

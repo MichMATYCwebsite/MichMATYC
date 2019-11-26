@@ -30,9 +30,7 @@ Bargaining Unit: MAHE (Michigan Association for Higher Education)</br></br>
 Teach courses in Mathematics with a focus on Math for Liberal Arts and Introductory Statistics, consistent with current developments 
 in the discipline and teaching methods.  Participate in program/department meetings and divisional/college-wide committees with a 
 focus on continual improvement of programs and learning outcomes.  Participate in curriculum and course development, course and 
-program coordination, tutoring and advising students, mentoring and reviewing peers, and shared governance of the College.  
-Must demonstrate a commitment to the diversity of a multi-cultural population, as well as work effectively in a team-based 
-environment, seeking continuous improvement and adherence to the community college philosophy.
+program coordination, tutoring and advising students, mentoring and reviewing peers, and shared governance of the College. Must demonstrate a commitment to the diversity of a multi-cultural population, as well as work effectively in a team-based environment, seeking continuous improvement and adherence to the community college philosophy.
 
 <br>
 **Qualifications: Education and Experience**<br>
@@ -52,4 +50,4 @@ Preferred:<br>
  <li>Experience in Development Mathematics leadership support.</li>
  <li>Experience developing and leading co-support courses.</li></ul>
  
-For more information, follow the link to <a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/899?c=lcc">LCC's job Postings</a>.
+For more information, follow the link to <a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/899?c=lcc">Lansing Community College's job postings</a>. 

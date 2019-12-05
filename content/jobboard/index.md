@@ -46,7 +46,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Nov 15, 2019</td>
   <td>Nov 15, 2020</td></tr>
   
-</table>
+</table></br>
 
 ### Job Searching in Higher Education?
 

@@ -10,11 +10,14 @@ title = "Job Board"
 
 <br>
 **Position Information**<br>
-Instructor of Mathematics (Non-Tenure Track) One-Year Renewable</br>
+Instructor of Mathematics (Non-Tenure Track)</br>
+Type of Position: Full-Time, One-Year Renewable<br>
 Location: University Center, MI, United States</br>
-Posting is Open Until Filled</br>
+Closing Date: Open Until Filled</br>
 
-Status: Starting Salary $52,700 to $68,454, Commensurate with Education, Qualifications, and Experience</br>
+**Status**<br>
+Starting Salary $52,700 to $68,454<br>
+Commensurate with Education, Qualifications, and Experience</br>
 
 **Position Accountabilities and Essential Functions**<br>
 The successful candidate must demonstrate experience, skills, and commitment to fostering an environment of diversity and 

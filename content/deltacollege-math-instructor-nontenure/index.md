@@ -13,11 +13,11 @@ title = "Job Board"
 Instructor of Mathematics (Non-Tenure Track)</br>
 Type of Position: Full-Time, One-Year Renewable<br>
 Location: University Center, MI, United States</br>
-Closing Date: Open Until Filled</br>
+Closing Date: Open Until Filled</br></br>
 
 **Status**<br>
 Starting Salary $52,700 to $68,454<br>
-Commensurate with Education, Qualifications, and Experience</br>
+Commensurate with Education, Qualifications, and Experience</br></br>
 
 **Position Accountabilities and Essential Functions**<br>
 The successful candidate must demonstrate experience, skills, and commitment to fostering an environment of diversity and 
@@ -68,5 +68,6 @@ and Mathematics Division at Delta College.
  <li>Experience teaching diverse student populations.</li>
  <li>Experience with teaching courses for dual enrollment initiatives.</li></ul>
  
-For more information, follow the link to <a href="https://delta.peopleadmin.com/postings/4592">Delta College's online application form</a>.<br>
+For more information, follow the link to <a href="https://delta.peopleadmin.com/postings/4592">Delta College's online application form</a>.<br><br>
+
 Delta College embraces equal opportunity as a core value: we actively promote, advocate, respect and value differences, and we foster a welcoming environment of openness and appreciation for all. Delta prohibits discrimination in employment, education, public accommodation, or public service on the basis of age, arrest record, color, disability, ethnicity, familial status, gender identity, genetic information, height, marital status, national origin, race, religion, sex, sexual orientation, veteran status and weight. Direct inquiries to the Equity/Compliance Officer, Delta College, Office A093, 1961 Delta Road, University Center, MI 48710, telephone (989) 686-9547 or email equityofficer@delta.edu.

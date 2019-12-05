@@ -31,7 +31,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Nov 25, 2019</td>
   <td>Jan 31, 2020</td></tr>
   
-<tr><td><a href="http://michmatyc.org/deltacollege-mathinstructor-nontenure/">Instructor of Mathematics (Non-Tenure Track), One-Year Renewable</a></td>
+<tr><td><a href="http://michmatyc.org/deltacollege-math-instructor-nontenure/">Instructor of Mathematics (Non-Tenure Track), One-Year Renewable</a></td>
   <td><a href="http://www.delta.edu">Delta College</a></td>
   <td>Nov 20, 2019</td>
   <td>Open Until Filled</td></tr>

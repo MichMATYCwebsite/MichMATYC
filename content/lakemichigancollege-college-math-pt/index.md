@@ -13,7 +13,7 @@ title = "Job Board"
 College Mathematics - Part-Time Faculty (Continuous Applicant Pool)</br>
 Salary Range:	$36 per hour<br>
 Department:	Arts and Sciences Education<br>
-Reports to: Department Chair, Mathematics<br>
+Reports to: Department Chair, Mathematics<br><br>
 
 **Job Summary**<br>
 Uses technology based instruction to sustain the specific courses and curricula mandated by the educational mission and goals of the College.<br>

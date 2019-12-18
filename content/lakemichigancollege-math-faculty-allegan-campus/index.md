@@ -6,12 +6,12 @@ title = "Job Board"
 
 +++
 ### Lake Michigan College<br>
-#### <a href="https://lmc.simplehire.com/postings/2868">College Mathematics - Part-Time Faculty</a>
+#### <a href="https://lmc.simplehire.com/postings/2868">Math Faculty - Allegan Campus (Part-Time)</a>
 
 <br>
 **Position Information**<br>
-College Mathematics - Part-Time Faculty (Continuous Applicant Pool)</br>
-Salary Range:	$36 per hour<br>
+Mathematics Faculty - Allegan Campus (Part-Time)</br>
+Salary Range:	$36 per contact hour<br>
 Department:	Arts and Sciences Education<br>
 Reports to: Department Chair, Mathematics<br><br>
 
@@ -33,10 +33,10 @@ Under the direct supervision of the Department Chair, each adjunct faculty membe
 Other duties as assigned.<br>
 
 **Job Specifications**<br>
-Master’s degree or higher in relevant discipline or subfield or Master’s degree and 18 graduate hours in relevant discipline or subfield.<br>
+Master's degree or higher in Math and/or Statistics, or a Master's degree in a related field with 18 graduate hours in Math or Statistics required.<br>
 
 **Special Instructions to Applicants**<br>
-By completing the application, your information will be added to the candidate pool. Should review of your qualifications result in a decision to pursue your candidacy, you will be contacted. 
-If Lake Michigan College chooses to pursue your candidacy, please note that official transcripts for all degrees will be required for immediate receipt upon hire.<br><br>
+Official college transcripts are required upon hire.<br>
+Questions? Please contact Brenda Shepard, Department Chair at (269) 927-8781 or e-mail at <a href="mailto:bshepard@lakemichigancollege.edu>bshepard@lakemichigancollege.edu</a>
 
 For more information, follow the link to <a href="https://lmc.simplehire.com/">Lake Michigan College's job postings</a>.

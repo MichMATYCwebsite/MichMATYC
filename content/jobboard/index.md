@@ -26,10 +26,10 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
 
-<tr><td><a href="http://michmatyc.org/lakemichigancollege-college-math-pt/">College Mathematics - Part-Time Faculty</a></td>
+<tr><td><a href="http://michmatyc.org/lakemichigancollege-math-faculty-allegan-campus">Math Faculty - Allegan Campus (Part-Time)</a></td>
   <td><a href="https://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Dec 5, 2019</td>
-  <td>Continuous</td></tr>
+  <td>None</td></tr>
   
 <tr><td><a href="http://michmatyc.org/lansingcc-ft-assistant-professor/">Full-Time Assistant Professor - Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing CC</a></td>

@@ -20,14 +20,14 @@ Uses technology based instruction to sustain the specific courses and curricula 
 
 **Position Accountabilities and Essential Functions**<br>
 Under the direct supervision of the Department Chair, each adjunct faculty member is responsible for satisfying the educational, administrative, and fiscal requirements inherent in his/her position.
-<ul>
+<ol>
   <li>Instructs students in assigned classes.</li>
   <li>Provides academic guidance and counseling to students in cooperation with Student Services Personnel.</li>
   <li>Maintains academic standards.</li>
   <li>Prepares course syllabus and outline.</li>
   <li>Monitors student progress.</li>
   <li>Keeps adequate and accurate records.</li>
-  <li>Enters final course grades online.</li></ul><br>
+  <li>Enters final course grades online.</li></ol><br>
   
 **Other Duties**<br>
 Other duties as assigned.<br><br>
@@ -37,6 +37,6 @@ Master's degree or higher in Math and/or Statistics, or a Master's degree in a r
 
 **Special Instructions to Applicants**<br>
 Official college transcripts are required upon hire.<br>
-Questions? Please contact Brenda Shepard, Department Chair at (269) 927-8781 or e-mail at <a href="mailto:bshepard@lakemichigancollege.edu>bshepard@lakemichigancollege.edu</a><br><br>
+Questions? Please contact Brenda Shepard, Department Chair at (269) 927-8781 or e-mail at <a href="mailto:bshepard@lakemichigancollege.edu">bshepard@lakemichigancollege.edu</a><br><br>
 
 For more information, follow the link to <a href="https://lmc.simplehire.com/">Lake Michigan College's job postings</a>.

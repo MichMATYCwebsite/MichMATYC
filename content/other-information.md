@@ -9,7 +9,7 @@ title = "Other Information"
 
 In February 2015, MichMATYC member institutions were invited to attend a workshop regarding development of Quantitative Reasoning (QR) courses which are Michigan Transfer Agreement (MTA) compliant. Below are documents from various MichMATYC institutions detailing their efforts in creating these courses.
 
-If you have any questions concerning Quantitative Reasoning Course Development, please contact [Jack Rotman](mailto:rotmanj@lcc.edu). If you would like your institution's Quantitative Reasoning course materials posted, please send documents and pertinent details to [michmatyc@gmail.com](mailto:michmatyc@gmail.com).
+If you have any questions concerning Quantitative Reasoning Course Development or if you would like your institution's Quantitative Reasoning course materials posted, please send documents and pertinent details to [info@michmatyc.org](mailto:info@michmatyc.org).
 
 <table class="tg">
 
@@ -128,7 +128,7 @@ Course Information (Quantitative Reasoning)
 
 ### MichMATYC ListServ
 
-Members of MichMATYC are automatically included in our email discussion list "MichMATYC ListServ". This email list is intended for both official organizational business and the individual interests of members and member institutions. The email list can be used by members to request information from other colleges, to share ideas, or discuss issues. Only members of MichMATYC can join the list. If you are a member of MichMATYC, please add [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) and [michmatyc.org](mailto:michmatyc.org) to your "safe-senders" list. The email list is maintained by the treasurer/secretary.
+Members of MichMATYC are automatically included in our email discussion list "MichMATYC ListServ". This email list is intended for both official organizational business and the individual interests of members and member institutions. The email list can be used by members to request information from other colleges, to share ideas, or discuss issues. Only members of MichMATYC can join the list. If you are a member of MichMATYC, please add [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) and [info@michmatyc.org](mailto:info@michmatyc.org) to your "safe-senders" list. The email list is maintained by the treasurer/secretary.
 
 ##### How do I use the MichMATYC ListServ?
 

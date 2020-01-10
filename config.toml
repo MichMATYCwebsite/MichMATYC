@@ -18,10 +18,6 @@ weight = 4
 name = "Other Information"
 url = "https://michmatyc.org/other-information/"
 weight = 9
-[[menu.main]]
-name = "MiTEAM Program"
-url = "https://michmatyc.org/miteam/"
-weight = 5
 [params]
 disqusShortname = ""
 googleAnalytics = ""

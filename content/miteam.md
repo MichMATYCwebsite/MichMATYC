@@ -1,6 +1,6 @@
 +++
 date = "2019-02-20T03:07:14+00:00"
-layout = "post"
+layout = "page"
 showdate = false
 title = "MiTEAM Program"
 [menu.main]

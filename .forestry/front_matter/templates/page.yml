@@ -18,8 +18,9 @@ fields:
   label: Show Date
   hidden: false
 pages:
-- content/newsletter.md
-- content/people.md
 - content/about.md
+- content/competitions.md
 - content/conferences/michmatyc-2018.md
+- content/newsletter.md
 - content/other-information.md
+- content/people.md

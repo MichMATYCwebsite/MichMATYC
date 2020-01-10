@@ -2,6 +2,7 @@
 layout = "page"
 showdate = false
 title = "Competitions"
+[menu.main]
 weight = 8
 
 +++

@@ -1,6 +1,6 @@
 +++
 date = "2018-11-24T18:36:00+00:00"
-layout = "post"
+layout = "page"
 showdate = false
 title = "People"
 [menu.main]

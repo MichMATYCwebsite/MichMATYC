@@ -14,10 +14,6 @@ weight = 10
 name = "Conferences"
 url = "https://michmatyc.org/conf/"
 weight = 4
-[[menu.main]]
-name = "Other Information"
-url = "https://michmatyc.org/other-information/"
-weight = 9
 [params]
 disqusShortname = ""
 googleAnalytics = ""

@@ -4,7 +4,7 @@ showdate = false
 title = "Awards, Scholarships & Grants"
 [menu.main]
 name = "Awards & Scholarships"
-weight = 5
+weight = 7
 
 +++
 Below you will find information regarding awards, scholarships and grants offered by the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.

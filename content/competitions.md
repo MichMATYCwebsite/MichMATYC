@@ -45,10 +45,15 @@ For more information on the competition, scholarships, and previous exams, pleas
      
 </tr>
 
-<tr><td rowspan="4">2015-16</td></tr>
+<tr>
+     
+     <td class="tg-0pky" rowspan="4">2015-16</td>
+     
+</tr>
 
 <tr>
      <td class="tg-0pky">Zachary Obsniuk</td>
+     <td class="tg-0pky">Macomb CC</td>
      <td class="tg-0pky">1st</td>
      <td class="tg-0pky">1st</td>
      <td class="tg-0pky">1st</td>
@@ -56,6 +61,7 @@ For more information on the competition, scholarships, and previous exams, pleas
 
 <tr>
      <td class="tg-0pky">Ajay Arora</td>
+     <td class="tg-0pky">Schoolcraft College</td>
      <td class="tg-0pky">2nd</td>
      <td class="tg-0pky">2nd</td>
      <td class="tg-0pky">5th</td>
@@ -63,6 +69,7 @@ For more information on the competition, scholarships, and previous exams, pleas
 
 <tr>
      <td class="tg-0pky">Neel Modi</td>
+     <td class="tg-0pky">Schoolcraft College</td>
      <td class="tg-0pky">3rd</td>
      <td class="tg-0pky">3rd</td>
      <td class="tg-0pky">12th</td>
@@ -70,6 +77,7 @@ For more information on the competition, scholarships, and previous exams, pleas
 
 <tr>
      <td class="tg-0pky">Brenden Vande Kieft</td>
+     <td class="tg-0pky">Macomb CC</td>
      <td class="tg-0pky">4th</td>
      <td class="tg-0pky">4th</td>
      <td class="tg-0pky">18th</td>

@@ -48,11 +48,31 @@ For more information on the competition, scholarships, and previous exams, pleas
 <tr><td rowspan="4">2015-16</td></tr>
 
 <tr>
-    <td class="tg-0pky">Zachary Obsniuk <br> Ajay Arora <br> Neel Modi <br> Brenden Vande Kieft</td>
-    <td class="tg-0pky">Macomb <br> Schoolcraft <br> Schoolcraft <br> Macomb</td>
-    <td class="tg-0pky">1st <br> 2nd <br> 3rd <br> 4th</td>
-    <td class="tg-0pky">1st <br> 2nd <br> 3rd <br> 4th</td>
-    <td class="tg-0pky">1st <br> 5th <br> 12th <br> 18th</td>
+     <td class="tg-0pky">Zachary Obsniuk</td>
+     <td class="tg-0pky">1st</td>
+     <td class="tg-0pky">1st</td>
+     <td class="tg-0pky">1st</td>
+</tr>
+
+<tr>
+     <td class="tg-0pky">Ajay Arora</td>
+     <td class="tg-0pky">2nd</td>
+     <td class="tg-0pky">2nd</td>
+     <td class="tg-0pky">5th</td>
+</tr>
+
+<tr>
+     <td class="tg-0pky">Neel Modi</td>
+     <td class="tg-0pky">3rd</td>
+     <td class="tg-0pky">3rd</td>
+     <td class="tg-0pky">12th</td>
+</tr>
+
+<tr>
+     <td class="tg-0pky">Brenden Vande Kieft</td>
+     <td class="tg-0pky">4th</td>
+     <td class="tg-0pky">4th</td>
+     <td class="tg-0pky">18th</td>
 </tr>
     
 </table>

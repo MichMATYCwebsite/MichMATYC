@@ -13,7 +13,7 @@ The AMATYC Student Mathematics League (SML) consists of over 165 colleges in mor
 
 For more information on the competition, scholarships, and previous exams, please see the [AMATYC Student Mathematics League](http://www.amatyc.org/?page=StudentMathLeague). You can also find the archived results of [Michigan](/uploads/SMLResultsUpdate9.20.15.pdf)'s successes in the AMATYC Student Mathematics League.</br>
 
-#### Previous Results in Michigan
+#### Previous Individual Results in Michigan
 
 <style type="text/css">
 
@@ -34,12 +34,8 @@ For more information on the competition, scholarships, and previous exams, pleas
     <th class="tg-0pky" colspan="1"><b>Year</b></th>
     
     <th class="tg-0pky" colspan="5"><b>Individual Results</b></th>
-    
-    <th class="tg-0pky" colspan="4"><b>Team Results</b></th>
 
 </tr>
-
-<tr> </tr>
 
 <tr>
      <th class="tg-0pky">Student Name</b></th>
@@ -48,6 +44,16 @@ For more information on the competition, scholarships, and previous exams, pleas
      <th class="tg-0pky">Place in Midwest</b></th>
      <th class="tg-0pky">Place in Nation</b></th>
 </tr>
+
+<tr>
+    <td>2015-16</td>
+    <td>Zachary Obsniuk<br>Ajay Arora<br>Neel Modi<br>Brenden Vande Kieft</td>
+    <td>Macomb<br>Schoolcraft<br>Schoolcraft<br>Macomb</td>
+    <td>1st<br>2nd<br>3rd<br>4th</td>
+    <td>1st<br>2nd<br>3rd<br>4th</td>
+    <td>1st<br>5th<br>12th<br>18th</td>
+    </tr>
+    
 </table>
 
 

@@ -45,14 +45,15 @@ For more information on the competition, scholarships, and previous exams, pleas
      
 </tr>
 
+<tr><td rowspan="4">2015-16</td></tr>
+
 <tr>
-    <td rowspan="4">2015-16</td>
     <td class="tg-0pky">Zachary Obsniuk <br> Ajay Arora <br> Neel Modi <br> Brenden Vande Kieft</td>
     <td class="tg-0pky">Macomb <br> Schoolcraft <br> Schoolcraft <br> Macomb</td>
     <td class="tg-0pky">1st <br> 2nd <br> 3rd <br> 4th</td>
     <td class="tg-0pky">1st <br> 2nd <br> 3rd <br> 4th</td>
     <td class="tg-0pky">1st <br> 5th <br> 12th <br> 18th</td>
-    </tr>
+</tr>
     
 </table>
 

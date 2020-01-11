@@ -31,15 +31,18 @@ For more information on the competition, scholarships, and previous exams, pleas
 
 <tr>
 
-    <th class="tg-0pky"><th colspan="1"><b>Year</b></th>
+    <th class="tg-0pky" colspan="1"><b>Year</b></th>
     
-    <th class="tg-0pky"><b>Individual Results</b></th>
+    <th class="tg-0pky" colspan="5"><b>Individual Results</b></th>
     
-    <th class="tg-0pky"><b>Team Results</b></th>
+    <th class="tg-0pky" colspan="4"><b>Team Results</b></th>
 
 </tr>
 
-<tr> <th class="tg-0pky">Student Name</b></th>
+<tr> </tr>
+
+<tr>
+     <th class="tg-0pky">Student Name</b></th>
      <th class="tg-0pky">Institution</b></th>
      <th class="tg-0pky">Place in Michigan<b></th>
      <th class="tg-0pky">Place in Midwest</b></th>

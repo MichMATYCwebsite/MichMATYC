@@ -11,7 +11,34 @@ weight = 8
 
 The AMATYC Student Mathematics League (SML) consists of over 165 colleges in more than thirty-five states, as well as Bermuda, involving 8,000 community college students. Each year, these schools compete in the Student Mathematics League. The contest consists of two rounds: one in the fall, and another in the winter. Prizes are awarded to the top student and college scorers in the nation. Schools in Michigan compete both regionally in the Midwest Region (including Illinois, Indiana, Kentucky, Michigan, Ohio, and Wisconsin) and on the national stage.
 
-For more information on the competition, scholarships, and previous exams, please see the [AMATYC Student Mathematics League](http://www.amatyc.org/?page=StudentMathLeague). You can also find the archived results of [Michigan](/uploads/SMLResultsUpdate9.20.15.pdf)'s successes in the AMATYC Student Mathematics League.</br></br>
+For more information on the competition, scholarships, and previous exams, please see the [AMATYC Student Mathematics League](http://www.amatyc.org/?page=StudentMathLeague). You can also find the archived results of [Michigan](/uploads/SMLResultsUpdate9.20.15.pdf)'s successes in the AMATYC Student Mathematics League.
+
+#### Previous Results in Michigan
+
+<style type="text/css">
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+
+.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+
+.tg th{font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+</style>
+
+<table class="tg">
+
+<tr>
+
+    <th class="tg-0pky"><b>Year</b></th>
+    
+    <th class="tg-0pky"><b>Individual Results</b></th>
+    
+    <th class="tg-0pky"><b>Team Results</b></th>
+
+</tr>
+</table>
 
 
 ### AMATYC's Student Research League

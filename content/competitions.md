@@ -30,14 +30,7 @@ For more information on the competition, scholarships, and previous exams, pleas
 <table class="tg">
 
 <tr>
-
-    <th class="tg-0pky" colspan="1"><b>Year</b></th>
-    
-    <th class="tg-0pky" colspan="5"><b>Individual Results</b></th>
-
-</tr>
-
-<tr>
+     <th class="tg-0pky"><b>Year</b></th>
      <th class="tg-0pky">Student Name</b></th>
      <th class="tg-0pky">Institution</b></th>
      <th class="tg-0pky">Place in Michigan<b></th>

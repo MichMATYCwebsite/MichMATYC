@@ -14,7 +14,7 @@ The registration fee for the annual conference includes a one-year individual me
 
 To join or renew membership, fill out our [membership application](https://docs.google.com/forms/d/1BvfadG2g2hn7knYdHBIJDUH3ewkWLdBye-sJSbw9PEw). You also have the option to download the membership application form either as [Microsoft Word](http://www.michmatyc.org/Membership%20Application%20form/memberform.doc) or [PDF](http://www.michmatyc.org/Membership%20Application%20form/memberform.pdf) and mail your completed membership form along with the dues to our [Secretary/Treasurer](mailto:sbazzi@hfcc.edu).
 
-<b>Contact Information</b></br>
+<b>Contact Information:</b></br>
 Sam Bazzi, Secretary/Treasurer<br>
 Department of Mathematics<br>
 Henry Ford College<br>

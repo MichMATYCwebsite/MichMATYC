@@ -12,13 +12,14 @@ Please accept this invitation to join our organization. We would like to develop
 
 The registration fee for the annual conference includes a one-year individual membership, but anyone interested may join anytime during the year. The annual membership fee is just $5 and includes opportunities to actively participate in the organization, have voting rights during organization business, receive free periodic newsletters, and much more!
 
-To join or renew membership, fill out our [membership application](https://docs.google.com/forms/d/1BvfadG2g2hn7knYdHBIJDUH3ewkWLdBye-sJSbw9PEw). You also have the option to download the membership application form either as [Microsoft Word](http://www.michmatyc.org/Membership%20Application%20form/memberform.doc) or [PDF](http://www.michmatyc.org/Membership%20Application%20form/memberform.pdf) and mail your completed membership form along with the dues to our Secretary/Treasurer at the following address:
+To join or renew membership, fill out our [membership application](https://docs.google.com/forms/d/1BvfadG2g2hn7knYdHBIJDUH3ewkWLdBye-sJSbw9PEw). You also have the option to download the membership application form either as [Microsoft Word](http://www.michmatyc.org/Membership%20Application%20form/memberform.doc) or [PDF](http://www.michmatyc.org/Membership%20Application%20form/memberform.pdf) and mail your completed membership form along with the dues to our [Secretary/Treasurer](mailto:sbazzi@hfcc.edu).
 
+<b>Contact Information</b>
 Sam Bazzi, Secretary/Treasurer<br>
 Department of Mathematics<br>
 Henry Ford College<br>
 5101 Evergreed Rd<br>
-Dearborn MI, 48128<br>
+Dearborn, MI &nbsp; 48128<br>
 Email: [sbazzi@hfcc.edu](mailto:sbazzi@hfcc.edu)
 
 We appreciate your time, effort, and support of MichMATYC!

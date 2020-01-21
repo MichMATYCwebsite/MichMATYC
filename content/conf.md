@@ -1,0 +1,59 @@
+---
+---
+{{ define "main" -}}
+
+<h2>Conferences</h2>
+
+<hr>
+
+<p class="p-main">
+    An opportunity to share ideas, consolidate resources, and plan for the future needs of community colleges 
+    in the state of Michigan is one of MichMATYC's primary purposes. The organization has two conferences and meetings each year &ndash;
+    one in October hosted by one of our community colleges, and another in April in partnership with the <a href="http://sections.maa.org/michigan/">Michigan Section</a>
+    of the <a href="http://www.maa.org">Mathematical Association of America (MAA)</a>.<br/><br/>
+
+    For more information regarding our annual conferences and meetings, please see the following future and previous conferences.<br/><br/>
+</p>
+
+<h3 style="margin-bottom:0;">Future conferences</h3>
+<p class="p-main"></p>
+
+<div class="posts">
+  {{ range where .Site.RegularPages "Section" "upcoming" -}}
+<article class="post">
+  <h4 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>
+  </h4>
+  <!-- <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Jan 2, 2006" }}</time> -->
+  {{ .Summary }}
+  {{ if .Truncated }}
+  <div class="read-more-link">
+    <a href="{{ .RelPermalink }}">Read More…</a>
+  </div>
+  {{ end }}
+</article>
+{{- end }}
+</div>
+
+<h3 style="margin-bottom:0;">Previous conferences</h3>
+<p class="p-main"></p>
+
+<div class="posts">
+  {{ range first 10 (where .Site.RegularPages "Section" "conferences") -}}
+  <article class="post">
+    <h4 class="post-title">
+      <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>
+    </h4>
+    <!-- <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Jan 2, 2006" }}</time> -->
+    {{ .Summary }}
+    {{ if .Truncated }}
+    <div class="read-more-link">
+      <a href="{{ .RelPermalink }}">Read More…</a>
+    </div>
+    {{ end }}
+  </article>
+  {{- end }}
+  </div>
+
+{{- end }}
+

@@ -6,14 +6,6 @@ theme = "hyde"
 title = "MichMATYC"
 [blackfriday]
 hrefTargetBlank = true
-[[menu.main]]
-name = "Job Board"
-url = "https://michmatyc.org/jobboard/"
-weight = 10
-[[menu.main]]
-name = "Conferences"
-url = "https://michmatyc.org/conf/"
-weight = 4
 [params]
 disqusShortname = ""
 googleAnalytics = ""

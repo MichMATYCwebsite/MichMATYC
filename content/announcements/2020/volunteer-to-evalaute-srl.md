@@ -9,9 +9,7 @@ of 1-3 students to perform research and to solve an open-ended question requirin
 in a formal paper. 
 
 The papers will be evaluated at multiple levels, but we need your help in recruiting people for the first level of evaluation. 
-We would like for each affiliate to recruit at least one person to evaluate the applications that will be from all over your 
-AMATYC Region.  We feel that requests such as this are more likely to be successful if there is more of a personal touch in the 
-recruitment, rather than a bulk email from AMATYC.
+The Student Research League would like for each affiliate to recruit at least one person to evaluate the applications that will be from the AMATYC Midwest region.
 
 Information for volunteers:<br>
 <ol>

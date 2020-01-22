@@ -8,7 +8,7 @@ weight = 2
 +++
 The strength of MichMATYC is the membership and your membership makes a statement. It tells others that your profession is important to you and that you want to be a part of its growth and direction in the state of Michigan. The organization offers you an opportunity to join with other individuals who are interested in mathematics education at the two-year college level.
 
-Please accept this invitation to join our organization. We would like to develop a strong organization involving faculty and staff from all community college campuses in the state, and others from four-year campuses that have an interest in mathematics education in the first two years of college.<br>
+Please accept this invitation to join our organization. We would like to develop a strong organization involving faculty and staff from all community college campuses in the state, and others from four-year campuses that have an interest in mathematics education in the first two years of college.<br><br>
 
 ### Membership Types
 

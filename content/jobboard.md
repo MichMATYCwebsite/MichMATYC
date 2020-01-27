@@ -37,11 +37,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Jan 7, 2020</td>
   <td>Feb 3, 2020</td></tr>
   
-<tr><td><a href="https://mcc.peopleadmin.com/postings/1437">Full-Time Instructor, Mathematics</a></td>
-  <td><a href="https://www.mcc.edu/">Mott Community College</a></td>
-  <td>Dec 18, 2019</td>
-  <td>Jan 19, 2020</td></tr>
-  
 <tr><td><a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/899?c=lcc">Full-Time Assistant Professor - Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing CC</a></td>
   <td>Nov 25, 2019</td>

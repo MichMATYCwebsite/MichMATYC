@@ -23,7 +23,7 @@ Primary responsibility will be to teach Mathematics courses, develop and modify 
 <br>
 **Preliminary Qualifications**<br>
 A master’s degree in Mathematics is required.</br>OR,</br>
-A master’s degree or higher in a related field with a minimum of 20 graduate hours in mathematics is required.</br></br>
+A master’s degree or higher in a related field with a minimum of 20 graduate hours in mathematics is required.</br>
 
 Transcripts must be submitted with your application. Copies are acceptable for use during the screening process. If you are selected as a candidate, official transcripts must be provided before you interview.</br></br>
  
@@ -48,8 +48,8 @@ Classes are offered from 8:00 a.m. to 10:00 p.m. Some classes are available on S
 Salary:	$57,612.00 - $94,160.00 (2019-20 salary range)</br></br>
 
 **Special Instructions to Applicants**<br>
-Applicants should include a list of college level courses taught and the number of times each has been taught as well as teaching experience at any other level.</br></br>
+Applicants should include a list of college level courses taught and the number of times each has been taught as well as teaching experience at any other level.</br>
 
-As an equal opportunity employer and learning institution, Macomb Community College recruits, hires and promotes for all positions without regard to race, religion, color, national origin, sex, age, or handicap. All employment decisions are based on the qualifications of each individual. No person shall be denied equal treatment as a result of a College practice or policy. The College is committed to racial, cultural, and ethnic diversity.</br></br>
+As an equal opportunity employer and learning institution, Macomb Community College recruits, hires and promotes for all positions without regard to race, religion, color, national origin, sex, age, or handicap. All employment decisions are based on the qualifications of each individual. No person shall be denied equal treatment as a result of a College practice or policy. The College is committed to racial, cultural, and ethnic diversity.</br>
 
 Auxiliary aids and services are available upon request to individuals with disabilities. Michigan Relay Center 1.800.649.3777 (Voice and TDD).

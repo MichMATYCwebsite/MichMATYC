@@ -12,10 +12,9 @@ title = "Job Board"
 **Position Information**<br>
 Title: Instructor of Mathematics</br>
 Assignment: South Campus</br>
-Location: 14500 E. 12 Mile Road, Warren, Michigan, United States</br>
+Location: Warren, MI, United States</br>
 Position Number: FF9863</br>
-Posting Closes February 22, 2020</br></br>
-
+Posting Closing: February 22, 2020</br>
 Starting Date: August 10, 2020</br></br>
 
 **Job Responsibilities**<br>
@@ -29,32 +28,24 @@ A master’s degree or higher in a related field with a minimum of 20 graduate h
 Transcripts must be submitted with your application. Copies are acceptable for use during the screening process. If you are selected as a candidate, official transcripts must be provided before you interview.</br></br>
  
 **Preferred Qualifications**<br>
-Academic Preparedness: A comprehensive knowledge of the mathematics discipline, providing a foundation for effective teaching and learning, must be demonstrated by a degree, participation in professional associations, papers, teaching, research, or professional development.</br></br>
-
-Experiential Background: Relevant teaching experience assuring up-to-date skills in the discipline. The successful candidate will be prepared to teach the entire range of courses offered at the College including mathematics for elementary education, statistics, developmental mathematics and/or mathematics for business.</br></br>
-
-Technological Proficiency: Calculator and Computer skills required.</br></br>
-
-Note that this standard may be waived at the time of hire. The newly hired teacher will be required to prepare a plan with the teacher's supervisor designed to achieve the standard by the end of the probationary period.</br></br>
+<ul>
+ <li>Academic Preparedness: A comprehensive knowledge of the mathematics discipline, providing a foundation for effective teaching and learning, must be demonstrated by a degree, participation in professional associations, papers, teaching, research, or professional development.</li>
+ <li>Experiential Background: Relevant teaching experience assuring up-to-date skills in the discipline. The successful candidate will be prepared to teach the entire range of courses offered at the College including mathematics for elementary education, statistics, developmental mathematics and/or mathematics for business.</li>
+ <li>Technological Proficiency: Calculator and Computer skills required. Note that this standard may be waived at the time of hire. The newly hired teacher will be required to prepare a plan with the teacher's supervisor designed to achieve the standard by the end of the probationary period.</li></ul>
 
 **Knowledge, Skills, and Abilities**<br>
-Written/Verbal Presentation Skills: If invited for an interview, a teaching demonstration will be required. You will be expected to make a 20 minute classroom presentation designed for a student audience.</br></br>
-
-Curriculum Development: Knowledge of relevant curriculum development and demonstrated ability to design or revise curricula to maintain relevancy and meet changing needs.</br></br>
-
-Assessment: Knowledge of and demonstrated ability to assess learning outcomes.</br></br>
-
-Leadership Potential: Experience in active leadership role(s) or activities.</br></br>
-
-Learning Theory and Practice: Knowledge of, or commitment to learn and use, concepts and practices promoting effective teaching and learning.</br></br>
-
-Pedagogical Flexibility: Knowledge of, or commitment to learn and use, a variety of pedagogical tools to enhance learning by students with varying backgrounds and learning styles.</br></br>
-
-Shared Governance: Knowledge of the concepts and practices of academic governance, including employee involvement and individual accountability.</br></br>
+<ul>
+ <li>Written/Verbal Presentation Skills: If invited for an interview, a teaching demonstration will be required. You will be expected to make a 20 minute classroom presentation designed for a student audience.</li>
+<li>Curriculum Development: Knowledge of relevant curriculum development and demonstrated ability to design or revise curricula to maintain relevancy and meet changing needs.</li>
+ <li>Assessment: Knowledge of and demonstrated ability to assess learning outcomes.</li>
+ <li>Leadership Potential: Experience in active leadership role(s) or activities.</li>
+<li>Learning Theory and Practice: Knowledge of, or commitment to learn and use, concepts and practices promoting effective teaching and learning.</li>
+<li>Pedagogical Flexibility: Knowledge of, or commitment to learn and use, a variety of pedagogical tools to enhance learning by students with varying backgrounds and learning styles.</li>
+<li>Shared Governance: Knowledge of the concepts and practices of academic governance, including employee involvement and individual accountability.</li></ul>
 
 **Work Hours General**<br>
-Classes are offered from 8:00 am to 10:00 pm. Some classes are available on Saturdays and online.</br>
-Salary	$57,612.00 - $94,160.00 (2019-20 salary range)</br></br>
+Classes are offered from 8:00 a.m. to 10:00 p.m. Some classes are available on Saturdays and online.</br>
+Salary:	$57,612.00 - $94,160.00 (2019-20 salary range)</br></br>
 
 **Special Instructions to Applicants**<br>
 Applicants should include a list of college level courses taught and the number of times each has been taught as well as teaching experience at any other level.</br></br>

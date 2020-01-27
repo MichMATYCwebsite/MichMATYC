@@ -5,12 +5,13 @@ showdate = false
 title = "Job Board"
 
 +++
-### Macomb Community College, South Campus
+### Macomb Community College
 #### <a href="https://jobs.macomb.edu/postings/4181">Instructor of Mathematics</a>
 
 <br>
 **Position Information**<br>
 Instructor of Mathematics</br>
+Assignment: South Campus
 Location: Warren, MI, United States</br>
 Position Number: FF9863</br>
 Posting Closes February 22, 2020</br>

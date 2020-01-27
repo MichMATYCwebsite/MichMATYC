@@ -27,6 +27,11 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
 
+<tr><td><a href="http://michmatyc.org/macombcc-instructor-of-mathematics/">Instructor of Mathematics</a></td>
+  <td><a href="https://www.macomb.edu/">Macomb Community College, South Campus</a></td>
+  <td>Jan 23, 2020</td>
+  <td>Feb 22, 2020</td></tr>
+
 <tr><td><a href="http://michmatyc.org/lakemichigancollege-math-faculty-allegan-campus">Math Faculty - Allegan Campus (Part-Time)</a></td>
   <td><a href="https://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Dec 5, 2019</td>

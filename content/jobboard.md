@@ -27,32 +27,32 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
 
-<tr><td><a href="http://michmatyc.org/macombcc-instructor-of-mathematics/">Instructor of Mathematics</a></td>
+<tr><td><a href="https://jobs.macomb.edu/postings/4181">Instructor of Mathematics</a></td>
   <td><a href="https://www.macomb.edu/">Macomb Community College</a></td>
   <td>Jan 23, 2020</td>
   <td>Feb 22, 2020</td></tr>
 
-<tr><td><a href="http://michmatyc.org/lakemichigancollege-math-faculty-allegan-campus">Math Faculty - Allegan Campus (Part-Time)</a></td>
+<tr><td><a href="https://lmc.simplehire.com/postings/2868">Math Faculty - Allegan Campus (Part-Time)</a></td>
   <td><a href="https://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Dec 5, 2019</td>
   <td>None</td></tr>
   
-<tr><td><a href="http://michmatyc.org/lansingcc-ft-assistant-professor/">Full-Time Assistant Professor - Mathematics</a></td>
+<tr><td><a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/899?c=lcc">Full-Time Assistant Professor - Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing CC</a></td>
   <td>Nov 25, 2019</td>
   <td>Jan 31, 2020</td></tr>
   
-<tr><td><a href="http://michmatyc.org/deltacollege-math-instructor-nontenure/">Instructor of Mathematics (Non-Tenure Track), One-Year Renewable</a></td>
+<tr><td><a href="https://delta.peopleadmin.com/postings/4592">Instructor of Mathematics (Non-Tenure Track), One-Year Renewable</a></td>
   <td><a href="http://www.delta.edu">Delta College</a></td>
   <td>Nov 20, 2019</td>
   <td>Open Until Filled</td></tr>
 
-<tr><td><a href="http://michmatyc.org/lansingcc-adjunct-stats-applied-math/">Adjunct Instructor - Statistics and Applied Mathematics</a></td>
+<tr><td><a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/893?c=lcc">Adjunct Instructor - Statistics and Applied Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing CC</a></td>
   <td>Nov 15, 2019</td>
   <td>Nov 15, 2020</td></tr>
 
-<tr><td><a href="http://michmatyc.org/lansingcc-adjunct-math/">Adjunct Instructor - Mathematics</a></td>
+<tr><td><a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/892?c=lcc">Adjunct Instructor - Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing CC</a></td>
   <td>Nov 15, 2019</td>
   <td>Nov 15, 2020</td></tr>

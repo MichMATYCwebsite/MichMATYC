@@ -12,9 +12,11 @@ title = "Job Board"
 **Position Information**<br>
 Instructor of Mathematics</br>
 Assignment: South Campus
-Location: Warren, MI, United States</br>
+Location: 14500 E. 12 Mile Road, Warren, Michigan, United States</br>
 Position Number: FF9863</br>
-Posting Closes February 22, 2020</br>
+Posting Closes February 22, 2020</br><br>
+
+Starting Date: August 10, 2020<br><br>
 
 **Job Responsibilities**<br>
 Primary responsibility will be to teach Mathematics courses, develop and modify curriculum, refine and modify course syllabi, and identify required teaching materials.

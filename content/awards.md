@@ -15,7 +15,7 @@ Below you will find information regarding awards, scholarships and grants offere
 
 Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Award recognizes an outstanding mathematics student each academic year. Beginning in 2012, the scholarship was named in honor of Karen Sharp, who had a fundamental role in the founding of our organization.
 
-2018-2019 Application deadline: **May 31, 2020**  
+2018-2019 Application deadline: **April 30, 2020**  
 [Scholarship Application Form](https://bit.ly/michmatycscholarship)
 
 **Contact Information**:<br/>

@@ -154,7 +154,7 @@ Head to the [Membership](/membership/) page for more information!
 ### Partner and State Organizations
 * [The American Mathematical Association of Two-Year Colleges (AMATYC)](http://www.amatyc.org/)
 * [AMATYC Beyond Crossroads](http://beyondcrossroads.matyc.org/)
-* [AMATYC <i>IMPACT</i> Live!](http://myamatyc.org/)
+* [AMATYC <i>IMPACT</i> Live!](http://my.amatyc.org)
 * [Michigan Community College Association (MCCA)](http://www.mcca.org/)
 * [The Michigan Council of Teachers of Mathematics (MCTM)](http://mictm.org/)
 * [Michigan Section of The Mathematical Association of America](http://sections.maa.org/michigan/)
@@ -171,4 +171,4 @@ Head to the [Membership](/membership/) page for more information!
 * [Mu Alpha Theta](http://www.mualphatheta.org/)
 * [The National Council of Teachers of Mathematics (NCTM)](http://www.nctm.org/)
 * [The Society for Industrial and Applied Mathematics (SIAM)](http://www.siam.org/)
-* [National Association for Student Success (NOSS)](http://www.thenoss.org/)
+* [National Organization for Student Success (NOSS)](http://www.thenoss.org/)

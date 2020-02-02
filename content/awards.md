@@ -271,8 +271,8 @@ Award Requirements (<a href="/uploads/Criteria_2019.pdf" target="_blank">PDF</a>
 Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">PDF</a>) (<a href="/uploads/MichMATYC_Nom_Form_2019.docx" target="_blank">Word</a>)<br>
 
 **Contact Information**:<br/>
-[Laura Wicklund](mailto:lkwicklu@oaklandcc.edu)<br/>
-Oakland Community College, Auburn Hills<br/>
+[Jon Oaks](mailto:oaksj@macomb.edu)<br/>
+Macomb Community College<br/>
 Chair, Teaching Excellence Award Committee<br/>
 
 

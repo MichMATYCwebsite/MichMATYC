@@ -57,7 +57,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Nov 13, 2019</td>
   <td></td></tr>
   
-  <tr><td><a href="https://delta.peopleadmin.com/postings/4557">Intermediate/College-Level Math and Statstics - Adjunct Faculty</a></td>
+  <tr><td><a href="https://delta.peopleadmin.com/postings/4557">Intermediate/College-Level Math and Statistics - Adjunct Faculty</a></td>
   <td><a href="http://www.delta.edu">Delta College</a></td>
   <td>Oct 23, 2019</td>
   <td></td></tr>

@@ -14,7 +14,6 @@ access at scale. Ideally, the effort should have been independently validated to
 awardee will be selected by the MichMATYC Executive Board at its discretion and the award will be administered during the 2019 Conference
 at Henry Ford College. The award includes a cash disbursement of $300.
 
-Educators are invited to apply to MichMATYC to be considered for the award. Please <a href="https://edfinity.us/michmatyc/">fill out the form</a> 
-and it will be forwarded to the MichMATYC Executive Board for consideration.
+Educators are invited to apply to MichMATYC to be considered for the award. Please fill out the form and it will be forwarded to the MichMATYC Executive Board for consideration.
 
 If you have any questions, please reach out to <a href="mailto:sbazzi@hfcc.edu">Sam Bazzi</a>.

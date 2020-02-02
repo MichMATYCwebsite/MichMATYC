@@ -259,7 +259,7 @@ Chair, Student Scholarship Committee<br/><br/>
 
 </tr>
 
-</table>
+</table><br/>
 
 
 ### MichMATYC Teaching Excellence Award
@@ -273,7 +273,7 @@ Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">
 **Contact Information**:<br/>
 [Jon Oaks](mailto:oaksj@macomb.edu)<br/>
 Macomb Community College<br/>
-Chair, Teaching Excellence Award Committee<br/>
+Chair, Teaching Excellence Award Committee<br/><br/>
 
 
 #### Previous Award Recipients
@@ -422,7 +422,7 @@ Chair, Teaching Excellence Award Committee<br/>
 
 </tr>
 
-</table>
+</table><br/>
 
 
 ### MichMATYC Grants

@@ -7,7 +7,7 @@ name = "Awards & Scholarships"
 weight = 7
 
 +++
-Below you will find information regarding awards, scholarships and grants offered by the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.<br/>
+Below you will find information regarding awards, scholarships and grants offered by the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.<br/><br/>
 
 
 ### Karen Sharp Student Scholarship Award
@@ -20,7 +20,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 **Contact Information**:<br/>
 [Lisa Winch](mailto:lwinch@kvcc.edu)<br/>
 Kalamazoo Valley Community College<br/>
-Chair, Student Scholarship Committee<br/>
+Chair, Student Scholarship Committee<br/><br/>
 
 
 #### Previous Scholarship Recipients

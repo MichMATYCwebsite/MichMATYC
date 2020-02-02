@@ -64,7 +64,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   
 </table></br>
 
-### Job Searching in Higher Education?
+### Job Searching in Higher Education
 
 * [AAR/EEO Affirmative Action Register](aar-eeo.com)
 * [Higher Ed Jobs Online](http://www.higheredjobs.com)
@@ -73,7 +73,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 * [HIRE-ED](http://www.hire-ed.org)
 * [JobNext Career Network](http://www.jobnext.com)
 
-### Job Searching Outside Academia?
+### Job Searching Outside Academia
 
 * [Career Mosaic](http://www.careermosaic.com)
 * [Career Path](http://www.careerpath.com)

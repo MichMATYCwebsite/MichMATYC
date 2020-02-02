@@ -13,12 +13,10 @@ On May 2, 1981, thirteen two-year college instructors met at the [Mathematical A
 
 The organization was founded to provide a venue for interaction between the mathematics faculties at community colleges across the State of Michigan. An opportunity to share ideas, consolidate resources, and plan for the future needs of community college students in the state became primary functions of MichMATYC, as well as connecting to university mathematics. 
 
-</br>
 
 ### Constitution and Bylaws
 The organizational rules and policies are contained in the <a href="https://michmatyc.org/constitution/">MichMATYC Constitution</a>.
 
-</br>
 
 ### Presidents and Conferences
 

@@ -35,7 +35,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 <tr><td><a href="https://lmc.simplehire.com/postings/3129">Part-Time Mathematics Faculty - Allegan Campus</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Jan 16, 2020</td>
-  <td>None</td></tr>
+  <td></td></tr>
   
 <tr><td><a href="https://careers.interlochen.org/employment-opportunities">Instructor of Mathematics</a></td>
   <td><a href="http://www.interlochen.org/">Interlochen Center for the Arts</a></td>
@@ -55,12 +55,12 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 <tr><td><a href="https://careers-midmich.icims.com/jobs/1741/adjunct-math-faculty---big-rapids%2c-mi/job?iis=Job+Board&iisn=HigherEdJobs.com">Adjunct Instructor - Mathematics</a></td>
   <td><a href="http://www.midmich.edu">Mid Michigan College</a></td>
   <td>Nov 13, 2019</td>
-  <td>None</td></tr>
+  <td></td></tr>
   
-  <tr><td><a href="https://delta.peopleadmin.com/postings/4557">Adjunct Instructor - Intermediate/College-Level Math and Statistics</a></td>
+  <tr><td><a href="https://delta.peopleadmin.com/postings/4557">Intermediate/College-Level Math and Statstics - Adjunct Faculty</a></td>
   <td><a href="http://www.delta.edu">Delta College</a></td>
   <td>Oct 23, 2019</td>
-  <td>None</td></tr>
+  <td></td></tr>
   
 </table></br>
 

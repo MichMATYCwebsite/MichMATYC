@@ -9,7 +9,6 @@ weight = 7
 +++
 Below you will find information regarding awards, scholarships and grants offered by the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.
 
-<br/>
 
 ### Karen Sharp Student Scholarship Award
 
@@ -21,8 +20,8 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 **Contact Information**:<br/>
 [Lisa Winch](mailto:lwinch@kvcc.edu)<br/>
 Kalamazoo Valley Community College<br/>
-Chair, Student Scholarship Committee
-<br/><br/>
+Chair, Student Scholarship Committee<br/>
+
 
 #### Previous Scholarship Recipients
 
@@ -262,7 +261,6 @@ Chair, Student Scholarship Committee
 
 </table>
 
-</br>
 
 ### MichMATYC Teaching Excellence Award
 
@@ -275,8 +273,8 @@ Nomination Form (<a href="/uploads/MichMATYC_Nom_Form_2019.pdf" target="_blank">
 **Contact Information**:<br/>
 [Laura Wicklund](mailto:lkwicklu@oaklandcc.edu)<br/>
 Oakland Community College, Auburn Hills<br/>
-Chair, Teaching Excellence Award Committee
-<br/><br/>
+Chair, Teaching Excellence Award Committee<br/>
+
 
 #### Previous Award Recipients
 
@@ -426,7 +424,6 @@ Chair, Teaching Excellence Award Committee
 
 </table>
 
-</br>
 
 ### MichMATYC Grants
 

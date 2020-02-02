@@ -52,7 +52,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Nov 15, 2019</td>
   <td>Nov 15, 2020</td></tr>
   
-<tr><td><a href="https://careers-midmich.icims.com/jobs/1741/adjunct-math-faculty---big-rapids%2c-mi/job?iis=Job+Board&iisn=HigherEdJobs.com">Adjunct Instructor - Mathematics</a></td>
+<tr><td><a href="https://careers-midmich.icims.com/jobs/1741/adjunct-math-faculty---big-rapids%2c-mi/job?iis=Job+Board&iisn=HigherEdJobs.com">Adjunct Mathematics Faculty</a></td>
   <td><a href="http://www.midmich.edu">Mid Michigan College</a></td>
   <td>Nov 13, 2019</td>
   <td></td></tr>

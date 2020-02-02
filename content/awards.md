@@ -43,7 +43,7 @@ Chair, Student Scholarship Committee<br/><br/>
 
     <th class="tg-0pky"><b>Year</b></th>
     
-    <th class="tg-0pky"><b>Recipient</b></th>
+    <th class="tg-0pky"><b>Recipients</b></th>
     
     <th class="tg-0pky"><b>Institution</b></th>
 

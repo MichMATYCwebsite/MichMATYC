@@ -36,11 +36,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Jan 16, 2020</td>
   <td></td></tr>
-  
-<tr><td><a href="https://careers.interlochen.org/employment-opportunities">Instructor of Mathematics</a></td>
-  <td><a href="http://www.interlochen.org/">Interlochen Center for the Arts</a></td>
-  <td>Jan 7, 2020</td>
-  <td>Feb 3, 2020</td></tr>
 
 <tr><td><a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/893?c=lcc">Adjunct Instructor - Statistics and Applied Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing CC</a></td>

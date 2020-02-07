@@ -4,7 +4,7 @@ layout = "post"
 title = "Now Accepting Proposals to Present at the 2020 MichMATYC Conference"
 
 +++
-The <b>2020 MichMATYC Conference</b> will be hosted at <b>Lansing Community College</b> on <b>October 2-3</b>. Proposals are now being accepted to present during the conference. If you have done of the following, then you are in a key position to present:
+The <b>2020 MichMATYC Conference</b> will be hosted at <b>Lansing Community College</b> on <b>October 2-3</b>. Proposals are now being accepted to present during the conference. If you have done any of the following, then you are in a key position to present:
 
 <ul>
 <li>Attended a great workshop;</li>

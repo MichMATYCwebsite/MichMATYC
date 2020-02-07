@@ -8,6 +8,8 @@ title = "Announcements Library"
 
 #### Now Accepting Proposals to Present at the 2020 MichMATYC Conference
 
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Feb 7, 2020</i>
+
 The <b>2020 MichMATYC Conference</b> will be hosted at <b>Lansing Community College</b> on <b>October 2-3</b>. Proposals are now being accepted to present during the conference. If you have done any of the following, then you are in a key position to present:
 
 <ul>

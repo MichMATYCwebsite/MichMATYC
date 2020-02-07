@@ -16,7 +16,7 @@ The <b>2020 MichMATYC Conference</b> will be hosted at <b>Lansing Community Coll
 <li>Discuss how you implemented AMATYC Impact Live standards in your classroom.</li>
 </ul>
 
-We are going to have four 45-minute Breakout Sessions at the conference. If you are interested in leading one, please let us know in the form below. Some of the ideas for the Breakout Sessions in past years have been:
+We are going to have four 45-minute Breakout Sessions at the conference. If you are interested in leading one, please let us know by completing a [presentation proposal form](http://bit.ly/michmatyc_proposal). Some of the ideas for the Breakout Sessions in past years have been:
 
 <ul>
 <li>Math Pathways</li>
@@ -27,7 +27,7 @@ We are going to have four 45-minute Breakout Sessions at the conference. If you 
 <li>Best Practices for Teaching Online</li>
 </ul>
 
-These are some ideas for sessions. If you have other topics you would like to address, please feel free to submit them. We would like to hear your ideas. We will also be hosting the inaugural <b>Ignite session</b> with all presenters having exactly five minutes to present their topic.
+If you have other topics you would like to present, please feel free to submit them. We would like to hear your ideas. We will also be hosting the inaugural <b>Ignite session</b> with all presenters having exactly five minutes to present their topic.
 
 Whether it be a 45-minute session, workshop, round-table discussion, or Ignite talk, please consider submitting a [presentation proposal](http://bit.ly/michmatyc_proposal) for this year's conference by <b>April 30</b>! The conference promises to be another great opportunity for us to learn and network with our colleagues from across the state.
 

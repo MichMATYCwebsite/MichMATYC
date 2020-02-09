@@ -269,8 +269,8 @@ Chair, Student Scholarship Committee<br><br>
 Since 1999, the MichMATYC Teaching Excellence Award recognizes the high quality of instruction occurring at Michigan's two-year colleges. The selection criteria include instructional effectiveness and support of students, professional involvement and professional development activities, interaction with colleagues and service to department and college.
 
 2020 Nomination deadline: **May 15, 2020**  
-[Award Requirements](https://docs.google.com/document/d/1Nf5wPXRApH-ARfIoyVc2IDfsJmuQx4KOCn2L0yeZgag/edit?usp=sharing)<br>
-[Nomination Form](https://docs.google.com/document/d/1hSUdpGpx4k2mStkEPYGzq4W6K9Cq02sPGHUHgl_FFbU/edit?usp=sharing)
+[Award Requirements](http://bit.ly/michmatyc_teawardcriteria)<br>
+[Nomination Form](http://bit.ly/michmatyc_tenomination)
 
 **Contact Information**:<br/>
 [Jon Oaks](mailto:jonnyoaks@gmail.com)<br/>

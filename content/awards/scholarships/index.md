@@ -10,7 +10,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 Deadline: May 31, 2020  
 [Scholarship Application Form](https://bit.ly/michmatycscholarship)</br>
 
-#### Contact Information**
+#### Contact Information
 [Lisa Winch](mailto:lwinch@kvcc.edu)<br/>
 Kalamazoo Valley Community College<br/>
 Chair, Student Scholarship Committee<br><br>

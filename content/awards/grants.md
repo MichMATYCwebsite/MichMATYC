@@ -8,7 +8,8 @@ The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) was found
 
 In this spirit, MichMATYC is offering grants of up to $500 to support the activities of its membership. This money can be used for things including, but not limited to, innovative programs, events or projects that will significantly enhance a students' classroom experience or professional development shared among regional institutions.</br>
 
-[MichMATYC Grant Application](http://bit.ly/michmatycgrants)
+**Application Information:**</br>
+[MichMATYC Grant Application](http://bit.ly/michmatycgrants)</br>
 
 **Contact Information**:<br/>
 [Jon Oaks](mailto:jonnyoaks@gmail.com)<br/>

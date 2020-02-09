@@ -12,12 +12,12 @@ Below you will find information regarding awards, scholarships and grants offere
 <b>[Karen Sharp Student Scholarship](http://michmatyc.org/awards/scholarships/)</b></br>
 [Lisa Winch](mailto:lwinch@kvcc.edu)</br>
 Kalamazoo Valley Community College</br>
-Chair, Student Scholarship Committee</br>
+Chair, Student Scholarship Committee</br></br>
 
 <b>[MichMATYC Teaching Excellence Award](http://michmatyc.org/awards/teachingexcellence/)</b></br>
 [Jon Oaks](mailto:jonnyoaks@gmail.com)</br>
 Macomb Community College</br>
-Chair, Teaching Excellence Award Committee</br>
+Chair, Teaching Excellence Award Committee</br></br>
 
 <b>[MichMATYC Grants](http://michmatyc.org/awards/grants/)</b></br>
 [Jon Oaks](mailto:jonnyoaks@gmail.com)</br>

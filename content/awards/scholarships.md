@@ -1,5 +1,5 @@
 +++
-layout = "page"
+layout = "post"
 showdate = false
 title = "Karen Sharp Student Scholarship Award"
 

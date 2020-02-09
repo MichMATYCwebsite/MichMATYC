@@ -6,11 +6,11 @@ title = "Karen Sharp Student Scholarship Award"
 +++
 Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Award recognizes an outstanding mathematics student each academic year. Beginning in 2012, the scholarship was named in honor of Karen Sharp, who had a fundamental role in the founding of our organization.<br>
 
-#### Application Information
+**Application Information:**<br>
 Deadline: May 31, 2020  
 [Scholarship Application Form](https://bit.ly/michmatycscholarship)</br>
 
-#### Contact Information
+**Contact Information:**<br>
 [Lisa Winch](mailto:lwinch@kvcc.edu)<br/>
 Kalamazoo Valley Community College<br/>
 Chair, Student Scholarship Committee<br><br>

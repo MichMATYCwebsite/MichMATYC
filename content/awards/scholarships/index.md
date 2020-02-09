@@ -8,7 +8,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 
 **Application Information**
 Deadline: May 31, 2020  
-[Scholarship Application Form](https://bit.ly/michmatycscholarship)<br><br>
+[Scholarship Application Form](https://bit.ly/michmatycscholarship)</br></br>
 
 **Contact Information**:<br/>
 [Lisa Winch](mailto:lwinch@kvcc.edu)<br/>

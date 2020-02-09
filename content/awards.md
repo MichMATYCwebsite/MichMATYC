@@ -7,7 +7,7 @@ name = "Awards & Scholarships"
 weight = 7
 
 +++
-Below you will find information regarding awards, scholarships and grants offered by the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.<br/><br/>
+Below you will find information regarding awards, scholarships and grants offered by the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.<br/>
 
 [Karen Sharp Student Scholarship](http://michmatyc.org/awards/scholarships/)</br>
 [Lisa Winch](mailto:lwinch@kvcc.edu)</br>

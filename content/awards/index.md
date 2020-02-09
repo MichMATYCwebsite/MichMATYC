@@ -14,12 +14,12 @@ Below you will find information regarding awards, scholarships and grants offere
 Kalamazoo Valley Community College</br>
 Chair, Student Scholarship Committee</br></br>
 
-<b>[MichMATYC Teaching Excellence Award](https://michmatyc.org/awards/teachingexcellence/)</b></br>
+<b><a href="https://michmatyc.org/awards/teachingexcellence/">MichMATYC Teaching Excellence Award</a></b></br>
 [Jon Oaks](mailto:jonnyoaks@gmail.com)</br>
 Macomb Community College</br>
 Chair, Teaching Excellence Award Committee</br></br>
 
-<b>[MichMATYC Grants](https://michmatyc.org/awards/grants/)</b></br>
+<b><a href="https://michmatyc.org/awards/grants/">MichMATYC Grants</a></b></br>
 [Jon Oaks](mailto:jonnyoaks@gmail.com)</br>
 Macomb Community College</br>
 MichMATYC Grants Coordinator

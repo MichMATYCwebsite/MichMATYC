@@ -36,20 +36,20 @@ The organizational rules and policies are contained in the <a href="https://mich
 </tr>
 
 <tr>
-<td class>2017-2019</td>
+<td class>2016-2019</td>
 <td class="tg-c3ow">Anna Cox, Kellogg CC</td>
 
 <td class="tg-c3ow">2018: Kalamazoo Valley CC<br>
-2017: Baker College of Muskegon</td>
+2017: Baker College of Muskegon<br>
+2016: Delta College</td>
 </tr>
 
 <tr>
-<td class="tg-c3ow">2015-2017</td>
+<td class="tg-c3ow">2015-2016</td>
 <td class="tg-c3ow">Cindie Wade, St. Clair County CC <br>  
 Doug Mace, Kirtland CC</td>
 
-<td class="tg-c3ow">2016: Delta College <br>  
-2015: Macomb CC</td>
+<td class="tg-c3ow">2015: Macomb CC</td>
 </tr>
 
 <tr>

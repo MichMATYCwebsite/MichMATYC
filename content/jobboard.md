@@ -26,11 +26,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 <th class="tg-c3ow"><b>Closing Date</b></th>
 
 </tr>
-
-<tr><td><a href="https://jobs.macomb.edu/postings/4181">Instructor of Mathematics</a></td>
-  <td><a href="https://www.macomb.edu/">Macomb Community College</a></td>
-  <td>Jan 23, 2020</td>
-  <td>Feb 22, 2020</td></tr>
   
 <tr><td><a href="https://lmc.simplehire.com/postings/3129">Part-Time Mathematics Faculty - Allegan Campus</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>

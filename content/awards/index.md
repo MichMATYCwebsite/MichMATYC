@@ -9,17 +9,17 @@ weight = 7
 +++
 Below you will find information regarding awards, scholarships and grants offered by the Michigan Mathematical Association of Two-Year Colleges (MichMATYC). If you have questions about any of the items listed below, please contact the appropriate individual listed underneath each item.</br></br>
 
-<b><a href="https://michmatyc.org/awards/scholarships/">Karen Sharp Student Scholarship</a></b></br>
+<b><a href="https://michmatyc.org/scholarships/">Karen Sharp Student Scholarship</a></b></br>
 [Lisa Winch](mailto:lwinch@kvcc.edu)</br>
 Kalamazoo Valley Community College</br>
 Chair, Student Scholarship Committee</br></br>
 
-<b><a href="https://michmatyc.org/awards/teachingexcellence/">MichMATYC Teaching Excellence Award</a></b></br>
+<b><a href="https://michmatyc.org/teachingexcellence/">MichMATYC Teaching Excellence Award</a></b></br>
 [Jon Oaks](mailto:jonnyoaks@gmail.com)</br>
 Macomb Community College</br>
 Chair, Teaching Excellence Award Committee</br></br>
 
-<b><a href="https://michmatyc.org/awards/grants/">MichMATYC Grants</a></b></br>
+<b><a href="https://michmatyc.org/grants/">MichMATYC Grants</a></b></br>
 [Jon Oaks](mailto:jonnyoaks@gmail.com)</br>
 Macomb Community College</br>
 MichMATYC Grants Coordinator

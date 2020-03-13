@@ -7,6 +7,13 @@ title = "Past Events"
 
 ## 2020
 
+#### 2020 Michigan MAA and MichMATYC Conference Cancelled
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Mar 13, 2020</i>
+
+The Annual Meeting of the [Michigan MAA](http://sections.maa.org/michigan/) and [MichMATYC](http://michmatyc.org) scheduled for April 3-4, 2020 has been <b>cancelled</b> due to COVID-19 pandemic. The annual conference has been rescheduled for the following year at Grand Valley State University.</br></br>
+
+
 #### Mark Your Calendars for the 2020 MichMATYC Conference
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Feb 7, 2020</i>

@@ -2,7 +2,7 @@
 date = "2019-02-16T23:06:58+00:00"
 layout = "page"
 showdate = false
-title = "About"
+title = "Presider"
 [menu.main]
 weight = 1
 

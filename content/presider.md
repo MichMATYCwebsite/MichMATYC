@@ -9,9 +9,7 @@ weight = 1
 +++
 <table>
 <tr>
-  <td>Presiders are an integral part of any successful AMATYC Conference. Each session is provided a presider and we work to assign presiders according to their area of interest.<br><br>
-    
-At the conference, presiders introduce the speaker, offer assistance, begin and end the session on time, and encourage attendees to evaluate the session on the conference app.<br><br>
+  <td>Presiders are an integral part of any successful AMATYC Conference. Each session is provided a presider and we work to assign presiders according to their area of interest. At the conference, presiders introduce the speaker, offer assistance, begin and end the session on time, and encourage attendees to evaluate the session on the conference app.<br><br>
     
 There is still time to volunteer to be a presider at the conference! Watch this video to learn more about presiding at the conference, and to volunteer, please complete a Session Presider Form provided below.</td> 
   <td><iframe width="560" height="315" src="https://www.youtube.com/embed/wceXJq1KtIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>

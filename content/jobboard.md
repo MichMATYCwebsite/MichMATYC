@@ -26,6 +26,21 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 <th class="tg-c3ow"><b>Closing Date</b></th>
 
 </tr>
+
+<tr><td><a href="https://swmich.peopleadmin.com/postings/3076">Adjunct Mathematics Instructor</a></td>
+  <td><a href="http://www.swmich.edu">Southwestern Michigan College</a></td>
+  <td>Mar 10, 2020</td>
+  <td></td></tr>
+  
+<tr><td><a href="https://www.governmentjobs.com/careers/jccmi/jobs/1894141/mathematics-college-level-adjunct-instructor">Mathematics (College-Level) Adjunct Instructor</a></td>
+  <td><a href="http://www.jccmi.edu">Jackson College</a></td>
+  <td>Feb 27, 2020</td>
+  <td></td></tr>
+  
+<tr><td><a href="https://www.governmentjobs.com/careers/jccmi/jobs/1926404/mathematics-developmental-adjunct-instructor">Mathematics (Developmental) Adjunct Instructor</a></td>
+  <td><a href="http://www.jccmi.edu/">Jackson College</a></td>
+  <td>Feb 27, 2020</td>
+  <td></td></tr>
   
 <tr><td><a href="https://lmc.simplehire.com/postings/3129">Part-Time Mathematics Faculty - Allegan Campus</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>

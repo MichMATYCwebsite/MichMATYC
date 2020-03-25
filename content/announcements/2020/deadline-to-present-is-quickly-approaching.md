@@ -1,5 +1,5 @@
 +++
-date = "2020-03-25T12:43:00+00:00"
+date = "2020-03-20T12:43:00+00:00"
 layout = "post"
 title = "Conference Update! Deadline to Submit Proposal to Present is April 30!"
 

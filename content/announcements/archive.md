@@ -6,6 +6,49 @@ title = "Announcements Library"
 +++
 ### 2020
 
+#### Seeking Nominations for MichMATYC Officers
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Mar 25, 2020</i>
+
++++
+Hello Amazing and Wonderful MichMATYC Members,
+This is an election year and we have two positions on the Executive Board open for nominations: <b>President-Elect</b> and <b>Secretary/Treasurer</b>.<br><br>
+
+For these leadership positions, MichMATYC uses a two-year cycle where the term of office for the President is two years and that person serves as President-Elect for one year prior, and Past President for one year following their term. The Secretary/Treasurer office is a two-year term.<br><br>
+
+Past President Anna Cox (coxa@kellogg.edu) is the chair of the Nominations Committee along with members Maria Johnson (johns257@star.lcc.edu) and Jonathan Benefiel (jbenefiel24@gmail.com). If you are interested in running for either position or want to nominate a colleague that might be interested, please contact any committee member by April 6, 2020.<br><br>
+
+Please check your email on April 13 for information regarding voting.<br><br>
+
+Thank you very much,<br>
+Anna, Maria, and Jonathan</br></br>
+
+
+#### Conference Update! Deadline to Submit Proposal to Present is April 30!
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Mar 25, 2020</i>
+
++++
+We are still accepting proposals to present at this year's <b>MichMATYC Conference</b> hosted at <b>Lansing Community College</b> on <b>October 2-3</b>. The LCC Conference Planning Team has been very busy to provide another wonderful conference and professional development this fall. <b>Thank you</b> for those that have submitted their proposals to present! However, we are <b>still in need</b> of presentation proposals to layout this year's conference program and the <b>deadline is just a month away!</b><br>
+
+We are going to have <b>four 45-minute breakout sessions</b> at the conference. If you are interested in presenting during a session, please let us know by completing a [presentation proposal form](http://bit.ly/michmatyc_proposal). Some of the ideas for the Breakout Sessions in past years have been:
+
+<ul>
+<li>Math Pathways</li>
+<li>Corequisite Courses</li>
+<li>Critical Thinking in the Classroom</li>
+<li>Student Success Strategies</li>
+<li>Equity and Justice</li>
+<li>Best Practices for Teaching Online</li>
+</ul>
+
+If you have other topics you would like to present, please feel free to submit them. We would like to hear your ideas. We will also be hosting the inaugural <b>Ignite session</b> with all presenters having exactly five minutes to present their topic.
+
+Whether it be a 45-minute session, workshop, round-table discussion, or Ignite talk, please consider submitting a [presentation proposal](http://bit.ly/michmatyc_proposal) for this year's conference by <b>April 30</b>! The conference promises to be another great opportunity for us to learn and network with our colleagues from across the state.
+
+[Submit a Presentation Proposal](http://bit.ly/michmatyc_proposal)</br></br>
+
+
 #### Now Accepting Proposals to Present at the 2020 MichMATYC Conference
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Feb 7, 2020</i>

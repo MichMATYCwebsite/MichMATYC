@@ -10,7 +10,6 @@ title = "Announcements Library"
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Mar 25, 2020</i>
 
-+++
 Hello Amazing and Wonderful MichMATYC Members,
 This is an election year and we have two positions on the Executive Board open for nominations: <b>President-Elect</b> and <b>Secretary/Treasurer</b>.</br>
 
@@ -28,7 +27,6 @@ Anna, Maria, and Jonathan</br></br>
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Mar 20, 2020</i>
 
-+++
 We are still accepting proposals to present at this year's <b>MichMATYC Conference</b> hosted at <b>Lansing Community College</b> on <b>October 2-3</b>. The LCC Conference Planning Team has been very busy to provide another wonderful conference and professional development this fall. <b>Thank you</b> for those that have submitted their proposals to present! However, we are <b>still in need</b> of presentation proposals to layout this year's conference program and the <b>deadline is just a month away!</b><br>
 
 We are going to have <b>four 45-minute breakout sessions</b> at the conference. If you are interested in presenting during a session, please let us know by completing a [presentation proposal form](http://bit.ly/michmatyc_proposal). Some of the ideas for the Breakout Sessions in past years have been:

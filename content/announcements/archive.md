@@ -12,13 +12,13 @@ title = "Announcements Library"
 
 +++
 Hello Amazing and Wonderful MichMATYC Members,
-This is an election year and we have two positions on the Executive Board open for nominations: <b>President-Elect</b> and <b>Secretary/Treasurer</b>.<br><br>
+This is an election year and we have two positions on the Executive Board open for nominations: <b>President-Elect</b> and <b>Secretary/Treasurer</b>.</br>
 
-For these leadership positions, MichMATYC uses a two-year cycle where the term of office for the President is two years and that person serves as President-Elect for one year prior, and Past President for one year following their term. The Secretary/Treasurer office is a two-year term.<br><br>
+For these leadership positions, MichMATYC uses a two-year cycle where the term of office for the President is two years and that person serves as President-Elect for one year prior, and Past President for one year following their term. The Secretary/Treasurer office is a two-year term.</br>
 
-Past President Anna Cox (coxa@kellogg.edu) is the chair of the Nominations Committee along with members Maria Johnson (johns257@star.lcc.edu) and Jonathan Benefiel (jbenefiel24@gmail.com). If you are interested in running for either position or want to nominate a colleague that might be interested, please contact any committee member by April 6, 2020.<br><br>
+Past President Anna Cox (coxa@kellogg.edu) is the chair of the Nominations Committee along with members Maria Johnson (johns257@star.lcc.edu) and Jonathan Benefiel (jbenefiel24@gmail.com). If you are interested in running for either position or want to nominate a colleague that might be interested, please contact any committee member by April 6, 2020.</br>
 
-Please check your email on April 13 for information regarding voting.<br><br>
+Please check your email on April 13 for information regarding voting.</br>
 
 Thank you very much,<br>
 Anna, Maria, and Jonathan</br></br>
@@ -26,7 +26,7 @@ Anna, Maria, and Jonathan</br></br>
 
 #### Conference Update! Deadline to Submit Proposal to Present is April 30!
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Mar 25, 2020</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Mar 20, 2020</i>
 
 +++
 We are still accepting proposals to present at this year's <b>MichMATYC Conference</b> hosted at <b>Lansing Community College</b> on <b>October 2-3</b>. The LCC Conference Planning Team has been very busy to provide another wonderful conference and professional development this fall. <b>Thank you</b> for those that have submitted their proposals to present! However, we are <b>still in need</b> of presentation proposals to layout this year's conference program and the <b>deadline is just a month away!</b><br>

@@ -27,6 +27,11 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
 
+<tr><td><a href="https://lmc.simplehire.com/postings/3354">Faculty, Math - Allegan Campus (Part-Time)</a></td>
+  <td><a href="http://www.lmc.edu">Lake Michigan College</a></td>
+  <td>Mar 18, 2020</td>
+  <td></td></tr>
+
 <tr><td><a href="https://swmich.peopleadmin.com/postings/3076">Adjunct Mathematics Instructor</a></td>
   <td><a href="http://www.swmich.edu">Southwestern Michigan College</a></td>
   <td>Mar 10, 2020</td>

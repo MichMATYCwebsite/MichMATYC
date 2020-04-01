@@ -46,11 +46,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td><a href="http://www.jccmi.edu/">Jackson College</a></td>
   <td>Feb 27, 2020</td>
   <td></td></tr>
-  
-<tr><td><a href="https://lmc.simplehire.com/postings/3129">Part-Time Mathematics Faculty - Allegan Campus</a></td>
-  <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
-  <td>Jan 16, 2020</td>
-  <td></td></tr>
 
 <tr><td><a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/893?c=lcc">Adjunct Instructor - Statistics and Applied Mathematics</a></td>
   <td><a href="http://www.lcc.edu">Lansing CC</a></td>

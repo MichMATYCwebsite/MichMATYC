@@ -1,8 +1,4 @@
 ---
-menu:
-  main:
-    name: Conferences
-    weight: 4
 
 ---
 {{ define "main" -}}

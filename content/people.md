@@ -238,10 +238,9 @@ Below is the contact information for the campus representatives from each member
 
 <tr>
 <td class="tg-c3ow"><a href="http://www.mcc.edu/">Mott Community College</a>
-</td>
 
 <td class="tg-c3ow"><a href="mailto:michael.carr@mcc.edu">Bernard Cunningham</a><br>
-<a href="mailto:chughes@mcc.edu">Christine Hughes</a>
+<a href="mailto:chughes@mcc.edu">Christine Hughes</a></td>
 </td></tr>
 
 <tr>

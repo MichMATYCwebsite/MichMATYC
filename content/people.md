@@ -241,7 +241,7 @@ Below is the contact information for the campus representatives from each member
 </td>
 
 <td class="tg-c3ow"><a href="mailto:michael.carr@mcc.edu">Bernard Cunningham</a><br>
-<td class="tg-c3ow"><a href="mailto:chughes@mcc.edu">Christine Hughes</a>
+<a href="mailto:chughes@mcc.edu">Christine Hughes</a>
 </td></tr>
 
 <tr>

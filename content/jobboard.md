@@ -31,11 +31,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Mar 18, 2020</td>
   <td></td></tr>
-
-<tr><td><a href="https://swmich.peopleadmin.com/postings/3076">Adjunct Mathematics Instructor</a></td>
-  <td><a href="http://www.swmich.edu">Southwestern Michigan College</a></td>
-  <td>Mar 10, 2020</td>
-  <td>May 1, 2020</td></tr>
   
 <tr><td><a href="https://www.governmentjobs.com/careers/jccmi/jobs/1894141/mathematics-college-level-adjunct-instructor">Mathematics (College-Level) Adjunct Instructor</a></td>
   <td><a href="http://www.jccmi.edu">Jackson College</a></td>

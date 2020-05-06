@@ -12,7 +12,7 @@ title = "2018 MichMATYC Conference"
 
 **Conference Website**: [2018 MichMATYC Conference](https://sites.google.com/view/michmatyc2018/home)
 
-* Onsite registration is available at 8:00 a.m. on Saturday, October 13 at the conference.
+* Onsite registration is available at 8:00 am on Saturday, October 13 at the conference.
 * Payment options for onsite registration are limited to cash and checks. Thanks!
 
 Need clarification from someone on the planning committee from Kalamazoo Valley Community College? Email us!

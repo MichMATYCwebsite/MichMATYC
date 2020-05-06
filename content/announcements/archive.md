@@ -19,7 +19,7 @@ If you have any questions or concerns regarding the conference, please contact t
 
 #### Check Out the Latest Edition of The Sum-Times
 
-<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>May 6, 2020</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>May 5, 2020</i>
 
 The <a href="https://michmatyc.org/uploads/MichMatycNewsletterMay2020.pdf">May 2020</a> issue of <a href="http://michmatyc.org/newsletter/">The MichMATYC Sum-Times</a> has been published! In this issue, you will see articles, news, and updates on the following:
 

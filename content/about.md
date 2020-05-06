@@ -31,7 +31,7 @@ The organizational rules and policies are contained in the <a href="https://mich
 <td class>2019-2021</td>
 <td class="tg-c3ow">Michael Pemberton, Lansing CC</td>
 
-<td class="tg-c3ow">2020: Lansing CC<br>
+<td class="tg-c3ow">2021: Lansing CC<br>
 2019: Henry Ford College</td>
 </tr>
 

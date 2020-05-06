@@ -4,7 +4,7 @@ layout = "post"
 title = "Check Out the Latest Edition of The Sum-Times"
 
 +++
-The May 2020 issue of [The Sum-Times](http://michmatyc.org/newsletter/) has been published! In this issue, you will see articles, news, and updates on the following:
+The <a href="https://michmatyc.org/uploads/MichMatycNewsletterMay2020.pdf">May 2020</a> issue of [The MichMATYC Sum-Times](http://michmatyc.org/newsletter/) has been published! In this issue, you will see articles, news, and updates on the following:
 
 <ul>
   <li>Message from the President and MichMATYC Conference Update</li>
@@ -20,4 +20,4 @@ The May 2020 issue of [The Sum-Times](http://michmatyc.org/newsletter/) has been
   
 I would also like to thank Indah Kooswinarsinindyah, The Sum-Times Newsletter Editor, for putting together another wonderful newsletter. Please share the attached Newsletter with all of your colleagues.</br>
 
-Keep in mind that if you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter issue for September 2020, then you can submit those to info@michmatyc.org. Whether it is about an accomplishment of you or your colleagues, recent retirements, or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article for the next issue. 
+Keep in mind that if you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter issue for September 2020, then you can submit those to <a href="mailto:info@michmatyc.org">info@michmatyc.org</a>. Whether it is about an accomplishment of you or your colleagues, recent retirements, or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article for the next issue. 

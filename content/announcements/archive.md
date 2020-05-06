@@ -6,6 +6,29 @@ title = "Announcements Library"
 +++
 ### 2020
 
+#### Check Out the Latest Edition of The Sum-Times
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Apr 9, 2020</i>
+
+The <a href="https://michmatyc.org/uploads/MichMatycNewsletterMay2020.pdf">May 2020</a> issue of <a href="http://michmatyc.org/newsletter/>The MichMATYC Sum-Times</a> has been published! In this issue, you will see articles, news, and updates on the following:
+
+<ul>
+  <li>Message from the President and MichMATYC Conference Update</li>
+  <li?AMATYC Midwest Update and Delegate Assembly Report</li>
+  <li>Teaching Experiences on Teaching During COVID-19</li>
+  <li>Information on the Karen Sharp Student Scholarship Award and the MichMATYC Teaching Excellence Award</li>
+  <li>Corequisite Support for Precalculus and Redesigning the Pathway to Calculus</li>
+  <li>A "Special" Trigonometric Identity</li>
+  <li>Invitation for Full- and Part-Time Faculty to Apply for MiTEAM Cohort 3</li>
+  <li>Did You Know on the MichMATYC Lifetime Membership</li>
+  <li> Our Popular Campus News Section</li>
+  <li>Upcoming Events</li></ul>
+  
+I would also like to thank Indah Kooswinarsinindyah, The Sum-Times Newsletter Editor, for putting together another wonderful newsletter. Please share the attached Newsletter with all of your colleagues.</br>
+
+Keep in mind that if you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter issue for September 2020, then you can submit those to <a href="mailto:info@michmatyc.org">info@michmatyc.org</a>. Whether it is about an accomplishment of you or your colleagues, recent retirements, or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article for the next issue.<br><br>
+
+
 #### The Next Edition of The Sum-Times is Just Around the Corner
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Apr 9, 2020</i>

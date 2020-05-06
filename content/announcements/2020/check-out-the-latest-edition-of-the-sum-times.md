@@ -4,7 +4,7 @@ layout = "post"
 title = "Check Out the Latest Edition of The Sum-Times"
 
 +++
-The <b>May 2020 issue</b> of [The Sum-Times](michmatyc.org/newsletter/) has been published! In this issue, you will see articles, news, and updates on the following:
+The May 2020 issue of [The Sum-Times](http://michmatyc.org/newsletter/) has been published! In this issue, you will see articles, news, and updates on the following:
 
 <ul>
   <li>Message from the President and MichMATYC Conference Update</li>

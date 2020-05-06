@@ -10,7 +10,7 @@ title = "Announcements Library"
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>May 6, 2020</i>
 
-Due to the current pandemic of COVID-19, the <a href="http://internal.lcc.edu/mathematics/">Lansing Community College</a> (LCC) Conference Planning Team and the <a href="http://michmatyc.org/people">MichMATYC Executive Board</a> has decided to postpone the <a href="bit.ly/michmatyc2020">MichMATYC Conference</a> to April 9-10, 2021 with everyone's health, wellness, and safety in mind. Following the announcement that LCC will be offering online classes, either as online real-time or traditional online, this fall seemster, the college will not be in a position to host the conference in October 2020.</br>
+Due to the current pandemic of COVID-19, the <a href="http://internal.lcc.edu/mathematics/">Lansing Community College</a> (LCC) Conference Planning Team and <a href="http://michmatyc.org/people">MichMATYC Executive Board</a> have decided to postpone the <a href="bit.ly/michmatyc2020">MichMATYC Conference</a> to April 9-10, 2021 with everyone's health, wellness, and safety in mind. Following the announcement that LCC will be offering online classes, either as online real-time or traditional online, this fall seemster, the college will not be in a position to host the conference in October 2020.</br>
 
 The MichMATYC Executive Board is discussing options to provide professional development and networking, such as webinars and virtual sharing sessions, this upcoming fall with more details to be announced at a later date.</br>
 

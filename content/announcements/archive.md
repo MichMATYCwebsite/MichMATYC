@@ -10,7 +10,7 @@ title = "Announcements Library"
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Apr 9, 2020</i>
 
-The <a href="https://michmatyc.org/uploads/MichMatycNewsletterMay2020.pdf">May 2020</a> issue of <a href="http://michmatyc.org/newsletter/>The MichMATYC Sum-Times</a> has been published! In this issue, you will see articles, news, and updates on the following:
+The <a href="https://michmatyc.org/uploads/MichMatycNewsletterMay2020.pdf">May 2020</a> issue of <a href="http://michmatyc.org/newsletter/">The MichMATYC Sum-Times</a> has been published! In this issue, you will see articles, news, and updates on the following:
 
 <ul>
   <li>Message from the President and MichMATYC Conference Update</li>

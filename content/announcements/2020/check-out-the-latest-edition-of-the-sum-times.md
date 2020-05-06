@@ -18,6 +18,6 @@ The <b>May 2020 issue</b> of [The Sum-Times](michmatyc.org/newsletter/) has been
   <li> Our Popular Campus News Section</li>
   <li>Upcoming Events</li></ul>
   
-I would also like to thank Indah Kooswinarsinindyah, The Sum-Times Newsletter Editor, for putting together another wonderful newsletter. Please share the attached Newsletter with all of your colleagues.</br></br>
+I would also like to thank Indah Kooswinarsinindyah, The Sum-Times Newsletter Editor, for putting together another wonderful newsletter. Please share the attached Newsletter with all of your colleagues.</br>
 
 Keep in mind that if you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter issue for September 2020, then you can submit those to info@michmatyc.org. Whether it is about an accomplishment of you or your colleagues, recent retirements, or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article for the next issue. 

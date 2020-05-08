@@ -98,7 +98,7 @@ class=title>Affiliate Delegate
 
 ### MichMATYC Campus Representatives
 
-Below is the contact information for the campus representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please send your request to our Webmaster at [web@michmatyc.org](mailto:web@michmatyc.org).
+Below is the contact information for the campus representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please send your request to [web@michmatyc.org](mailto:web@michmatyc.org).
 
 
 <table class="tg" style="margin-top: 20px;">

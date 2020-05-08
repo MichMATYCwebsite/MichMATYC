@@ -10,7 +10,7 @@ weight = 5
 The Michigan Mathematical Association of Two-Year Colleges (MichMATYC) provides a mentoring and professional development initiative called MiTEAM for full-time or adjunct faculty teaching mathematics in the first three years of college. The program offers professional development for new mathematics faculty to become more effective teachers and active members within the organization.
 
 **Contact Information**:<br/>
-[Michael Pemberton](mailto:mppemberton@gmail.com)<br/>
+[Michael Pemberton](mailto:miteam@michmatyc.org)<br/>
 Lansing Community College<br/>
 MiTEAM Program Coordinator
 
@@ -57,7 +57,7 @@ The participant’s home institution will be expected to provide support that in
 
 ### Application Process
 
-Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Conference. All faculty interested in becoming a participant in MiTEAM may [apply online](http://bit.ly/michmatycmiteam). For more information or questions regarding the program, please contact the [MiTEAM Program Coodinator](mailto:mppemberton@gmail.com).
+Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Conference. All faculty interested in becoming a participant in MiTEAM may [apply online](http://bit.ly/michmatycmiteam). For more information or questions regarding the program, please contact the [MiTEAM Program Coodinator](mailto:miteam@michmatyc.org).
 
 The deadline for consideration in **MiTEAM Cohort 3** is **February 1, 2021**.
 

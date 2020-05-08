@@ -24,6 +24,6 @@ Department of Mathematics<br>
 Henry Ford College<br>
 5101 Evergreed Rd<br>
 Dearborn, MI &nbsp; 48128<br>
-Email: [sbazzi@hfcc.edu](mailto:sbazzi@hfcc.edu)
+Email: [secretary@michmatyc.org](mailto:secretary@michmatyc.org)
 
 We appreciate your time, effort, and support of our organization!

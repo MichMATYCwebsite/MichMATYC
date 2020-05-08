@@ -12,6 +12,6 @@ In this spirit, MichMATYC is offering grants of up to $500 to support the activi
 [MichMATYC Grant Application](http://bit.ly/michmatycgrants)</br>
 
 **Contact Information**:<br/>
-[Jon Oaks](mailto:jonnyoaks@gmail.com)<br/>
+[Jon Oaks](mailto:grants@michmatyc.org)<br/>
 Macomb Community College<br/>
 MichMATYC Grants Coordinator

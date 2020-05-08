@@ -6,11 +6,11 @@ title = "The Sum-Times"
 weight = 6
 
 +++
-The electronic version of the Michigan Mathematical Association of Two-Year Colleges' newsletter, "The MichMATYC Sum-Times", welcomes articles of interest to members three times a year - in February, May, and September. If it is about an accomplishment of you or your colleagues, recent retirements or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article and sending it to the [Newsletter Editor](mailto:kooswinarsinindyahd@macomb.edu).
+The electronic version of the Michigan Mathematical Association of Two-Year Colleges' newsletter, "The MichMATYC Sum-Times", welcomes articles of interest to members three times a year - in February, May, and September. If it is about an accomplishment of you or your colleagues, recent retirements or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article and sending it to the [Newsletter Editor](mailto:newsletter@michmatyc.org).
 
 If you don't know if something would be appropriate, please ask us. The MichMATYC Sum-Times articles are light, short, and informative. Most of our articles run in length between 300 and 500 words and tend to be one column or two columns per page.
 
-**Contact Information**:<br/>[Desidera (Indah) Kooswinarsinindyah](mailto:kooswinarsinindyahd@macomb.edu)<br/>
+**Contact Information**:<br/>[Desidera (Indah) Kooswinarsinindyah](mailto:newsletter@michmatyc.org)<br/>
 Macomb Community College<br/>
 Newsletter Editor
 

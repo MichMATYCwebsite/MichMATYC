@@ -12,7 +12,7 @@ Deadline: May 15, 2020
 [Nomination Form](http://bit.ly/michmatyc_tenomination)</br>
 
 **Contact Information**:<br/>
-[Jon Oaks](mailto:jonnyoaks@gmail.com)<br/>
+[Jon Oaks](mailto:te-award@michmatyc.org)<br/>
 Macomb Community College<br/>
 Chair, Teaching Excellence Award Committee<br/><br>
 

@@ -21,7 +21,7 @@ class=title>President
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="http://www.lcc.edu/" target=_blank> Lansing Community College</a>
 <li><i class="fa-li fa-address-card far"></i>419 North Washington Square<li><i class="fa-li fa-address-card far"></i>Lansing, MI  48933
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:pembertm@lcc.edu?Subject=MichMATYC">pembertm@lcc.edu</a>
+<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:president@michmatyc.org?Subject=MichMATYC">president@michmatyc.org</a>
 </ul>
 </div>
 </div>
@@ -36,7 +36,7 @@ class=title>Past President
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="http://www.kellogg.edu/" target=_blank> Kellogg Community College</a>
-<li><i class="fa-li fa-address-card far"></i>450 North Avenue<li><i class="fa-li fa-address-card far"></i>Battle Creek, MI  49017<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:coxa@kellogg.edu?Subject=MichMATYC">coxa@kellogg.edu</a>
+<li><i class="fa-li fa-address-card far"></i>450 North Avenue<li><i class="fa-li fa-address-card far"></i>Battle Creek, MI  49017<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:past-president@michmatyc.org?Subject=MichMATYC">past-president@michmatyc.org</a>
 </ul>
 </div>
 </div>
@@ -52,7 +52,7 @@ class=title>Secretary/Treasurer
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="https://www.hfcc.edu/" target=_blank> Henry Ford College</a>
 <li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:sbazzi@hfcc.edu?Subject=MichMATYC">sbazzi@hfcc.edu</a>
+<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:secretary@michmatyc.org?Subject=MichMATYC">secretary@michmatyc.org</a>
 </ul>
 </div>
 </div>
@@ -68,7 +68,7 @@ class=title>Affiliate Delegate
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href= "https://www.oaklandcc.edu/" target=_blank> Oakland Community College, Orchard Ridge</a>
 <li><i class="fa-li fa-address-card far"></i>27055 Orchard Lake Rd.<li><i class="fa-li fa-address-card far"></i>Farmington Hills, MI  48334<li>
-<i class="fa-li fa fas fa-envelope"></i><a href="mailto:jagunkel@oaklandcc.edu?Subject=MichMATYC">jagunkel@oaklandcc.edu</a>
+<i class="fa-li fa fas fa-envelope"></i><a href="mailto:president-elect@michmatyc.org?Subject=MichMATYC">president-elect@michmatyc.org</a>
 </ul>
 </div>
 </div>
@@ -84,7 +84,7 @@ class=title>Affiliate Delegate
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href="https://www.hfcc.edu/" target=_blank> Henry Ford College</a>
 <li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:srsimpson@hfcc.edu?Subject=MichMATYC">srsimpson@hfcc.edu</a>
+<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:delegate@michmatyc.org?Subject=MichMATYC">delegate@michmatyc.org</a>
 </ul>
 </div>
 </div>
@@ -98,7 +98,7 @@ class=title>Affiliate Delegate
 
 ### MichMATYC Campus Representatives
 
-Below is the contact information for the campus representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please send your request to [info@michmatyc.org](mailto:info@michmatyc.org).
+Below is the contact information for the campus representatives from each member institution in MichMATYC. If you would like to update information listed below for your institution, please send your request to our Webmaster at [web@michmatyc.org](mailto:web@michmatyc.org).
 
 
 <table class="tg" style="margin-top: 20px;">

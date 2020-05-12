@@ -27,6 +27,11 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
 
+<tr><td><a href="https://careers-midmich.icims.com/jobs/1806/adjunct-math-faculty---tuscola-isd/job?iis=Job+Board&iisn=HigherEdJobs.com&mobile=false&width=1080&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240">Adjunct Math Faculty - Tuscola ISD</a></td>
+  <td><a href="https://www.midmich.edu/">Mid Michigan College</a></td>
+  <td>Apr 14, 2020</td>
+  <td>Open Until Filled</td></tr>
+
 <tr><td><a href="https://lmc.simplehire.com/postings/3354">Faculty, Math - Allegan Campus (Part-Time)</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Mar 18, 2020</td>

@@ -1,7 +1,7 @@
 +++
 date = "2020-05-14T12:00:00+00:00"
 layout = "post"
-title = "AMIIBL Offering a Free One-Day Workshop on Using IBL in College Mathematics Classrooms"
+title = "AMIIBL Offering a Free One-Day Workshop on using IBL in College Mathematics Classrooms"
 
 +++
 The <b>Alliance for Michigan Inquiry-Based Learning</b> (<a href="https://www.amiibl.org/">AMIIBL</a>) will be hosting a FREE, 1-day <b>Workshop on using Inquiry-Based Learning (IBL)</b> in college mathematics classrooms on <b>Thursday, June 4</b> at <b>10:00 am ET - 4:00 pm ET</b>. The workshop is appropriate for both new and experienced IBL practitioners with facilitators Danielle Champney (Cal Poly) and Francesca Gandini (Kalamazoo College).</br>
@@ -10,7 +10,7 @@ The interactive sessions include creating inquiry-oriented tasks, discussing vid
 
 You can find registration, full description, and facilitator bios below.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdFBBRrd35lF8lIlRUHhpKP0KE1nfiL0cIFfVUT-NQ3_lKheg/viewform?usp=sf_link">Registration</a></br></br>
+<b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFBBRrd35lF8lIlRUHhpKP0KE1nfiL0cIFfVUT-NQ3_lKheg/viewform?usp=sf_link">Registration</a></b></br></br>
 
 <b>Description</b></br>
 Active learning has been shown to increase student success, which has led to calls by the National Science Foundation and the Conference Board of Mathematical Sciences to move away from the traditional lecturing. It has further been shown that Inquiry-Based Learning

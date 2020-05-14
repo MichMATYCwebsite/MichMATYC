@@ -5,7 +5,7 @@ title = "Past Events"
 
 +++
 
-#### AMIIBL Offering a Free One-Day Workshop on Using IBL in College Mathematics Classrooms
+#### AMIIBL Offering a Free One-Day Workshop on using IBL in College Mathematics Classrooms
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>May 14, 2020</i>
 

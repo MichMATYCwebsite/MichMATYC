@@ -15,7 +15,7 @@ The interactive sessions include creating inquiry-oriented tasks, discussing vid
 
 You can find registration, full description, and facilitator bios below.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdFBBRrd35lF8lIlRUHhpKP0KE1nfiL0cIFfVUT-NQ3_lKheg/viewform?usp=sf_link">Registration</a></br></br>
+<b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFBBRrd35lF8lIlRUHhpKP0KE1nfiL0cIFfVUT-NQ3_lKheg/viewform?usp=sf_link">Registration</a></b></br></br>
 
 <b>Description</b></br>
 Active learning has been shown to increase student success, which has led to calls by the National Science Foundation and the Conference Board of Mathematical Sciences to move away from the traditional lecturing. It has further been shown that Inquiry-Based Learning

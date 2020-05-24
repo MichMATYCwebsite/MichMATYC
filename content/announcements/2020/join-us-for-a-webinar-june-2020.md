@@ -1,7 +1,7 @@
 +++
 date = "2020-05-24T12:10:00+00:00"
 layout = "post"
-title = "Join Us for a Webinar on <i>Inclusive Language in the Remote Learning Environment</i>"
+title = "Join Us for a Webinar on "Inclusive Language in the Remote Learning Environment""
 
 +++
 <b>MichMATYC</b> and the <a>AMATYC Midwest region</b> is co-sponsoring a webinar on <b>Thursday, June 11</b> at <b>4:00 pm ET</b> with Dr. Jjenna Hupp Andrews on <i>Inclusive Language in the Remote Learning Environment</i>.</br>

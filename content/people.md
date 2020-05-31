@@ -25,18 +25,19 @@ class=title>President
 </ul>
 </div>
 </div>
-  
+ 
 <div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/cox.jpg>
+<div class=leadership-card-head><img class=leadership src=/uploads/gunkelman.jpg> 
 <div class=flex-wrap>
-<p class=name>Anna Cox<p
-class=title>Past President
+<p class=name>Julie Gunkelman<p
+class=title>President Elect
 </div>
 </div>
 <div class=contact-wrap>
 <ul class=fa-ul>
-<li><i class="fa-li fa fas fa-home"></i><a href="http://www.kellogg.edu/" target=_blank> Kellogg Community College</a>
-<li><i class="fa-li fa-address-card far"></i>450 North Avenue<li><i class="fa-li fa-address-card far"></i>Battle Creek, MI  49017<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:past-president@michmatyc.org?Subject=MichMATYC">past-president@michmatyc.org</a>
+<li><i class="fa-li fa fas fa-home"></i><a href= "https://www.oaklandcc.edu/" target=_blank> Oakland Community College, Orchard Ridge</a>
+<li><i class="fa-li fa-address-card far"></i>27055 Orchard Lake Rd.<li><i class="fa-li fa-address-card far"></i>Farmington Hills, MI  48334<li>
+<i class="fa-li fa fas fa-envelope"></i><a href="mailto:president-elect@michmatyc.org?Subject=MichMATYC">president-elect@michmatyc.org</a>
 </ul>
 </div>
 </div>
@@ -53,22 +54,6 @@ class=title>Secretary/Treasurer
 <li><i class="fa-li fa fas fa-home"></i><a href="https://www.hfcc.edu/" target=_blank> Henry Ford College</a>
 <li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
 <li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:secretary@michmatyc.org?Subject=MichMATYC">secretary@michmatyc.org</a>
-</ul>
-</div>
-</div>
-
-<div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/gunkelman.jpg> 
-<div class=flex-wrap>
-<p class=name>Julie Gunkelman<p
-class=title>Affiliate Delegate
-</div>
-</div>
-<div class=contact-wrap>
-<ul class=fa-ul>
-<li><i class="fa-li fa fas fa-home"></i><a href= "https://www.oaklandcc.edu/" target=_blank> Oakland Community College, Orchard Ridge</a>
-<li><i class="fa-li fa-address-card far"></i>27055 Orchard Lake Rd.<li><i class="fa-li fa-address-card far"></i>Farmington Hills, MI  48334<li>
-<i class="fa-li fa fas fa-envelope"></i><a href="mailto:president-elect@michmatyc.org?Subject=MichMATYC">president-elect@michmatyc.org</a>
 </ul>
 </div>
 </div>

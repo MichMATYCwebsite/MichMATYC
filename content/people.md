@@ -73,7 +73,7 @@ class=title>Affiliate Delegate
 </ul>
 </div>
 </div>
-</div>
+</div></br>
 
 ### AMATYC Leadership in Michigan
 

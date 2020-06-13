@@ -4,7 +4,7 @@ layout = "page"
 showdate = false
 title = "Other Information"
 [menu.main]
-weight = 9
+weight = 10
 
 +++
 ### Quantitative Reasoning Courses

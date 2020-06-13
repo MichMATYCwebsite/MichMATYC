@@ -4,7 +4,7 @@ layout = "page"
 showdate = false
 title = "Other Information"
 [menu.main]
-weight = 10
+weight = 9
 
 +++
 ### Quantitative Reasoning Courses
@@ -128,21 +128,17 @@ Course Information (Quantitative Reasoning)
 
 <br/>
 
-### MichMATYC ListServ
+### Competitions
 
-Members of MichMATYC are automatically included in our email discussion list "MichMATYC ListServ". This email list is intended for both official organizational business and the individual interests of members and member institutions. The email list can be used by members to request information from other colleges, to share ideas, or discuss issues. Only members of MichMATYC can join the list. If you are a member of MichMATYC, please add [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) and [secretary@michmatyc.org](mailto:secretary@michmatyc.org) to your "safe-senders" list. The email list is maintained by the Secretary/Treasurer.
+#### AMATYC's Student Mathematics League
+The AMATYC Student Mathematics League (SML) consists of over 165 colleges in more than thirty-five states, as well as Bermuda, involving 8,000 community college students. Each year, these schools compete in the Student Mathematics League. The contest consists of two rounds: one in the fall, and another in the winter. Prizes are awarded to the top student and college scorers in the nation. Schools in Michigan compete both regionally in the Midwest Region (including Illinois, Indiana, Kentucky, Michigan, Ohio, and Wisconsin) and on the national stage.
 
-##### How do I use the MichMATYC ListServ?
+For more information on the competition, scholarships, and previous exams, please see the [AMATYC Student Mathematics League](http://www.amatyc.org/?page=StudentMathLeague). You can also find the archived results of [Michigan](/uploads/SMLResultsUpdate9.20.15.pdf)'s successes in the AMATYC Student Mathematics League.</br>
 
-MichMATYC members may send an email to [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) to have their messages distrubuted to other members of the list - it is as simple as that! However, please note that only emails from MichMATYC members will be allowed to be sent through the ListServ.
+#### AMATYC's Student Research League
+AMATYC has also offered the Student Research League (SRL) as a partnership between two-year college students and Faculty Mentors who are seeking STEM knowledge through an AMATYC approved research program. The Student Research League requires AMATYC Faculty Mentors to sponsor a team of one to three mathematics students from their college to participate in addressing a designed research STEM Challenge Problem. The student(s) have 18 days to complete their task.
 
-##### Do I need to email the webmaster to use the ListServ?
-
-No! Members can feel free to email [MichMATYC-List@michmatyc.org](mailto:MichMATYC-List@michmatyc.org) directly to distribute their messages.
-
-##### How do I become a member of MichMATYC in order to use the MichMATYC ListServ?
-
-Head to the [Membership](/membership/) page for more information!
+For more information on the competition, Faculty Mentor duties and information, and previous competition materials, please see the [AMATYC Student Research League](https://amatyc.site-ym.com/page/StudentResLeague).
 
 <br/>
 

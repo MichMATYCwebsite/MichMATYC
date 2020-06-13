@@ -13,7 +13,7 @@ All webinars are recorded and available to watch afterwards. Below you will find
 
 #### June 2020
 
-<b>Inclusive Language in the Remote Learning Environment</b>
-<b>Date:</b> June 11, 2020
-<b>Speaker:</b> Dr. Jjenna Hupp Andrews
+<b>Inclusive Language in the Remote Learning Environment</b><br/>
+<b>Date:</b> June 11, 2020<br/>
+<b>Speaker:</b> Dr. Jjenna Hupp Andrews<br/>
 <b>Register:</b> <a href="http://bit.ly/signup4june11">bit.ly/signup4june11</a>

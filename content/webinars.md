@@ -16,7 +16,7 @@ We are always looking for webinar speakers. If you would like more information a
 #### Inclusive Language in the Remote Learning Environment
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>June 11, 2020</i><br/>
 Speaker: Dr. Jjenna Hupp Andrews <i>(Mott Community College)</i><br/>
-Co-Sponsor: <a href="bit.ly/amatycmidwest">AMATYC Midwest Region</a><br/>
+Co-Sponsor: <a href="http://bit.ly/amatycmidwest">AMATYC Midwest Region</a><br/>
 Recording: <a href="https://youtu.be/nh4s5glTIRI">YouTube Video</a><br/>
 Presentation: <a href="https://www.jjennahuppandrews.net/inclusive-language-in-the-remote-learning-environment.html">PowerPoint Slides</a><br/><br/>
 

@@ -23,6 +23,6 @@ Presentation: <a href="https://www.jjennahuppandrews.net/inclusive-language-in-t
 #### The Michigan Transfer Agreement - Info for CC Math Departments
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>April 8, 2014</i><br/>
 Speaker: Jack Rotman <i>(Lansing Community College)</i><br/>
-Sponsor: <a href="bit.ly/amatycmidwest">AMATYC Innovative Teaching & Learning Committee</a><br/>
+Co-Sponsor: <a href="bit.ly/amatycmidwest">AMATYC Innovative Teaching & Learning Committee</a><br/>
 Recording: <a href="http://youtu.be/F-Dl-dUrE8A">YouTube Video</a><br/>
 Presentation: <a href="https://amatyc.site-ym.com/resource/resmgr/webinars/chat_transcript.txt">Chat Transcript</a>

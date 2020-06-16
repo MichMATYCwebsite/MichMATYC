@@ -15,4 +15,4 @@ All webinars are recorded and available to watch afterwards. Below you will find
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>June 11, 2020</i><br/>
 Speaker: Dr. Jjenna Hupp Andrews<br/>
 Recording: <a href="https://youtu.be/nh4s5glTIRI">YouTube Video</a><br/>
-Presentation: <a href="https://www.jjennahuppandrews.net/inclusive-language-in-the-remote-learning-environment.html">PowerPoint</a>
+Presentation: <a href="https://www.jjennahuppandrews.net/inclusive-language-in-the-remote-learning-environment.html">PowerPoint Slides</a>

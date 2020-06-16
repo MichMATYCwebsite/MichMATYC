@@ -15,4 +15,10 @@ All webinars are recorded and available to watch afterwards. Below you will find
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>June 11, 2020</i><br/>
 Speaker: Dr. Jjenna Hupp Andrews <i>(Mott Community College)</i><br/>
 Recording: <a href="https://youtu.be/nh4s5glTIRI">YouTube Video</a><br/>
-Presentation: <a href="https://www.jjennahuppandrews.net/inclusive-language-in-the-remote-learning-environment.html">PowerPoint Slides</a>
+Presentation: <a href="https://www.jjennahuppandrews.net/inclusive-language-in-the-remote-learning-environment.html">PowerPoint Slides</a><br/>
+
+#### The Michigan Transfer Agreement - Info for CC Math Departments
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>April 8, 2014</i><br/>
+Speaker: Jack Rotman <i>(Lansing Community College)</i><br/>
+Recording: <a href="http://youtu.be/F-Dl-dUrE8A">YouTube Video</a><br/>
+Presentation: <a href="https://amatyc.site-ym.com/resource/resmgr/webinars/chat_transcript.txt">Chat Transcript</a>

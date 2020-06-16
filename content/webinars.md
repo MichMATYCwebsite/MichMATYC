@@ -7,7 +7,9 @@ title = "Webinars"
 weight = 5
 
 +++
-All webinars are recorded and available to watch afterwards. Below you will find information on our upcoming and previous webinars. Webinars are a great form of professional development that you can do from the comfort of your own home or office. Those that register will receive an email with a link to the recording. Each webinar presenter is an expert in their field and has many years of experience as classroom teachers. We are always looking for webinar speakers. If you would like more information about participating in or facilitating a webinar, please send a request to <a href="mailto:webinars@michmatyc.org">webinars@michmatyc.org</a>.<br/><br/>
+All webinars are recorded and available to watch afterwards. Below you will find information on our upcoming and previous webinars. Webinars are a great form of professional development that you can do from the comfort of your own home or office. Those that register will receive an email with a link to the recording. Each webinar presenter is an expert in their field and has many years of experience as classroom teachers.
+
+We are always looking for webinar speakers. If you would like more information about participating in or facilitating a webinar, please send a request to <a href="mailto:webinars@michmatyc.org">webinars@michmatyc.org</a>.<br/><br/>
 
 ### Previous Webinars
 

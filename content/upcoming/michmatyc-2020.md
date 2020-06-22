@@ -5,7 +5,6 @@ title = "2021 MichMATYC Spring Conference"
 
 +++
 Lansing Community College will be hosting the **2021 MichMATYC Spring Conference** on **April 9-10, 2021**. The theme of the conference 
-is "Mathematics Support and Success: A Vision for the Future". Proposals for presenters are now being accepted.
+is **"Mathematics Support and Success: A Vision for the Future"**. 
 
-Anyone interested in presenting should submit a proposal by **February 1, 2021**. Please consider sharing your experience, ideas, 
-and expertise! To  submit a proposal, please go to the <a href="http://bit.ly/michmatyc2020">conference website</a> and then click on the <a href="https://bit.ly/michmatyc_proposal">Conference Presenter Form link</a>. If you have questions or if you encounter problems with the online form, please email [Maria Johnson](mailto:johns257@star.lcc.edu) or call (517) 483-1073.
+Proposals for presenters are now being accepted. Anyone interested in presenting should submit a proposal by **February 1, 2021**. Please consider sharing your experience, ideas, and expertise! To submit a presentation proposal, please complete the <a href="https://bit.ly/michmatyc_proposal">Conference Presenter Form link</a>. If you have questions or if you encounter problems with the online form, please email [Maria Johnson](mailto:johns257@star.lcc.edu) or call (517) 483-1073.

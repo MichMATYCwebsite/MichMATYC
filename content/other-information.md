@@ -7,7 +7,7 @@ title = "Other Information"
 weight = 10
 
 +++
-### Quantitative Reasoning Courses
+### Quantitative Reasoning
 
 In February 2015, MichMATYC member institutions were invited to attend a workshop regarding development of Quantitative Reasoning (QR) courses which are Michigan Transfer Agreement (MTA) compliant. Below are documents from various MichMATYC institutions detailing their efforts in creating these courses. If you have any questions concerning Quantitative Reasoning Course Development or if you would like your institution's Quantitative Reasoning course materials posted, please send documents and pertinent details to [web@michmatyc.org](mailto:web@michmatyc.org).
 
@@ -126,43 +126,36 @@ Course Information (Quantitative Reasoning)
 
 <br/>
 
-### Competitions
-
-#### AMATYC's Student Mathematics League
-The AMATYC Student Mathematics League (SML) consists of over 165 colleges in more than thirty-five states, as well as Bermuda, involving 8,000 community college students. Each year, these schools compete in the Student Mathematics League. The contest consists of two rounds: one in the fall, and another in the winter. Prizes are awarded to the top student and college scorers in the nation. Schools in Michigan compete both regionally in the Midwest Region (including Illinois, Indiana, Kentucky, Michigan, Ohio, and Wisconsin) and on the national stage.
-
-For more information on the competition, scholarships, and previous exams, please see the [AMATYC Student Mathematics League](http://www.amatyc.org/?page=StudentMathLeague). You can also find the archived results of [Michigan](/uploads/SMLResultsUpdate9.20.15.pdf)'s successes in the AMATYC Student Mathematics League.</br><br/>
-
-#### AMATYC's Student Research League
-AMATYC has also offered the Student Research League (SRL) as a partnership between two-year college students and Faculty Mentors who are seeking STEM knowledge through an AMATYC approved research program. The Student Research League requires AMATYC Faculty Mentors to sponsor a team of one to three mathematics students from their college to participate in addressing a designed research STEM Challenge Problem. The student(s) have 18 days to complete their task.
-
-For more information on the competition, Faculty Mentor duties and information, and previous competition materials, please see the [AMATYC Student Research League](https://amatyc.site-ym.com/page/StudentResLeague).
-
-<br/>
-
-### Links 
-* [Michigan Transfer Agreement](https://www.macrao.org/Publications/MTA.asp)
-* [Developmental Mathematics: an Online Community](http://dm-live.wikispaces.com/)
-* [Mathematics Courses at Michigan Community Colleges](http://www-personal.umich.edu/\~vmesa/Community%20Colleges/CommunityColleges.html)
-
-### Partner and State Organizations
+### AMATYC Resources
 * [The American Mathematical Association of Two-Year Colleges (AMATYC)](http://www.amatyc.org/)
 * [AMATYC Beyond Crossroads](http://beyondcrossroads.matyc.org/)
 * [AMATYC <i>IMPACT</i> Live!](http://my.amatyc.org)
+* [AMATYC Position Papers](https://amatyc.site-ym.com/general/custom.asp?page=GuidelinesPositions)
+* [AMATYC Student Mathematics League](http://www.amatyc.org?page=StudentMathLeague)
+* [AMATYC Student Research League](http://amatyc.site-ym.com/page/StudentResLeague)
+* [AMATYC Midwest Region Facebook](http://bit.ly/amatycmidwest)
+<br/>
+
+### Michigan Resources
+* [Michigan Transfer Agreement](https://www.macrao.org/Publications/MTA.asp)
+* [Developmental Mathematics: Online Community](http://dm-live.wikispaces.com/)
+* [Mathematics Courses at Michigan Community Colleges](http://www-personal.umich.edu/\~vmesa/Community%20Colleges/CommunityColleges.html)
+
+### Partners and State Organizations
 * [Michigan Community College Association (MCCA)](http://www.mcca.org/)
-* [The Michigan Council of Teachers of Mathematics (MCTM)](http://mictm.org/)
 * [Michigan Section of The Mathematical Association of America](http://sections.maa.org/michigan/)
-* [Michigan Developmental Education Consortium](http://www.mdec.net/)
+* [National Organization for Student Success: Michigan Chapter (NOSSMi)](http://nossmi.org/)
+* [The Michigan Council of Teachers of Mathematics (MCTM)](http://mictm.org/)
 
 ### Other Organizations
-* [The Association for Computing Machinery (ACM)](http://www.acm.org/)
-* [American Association for the Advancement of Science (AAAS)](http://www.aaas.org/)
+* [National Organization for Student Success (NOSS)](http://www.thenoss.org/)
+* [The Mathematical Association of America (MAA)](http://www.maa.org/)
 * [The American Mathematical Society (AMS)](http://e-math.ams.org/)
 * [Association for Women in Mathematics (AWM)](http://www.awm-math.org/)
-* [Canadian Mathematical Society (CMS)](http://camel.math.ca/)
-* [Conference Board of the Mathematical Sciences (CBMS)](http://www.cbmsweb.org/)
-* [The Mathematical Association of America (MAA)](http://www.maa.org/)
-* [Mu Alpha Theta](http://www.mualphatheta.org/)
 * [The National Council of Teachers of Mathematics (NCTM)](http://www.nctm.org/)
 * [The Society for Industrial and Applied Mathematics (SIAM)](http://www.siam.org/)
-* [National Organization for Student Success (NOSS)](http://www.thenoss.org/)
+* [Conference Board of the Mathematical Sciences (CBMS)](http://www.cbmsweb.org/)
+* [American Association for the Advancement of Science (AAAS)](http://www.aaas.org/)
+* [The Association for Computing Machinery (ACM)](http://www.acm.org/)
+* [Canadian Mathematical Society (CMS)](http://camel.math.ca/)
+* [Mu Alpha Theta](http://www.mualphatheta.org/)

@@ -13,8 +13,8 @@ title = "2019 MichMATYC Conference"
 **Conference Website:** <a href="http://michmatyc2019.org">2019 MichMATYC Conference</a>
 
 **Conference Planning Team:**
-* April Falardeau
-* Jeff Morford
-* Jeanine DiDonato
-* Scott Barnett
-* Sam Bazzi 
+<ul><li>April Falardeau</li>
+  <li>Jeff Morford</li>
+  <li>Jeanine DiDonato</li>
+  <li>Scott Barnett</li>
+  <li>Sam Bazzi</li></ul> 

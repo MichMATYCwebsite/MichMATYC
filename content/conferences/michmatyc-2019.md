@@ -10,7 +10,7 @@ title = "2019 MichMATYC Conference"
 **Date:** October 12-13, 2019<br/>
 **Theme:** "Mistakes Allow Thinking to Happen"<br/>
 
-**Conference Website:** <a href="http://michmatyc2019.org>2019 MichMATYC Conference</a>
+**Conference Website:** <a href="http://michmatyc2019.org">2019 MichMATYC Conference</a>
 
 **Conference Planning Team**
 * April Falardeau

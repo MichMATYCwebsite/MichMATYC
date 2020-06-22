@@ -1,12 +1,12 @@
 +++
-date = "2019-02-26T05:00:00+00:00"
+date = "2019-10-13T00:00:00+00:00"
 layout = "post"
 title = "2019 MichMATYC Conference"
 
 +++
 **Conference Information**</br>
 
-**Host:** Henry Ford College<br/>
+**Host:** Henry Ford College, Dearborn, Michigan<br/>
 **Date:** October 12-13, 2019<br/>
 **Theme:** "Mistakes Allow Thinking to Happen"<br/>
 

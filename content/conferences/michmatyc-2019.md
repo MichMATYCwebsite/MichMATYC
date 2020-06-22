@@ -4,10 +4,15 @@ layout = "post"
 title = "2019 MichMATYC Conference"
 
 +++
-Henry Ford College hosted the **2019 MichMATYC Conference** on **October 11-12, 2019**. The theme of the conference 
-was "Mistakes Allow Thinking to Happen". For information regarding the agenda, speakers, and presentations, please see the <a href="https://michmatyc2019.org/">conference website</a>.
+**Conference Information**</br>
 
-Conference Planning Team
+**Host:** Henry Ford College<br/>
+**Date:** October 12-13, 2019<br/>
+**Theme:** "Mistakes Allow Thinking to Happen"<br/>
+
+**Conference Website:** <a href="http://michmatyc2019.org>2019 MichMATYC Conference</a>
+
+**Conference Planning Team**
 * April Falardeau
 * Jeff Morford
 * Jeanine DiDonato

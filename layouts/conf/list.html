@@ -17,7 +17,7 @@
 <p class="p-main"></p>
 
 <div class="posts">
-  {{ range where .Site.RegularPages "Section" "upcoming" -}}
+  {{ range where .Site.RegularPages "Section" "conferences" -}}
 <article class="post">
   <h4 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>

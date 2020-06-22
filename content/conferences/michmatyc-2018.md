@@ -8,7 +8,7 @@ title = "2018 MichMATYC Conference"
 ##### Conference Information
 
 **Host**: Kalamazoo Valley Community College, Kalamazoo, Michigan<br/>
-**Date**: October 12-13, 2018
+**Date**: October 12-13, 2018<br/>
 **Theme**: "Every Student Counts: Opportunities for Student Engagement
 
 **Conference Website**: [2018 MichMATYC Conference](https://sites.google.com/view/michmatyc2018/home)

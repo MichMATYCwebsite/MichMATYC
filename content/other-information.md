@@ -16,7 +16,6 @@ weight = 10
 * [AMATYC Student Mathematics League](http://www.amatyc.org?page=StudentMathLeague)
 * [AMATYC Student Research League](http://amatyc.site-ym.com/page/StudentResLeague)
 * [AMATYC Midwest Region Facebook](http://bit.ly/amatycmidwest)
-<br/>
 
 ### Michigan Resources
 * [Michigan Transfer Agreement](https://www.macrao.org/Publications/MTA.asp)

@@ -21,7 +21,7 @@ weight = 10
 * [Michigan Transfer Agreement](https://www.macrao.org/Publications/MTA.asp)
 * [Developmental Mathematics: Online Community](http://dm-live.wikispaces.com/)
 * [Mathematics Courses at Michigan Community Colleges](http://www-personal.umich.edu/\~vmesa/Community%20Colleges/CommunityColleges.html)
-* [Quantitative Reasoning Curriculum](http://michmatyc.org/qr)
+* [Quantitative Reasoning Workshop](http://michmatyc.org/qr)
 
 ### Partners and State Organizations
 * [Michigan Community College Association (MCCA)](http://www.mcca.org/)

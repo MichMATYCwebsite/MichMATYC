@@ -2,10 +2,11 @@
 date = "2020-06-26T20:01:00+00:00"
 layout = "page"
 showdate = false
+title = Quantitative Reasoning
 
 +++
 
-### Quantitative Reasoning
+### Course Development Materials
 
 In February 2015, MichMATYC member institutions were invited to attend a workshop regarding development of Quantitative Reasoning (QR) courses which are Michigan Transfer Agreement (MTA) compliant. Below are documents from various MichMATYC institutions detailing their efforts in creating these courses. If you have any questions concerning Quantitative Reasoning Course Development or if you would like your institution's Quantitative Reasoning course materials posted, please send documents and pertinent details to [web@michmatyc.org](mailto:web@michmatyc.org).
 

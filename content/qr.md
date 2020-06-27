@@ -2,7 +2,7 @@
 date = "2020-06-26T20:01:00+00:00"
 layout = "page"
 showdate = false
-title = Quantitative Reasoning
+title = "Quantitative Reasoning"
 
 +++
 

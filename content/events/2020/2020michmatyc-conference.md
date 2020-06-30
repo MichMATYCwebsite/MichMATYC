@@ -1,5 +1,5 @@
 +++
-date = "2020-01-20T22:47:00+00:00"
+date = "2020-10-02T22:47:00+00:00"
 layout = "post"
 title = "Mark Your Calendars for the 2020 MichMATYC Conference"
 

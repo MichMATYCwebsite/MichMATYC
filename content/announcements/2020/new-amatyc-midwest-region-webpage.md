@@ -13,4 +13,4 @@ Even if you’re not on [Facebook](http://www.facebook.com) or have joined the [
 <li>View a calendar of upcoming AMATYC events and have an easy way to save them to your calendar so that you don’t miss anything, or</li>
 <li>To have a place to have discussions and share resources with others on the new myAMATYC?</li</ul><br><br>
  
-You can do all that and more on the new <b>[AMATYC Midwest Region webpage](http://amatyc.org/midwest)</b> at [amatyc.org/midwest](http://amatyc.org/midwest).
+You can do all that and more on the new <b><a href="http://amatyc.org/midwest">AMATYC Midwest Region webpage</b></a> at <a href="http://amatyc.org/midwest">http://amatyc.org/midwest</a>.

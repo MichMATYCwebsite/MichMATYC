@@ -1,5 +1,5 @@
 +++
-date = "2020-03-12T22:47:00+00:00"
+date = "2020-03-14T22:47:00+00:00"
 layout = "post"
 title = "FREE Webinar: How to Move Your Math or Science Class Online"
 

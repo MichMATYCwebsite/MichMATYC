@@ -1,5 +1,5 @@
 +++
-date = "2019-11-24T15:44:00+00:00"
+date = "2019-04-03T15:44:00+00:00"
 layout = "post"
 title = "2020 Annual Meeting of the MAA Michigan and MichMATYC"
 

@@ -12,6 +12,6 @@ Even if you’re not on [Facebook](http://www.facebook.com) or have joined the [
  <li>To see the notes from past Midwest Region events, such as the recent Midwest Meet-Up on Groupwork and Assessment,</li>
  <li>View a calendar of upcoming AMATYC events and have an easy way to save them to your calendar so that you don’t miss anything, or</li>
  <li>To have a place to have discussions and share resources with others on the new myAMATYC?</li>
-</ul><br><br>
+</ul>
  
 You can do all that and more on the new <b><a href="http://amatyc.org/midwest">AMATYC Midwest Region webpage</b></a> at <a href="http://amatyc.org/midwest">http://amatyc.org/midwest</a>.

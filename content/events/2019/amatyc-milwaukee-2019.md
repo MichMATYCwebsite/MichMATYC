@@ -1,5 +1,5 @@
 +++
-date = "2019-06-01T17:00:00+00:00"
+date = "2019-11-14T17:00:00+00:00"
 layout = "post"
 title = "2019 AMATYC Conference in Milwaukee"
 

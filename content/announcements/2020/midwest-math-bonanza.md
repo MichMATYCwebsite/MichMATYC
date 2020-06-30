@@ -13,6 +13,6 @@ High School Math Teaching Semi-Online</br>
 Connect and Get Involved with myAMATYC</br>
 Simulation Activities to Build Intuition about Probability and Statistics</br>
 AMATYC Midwest Region Meet-Up: Writing Questions for An Online Class</br>
-Project Idea for a Differential Equations Class</br></br>
+Project Idea for a Differential Equations Class</br>
  
-You won’t want to miss this four-day free event! To <b>register</b> and for the <b>full list of presentation descriptions, presenters, and schedule</b>, please visit the newly created [AMATYC Midwest Region webpage](amatyc.org/midwest).
+You won’t want to miss this four-day free event! To <b>register</b> and for the <b>full list of presentation descriptions, presenters, and schedule</b>, please visit the newly created <b>[AMATYC Midwest Region webpage](amatyc.org/midwest)</b>.

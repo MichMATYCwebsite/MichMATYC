@@ -1,5 +1,5 @@
 +++
-date = "2019-08-23T19:40:00+00:00"
+date = "2019-10-11T19:40:00+00:00"
 layout = "post"
 title = "Conference Registration is now OPEN!"
 

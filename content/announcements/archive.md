@@ -24,7 +24,7 @@ Project Idea for a Differential Equations Class</br>
 You won’t want to miss this four-day free event! To <b>register</b> and for the <b>full list of presentation descriptions, presenters, and schedule</b>, please visit the newly created <b><a href="http://amatyc.org/midwest">AMATYC Midwest Region webpage</a></b>.<br><br>
 
 
-#### AMATYC Midwest Math Bonanza
+#### Announcing the New AMATYC Midwest Region Webpage
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>June 29, 2020</i>
 

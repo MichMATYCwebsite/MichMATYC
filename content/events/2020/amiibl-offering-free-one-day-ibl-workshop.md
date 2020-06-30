@@ -1,5 +1,5 @@
 +++
-date = "2020-05-14T12:00:00+00:00"
+date = "2020-06-04T12:00:00+00:00"
 layout = "post"
 title = "AMIIBL Offering a Free One-Day Workshop on using IBL in College Mathematics Classrooms"
 

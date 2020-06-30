@@ -15,7 +15,8 @@ weight = 10
 * [AMATYC Position Papers](https://amatyc.site-ym.com/general/custom.asp?page=GuidelinesPositions)
 * [AMATYC Student Mathematics League](http://www.amatyc.org?page=StudentMathLeague)
 * [AMATYC Student Research League](http://amatyc.site-ym.com/page/StudentResLeague)
-* [AMATYC Midwest Region Facebook](http://bit.ly/amatycmidwest)
+* [AMATYC Midwest Region Webpage](http://amatyc.org/midwest/)
+* [AMATYC Midwest Region Facebook Group](http://bit.ly/amatycmidwest)
 
 ### Michigan Resources
 * [Michigan Transfer Agreement](https://www.macrao.org/Publications/MTA.asp)

@@ -28,6 +28,6 @@
 
 
     {{ template "_internal/google_analytics_async.html" . }}
-    {{ partial "js.html" . }}
+    {{ partialCached "js.html" . }}
   </body>
 </html>

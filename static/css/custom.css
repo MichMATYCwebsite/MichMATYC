@@ -297,7 +297,7 @@ p {
     transform: rotate(360deg);
   }
 }
-main {
+/* main {
   opacity: 0;
   -webkit-transition: 1s opacity;
   -o-transition: 1s opacity;
@@ -308,7 +308,7 @@ main.fade-out {
   -webkit-transition: 1s opacity;
   -o-transition: 1s opacity;
   transition: 1s opacity;
-}
+} */
 
 
 /* ################################ */

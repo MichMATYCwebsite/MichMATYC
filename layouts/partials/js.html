@@ -4,8 +4,12 @@
   crossorigin="anonymous"
 ></script>
 
+<script src= "https://cdnjs.cloudflare.com/ajax/libs/turbolinks/5.2.0/turbolinks.js"> </script>
+
 
 <script>
+
+
 
   function openSlideMenu() {    
     document.getElementById("mobile-side-menu").style.left = "0px";
@@ -38,14 +42,16 @@
   }
 
   function closeSlideMenu() {
-    document.getElementById("mobile-side-menu").style.display = "none";
-    let dimmedBg = document.getElementById("dim");
-    dimmedBg.classList.remove("dimmed");
-    dimmedBg.classList.add("clear");
+    document.getElementById("mobile-side-menu").style.left = "-220px";
+        let dimmedBg = document.getElementById("dim");
+        dimmedBg.classList.remove("dimmed");
+        dimmedBg.classList.add("clear");
   }
 
-
+  document.addEventListener("turbolinks:load", function() {
   $(function() {
     $('main').addClass('fade-out');
   });
+})
+
 </script>

@@ -11,9 +11,9 @@
     </div>
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="{{ .Site.BaseURL }}" onclick="closeSlideMenu()">Home</a> </li>
+        <li><a href="{{ .Site.BaseURL }}" onclick="closeSlideMenu()" data-turbolinks="false">Home</a> </li>
         {{ range .Site.Menus.main -}}
-        <li><a href="{{.URL}}" onclick="closeSlideMenu()"> {{ .Name }} </a></li>
+        <li><a href="{{.URL}}" onclick="closeSlideMenu()" data-turbolinks="false"> {{ .Name }} </a></li>
         {{- end }}
         <li style="padding-top: 1rem;">
           <a href="https://www.facebook.com/MichMATYC/" target="_blank">
@@ -47,11 +47,11 @@
     </div>
     <nav>
       <ul class="sidebar-nav">
-        <li class="animate"><a href="{{ .Site.BaseURL }}" style="font-weight: bold;">
+        <li class="animate"><a href="{{ .Site.BaseURL }}" data-turbolinks="false" style="font-weight: bold;">
             <h4 class="menu-title">Home</h4>
           </a> </li>
         {{ range .Site.Menus.main -}}
-        <li class="animate"><a href="{{.URL}}" style="font-weight: bold;">
+        <li class="animate"><a href="{{.URL}}" data-turbolinks="false" style="font-weight: bold;">
             <h4 class="menu-title">{{ .Name }}</h4>
           </a></li>
         {{- end }}

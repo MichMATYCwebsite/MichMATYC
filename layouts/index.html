@@ -12,7 +12,7 @@
 {{ range first 5 (where .Data.Pages "Section" "announcements") -}}
 <article class="post">
   <h4 class="post-title">
-    <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>
+    <a href="{{ .Permalink }}" data-turbolinks="false">{{ .Title }} <i class="fas fa-link"></i></a>
   </h4>
   <p>
     <i class="far fa-calendar-alt" style="display: inline-block; margin-right: 5px;"></i>
@@ -21,7 +21,7 @@
     {{ .Summary }}
   {{ if .Truncated }}
   <div class="read-more-link">
-    <a href="{{ .RelPermalink }}">
+    <a href="{{ .RelPermalink }}" data-turbolinks="false">
             Read more...
     </a>
   </div>
@@ -35,7 +35,7 @@
   {{ range first 3 (where .Data.Pages "Section" "events") -}}
   <article class="post">
     <h4 class="post-title">
-      <a href="{{ .Permalink }}">{{ .Title }} <i class="fas fa-link"></i></a>
+      <a href="{{ .Permalink }}" data-turbolinks="false">{{ .Title }} <i class="fas fa-link"></i></a>
     </h4>
     <p>
         <i class="far fa-calendar-alt" style="display: inline-block; margin-right: 5px;"></i>
@@ -44,7 +44,7 @@
     {{ .Summary }}
     {{ if .Truncated }}
     <div class="read-more-link">
-      <a href="{{ .RelPermalink }}">Read more…</a>
+      <a href="{{ .RelPermalink }}" data-turbolinks="false">Read more…</a>
     </div>
     {{ end }}
   </article>

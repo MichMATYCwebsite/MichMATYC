@@ -4,7 +4,6 @@ layout = "post"
 title = "2020 Michigan Student Success Summit"
 
 +++
-
 The <a href="https://www.mcca.org/">Michigan Center for Student Success</a> has announced that they will be hosting the annual Student Success Summit virtually this year and have crafted a schedule to provide Michigan community colleges with some of the benefits of the annual Summit without traveling to Lansing. Although they will miss the opportunity to engage with colleagues and partners at the premiere event of the MCSS, they are hopeful that the virtual conference will provide attendees the much needed, and much deserved, opportunity to engage in valuable conversations about student success.<br>
 
 Registration is open for the <a href="https://www.mcca.org/Student-Success-Summit">Michigan Student Success Summit</a> delivered via Zoom on September 16-18 and September 23-25, 2020. Sessions will begin each day at 3:00 pm. The Michigan Center for Student Success will host 75-minute or two-hour sessions each day. Community college faculty, staff, and administrators can register for one or all of the events. There is no fee to register.<br>

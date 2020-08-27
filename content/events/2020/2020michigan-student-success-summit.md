@@ -1,5 +1,5 @@
 +++
-date = "2020-09-16T20:49:00+00:00"
+date = "2020-08-26T20:49:00+00:00"
 layout = "post"
 title = "2020 Michigan Student Success Summit"
 
@@ -8,7 +8,7 @@ The <a href="https://www.mcca.org/">Michigan Center for Student Success</a> has 
 
 Registration is open for the <a href="https://www.mcca.org/Student-Success-Summit">Michigan Student Success Summit</a> delivered via Zoom on September 16-18 and September 23-25, 2020. Sessions will begin each day at 3:00 pm. The Michigan Center for Student Success will host 75-minute or two-hour sessions each day. Community college faculty, staff, and administrators can register for one or all of the events. There is no fee to register.<br>
 
-The MCSS will also be tweeting throughout the event @mccacss and using the hashtag #MCSSsummit20. Join the MCSS on Twitter by following @mccacss and join the conversation now or on September 16th. Contact <a href="mailto:eorians@mcca.org">Erica Orians</a> or <a href="mailto:jschanker@mcca.org">Jenny Schanker</a> with questions. Check back throughout August and September for more details on each session including speakers and additional opportunities to engage.<br>
+The MCSS will also be tweeting throughout the event @mccacss and using the hashtag #MCSSsummit20. Join the MCSS on Twitter by following @mccacss and join the conversation now or on September 16th. Contact <a href="mailto:eorians@mcca.org">Erica Orians</a> or <a href="mailto:jschanker@mcca.org">Jenny Schanker</a> with questions. Check back throughout August and September for more details on each session including speakers and additional opportunities to engage.<br><br>
 
 
 <b>Schedule</b><br>

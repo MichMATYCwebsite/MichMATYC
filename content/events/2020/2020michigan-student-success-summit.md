@@ -1,7 +1,8 @@
 +++
-date = "2020-08-26T20:49:00+00:00"
+date = "2020-09-16T20:49:00+00:00"
 layout = "post"
 title = "2020 Michigan Student Success Summit"
+publishdate = "2020-08-26T00:49:00+00:00"
 
 +++
 The <a href="https://www.mcca.org/">Michigan Center for Student Success</a> has announced that they will be hosting the annual Student Success Summit virtually this year and have crafted a schedule to provide Michigan community colleges with some of the benefits of the annual Summit without traveling to Lansing. Although they will miss the opportunity to engage with colleagues and partners at the premiere event of the MCSS, they are hopeful that the virtual conference will provide attendees the much needed, and much deserved, opportunity to engage in valuable conversations about student success.<br>

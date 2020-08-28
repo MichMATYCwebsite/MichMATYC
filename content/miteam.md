@@ -59,7 +59,7 @@ The participant’s home institution will be expected to provide support that in
 
 Applications for Cohort 3 will be accepted beginning at the 2018 MichMATYC Conference. All faculty interested in becoming a participant in MiTEAM may [apply online](http://bit.ly/michmatycmiteam). For more information or questions regarding the program, please contact the [MiTEAM Program Coodinator](mailto:miteam@michmatyc.org).
 
-The deadline for consideration in **MiTEAM Cohort 3** is **February 1, 2021**.
+The deadline for consideration in **MiTEAM Cohort 3** is **April 1, 2021**.
 
 </br>
 

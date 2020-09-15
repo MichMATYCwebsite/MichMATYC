@@ -14,8 +14,8 @@ We are always looking for webinar speakers and innovative ideas that you would l
 ### Upcoming Webinars
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>
 Title: MichMATYC Meet-Up and Sharing Session<br/>
-Time: 3:00-5:00 pm Eastern<br/>
-Registration: <a href="http://bit.ly/signup4sept29">Sign Up</a><br/>
+Time: 3:00-5:00 pm ET<br/>
+Registration: <a href="http://bit.ly/signup4sept29">Sign Up for Session</a><br/>
 
 ### Previous Webinars
 

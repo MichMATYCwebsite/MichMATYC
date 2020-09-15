@@ -11,6 +11,11 @@ All webinars are recorded and available to watch afterwards. Below you will find
 
 We are always looking for webinar speakers and innovative ideas that you would like learning about. If you would like more information about participating in or facilitating a webinar, please send a request to <a href="mailto:webinars@michmatyc.org">webinars@michmatyc.org</a>.<br/><br/>
 
+### Upcoming Webinars
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>
+MichMATYC Meet-Up and Sharing Session<br/>
+Registration: <a href="http://bit.ly/signup4sept29">Sign Up</a><br/>
+
 ### Previous Webinars
 
 #### Inclusive Language in the Remote Learning Environment

@@ -10,9 +10,9 @@ title = "Announcements Library"
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i>
 
-Join us for the first in a series of Meet, Share, and Learn webinars this year!<br/>
+Join us for the first in a series of **Meet, Share, and Learn webinars** this academic year!<br/>
 
-The MichMATYC Meet-Up and Sharing Session is on Tues, Sept 29 from 3:00-5:00 pm ET. You can register using the link http://bit.ly/signup4sept29.<br/>
+The **MichMATYC Meet-Up and Sharing Session** is on **Tuesday, September 29** from **3:00-5:00 pm ET**. You can register using the link http://bit.ly/signup4sept29.<br/>
 
 Join us for our first in a series of sharing sessions with focused conversations with your colleagues around the state on how we each are teaching mathematics and supporting our students this semester. How are you making connections with your students? What are the strategies you have used to motivate students to learn and engage in an online environment? Do you have any how-tos or hidden tech-gems that you are using to teach online? How are you assessing students remotely? How do you balance work and life?<br/>
 

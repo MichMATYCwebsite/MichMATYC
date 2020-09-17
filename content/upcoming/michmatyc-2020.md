@@ -1,10 +1,10 @@
 +++
 date = "2020-06-22T00:00:00+00:00"
 layout = "post"
-title = "2021 MichMATYC Spring Conference"
+title = "2021 MichMATYC Conference"
 
 +++
-Lansing Community College will be hosting the **2021 MichMATYC Spring Conference** on **April 9-10, 2021**. The theme of the conference 
+Lansing Community College will be hosting the **2021 MichMATYC Conference** on **October 8-9, 2021**. The theme of the conference 
 is **"Mathematics Support and Success: A Vision for the Future"**. 
 
 **Proposals for presenters are now being accepted!** 

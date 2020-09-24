@@ -16,7 +16,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 #### MichMATYC Meet-Up and Sharing Session
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>
 Time: 3:00-5:00 pm ET<br/>
-Registration: <a href="http://bit.ly/signup4sept29">Sharing Session - Sign Up</a><br/>
+Registration: <a href="http://bit.ly/signup4sept29">Sharing Session - Sign Up</a><br/><br/>
 Description: <i>Join us for our first in a series of sharing sessions with focused conversations with your colleagues around the state on how we each are teaching mathematics and supporting our students this semester. How are you making connections with your students? What are the strategies you have used to motivate students to learn and engage in an online environment? Do you have any how-tos or hidden tech-gems that you are using to teach online? How are you assessing students remotely? How do you balance work and life?
 Join us to talk about the challenges, triumphs, and successes you and your students have experienced this semester!</i><br/><br/>
 
@@ -24,7 +24,7 @@ Join us to talk about the challenges, triumphs, and successes you and your stude
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>
 Time: 1:00-3:00 pm ET<br/>
 Facilitator: Dr. Ann Sitomer <i>(Oregon State University)</i><br/>
-Registration: <a href="http://bit.ly/MichMATYCworkshop">Traveling Workshop - Sign Up</a><br/>
+Registration: <a href="http://bit.ly/MichMATYCworkshop">Traveling Workshop - Sign Up</a><br/><br/>
 Description: <i>Diversity, equity, and inclusion (DEI) include self-awareness, emotional awareness, and the breakdown of bias and prejudices important for challenging deeply held assumptions, perspectives, and beliefs that continue to produce inequitable outcomes for students in mathematics courses. This AMATYC Virtual Traveling Workshop will present clear and concrete definitions and explanations of DEI to ensure that all faculty have the foundational knowledge necessary to support continued learning and development; provide resources and training that designs an equitable classroom for all students; and adopt reflective strategies that can be used to change how we see our work within mathematics education.</i><br/><br/>
 
 

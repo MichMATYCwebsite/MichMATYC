@@ -29,7 +29,6 @@ Registration is open for the <a href="https://www.mcca.org/Student-Success-Summi
 
 The MCSS will also be tweeting throughout the event @mccacss and using the hashtag #MCSSsummit20. Join the MCSS on Twitter by following @mccacss and join the conversation now or on September 16th. Contact <a href="mailto:eorians@mcca.org">Erica Orians</a> or <a href="mailto:jschanker@mcca.org">Jenny Schanker</a> with questions. Check back throughout August and September for more details on each session including speakers and additional opportunities to engage.<br><br>
 
-
 <b>Schedule</b><br>
 
 <b>Living Our Values: Viewpoints from the Michigan Center for Student Success</b><br>

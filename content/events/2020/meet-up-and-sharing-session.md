@@ -1,7 +1,8 @@
 +++
-date = "2020-09-29T17:45:00+00:00"
+date = "2020-09-29T20:49:00+00:00"
 layout = "post"
 title = "MichMATYC Meet-Up and Sharing Session"
+publishdate = "2020-09-15T00:49:00+00:00"
 
 +++
 Join us for the first in a series of **Meet, Share, and Learn webinars** this academic year!<br/>

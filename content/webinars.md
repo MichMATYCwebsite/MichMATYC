@@ -18,6 +18,12 @@ We are always looking for webinar speakers and innovative ideas that you would l
 Time: 3:00-5:00 pm ET<br/>
 Registration: <a href="http://bit.ly/signup4sept29">Session Sign Up</a><br/><br/>
 
+#### AMATYC Virtual Traveling Workshop
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>
+Time: 1:00-3:00 pm ET<br/>
+Registration: <a href="http://bit.ly/MichMATYCworkshop">Workshop Sign Up</a><br/><br/>
+Description: Diversity, equity, and inclusion (DEI) include self-awareness, emotional awareness, and the breakdown of bias and prejudices important for challenging deeply held assumptions, perspectives, and beliefs that continue to produce inequitable outcomes for students in mathematics courses. This AMATYC Virtual Traveling Workshop will present clear and concrete definitions and explanations of DEI to ensure that all faculty have the foundational knowledge necessary to support continued learning and development; provide resources and training that designs an equitable classroom for all students; and adopt reflective strategies that can be used to change how we see our work within mathematics education.
+
 ### Previous Webinars
 
 #### Inclusive Language in the Remote Learning Environment

@@ -11,12 +11,12 @@ The strength of MichMATYC is the membership and your membership makes a statemen
 Why should you become a MichMATYC member? The individual membership includes the following benefits:
 
 <ul>
-  <li>A subscription to <i>The Sum-Times</i>. An electronic newsletter that published three times annually, <i>The Sum-Times</i> informs two-year college mathematics faculty about items of state and regional interest.</li>
-  <li>Early registration for MichMATYC webinars. If you cannot attend the live webinar, you can visit the archive to view recordings of all previous webinars.</li>
-  <li>Opportunities for involvement in grants and research focused on the mathematics taught in the first two years of college.</li>
-  <li>Chances to engage through the MichMATYC MiTEAM Program.</li>
-  <li>Scholarship and Teaching Excellence Award opportunities, many of which are offered through support from membership dues.</li>
-  <li>Email blast reminders of everything going on within MichMATYC.</li>
+  <li>A subscription to <i>The Sum-Times</i>. An electronic newsletter that published three times annually, <i>The Sum-Times</i> informs two-year college mathematics faculty about items of state and regional interest,</li>
+  <li>Early registration for MichMATYC webinars. If you cannot attend the live webinar, you can visit the archive to view recordings of all previous webinars,</li>
+  <li>Opportunities for involvement in grants and research focused on the mathematics taught in the first two years of college,</li>
+  <li>Chances to engage through the MichMATYC MiTEAM Program,</li>
+  <li>Scholarship and Teaching Excellence Award opportunities, many of which are offered through support from membership dues,</li>
+  <li>Email blast reminders of everything going on within MichMATYC,</li>
   <li>The right to vote, hold elected office, be appointed to leadership positions, nominate candidates for office, and serve on committees.</li>
   </ul>
 

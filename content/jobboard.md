@@ -27,14 +27,24 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
 
-<tr><td><a href="https://careers-midmich.icims.com/jobs/1806/adjunct-math-faculty---tuscola-isd/job?iis=Job+Board&iisn=HigherEdJobs.com&mobile=false&width=1080&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240">Adjunct Math Faculty - Tuscola ISD</a></td>
-  <td><a href="https://www.midmich.edu/">Mid Michigan College</a></td>
-  <td>Apr 14, 2020</td>
-  <td>Open Until Filled</td></tr>
-
 <tr><td><a href="https://lmc.simplehire.com/postings/3354">Faculty, Math - Allegan Campus (Part-Time)</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
-  <td>Mar 18, 2020</td>
+  <td>Mar 31, 2020</td>
+  <td></td></tr>
+  
+<tr><td><a href="https://lmc.simplehire.com/postings/3395">Faculty, Transitional Studies & CLS (Part-Time)</a></td>
+  <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
+  <td>Mar 31, 2020</td>
+  <td></td></tr>
+  
+<tr><td><a href="https://lmc.simplehire.com/postings/3406">Faculty, Transitional/Developmental Mathematics (Part-Time)</a></td>
+  <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
+  <td>Mar 31, 2020</td>
+  <td></td></tr>
+  
+<tr><td><a href="https://www.higheredjobs.com/clickthru/redirect.cfm?JobCode=177129664">Intermediate/College-Level Math and Statistics Adjunct Instructor</a></td>
+  <td><a href="http://www.lakemichigancollege.edu/">Delta College</a></td>
+  <td>Mar 31, 2020</td>
   <td></td></tr>
   
 <tr><td><a href="https://www.governmentjobs.com/careers/jccmi/jobs/1894141/mathematics-college-level-adjunct-instructor">Mathematics (College-Level) Adjunct Instructor</a></td>
@@ -57,15 +67,25 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Nov 15, 2019</td>
   <td>Nov 15, 2020</td></tr>
   
-<tr><td><a href="https://careers-midmich.icims.com/jobs/1741/adjunct-math-faculty---big-rapids%2c-mi/job?iis=Job+Board&iisn=HigherEdJobs.com">Adjunct Mathematics Faculty</a></td>
-  <td><a href="http://www.midmich.edu">Mid Michigan College</a></td>
-  <td>Nov 13, 2019</td>
-  <td></td></tr>
-  
-  <tr><td><a href="https://delta.peopleadmin.com/postings/4557">Intermediate/College-Level Math and Statistics - Adjunct Instructor</a></td>
+<tr><td><a href="https://delta.peopleadmin.com/postings/4557">Intermediate/College-Level Math and Statistics - Adjunct Instructor</a></td>
   <td><a href="http://www.delta.edu">Delta College</a></td>
   <td>Oct 23, 2019</td>
-  <td></td></tr>
+  <td>Open Until Filled</td></tr>
+  
+<tr><td><a href="https://delta.peopleadmin.com/postings/4385">Science & Mathematics Division - Adjunct Instructor</a></td>
+  <td><a href="http://www.delta.edu">Delta College</a></td>
+  <td>Jun 25, 2019</td>
+  <td>Open Until Filled</td></tr>
+  
+<tr><td><a href="https://delta.peopleadmin.com/postings/4328">Introductory Math - Adjunct Instructor</a></td>
+  <td><a href="http://www.delta.edu">Delta College</a></td>
+  <td>May 21, 2019</td>
+  <td>Open Until Filled</td></tr>
+  
+<tr><td><a href="https://delta.peopleadmin.com/postings/4322">Intermediate Math - Adjunct Instructor</a></td>
+  <td><a href="http://www.delta.edu">Delta College</a></td>
+  <td>May 20, 2019</td>
+  <td>Open Until Filled</td></tr>
   
 </table></br>
 

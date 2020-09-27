@@ -208,7 +208,7 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow"><a href="/uploads/FA2008newsletter.pdf" target="_blank">Fall</a></td>
 
-<td class="tg-c3ow"><a href="/uploads/March2009MichMATYCnewsletter.pdf" target="_blank">March</a></td>
+<td class="tg-c3ow"><a href="/uploads/March2009MichMATYCnewsletter.pdf" target="_blank">Winter</a></td>
 
 <td class="tg-c3ow"></td>
 
@@ -222,9 +222,9 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow"><a href="/uploads/FA2007newsletter.pdf" target="_blank">Fall</a></td>
 
-<td class="tg-c3ow"></td>
-
 <td class="tg-c3ow"><a href="/uploads/WI2008newsletter.pdf" target="_blank">Winter</a></td>
+
+<td class="tg-c3ow"></td>
 
 </tr>
 
@@ -236,9 +236,9 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow"></td>
 
-<td class="tg-c3ow"></td>
-
 <td class="tg-c3ow"><a href="/uploads/WI2007newsletter.pdf" target="_blank">Winter</a></td>
+
+<td class="tg-c3ow"></td>
 
 </tr>
 

@@ -42,11 +42,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Mar 31, 2020</td>
   <td></td></tr>
   
-<tr><td><a href="https://www.higheredjobs.com/clickthru/redirect.cfm?JobCode=177129664">Intermediate/College-Level Math and Statistics Adjunct Instructor</a></td>
-  <td><a href="http://www.lakemichigancollege.edu/">Delta College</a></td>
-  <td>Mar 31, 2020</td>
-  <td></td></tr>
-  
 <tr><td><a href="https://www.governmentjobs.com/careers/jccmi/jobs/1894141/mathematics-college-level-adjunct-instructor">Mathematics (College-Level) Adjunct Instructor</a></td>
   <td><a href="http://www.jccmi.edu">Jackson College</a></td>
   <td>Feb 27, 2020</td>

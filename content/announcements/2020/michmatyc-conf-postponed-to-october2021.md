@@ -1,5 +1,5 @@
 +++
-date = "2021-07-15T00:49:00+00:00"
+date = "2020-07-15T00:49:00+00:00"
 layout = "post"
 title = "MichMATYC Conference Postponed to October 8-9, 2021"
 publishdate = "2020-07-15T00:49:00+00:00"

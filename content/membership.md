@@ -16,7 +16,7 @@ The registration fee for the annual conference includes a one-year individual me
 
 The annual membership fee is just $5 and includes opportunities to actively participate in the organization, have voting rights during organization business, receive free periodic newsletters, and much more! We also offer the option of a lifetime membership for a one-time payment of $100, which carries all benefits and privileges of an active annual membership in effect at the time of joining or in the future if new benefits are added. 
 
-To join or renew membership, fill out our [membership application](http://bit.ly/joinmichmatyc). You also have the option to complete the membership application form as a [PDF](http://www.michmatyc.org/uploads/membershipform.pdf) and mail your completed membership form along with the membership dues to our [Secretary/Treasurer](mailto:secretary@michmatyc.org).</br></br>
+To join or renew membership, fill out our [membership application](http://bit.ly/joinmichmatyc). You also have the option to complete the [PDF version](http://www.michmatyc.org/uploads/membershipform.pdf) and mail your completed membership form along with the membership dues to our [Secretary/Treasurer](mailto:secretary@michmatyc.org).</br></br>
 <b>Contact Information:</b></br>
 Sam Bazzi, Secretary/Treasurer<br>
 Department of Mathematics<br>

@@ -72,16 +72,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Jun 25, 2019</td>
   <td>Open Until Filled</td></tr>
   
-<tr><td><a href="https://delta.peopleadmin.com/postings/4328">Introductory Math - Adjunct Instructor</a></td>
-  <td><a href="http://www.delta.edu">Delta College</a></td>
-  <td>May 21, 2019</td>
-  <td>Open Until Filled</td></tr>
-  
-<tr><td><a href="https://delta.peopleadmin.com/postings/4322">Intermediate Math - Adjunct Instructor</a></td>
-  <td><a href="http://www.delta.edu">Delta College</a></td>
-  <td>May 20, 2019</td>
-  <td>Open Until Filled</td></tr>
-  
 </table></br>
 
 ### Job Searching in Higher Education

@@ -8,11 +8,23 @@ weight = 2
 +++
 The strength of MichMATYC is the membership and your membership makes a statement. It tells others that your profession is important to you and that you want to be a part of its growth and direction in the state of Michigan. The organization offers you an opportunity to join with other individuals who are interested in mathematics education at the two-year college level.
 
+Why should you become a MichMATYC member? The individual membership includes the following benefits:
+
+<ul>
+  <li>A subscription to <i>The MichMATYC Sum-Times</i>. An electronic newsletter that published three times annually, <i>The Sum-Times</i> informs two-year college mathematics faculty about items of state and regional interest.</li>
+  <li>Early registration for MichMATYC webinars. If you cannot attend the live webinar, you can visit the archive to view recordings of all previous webinars.</li>
+  <li>Opportunities for involvement in grants and research focused on the mathematics taught in the first two years of college.</li>
+  <li>Chances to engage through the MichMATYC MiTEAM Program.</li>
+  <li>Scholarship and Teaching Excellence Award opportunities, many of which are offered through support from membership dues.</li>
+  <li>Email blast reminders of everything going on within MichMATYC.</li>
+  <li>The right to vote, hold elected office, be appointed to leadership positions, nominate candidates for office, and serve on committees.</li>
+  </ul>
+
 Please accept this invitation to join our organization. We would like to develop a strong organization involving faculty and staff from all community college campuses in the state, and others from four-year campuses that have an interest in mathematics education in the first two years of college.<br><br>
 
 ### Membership Types
 
-The registration fee for the annual conference includes a one-year individual membership valid from October 1 of each year to September 30 of the following year, but anyone interested may join anytime during the year. 
+The registration fee for the annual conference includes a one-year individual membership valid from October 1 of each year to September 30 of the following year, but anyone interested may join at anytime during the year.
 
 The annual membership fee is just $5 and includes opportunities to actively participate in the organization, have voting rights during organization business, receive free periodic newsletters, and much more! We also offer the option of a lifetime membership for a one-time payment of $100, which carries all benefits and privileges of an active annual membership in effect at the time of joining or in the future if new benefits are added. 
 

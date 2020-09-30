@@ -13,13 +13,6 @@ We are always looking for webinar speakers and innovative ideas that you would l
 
 ### Upcoming Webinars
 
-#### MichMATYC Meet-Up and Sharing Session
-<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>
-Time: 3:00-5:00 pm ET<br/>
-Registration: <a href="http://bit.ly/signup4sept29">Sharing Session - Sign Up</a><br/><br/>
-Description: Join us for our first in a series of sharing sessions with focused conversations with your colleagues around the state on how we each are teaching mathematics and supporting our students this semester. How are you making connections with your students? What are the strategies you have used to motivate students to learn and engage in an online environment? Do you have any how-tos or hidden tech-gems that you are using to teach online? How are you assessing students remotely? How do you balance work and life?
-Join us to talk about the challenges, triumphs, and successes you and your students have experienced this semester!<br/><br/>
-
 #### AMATYC Virtual Traveling Workshop
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>
 Time: 1:00-3:00 pm ET<br/>
@@ -29,6 +22,11 @@ Description: Diversity, equity, and inclusion (DEI) include self-awareness, emot
 
 
 ### Previous Webinars
+
+#### MichMATYC Meet-Up and Sharing Session
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>
+Recording: <a href="https://youtu.be/Giya1m6wmf0">YouTube Video</a><br/>
+Presentation: <a href="https://docs.google.com/document/d/1o712eU0dwDreaKJ__wTxSUBRvSyztP2OEhd3XqASVqY/edit?usp=sharing">Session Notes</a><br/><br/>
 
 #### Inclusive Language in the Remote Learning Environment
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>June 11, 2020</i><br/>

@@ -48,6 +48,20 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <tr>
 
+<td class="tg-c3ow">Volume 15</td>
+
+<td class="tg-c3ow">2020-21</td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2020.pdf" target="_blank">Sept</a></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"></td>
+
+</tr>
+
+<tr>
+
 <td class="tg-c3ow">Volume 14</td>
 
 <td class="tg-c3ow">2019-20</td>

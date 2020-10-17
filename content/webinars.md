@@ -13,15 +13,22 @@ We are always looking for webinar speakers and innovative ideas that you would l
 
 ### Upcoming Webinars
 
-#### AMATYC Virtual Traveling Workshop
-<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>
-Time: 1:00-3:00 pm ET<br/>
-Facilitator: Dr. Ann Sitomer <i>(Oregon State University)</i><br/>
-Registration: <a href="http://bit.ly/MichMATYCworkshop">Traveling Workshop - Sign Up</a><br/><br/>
-Description: Diversity, equity, and inclusion (DEI) include self-awareness, emotional awareness, and the breakdown of bias and prejudices important for challenging deeply held assumptions, perspectives, and beliefs that continue to produce inequitable outcomes for students in mathematics courses. This AMATYC Virtual Traveling Workshop will present clear and concrete definitions and explanations of DEI to ensure that all faculty have the foundational knowledge necessary to support continued learning and development; provide resources and training that designs an equitable classroom for all students; and adopt reflective strategies that can be used to change how we see our work within mathematics education.<br/><br/>
+#### Quality Matters Online Teaching and Design
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 29, 2020</i><br/>
+Time: 4:00-5:00 pm ET<br/>
+Speaker: Dr. Ali Ahmad <i>(New Mexico State University and Dona Ana Community College)</i><br/>
+Registration: <a href="http://bit.ly/QMOnlineTeaching">Webinar - Sign Up</a><br/><br/>
+Description: With online learning, everyone has a goal. Learners needs to improve and grow. You work to nurture them with well-conceived, well-designed, well-presented courses and programs. This webinar will discuss a basic online course checklist, which includes topics to certify a course as a distance learning course and not a correspondence course, effective practices to improve online student retention, student engagement strategies, and also creating accessible documents for students.<br/><br/>
 
 
 ### Previous Webinars
+
+#### AMATYC Virtual Traveling Workshop
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>
+Speakers: Dr. Ann Sitomer <i>(Oregon State University)</i> and Claire Burke <i>(Linn-Benton Community College)</i></br>
+Recording: <a href="https://youtu.be/FoXisIL8ybg">YouTube Video</a><br/>
+Presentation:<br/>
+Resources:<br/><br/>
 
 #### MichMATYC Meet-Up and Sharing Session
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>

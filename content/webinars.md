@@ -13,7 +13,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 
 ### Upcoming Webinars
 
-#### Quality Matters Online Teaching and Design
+#### Quality Matters Online Teaching and Course Design
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 29, 2020</i><br/>
 Time: 4:00-5:00 pm ET<br/>
 Speaker: Dr. Ali Ahmad <i>(New Mexico State University and Dona Ana Community College)</i><br/>

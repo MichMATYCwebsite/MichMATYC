@@ -17,13 +17,13 @@ We are always looking for webinar speakers and innovative ideas that you would l
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 29, 2020</i><br/>
 Time: 4:00-5:00 pm ET<br/>
 Speaker: Dr. Ali Ahmad <i>(New Mexico State University and Dona Ana Community College)</i><br/>
-Registration: <a href="http://bit.ly/QMOnlineTeaching">Webinar - Sign Up</a><br/><br/>
+Registration: <a href="http://bit.ly/QMOnlineTeaching">Quality Matters Webinar - Sign Up</a><br/><br/>
 Description: With online learning, everyone has a goal. Learners needs to improve and grow. You work to nurture them with well-conceived, well-designed, well-presented courses and programs. This webinar will discuss a basic online course checklist, which includes topics to certify a course as a distance learning course and not a correspondence course, effective practices to improve online student retention, student engagement strategies, and also creating accessible documents for students.<br/><br/>
 
 
 ### Previous Webinars
 
-#### AMATYC Virtual Traveling Workshop
+#### AMATYC Virtual Traveling Workshop on Diversity, Equity, and Inclusion
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>
 Speakers: Dr. Ann Sitomer <i>(Oregon State University)</i> and Claire Burke <i>(Linn-Benton Community College)</i></br>
 Recording: <a href="https://youtu.be/FoXisIL8ybg">YouTube Video</a><br/>

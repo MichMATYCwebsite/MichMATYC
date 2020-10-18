@@ -1,8 +1,8 @@
 +++
-date = "2020-10-17T20:49:00+00:00"
+date = "2020-10-29T20:49:00+00:00"
 layout = "post"
 title = "Quality Matters Online Teaching and Design"
-publishdate = "2020-10-29T00:49:00+00:00"
+publishdate = "2020-10-17T00:49:00+00:00"
 
 +++
 MichMATYC will be having its next webinar as part of the fall professional development series on <b>Thursday, October 29</b> from <b>4:00-5:00 pm Eastern</b>. Since the vast majority of college instructors are teaching either asynchronously or synchronously during the coronavirus pandemic, the need for a well-designed online course is important for effective teaching and learning to continue for our students.<br/>

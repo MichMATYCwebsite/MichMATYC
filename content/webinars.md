@@ -18,7 +18,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 Time: 4:00-5:00 pm ET<br/>
 Speaker: Dr. Ali Ahmad <i>(New Mexico State University and Dona Ana Community College)</i><br/>
 Registration: <a href="http://bit.ly/QMOnlineTeaching">Quality Matters Webinar - Sign Up</a><br/><br/>
-Description: With online learning, everyone has a goal. Learners needs to improve and grow. You work to nurture them with well-conceived, well-designed, well-presented courses and programs. This webinar will discuss a basic online course checklist, which includes topics to certify a course as a distance learning course and not a correspondence course, effective practices to improve online student retention, student engagement strategies, and also creating accessible documents for students.<br/><br/>
+Description: With online learning, everyone has a goal. Learners need to improve and grow. You work to nurture them with well-conceived, well-designed, well-presented courses and programs. This webinar will discuss a basic online course checklist, which includes topics to certify a course as a distance learning course and not a correspondence course, effective practices to improve online student retention, student engagement strategies, and also creating accessible documents for students.<br/><br/>
 
 
 ### Previous Webinars

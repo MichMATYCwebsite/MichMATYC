@@ -29,10 +29,7 @@ Speakers: Dr. Ann Sitomer <i>(Oregon State University)</i> and Claire Burke <i>(
 Recording: <a href="https://youtu.be/FoXisIL8ybg">YouTube Video</a><br/>
 Presentation: <a href="/uploads/VirtualTW_GoogleSlides.pdf" target="_blank">Google Slides</a><br/>
 Pre-Reading Assignment: <a href="/uploads/EquityInPractice.pdf" target="_blank">Equity in Practice</a><br/>
-Shared Resources:
- <ul><li><a href="/uploads/Inclusive and Critical Practices Framework_CollegeTeaching.pdf" target="blank">Inclusive and Critical Practices Framework</a></li>
-  <li><a href="/uploads/EquitablePracticesLifeSciences.pdf" target="_blank">Equitable Classroom Practices</a></li>
-  <li><a href="https://jamboard.google.com/d/1JKA2wSLhNOD0wnDNWcPkdjIzf5LfBH5rTuolHwQhjRk/edit?usp=sharing">Jamboard</a></li></ul>
+Shared Resources: <a href="/uploads/Inclusive and Critical Practices Framework_CollegeTeaching.pdf" target="blank">Inclusive and Clinical Practices</a> | <a href="/uploads/EquitablePracticesLifeSciences.pdf" target="_blank">Cultivate Classroom Equity</a> | <a href="https://jamboard.google.com/d/1JKA2wSLhNOD0wnDNWcPkdjIzf5LfBH5rTuolHwQhjRk/edit?usp=sharing">Jamboard</a><br/><br/>
 
 #### MichMATYC Meet-Up and Sharing Session
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>

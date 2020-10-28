@@ -12,9 +12,9 @@ Why should you become a MichMATYC member? The individual membership includes the
 
 <ul>
   <li>A subscription to <i><a href="http://michmatyc.org/newsletter/">The Sum-Times</a></i>. An electronic newsletter that published three times annually, <i>The Sum-Times</i> informs two-year college mathematics faculty about items of state and regional interest,</li>
-  <li>Early registration for <a href="http://michmatyc.org/webinars/">MichMATYC webinars</a>. If you cannot attend the live webinar, you can visit the archive to view recordings of all previous webinars on our <a href="https://www.youtube.com/channel/UCf3HJfTptOtWPAkrJI2AoPg?">YouTube channel</a>,</li>
+  <li>Early registration for MichMATYC <a href="http://michmatyc.org/webinars/">webinars</a>. If you cannot attend the live webinar, you can visit the archive to view recordings of all previous webinars on our <a href="https://www.youtube.com/channel/UCf3HJfTptOtWPAkrJI2AoPg?">YouTube channel</a>,</li>
   <li>Opportunities for involvement in <a href="http://michmatyc.org/grants/">grants and research</a> focused on the mathematics taught in the first two years of college,</li>
-  <li>Chances to engage through the <a href="http://michmatyc.org/miteam">MichMATYC MiTEAM Program</a>,</li>
+  <li>Chances to engage through the MichMATYC <a href="http://michmatyc.org/miteam">MiTEAM Program</a>,</li>
   <li><a href="http://michmatyc.org/scholarships">Scholarship</a> and <a href="http://michmatyc.org/teachingexcellence">Teaching Excellence Award</a> opportunities, many of which are offered through support from membership dues,</li>
   <li>Email blast reminders of everything going on within MichMATYC,</li>
   <li>The right to vote, hold elected office, be appointed to leadership positions, nominate candidates for office, and serve on committees.</li>

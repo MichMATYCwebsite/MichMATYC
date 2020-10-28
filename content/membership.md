@@ -15,7 +15,7 @@ Why should you become a MichMATYC member? The individual membership includes the
   <li>Early registration for <a href="http://michmatyc.org/webinars/">MichMATYC webinars</a>. If you cannot attend the live webinar, you can visit the archive to view recordings of all previous webinars on our <a href="https://www.youtube.com/channel/UCf3HJfTptOtWPAkrJI2AoPg?">YouTube channel</a>,</li>
   <li>Opportunities for involvement in grants and research focused on the mathematics taught in the first two years of college,</li>
   <li>Chances to engage through the MichMATYC <a href="http://michmatyc.org/miteam">MiTEAM Program</a>,</li>
-  <li<a href="http://michmatyc.org/scholarships">Scholarship</a> and <a href="http://michmatyc.org/teachingexcellence">Teaching Excellence Award</a> opportunities, many of which are offered through support from membership dues,</li>
+  <li><a href="http://michmatyc.org/scholarships">Scholarship</a> and <a href="http://michmatyc.org/teachingexcellence">Teaching Excellence Award</a> opportunities, many of which are offered through support from membership dues,</li>
   <li>Email blast reminders of everything going on within MichMATYC,</li>
   <li>The right to vote, hold elected office, be appointed to leadership positions, nominate candidates for office, and serve on committees.</li>
   </ul>

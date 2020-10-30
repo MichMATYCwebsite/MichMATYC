@@ -13,15 +13,19 @@ We are always looking for webinar speakers and innovative ideas that you would l
 
 ### Upcoming Webinars
 
+#### MichMATYC Sharing Session: Assessment in an Online Environment
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>November 10, 2020</i><br/>
+Time: 4:00-5:00 pm ET<br/>
+Registration: <a href="http://http://bit.ly/OnlineAsmt">Webinar - Sign Up</a><br/> 
+Description: Join us for our second sharing session for a focused conversation on assessment in an online environment. What types of assessment have you used while teaching online this semester? Are you using proctored testing to authenticate and monitor learners to minimize academic dishonesty? Can proctored testing in the online environment be the answer? What have you learned this fall about assesment to revise before next semester? Come learn about strategies that our colleagues around the state are using for their online courses, and successful practices for testing in online courses.<br/><br/>
+
+### Previous Webinars
+
 #### Quality Matters Online Teaching and Course Design
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 29, 2020</i><br/>
 Time: 4:00-5:00 pm ET<br/>
 Speaker: Dr. Ali Ahmad <i>(New Mexico State University and Dona Ana Community College)</i><br/>
-Registration: <a href="http://bit.ly/QMOnlineTeaching">Quality Matters Webinar - Sign Up</a><br/><br/>
-Description: With online learning, everyone has a goal. Learners need to improve and grow. You work to nurture them with well-conceived, well-designed, well-presented courses and programs. This webinar will discuss a basic online course checklist, which includes topics to certify a course as a distance learning course and not a correspondence course, effective practices to improve online student retention, student engagement strategies, and also creating accessible documents for students.<br/><br/>
-
-
-### Previous Webinars
+Recording: <a href="https://youtu.be/bGNry2vuTbo">YouTube Video</a><br/><br/>
 
 #### AMATYC Virtual Traveling Workshop on Diversity, Equity, and Inclusion
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>
@@ -31,7 +35,7 @@ Presentation: <a href="/uploads/VirtualTW_GoogleSlides.pdf" target="_blank">Goog
 Pre-Reading Assignment: <a href="/uploads/EquityInPractice.pdf" target="_blank">Equity in Practice</a><br/>
 Shared Resources: <a href="/uploads/Inclusive and Critical Practices Framework_CollegeTeaching.pdf" target="blank">Inclusive and Clinical Practices</a> | <a href="/uploads/EquitablePracticesLifeSciences.pdf" target="_blank">Cultivate Classroom Equity</a> | <a href="https://jamboard.google.com/d/1JKA2wSLhNOD0wnDNWcPkdjIzf5LfBH5rTuolHwQhjRk/edit?usp=sharing">Jamboard</a><br/><br/>
 
-#### MichMATYC Meet-Up and Sharing Session
+#### MichMATYC Sharing Session: Fall Semester Meet-Up 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>
 Recording: <a href="https://youtu.be/Giya1m6wmf0">YouTube Video</a><br/>
 Presentation: <a href="https://docs.google.com/document/d/1o712eU0dwDreaKJ__wTxSUBRvSyztP2OEhd3XqASVqY/edit?usp=sharing">Session Notes</a><br/><br/>

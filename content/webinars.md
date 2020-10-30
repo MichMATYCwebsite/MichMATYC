@@ -17,7 +17,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>November 10, 2020</i><br/>
 Time: 4:00-5:00 pm ET<br/>
 Registration: <a href="http://http://bit.ly/OnlineAsmt">Webinar - Sign Up</a><br/> 
-Description: Join us for our second sharing session for a focused conversation on assessment in an online environment. What types of assessment have you used while teaching online this semester? Are you using proctored testing to authenticate and monitor learners to minimize academic dishonesty? Can proctored testing in the online environment be the answer? What have you learned this fall about assesment to revise before next semester? Come learn about strategies that our colleagues around the state are using for their online courses, and successful practices for testing in online courses.<br/><br/>
+Description: Join us for our second sharing session for a focused conversation on assessment in an online environment. What types of assessment have you used while teaching online this semester? Are you using proctored testing to authenticate and monitor learners to minimize academic dishonesty? Can proctored testing in the online environment be the answer? What have you learned this fall about assessment to revise before next semester? Come learn about strategies that our colleagues around the state are using for their online courses, and successful practices for testing in online courses.<br/><br/>
 
 ### Previous Webinars
 

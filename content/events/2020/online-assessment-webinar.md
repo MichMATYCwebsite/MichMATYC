@@ -1,7 +1,7 @@
 +++
 date = "2020-11-10T20:49:00+00:00"
 layout = "post"
-title = "Webinar: Assessment in an Online Environment"
+title = "Assessment in an Online Environment"
 publishdate = "2020-10-30T00:49:00+00:00"
 
 +++

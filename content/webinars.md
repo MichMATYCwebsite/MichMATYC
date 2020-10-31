@@ -29,7 +29,7 @@ Recording: <a href="https://youtu.be/bGNry2vuTbo">YouTube Video</a><br/><br/>
 
 #### AMATYC Virtual Traveling Workshop on Diversity, Equity, and Inclusion
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>
-Speakers: Dr. Ann Sitomer <i>(Oregon State University)</i> and Claire Burke <i>(Linn-Benton Community College)</i></br>
+Facilitators: Dr. Ann Sitomer <i>(Oregon State University)</i> and Claire Burke <i>(Linn-Benton Community College)</i></br>
 Recording: <a href="https://youtu.be/FoXisIL8ybg">YouTube Video</a><br/>
 Presentation: <a href="/uploads/VirtualTW_GoogleSlides.pdf" target="_blank">Google Slides</a><br/>
 Pre-Reading Assignment: <a href="/uploads/EquityInPractice.pdf" target="_blank">Equity in Practice</a><br/>

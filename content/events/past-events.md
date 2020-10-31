@@ -5,7 +5,7 @@ title = "Past Events"
 
 +++
 
-#### Webinar: Assessment in an Online Environment
+#### Assessment in an Online Environment
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>November 10, 2020</i>
 

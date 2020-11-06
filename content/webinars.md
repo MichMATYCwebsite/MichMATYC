@@ -25,8 +25,8 @@ Description: Join us for our second sharing session for a focused conversation o
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 29, 2020</i><br/>
 Time: 4:00-5:00 pm ET<br/>
 Speaker: Dr. Ali Ahmad <i>(New Mexico State University and Dona Ana Community College)</i><br/>
-Recording: <a href="https://youtu.be/bGNry2vuTbo">YouTube Video</a><br/><br/>
-Presentation: <a href="/uploads/qualitymatters_webinar.pdf" target="_blank">PowerPoint Slides</a><br/>
+Recording: <a href="https://youtu.be/bGNry2vuTbo">YouTube Video</a><br/>
+Presentation: <a href="/uploads/qualitymatters_webinar.pdf" target="_blank">PowerPoint Slides</a><br/><br/>
 
 #### AMATYC Virtual Traveling Workshop on Diversity, Equity, and Inclusion
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 16, 2020</i><br/>

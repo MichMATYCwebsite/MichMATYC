@@ -28,7 +28,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 </tr>
 
 <tr><td><a href="https://jobs.lcc.edu/en/job/492308/ft-assistant-professor-mathematics">FT Assistant Professor - Mathematics</a></td>
-  <td><a href="http://www.lcc.edu">Lansing Community College</a></td>
+  <td><a href="http://www.lcc.edu">Lansing CC</a></td>
   <td>Jan 15, 2021</td>
   <td></td></tr>
 

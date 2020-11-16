@@ -56,16 +56,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td><a href="http://www.jccmi.edu/">Jackson College</a></td>
   <td>Feb 27, 2020</td>
   <td></td></tr>
-
-<tr><td><a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/893?c=lcc">Adjunct Instructor - Statistics and Applied Mathematics</a></td>
-  <td><a href="http://www.lcc.edu">Lansing CC</a></td>
-  <td>Nov 15, 2019</td>
-  <td>Nov 15, 2020</td></tr>
-
-<tr><td><a href="https://lcc.csod.com/ux/ats/careersite/2/home/requisition/892?c=lcc">Adjunct Instructor - Mathematics</a></td>
-  <td><a href="http://www.lcc.edu">Lansing CC</a></td>
-  <td>Nov 15, 2019</td>
-  <td>Nov 15, 2020</td></tr>
   
 <tr><td><a href="https://delta.peopleadmin.com/postings/4557">Intermediate/College-Level Math and Statistics - Adjunct Instructor</a></td>
   <td><a href="http://www.delta.edu">Delta College</a></td>

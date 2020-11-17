@@ -11,7 +11,7 @@ title = "Past Events"
 
 Our next **MichMATYC Sharing Session** is just around the corner! Based on popular demand from last month's Sharing Session, our next webinar is on **Assessment in an Online Environment** scheduled for **Tuesday, November 10** from **4:00-5:00 pm Eastern**.<br/>
 
-After this Sharing Session, the webinar series plans to return in late January with another fantastic webinar for you! Do you have an exciting topic that you would like to hear more about during the spring? We are always looking for webinar speakers and innovative ideas that you would like to learn more about. If you would like more information about participating in or facilitating a webinar, please send a request to webinars@michmatyc.org.<br/>
+After this Sharing Session, we will be having one additional webinar this semester towards the beginning of December, but prior to final exam week for everyone. Do you have an exciting topic that you would like to hear more about during the spring? We are always looking for webinar speakers and innovative ideas that you would like to learn more about. If you would like more information about participating in or facilitating a webinar, please send a request to webinars@michmatyc.org.<br/>
 
 Registration: You can sign up using the link http://bit.ly/OnlineAsmt<br/>
 

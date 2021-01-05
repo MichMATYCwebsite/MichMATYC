@@ -1,8 +1,8 @@
 +++
-date = "2021-01-05T22:38:00+00:00"
+date = "2021-01-05T00:00:00+00:00"
 layout = "post"
-title = "Evaluators Needed for the AMATYC Student Research League"
-
+title = "Evaluators Needed for AMATYC Student Research League"
+publishdate = "2021-01-05T00:00:00+00:00"
 +++
 From March 12-29, the **4th AMATYC Student Research League** competition will be held. The competition requires groups of 1-3 students to perform research and to solve an open-ended question requiring mathematics. Students will defend their thesis in a formal paper.<br/>
 

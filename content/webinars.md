@@ -13,12 +13,6 @@ We are always looking for webinar speakers and innovative ideas that you would l
 
 ### Upcoming Webinars
 
-#### MichMATYC Sharing Session: Discussion Boards and Student Engagement
-<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>December 8, 2020</i><br/>
-Time: 4:00-5:00 pm ET<br/>
-Registration: <a href="http://bit.ly/michmatyc_discussboard">Sharing Session - Sign Up</a><br/>
-Description: Our next sharing session will consist of focused conversation concerning discussion board topics that engages and motivates math students to participate throughout their learning process. As teaching online or remotely can be a challenge, especially during a pandemic, teachers need more resources to reach all students. Enhancing your face-to-face or online course with online tools, such as discussion boards, can help overcome challenges inherent in remote learning. Join us to learn more about how colleagues around the state are using discussion boards and other online tools to increase student engagement with course materials and with each other.<br/><br/>
-
 #### Interactive Tools for Virtual Teaching
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>January 29, 2021</i><br/>
 Time: 2:00-3:00 pm ET<br/>
@@ -28,6 +22,10 @@ Description: In a face-to-face classroom, instructors show an example and then a
 
 
 ### Previous Webinars
+
+#### MichMATYC Sharing Session: Discussion Boards and Student Engagement
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>December 8, 2020</i><br/>
+Time: 4:00-5:00 pm ET<br/><br/>
 
 #### MichMATYC Sharing Session: Assessment in an Online Environment
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>November 10, 2020</i><br/>

@@ -10,6 +10,7 @@ I hope that your semester is winding down well and you are planning for a restfu
 We are excited that **Tuyetdong Phan-Yamada** from **California State University, Los Angeles** will be joining us to share her experiences of teaching remotely with fun, interactive tools for the mathematics virtual classrooms. As we start another semester of teaching remotely, how can we replicate meaningful learning experiences from our face-to-face classroom for students learning in an online environment? Join us for this webinar to learn fun, interactive tools that you can use in your classes this semester!
 
 **Registration**: You can sign up using the link http://bit.ly/michmatyc_virtualteach<br/>
+
 **Session Description:** <br>
 In a face-to-face classroom, instructors show an example and then ask students to do a similar problem. Instructors would go around to check if students do it correctly. These interactive tools can help instructors do the same in their virtual classrooms. Instructors can monitor individual or group work and provide feedback to students immediately without go in and out breakrooms. Zoom in to see how to use the following tools: GeoGebra classrooms, MyOpenMath, Jamboards, and Google doc in a remote learning environment. Attendees will get a copy of ready-made apps to use immediately.
 

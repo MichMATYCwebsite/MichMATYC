@@ -25,7 +25,8 @@ Description: In a face-to-face classroom, instructors show an example and then a
 
 #### MichMATYC Sharing Session: Discussion Boards and Student Engagement
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>December 8, 2020</i><br/>
-Time: 4:00-5:00 pm ET<br/><br/>
+Time: 4:00-5:00 pm ET<br/>
+Recording: <a href="https://youtu.be/wTga8PMgJmo">YouTube Video</a><br/></br>
 
 #### MichMATYC Sharing Session: Assessment in an Online Environment
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>November 10, 2020</i><br/>

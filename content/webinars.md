@@ -48,7 +48,7 @@ Shared Resources: <a href="/uploads/Inclusive and Critical Practices Framework_C
 
 #### MichMATYC Sharing Session: Fall Semester Meet-Up 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>September 29, 2020</i><br/>
-Recording: <a href="https://youtu.be/Giya1m6wmf0">YouTube Video</a><br/>
+Recording: <a href="https://youtu.be/Giya1m6wmf0">YouTube Video</a><br/><br/>
 
 #### Inclusive Language in the Remote Learning Environment
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>June 11, 2020</i><br/>

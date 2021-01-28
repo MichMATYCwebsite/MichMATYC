@@ -162,7 +162,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow"><a href="http://www.kellogg.edu/">Kellogg Community College</a>
 </td>
 
-<td class="tg-c3ow"><a href="mailto:stetlers@kellogg.edu">Sue Stetler</a>
+<td class="tg-c3ow"><a href="mailto:coxa@kellogg.edu">Anna Cox</a>
 </td></tr>
 
 <tr>

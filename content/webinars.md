@@ -15,10 +15,9 @@ We are always looking for webinar speakers and innovative ideas that you would l
 
 #### Interactive Tools for Virtual Teaching
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>January 29, 2021</i><br/>
-Time: 2:00-3:00 pm ET<br/>
 Speaker: Tuyetdong Phan-Yamada <i>(California State University, Los Angeles)</i><br/>
-Registration: <a href="http://bit.ly/michmatyc_virtualteach">Virtual Workshop - Sign Up</a><br/><br/>
-Description: In a face-to-face classroom, instructors show an example and then ask students to do a similar problem. Instructors would go around to check if students do it correctly. These interactive tools can help instructors do the same in their virtual classrooms. Instructors can monitor individual or group work and provide feedback to students immediately without go in and out breakrooms. Zoom in to see how to use the following tools: GeoGebra classrooms, MyOpenMath, Jamboards and Google doc in a remote learning environment. Attendees will get a copy of ready-made apps to use immediately. <br/><br/>
+Recording: Coming Soon<br/>
+Shared Resources: Coming Soon<br/><br/>
 
 
 ### Previous Webinars
@@ -33,7 +32,6 @@ Recording: <a href="https://youtu.be/tnk-FJlmMx0">YouTube Video</a><br/><br/>
 
 #### Quality Matters Online Teaching and Course Design
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>October 29, 2020</i><br/>
-Time: 4:00-5:00 pm ET<br/>
 Speaker: Dr. Ali Ahmad <i>(New Mexico State University and Dona Ana Community College)</i><br/>
 Recording: <a href="https://youtu.be/bGNry2vuTbo">YouTube Video</a><br/>
 Presentation: <a href="/uploads/qualitymatters_webinar.pdf" target="_blank">PowerPoint Slides</a><br/><br/>

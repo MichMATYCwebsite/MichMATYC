@@ -11,16 +11,13 @@ All webinars are recorded and available to watch afterwards. Below you will find
 
 We are always looking for webinar speakers and innovative ideas that you would like learning about. If you would like more information about participating in or facilitating a webinar, please send a request to <a href="mailto:webinars@michmatyc.org">webinars@michmatyc.org</a>.<br/><br/>
 
-### Upcoming Webinars
+### Previous Webinars
 
 #### Interactive Tools for Virtual Teaching
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>January 29, 2021</i><br/>
 Speaker: Tuyetdong Phan-Yamada <i>(California State University, Los Angeles)</i><br/>
 Recording: Coming Soon<br/>
 Shared Resources: Coming Soon<br/><br/>
-
-
-### Previous Webinars
 
 #### MichMATYC Sharing Session: Discussion Boards and Student Engagement
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>December 8, 2020</i><br/>

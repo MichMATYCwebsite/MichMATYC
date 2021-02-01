@@ -18,7 +18,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 Speaker: Tuyetdong Phan-Yamada <i>(California State University, Los Angeles)</i><br/>
 Recording: <a href="https://youtu.be/t_tcgYZ7kaw">YouTube Video</a><br/>
 Presentation: <a href="/uploads/virtualtools_webinar.pdf" target="_blank">PowerPoint Slides</a><br/>
-Shared Resources: <a href="http://phan-yamada.weebly.com">Website</a> | 
+Shared Resources: <a href="http://phan-yamada.weebly.com">Website</a> | <a href="https://jamboard.google.com/d/1S526qmS27ykeH31tR3S1ENAt4cEpMHXSfJ1oHN2qEKQ/viewer">Basic Trigonometric Dominos</a>
 </br><br/>
 
 #### MichMATYC Sharing Session: Discussion Boards and Student Engagement

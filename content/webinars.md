@@ -21,9 +21,7 @@ Presentation: <a href="/uploads/virtualtools_webinar.pdf" target="_blank">PowerP
 Websites: <a href="http://phan-yamada.weebly.com">Weebly</a> | <a href="http://www.geogebra.com">GeoGebra</a> | <a href="http://www.jamboard.com">Jamboard</a> | <a href="http://www.myopenmath.com">MyOpenMath</a><br/>
 GeoGebra Activities: <a href="https://www.geogebra.org/m/uyFoojWM">Factoring Quadratic Expressions</a> | <a href="https://www.geogebra.org/m/rxqteya7">For Hand-Writing</a><br/>
 Jamboards: <a href="https://jamboard.google.com/d/1S526qmS27ykeH31tR3S1ENAt4cEpMHXSfJ1oHN2qEKQ/viewer">Basic Trigonometric Dominos</a> | <a href="https://jamboard.google.com/d/1jbyjQtD6iJE7hpXx7DlynqhSIIiJb6UIta8PEVXzl94/edit?usp=sharing">Matching Basic Functions</a> | <br/>
-Google Docs: <a href="https://drive.google.com/file/d/1gNF1izy5RFZQBR3WA91lmXwiZXxidIOJ/view?usp=sharing">First Day Meeting</a>
-
-</br><br/>
+Google Docs: <a href="https://drive.google.com/file/d/1gNF1izy5RFZQBR3WA91lmXwiZXxidIOJ/view?usp=sharing">First Day Meeting</a></br><br/>
 
 #### MichMATYC Sharing Session: Discussion Boards and Student Engagement
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>December 8, 2020</i><br/>

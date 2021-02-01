@@ -18,7 +18,8 @@ We are always looking for webinar speakers and innovative ideas that you would l
 Speaker: Tuyetdong Phan-Yamada <i>(California State University, Los Angeles)</i><br/>
 Recording: <a href="https://youtu.be/t_tcgYZ7kaw">YouTube Video</a><br/>
 Presentation: <a href="/uploads/virtualtools_webinar.pdf" target="_blank">PowerPoint Slides</a><br/>
-Shared Resources: Coming Soon</br><br/>
+Shared Resources: <a href="http://phan-yamada.weebly.com">Website</a> | 
+</br><br/>
 
 #### MichMATYC Sharing Session: Discussion Boards and Student Engagement
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>December 8, 2020</i><br/>

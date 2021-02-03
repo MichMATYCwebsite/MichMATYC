@@ -11,9 +11,7 @@ Deadline: May 31, 2021</br>
 [Scholarship Application Form](https://bit.ly/michmatycscholarship)</br>
 
 **Contact Information:**<br>
-[Lisa Winch](mailto:scholarship@michmatyc.org)<br/>
-Kalamazoo Valley Community College<br/>
-Chair, Student Scholarship Committee<br><br>
+[Chair, Student Scholarship Committee](mailto:scholarship@michmatyc.org)<br><br>
 
 
 #### Previous Scholarship Recipients

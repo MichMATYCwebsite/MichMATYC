@@ -16,7 +16,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 #### Desmos Activity Builder Workshop
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>February 26, 2021</i><br/>
 Speaker: Tuyetdong Phan-Yamada <i>(Oakland Community College, Orchard Ridge)</i><br/>
-Registration: <a href="http://bit.ly/DABworkshop">Workshop - Sign Up</a>
+Registration: <a href="http://bit.ly/DABworkshop">Workshop - Sign Up</a><br/>
 Description: Wondering how to make your own Desmos Activity? This will be a hands-on session to learn how to write your own interactive slides to be used with your students.<br/>
 
 ### Previous Webinars

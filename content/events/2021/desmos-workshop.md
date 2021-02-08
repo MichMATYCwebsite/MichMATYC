@@ -1,7 +1,7 @@
 +++
 date = "2021-02-26T00:00:00+00:00"
 layout = "post"
-title = "Interactive Tools for Virtual Teaching"
+title = "Desmos Activity Builder Workshop"
 publishdate = "2021-02-08T00:00:00+00:00"
 
 +++

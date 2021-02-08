@@ -26,7 +26,7 @@ Examples
 <li><a href="https://teacher.desmos.com/activitybuilder/custom/5f183648dd3af16686daac71?collections=5f18427e6e91c30134874fe0">Reference Arcs (Radians)</a></li>
 <li><a href="https://teacher.desmos.com/activitybuilder/custom/5f183d3add3af16686daad67?collections=5f18427e6e91c30134874fe0">Reference Arcs (Degrees)</a></li>
 <li><a href="https://teacher.desmos.com/activitybuilder/custom/5f1846a339b5746aa3f581a7?collections=5f18427e6e91c30134874fe0">Match Equivalent Trigonometric Expressions</a></li>
-<li><a href="https://teacher.desmos.com/activitybuilder/custom/5fc10a51d995f60b9968d144?collections=5fc104881990200d0bb67c2e">Properties of Logarithms</a></li></ul></ul><br/>
+<li><a href="https://teacher.desmos.com/activitybuilder/custom/5fc10a51d995f60b9968d144?collections=5fc104881990200d0bb67c2e">Properties of Logarithms</a></li></ul></ul>
 
 **Speaker Biography:** <br>
 Julie Gunkelman is a mathematics faculty member at Oakland Community College’s Orchard Ridge Campus. She earned her Master of Arts in Mathematics from Eastern Michigan University and her Bachelor of Science in Mathematics at Michigan State University. Julie uses a variety of instructional techniques to create an active learning environment in her classes. Julie was awarded the MichMATYC Teaching Excellence Award in 2014 and was a finalist for the Faculty Innovation Award from the American Association of Community Colleges in 2018. Additionally, she served as the Professional Development Coordinator of AMATYC from 2016 through 2018. Julie is also currently serving as President-Elect of MichMATYC.

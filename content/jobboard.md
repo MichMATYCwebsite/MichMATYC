@@ -26,11 +26,6 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 <th class="tg-c3ow"><b>Closing Date</b></th>
 
 </tr>
-
-<tr><td><a href="https://careers.umich.edu/job_detail/192406/math_instructor">Math Instructor</a></td>
-  <td><a href="http://www.umich.edu/">University of Michigan</a></td>
-  <td>Dec 22, 2020</td>
-  <td>Feb 8, 2021</td></tr>
   
  <tr><td><a href="https://lmc.simplehire.com/postings/3406">Faculty, Transitional/Developmental Mathematics (Part-Time)</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>

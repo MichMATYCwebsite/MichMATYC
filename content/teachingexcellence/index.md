@@ -7,7 +7,7 @@ title = "MichMATYC Teaching Excellence Award"
 Since 1999, the MichMATYC Teaching Excellence Award recognizes the high quality of instruction occurring at Michigan's two-year colleges. The selection criteria include instructional effectiveness and support of students, professional involvement and professional development activities, interaction with colleagues and service to department and college.<br></br>
 
 **Nomination Information:**<br>
-Deadline: May 31, 2021</br>
+Deadline: May 15, 2021</br>
 [Award Requirements](http://bit.ly/michmatyc_teawardcriteria)</br>
 [Nomination Form](http://bit.ly/michmatyc_tenomination)</br>
 

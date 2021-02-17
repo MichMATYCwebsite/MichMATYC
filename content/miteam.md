@@ -25,7 +25,7 @@ In 2017, MichMATYC created a new program titled <i>Michigan Teacher Enrichment a
 The program's goal is to provide experiences that will help new faculty at two-year colleges in Michigan become more effective teachers and active members of the organization, as well as the broader mathematical community. Participants in MiTEAM will gain knowledge of the culture and mission of the two-year college and its students, acquire familiarity with the scholarship of teaching, commit to continued growth in mathematics, and participate actively in professional societies.
 </br>
 
-### MiTEAM Activities and Benefits
+### Activities and Benefits
 
 Participants selected will attend two consecutive MichMATYC Fall Conferences where they will complete in a program developed for new faculty, including regular conference activities. In the intervening year, participants will be required to develop, implement, and evaluate a project at their home institution.
 

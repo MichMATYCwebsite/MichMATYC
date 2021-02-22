@@ -5,6 +5,44 @@ title = "Past Events"
 
 +++
 
+#### Open Invitation for Tea with AMiIBL Network
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 4, 2021</i>
+
+Do you want to brain-storm new activities for your inquiry-based learning (IBL) class? Need to vent? Just want to talk to some colleagues? Want to sip some tea looking at new faces and not atlk to empty boxes for once? Come on by, we got you!<br/>
+
+Enjoy tea time with other instructors from the ***AMiIBL (Alliance for Michigan IBLers) network***. All instructors are welcome! The next gathering, will be on **Thursday, March 4*** at ***4:30 pm Eastern*** on the aptly-named platform <a href="https://gather.town/app/gjIsk07K0ziPHqbP/lunch">Gather.Town</a>. You can join by just clicking on the link and using the ***password: lunch***. We look forward to seeing you!<br/><br/>
+
+
+#### Desmos Activity Builder Workshop"
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>February 26, 2021</i>
+
+Our next **MichMATYC Webinar** will be on **Friday, February 26** from **1:00-2:00 pm Eastern** presented by **Julie Gunkelman** titled **Desmos Activity Builder Workshop**. 
+
+**Registration**: You can sign up using the link <a href="http://bit.ly/DABworkshop">http://bit.ly/DABworkshop</a><br/>
+
+**Workshop Description:** <br>
+Wondering how to make your own Desmos Activity? This will be a hands-on session to learn how to write your own interactive slides to be used with your students. Some examples are below if you are not familiar with Desmos Activity Builder:<br/>
+
+Examples
+<ul>
+<li>Multiple Choice, Short Answer</li>
+<ul><li><a href="https://teacher.desmos.com/activitybuilder/custom/5fc5b424166c9f4a2b8a518c">College Algebra Lesson</a>; problems are in my course pack.</li>
+<li><a href="https://teacher.desmos.com/activitybuilder/custom/5fc11ca0e5cc3a0d1785f865">Solving Linear Equations</a></li>
+<li><a href="https://teacher.desmos.com/activitybuilder/custom/60083c2c94be16326df0ab51">Transformations of Graphs</a></li></ul>
+
+<li>Card Sort Activities</li>
+<ul><li><a href="https://teacher.desmos.com/activitybuilder/custom/5fbda706fd0cb742f5044110?collections=5fc104881990200d0bb67c2e">Conics</a></li>
+<li><a href="https://teacher.desmos.com/activitybuilder/custom/5f183648dd3af16686daac71?collections=5f18427e6e91c30134874fe0">Reference Arcs (Radians)</a></li>
+<li><a href="https://teacher.desmos.com/activitybuilder/custom/5f183d3add3af16686daad67?collections=5f18427e6e91c30134874fe0">Reference Arcs (Degrees)</a></li>
+<li><a href="https://teacher.desmos.com/activitybuilder/custom/5f1846a339b5746aa3f581a7?collections=5f18427e6e91c30134874fe0">Match Equivalent Trigonometric Expressions</a></li>
+<li><a href="https://teacher.desmos.com/activitybuilder/custom/5fc10a51d995f60b9968d144?collections=5fc104881990200d0bb67c2e">Properties of Logarithms</a></li></ul></ul>
+
+**Speaker Biography:** <br>
+Julie Gunkelman is a mathematics faculty member at Oakland Community College’s Orchard Ridge Campus. She earned her Master of Arts in Mathematics from Eastern Michigan University and her Bachelor of Science in Mathematics at Michigan State University. Julie uses a variety of instructional techniques to create an active learning environment in her classes. Julie was awarded the MichMATYC Teaching Excellence Award in 2014 and was a finalist for the Faculty Innovation Award from the American Association of Community Colleges in 2018. Additionally, she served as the Professional Development Coordinator of AMATYC from 2016 through 2018. Julie is also currently serving as President-Elect of MichMATYC.<br/><br/>
+
+
 #### Interactive Tools for Virtual Teaching
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>January 26, 2021</i>

@@ -54,7 +54,7 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 
 <td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2020.pdf" target="_blank">Sept</a></td>
 
-<td class="tg-c3ow"></td>
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterFebruary2021.pdf" target="_blank">Feb</a></td>
 
 <td class="tg-c3ow"></td>
 

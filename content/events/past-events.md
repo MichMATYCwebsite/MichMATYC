@@ -18,6 +18,8 @@ Enjoy tea time with other instructors from the ***AMiIBL (Alliance for Michigan 
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>February 26, 2021</i>
 
+Thank you to everyone who joined us for our previous MichMATYC Webinar on January 29 presented by Tuyetdong Phan-Yamada (California State University, Los Angeles) on "Interactive Tools for Virtual Learning". If you happened to miss the webinar, a video recording and shared resources are available on <a href="http://michmatyc.org/webinars/">our website</a>.
+
 Our next **MichMATYC Webinar** will be on **Friday, February 26** from **1:00-2:00 pm Eastern** presented by **Julie Gunkelman** titled **Desmos Activity Builder Workshop**. 
 
 **Registration**: You can sign up using the link <a href="http://bit.ly/DABworkshop">http://bit.ly/DABworkshop</a><br/>

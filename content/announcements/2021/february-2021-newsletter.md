@@ -33,4 +33,4 @@ The deadline for both the **2021 Karen Sharp Student Scholarship Award** and the
 <ul><li>The nominations deadline for the Teaching Excellence Award is May 15, 2021</li> 
 <li>The application deadline for the Karen Sharp Student Scholarship Award is May 31, 2021</li></ul>
 
-I encourage you to reach out to anyone on the MichMATYC Executive Board if you have suggestions or ideas to implement within our organization. In addition, you can also please pass them to me in person or by email at <a href="mailto:president@michmatyc.org</a>.
+I encourage you to reach out to anyone on the MichMATYC Executive Board if you have suggestions or ideas to implement within our organization. In addition, you can also please pass them to me in person or by email at <a href="mailto:president@michmatyc.org">president@michmatyc.org</a>.

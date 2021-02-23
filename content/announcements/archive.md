@@ -4,6 +4,61 @@ showdate = false
 title = "Announcements Library"
 
 +++
+
+### 2021
+
+#### Latest Edition of The Sum-Times is Out
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>February 23, 2021</i>
+
+The <a href="https://michmatyc.org/uploads/MichMatycNewsletterFebruary2021.pdf">February 2021</a> issue of <a href="http://michmatyc.org/newsletter">The Sum-Times</a> has been published! I would also like to thank Shanna Simpson-Singleton, The Sum-Times Newsletter Editor, for putting together another wonderful newsletter. Please share the attached newsletter with your colleagues.<br/>
+
+Keep in mind that if you are interested in submitting an article or information to be shared with your MichMATYC colleagues in the next newsletter issue, then you can submit those to <a href="mailto:newsletter@michmatyc.org">newsletter@michmatyc.org</a> by May 1, 2021! Whether it is about an accomplishment of you or your colleagues, recent retirements, or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article for the next issue.<br/>
+
+In this issue, you will find articles, news, and updates on the following:
+<ul><li>Message from the President</li>
+<li>AMATYC Midwest Update</li>
+<li>Karen Sharp Student Scholarship Award</li>
+<li>MichMATYC Teaching Excellence Award</li>
+<li>Faculty Teaching Tip from Lillian Ryall</li>
+<li>Professional Development for New Faculty</li>
+<li>Virtual Traveling Workshop from October 2020</li>
+<li>Did You Know! from Jon Oaks</li>
+<li>MichMATYC Conference Call for Presenters</li>
+<li>Volunteer Opportunities in MichMATYC</li>
+<li>Affiliate Delegate Report from Shanna Simpson-Singleton</li>
+<li>Our Popular Campus News Section</li>
+<li>Event Calendar</li>
+<li>List of Campus Representatives</li>
+<li>Announcements for Upcoming Webinars</li>
+<li>MichMATYC Officers and Staff</li>
+<li>Reminder on Awards & Scholarships</li></ul>
+
+The deadline for both the **2021 Karen Sharp Student Scholarship Award** and the **2021 MichMATYC Teaching Excellence Award** are quickly approaching in May! More information on both of these awards can be found on the MichMATYC website at <a href="http://michmatyc.org/awards">michmatyc.org/awards</a>.
+
+<ul><li>The nominations deadline for the Teaching Excellence Award is May 15, 2021</li> 
+<li>The application deadline for the Karen Sharp Student Scholarship Award is May 31, 2021</li></ul>
+
+I encourage you to reach out to anyone on the MichMATYC Executive Board if you have suggestions or ideas to implement within our organization. In addition, you can also please pass them to me in person or by email at <a href="mailto:president@michmatyc.org">president@michmatyc.org</a>.<br/><br/>
+
+
+#### Evaluators Needed for AMATYC Student Research League
+
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>January 5, 2021</i>
+
+From March 12-29, the **4th AMATYC Student Research League** competition will be held. The competition requires groups of 1-3 students to perform research and to solve an open-ended question requiring mathematics. Students will defend their thesis in a formal paper.<br/>
+
+The papers will be evaluated at multiple levels, but AMATYC needs your help in recruiting people for the first level of evaluation. Evaluators will review theses from all over the AMATYC Midwest region consisting of Ohio, Kentucky, Michigan, Wisconsin, Indiana, and Illinois. It is a wonderful opportunity to see what great students we have all over our state and region competing in the Student Research League.<br/>
+
+As a Student Research League evaluator, you will be given the rubric that the final evaluators will be using, but you will not have to fill it out (<a href="https://458rl1jp.r.us-east-1.awstrack.me/L0/https:%2F%2Famatyc.org%2Fpage%2FSRLEvaluationProcess/1/01000176d3766bd3-49d091e6-1db1-432e-97ec-b208ad8208c9-000000/G3fDghUxUz6bPngQmzbJTCxd8bE=195">Evaluation Process link</a>). You will simply be asked to comment on what the strong components of the entry are and what areas could use improvement. You will then give an overall rating of A, B, or C.<br/>
+
+You will be given the entries that you will be evaluating by April 15. You will have until June 15 to complete the evaluations. AMATYC will try to limit the number of entries that you would need to evaluate to around a half dozen or so, but until they find out how many entries are in the AMATYC Midwest region, the exact number is uncertain. AMATYC will work with the volunteers so that no one is overwhelmed with too many entries to evaluate.<br/>
+
+Evaluators of the Student Research League will be acknowledged with a letter from AMATYC, which may be useful for faculty promotion purposes. If you are interested in serving as an AMATYC Student Research League evaluator, please submit your interest to me at (<a href="mailto:president@michmatyc.org">president@michmatyc.org</a>) by **March 1, 2021**. Additional information regarding the AMATYC Student Research League can be found <a href="https://458rl1jp.r.us-east-1.awstrack.me/L0/https:%2F%2Famatyc.org%2Fpage%2FSRLPresentationMaterials/1/01000176d3766bd3-49d091e6-1db1-432e-97ec-b208ad8208c9-000000/lMxFz25tqUyyRgJEmh_T451LN_I=195">here</a>.<br/>
+
+If you have any questions, please feel free to contact the **AMATYC Student Research League Coordinator**, **Karen Gaines**, at <a href="mailto:srl@amatyc.org">srl@amatyc.org</a>.<br/><br/><br/>
+
+
 ### 2020
 
 #### MichMATYC Conference Postponed to October 8-9, 2021

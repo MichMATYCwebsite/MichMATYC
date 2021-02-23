@@ -287,7 +287,7 @@ Name:<br>
 Email:<br>
 College Name:<br>
 Affiliate Name:<br>
-AMATYC Region:<br><br>
+AMATYC Region:<br>
 
 If you have any questions, please feel free to contact Karen Gaines, Student Research League Coordinator at [srl@amatyc.org](mailto:srl@amatyc.org).</br></br>
 

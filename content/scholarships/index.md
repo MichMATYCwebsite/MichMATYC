@@ -8,7 +8,7 @@ Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Aw
 
 **Application Information:**<br>
 Deadline: May 31, 2021</br>
-[Scholarship Application Form](https://bit.ly/michmatycscholarship)</br>
+[Scholarship Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdL164p3Wv-mpIRerHJ921i9Bmqm-myqQTsGlH7YEqxOjIfrg/viewform)</br>
 
 **Contact Information:**<br>
 [Chair, Student Scholarship Committee](mailto:scholarship@michmatyc.org)<br><br>

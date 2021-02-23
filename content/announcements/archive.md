@@ -262,7 +262,7 @@ Spokane Falls Community College<br>
 Spokane, WA</br></br>
 
 
-#### Volunteer to Evaluate the AMATYC Student Research League"
+#### Volunteer to Evaluate the AMATYC Student Research League
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>Jan 22, 2020</i>
 
@@ -281,7 +281,7 @@ Information for volunteers:<br>
 <li> You will be given the entries that you will be evaluating by <b>April 22</b>, and you will have until <b>June 15</b> to complete your evaluations.</li>
 <li> We will try to limit the number of entries you need to evaluate to around a half dozen or so, but until we find out how many entries are in your region, we cannot say for sure. We will work with the volunteers so that no one is overwhelmed with too many entries to evaluate.</li></ol>
 
-If you are interested in volunteering, please submit the following information to [srl@amatyc.org](mailto:srl@amatyc.org) by <b>March 15</b>.<br><br>
+If you are interested in volunteering, please submit the following information to [srl@amatyc.org](mailto:srl@amatyc.org) by <b>March 15</b>.<br>
 
 Name:<br>
 Email:<br>

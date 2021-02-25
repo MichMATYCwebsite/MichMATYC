@@ -18,14 +18,14 @@ We are always looking for webinar speakers and innovative ideas that you would l
 Time: 1:00-2:00 pm ET<br/>
 Speaker: Julie Gunkelman <i>(Oakland Community College, Orchard Ridge)</i><br/>
 Registration: <a href="http://bit.ly/DABworkshop">Workshop - Sign Up</a><br/>
-Description: Wondering how to make your own Desmos Activity? This will be a hands-on session to learn how to write your own interactive slides to be used with your students.<br/>
+Description: Wondering how to make your own Desmos Activity? This will be a hands-on session to learn how to write your own interactive slides to be used with your students.<br/><br/>
 
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #1
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 19, 2021</i><br/>
 Time: 1:00-4:00 pm ET<br/>
 Facilitator: Jon Oaks <i>(Macomb Community College)</i><br/>
 Registration: <br/>
-Description: Have you ever wanted to use Inquiry-Based Learning (IBL) in your own classes, but don't know where to start? Are you looking for suggestions for student interaction in a remote environment? Do you have concerns about getting student buy-in? This first day of the free two-day traveling workshop will provide an overview of the four pillars of IBL, a discussion on how you may already be using inquiry in your classes along with research supporting IBL. A demonstration of an IBL activity will be presented, as well as resources on where to find IBL activities that can be tried in your classes.<br/>
+Description: Have you ever wanted to use Inquiry-Based Learning (IBL) in your own classes, but don't know where to start? Are you looking for suggestions for student interaction in a remote environment? Do you have concerns about getting student buy-in? This first day of the free two-day traveling workshop will provide an overview of the four pillars of IBL, a discussion on how you may already be using inquiry in your classes along with research supporting IBL. A demonstration of an IBL activity will be presented, as well as resources on where to find IBL activities that can be tried in your classes.<br/><br/>
 
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #2
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 26, 2021</i><br/>

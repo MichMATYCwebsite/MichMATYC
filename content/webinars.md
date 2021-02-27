@@ -13,13 +13,6 @@ We are always looking for webinar speakers and innovative ideas that you would l
 
 ### Upcoming Webinars
 
-#### Desmos Activity Builder Workshop
-<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>February 26, 2021</i><br/>
-Time: 1:00-2:00 pm ET<br/>
-Speaker: Julie Gunkelman <i>(Oakland Community College, Orchard Ridge)</i><br/>
-Registration: <a href="http://bit.ly/DABworkshop">Workshop - Sign Up</a><br/>
-Description: Wondering how to make your own Desmos Activity? This will be a hands-on session to learn how to write your own interactive slides to be used with your students.<br/><br/>
-
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #1
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 19, 2021</i><br/>
 Time: 1:00-4:00 pm ET<br/>
@@ -36,6 +29,12 @@ Description: In this continuation of the virtual traveling workshop, inquiry-bas
 
 
 ### Previous Webinars
+
+#### Desmos Activity Builder Workshop
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>February 26, 2021</i><br/>
+Speaker: Julie Gunkelman <i>(Oakland Community College, Orchard Ridge)</i><br/>
+Recording: <a href="https://youtu.be/_xviT3T6OvM">YouTube Video</a><br/>
+Presentation: <a href="http://students.desmos.com">Desmos Activity</a> | Code: MPA MBP<br/><br/>
 
 #### Interactive Tools for Virtual Teaching
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>January 29, 2021</i><br/>

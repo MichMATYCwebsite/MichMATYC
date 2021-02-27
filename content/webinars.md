@@ -34,7 +34,7 @@ Description: In this continuation of the virtual traveling workshop, inquiry-bas
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>February 26, 2021</i><br/>
 Speaker: Julie Gunkelman <i>(Oakland Community College, Orchard Ridge)</i><br/>
 Recording: <a href="https://youtu.be/_xviT3T6OvM">YouTube Video</a><br/>
-Presentation: <a href="http://students.desmos.com">Desmos Activity</a> | Code: MPA MBP<br/><br/>
+Presentation: <a href="http://students.desmos.com">Desmos Activity</a> | Enter Code: MPA MBP<br/><br/>
 
 #### Interactive Tools for Virtual Teaching
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>January 29, 2021</i><br/>

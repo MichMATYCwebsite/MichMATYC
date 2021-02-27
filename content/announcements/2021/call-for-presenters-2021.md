@@ -5,9 +5,9 @@ title = "Call for Presenters at 2021 MichMATYC Conference"
 publishdate = "2021-02-27T00:00:00+00:00"
 +++
 
-Proposals are now being accepted to present during the **2021 MichMATYC Conference** through **April 1, 2021**. This year's conference is hosted by **Lansing Community College** on **October 8-9** with the theme <i>Mathematics Support and Success: A Vision for the Future</i>. What makes each of our conferences great are the wonderful presentations and great host college each year!<br/>
+Proposals are now being accepted to present during the **2021 MichMATYC Conference** through **April 1, 2021**. This year's conference is hosted by **Lansing Community College** on **October 8-9** with the theme **<i>Mathematics Support and Success: A Vision for the Future</i>**. What makes each of our conferences great are the wonderful presentations and great host college each year!<br/>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScjK2zmMBCfEgiGxcIeT-PajAZI5giaB68XF53G55leALeAUg/viewform">Presentation Proposal Form</a><br/>
+**<a href="https://docs.google.com/forms/d/e/1FAIpQLScjK2zmMBCfEgiGxcIeT-PajAZI5giaB68XF53G55leALeAUg/viewform">Presentation Proposal Form</a><br/>**
 
 There are several presentation formats to choose from regarding your proposal. We have the traditional 45-minute presentation during a break-out session. However, we also have options for presenting a workshop, panel discussion, commercial vendor presentation, or at our inaugural 
 Ignite! session.<br/>

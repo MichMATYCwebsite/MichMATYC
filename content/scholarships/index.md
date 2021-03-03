@@ -11,8 +11,8 @@ Deadline: May 31, 2021</br>
 [Scholarship Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdL164p3Wv-mpIRerHJ921i9Bmqm-myqQTsGlH7YEqxOjIfrg/viewform)</br>
 
 **Contact Information:**<br>
-[Chair, Student Scholarship Committee](mailto:scholarship@michmatyc.org)<br><br>
-
+Michael Pemberton, [Chair, Student Scholarship Committee](mailto:scholarship@michmatyc.org)<br>
+Lansing Community College<br/><br/>
 
 #### Previous Scholarship Recipients
 

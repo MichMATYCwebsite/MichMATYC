@@ -74,7 +74,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   
 </table></br>
 
-### Job Searching
+### Job Search Resources
 
 * [AAR/EEO Affirmative Action Register](aar-eeo.com)
 * [Career Mosaic](http://www.careermosaic.com)

@@ -12,4 +12,4 @@ A mix of invited and contributed talks will be presented during the afternoon of
 April 9: MAA Polya lecturer Charlie Hadlock, Fun with Auctions<br/>
 April 16: William Dunham, The Infinitude of Primes: Euclid, Euler, Erdős<br/>
 
-Submissions for **contributed talks** by undergraduate students, graduate students, high school teachers, and college/university faculty **accepted until March 19**. Please visit the MAA Michigan Section's conference website for details. Registration and program details will be available on the conference website in March.
+Submissions for **contributed talks** by undergraduate students, graduate students, high school teachers, and college/university faculty **accepted until March 19**. Please visit the MAA Michigan Section's <a href="http://sections.maa.org/michigan/meetings/2021_Spring_annual_meeting.html">conference website</a> for details. Registration and program details will be available on the <a href="http://sections.maa.org/michigan/meetings/2021_Spring_annual_meeting.html">conference website</a> in March.

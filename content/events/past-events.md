@@ -5,7 +5,7 @@ title = "Past Events"
 
 +++
 
-#### 2021 Michigan MAA Spring Annual Meeting
+#### 2021 MAA Michigan Spring Annual Meeting
 
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>April 9, 2021</i>
 

@@ -1,7 +1,7 @@
 +++
 date = "2021-04-09T00:00:00+00:00"
 layout = "post"
-title = "2021 Michigan MAA Spring Annual Meeting"
+title = "2021 MAA Michigan Spring Annual Meeting"
 publishdate = "2021-03-10T00:00:00+00:00"
 +++
 

@@ -26,6 +26,11 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 <th class="tg-c3ow"><b>Closing Date</b></th>
 
 </tr>
+
+<tr><td><a href="https://jobs.schoolcraft.edu/postings/4279">Full-Time Instructor - Mathematics</a></td>
+  <td><a href="http://www.schoolcraft.edu">Schoolcraft College</a></td>
+  <td>Mar 9, 2021</td>
+  <td>Mar 31, 2021</td></tr>
   
  <tr><td><a href="https://lmc.simplehire.com/postings/3406">Faculty, Transitional/Developmental Mathematics (Part-Time)</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>

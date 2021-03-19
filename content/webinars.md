@@ -14,7 +14,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 ### Upcoming Webinars
 
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #1
-<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 19, 2021</i>
+<i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 19, 2021</i><br/>
 Time: 1:00-4:00 pm ET<br/>
 Facilitator: Jon Oaks <i>(Macomb Community College)</i><br/>
 Registration: <a href="http://bit.ly/IBLWorkshop">Workshop - Sign Up</a><br/><br/>

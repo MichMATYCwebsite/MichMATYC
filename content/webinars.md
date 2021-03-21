@@ -17,7 +17,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 26, 2021</i><br/>
 Time: 1:00-4:00 pm ET<br/>
 Facilitator: Jon Oaks <i>(Macomb Community College)</i><br/>
-Registration: <a href="http://bit.ly/IBLWorkshop">Workshop - Sign Up</a><br/>
+Registration: <a href="http://bit.ly/IBLWorkshop">Workshop - Sign Up</a><br/><br/>
 Description: In this continuation of the virtual traveling workshop, inquiry-based learning (IBL) will be discussed for an online/remote environment along with collaboration and interactive tools that can be used. The workshop will also cover converting a course to IBL, some of the challenges in doing so, and getting student buy-in.<br/><br/>
 
 
@@ -26,7 +26,7 @@ Description: In this continuation of the virtual traveling workshop, inquiry-bas
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #1
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 19, 2021</i><br/>
 Facilitator: Jon Oaks <i>(Macomb Community College)</i><br/>
-Recording: Coming Soon<br/><br/>
+Recording: Coming Soon<br/>
 Presentation: <a href="https://app.peardeck.com/student/tqqdihtlo">Pear Deck</a><br/><br/>
 
 #### Desmos Activity Builder Workshop

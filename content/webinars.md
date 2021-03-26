@@ -17,7 +17,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 #### Inquiry-Based Learning Traveling Workshops
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 19, 2021</i> and <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 26, 2021</i><br/>
 Facilitator: Jon Oaks <i>(Macomb Community College)</i><br/>
-Recordings: Coming Soon<br/><br/>
+Recordings: Coming Soon<br/>
 Presentations: Day #1 - <a href="https://app.peardeck.com/student/tqqdihtlo">Pear Deck</a> | Day #2 - <a href="https://app.peardeck.com/student/tkyxijlux">Pear Deck</a><br/><br/>
 
 #### Desmos Activity Builder Workshop

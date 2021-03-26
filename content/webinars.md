@@ -11,17 +11,14 @@ All webinars are recorded and available to watch afterwards. Below you will find
 
 We are always looking for webinar speakers and innovative ideas that you would like learning about. If you would like more information about participating in or facilitating a webinar, please send a request to <a href="mailto:webinars@michmatyc.org">webinars@michmatyc.org</a>.<br/><br/>
 
-### Upcoming Webinars
+
+### Previous Webinars
 
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #2
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 26, 2021</i><br/>
-Time: 1:00-4:00 pm ET<br/>
 Facilitator: Jon Oaks <i>(Macomb Community College)</i><br/>
-Registration: <a href="http://bit.ly/IBLWorkshop">Workshop - Sign Up</a><br/><br/>
-Description: In this continuation of the virtual traveling workshop, inquiry-based learning (IBL) will be discussed for an online/remote environment along with collaboration and interactive tools that can be used. The workshop will also cover converting a course to IBL, some of the challenges in doing so, and getting student buy-in.<br/><br/>
-
-
-### Previous Webinars
+Registration: <a href="http://bit.ly/IBLWorkshop">Workshop - Sign Up</a><br/>
+Presentation: <a href="https://app.peardeck.com/student/tkyxijlux">Pear Deck</a><br/><br/>
 
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #1
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 19, 2021</i><br/>

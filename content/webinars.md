@@ -17,7 +17,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #2
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 26, 2021</i><br/>
 Facilitator: Jon Oaks <i>(Macomb Community College)</i><br/>
-Registration: <a href="http://bit.ly/IBLWorkshop">Workshop - Sign Up</a><br/>
+Recording: Coming Soon<br/>
 Presentation: <a href="https://app.peardeck.com/student/tkyxijlux">Pear Deck</a><br/><br/>
 
 #### Inquiry-Based Learning Traveling Workshop &ndash; Day #1

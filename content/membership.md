@@ -33,7 +33,7 @@ To join or renew membership, fill out our [membership application](http://bit.ly
 Sam Bazzi, Secretary/Treasurer<br>
 Department of Mathematics<br>
 Henry Ford College<br>
-5101 Evergreed Rd<br>
+5101 Evergreen Rd<br>
 Dearborn, MI &nbsp; 48128<br>
 Email: [secretary@michmatyc.org](mailto:secretary@michmatyc.org)
 

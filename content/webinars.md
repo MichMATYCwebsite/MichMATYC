@@ -18,7 +18,7 @@ We are always looking for webinar speakers and innovative ideas that you would l
 <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 19, 2021</i>  and  <i class="far fa-calendar-alt" style="margin-right: 5px;"></i><i>March 26, 2021</i><br/>
 Facilitator: Jon Oaks <i>(Macomb Community College)</i><br/>
 Recordings: <a href="https://youtu.be/7TKyXCzGT_I">Session 1</a> | <a href="https://youtu.be/xf8I7g5fH5I">Session 2</a> | <a href="https://youtu.be/9i_JMFlhxZA">Session 3</a> | <a href="https://youtu.be/tIC97KoEG_k">Session 4</a><br/>
-Presentations: <a href="https://app.peardeck.com/student/tqqdihtlo">Pear Deck #1</a> | <a href="https://app.peardeck.com/student/tkyxijlux">Pear Deck #2</a><br/>
+Presentations: <a href="https://docs.google.com/presentation/d/1-w1gv1U3kmJS-9QX9n2eolY7sa1qRz1hLQoaUrnN7OM/edit?usp=sharing">Sessions 1-2</a> | <a href="https://docs.google.com/presentation/d/16CkrXe59RpMJDjM4AD-90WJMTbTpZDfeu_gmblKbePw/edit?usp=sharing">Sessions 3-4</a><br/>
 Shared Resources: <a href="https://drive.google.com/drive/folders/1FaitcsKGaAcJi-m0PxyzRpr4qhQtIg--?usp=sharing">Google Drive</a><br/><br/>
 
 #### Desmos Activity Builder Workshop

@@ -8,8 +8,8 @@ Since 1999, the MichMATYC Teaching Excellence Award recognizes the high quality 
 
 **Nomination Information:**<br>
 Deadline: May 15, 2021</br>
-[Award Requirements](http://bit.ly/michmatyc_teawardcriteria)</br>
-[Nomination Form](http://bit.ly/michmatyc_tenomination)</br>
+[Award Requirements](https://docs.google.com/document/d/1lRXSCo4RZHpxTLbCOKmRv8JzSx0QlWsJTKkZgJfDsHw/export?format=pdf)</br>
+[Nomination Form](https://docs.google.com/document/d/1Jqgq-ulOzJbUnJqqJZX320oy4fZORYw2aVGa0H97AJE/export?format=pdf)</br>
 
 **Contact Information**:<br/>
 [Jon Oaks](mailto:te-award@michmatyc.org)<br/>

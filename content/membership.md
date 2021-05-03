@@ -34,7 +34,7 @@ Sam Bazzi, Secretary/Treasurer<br>
 Department of Mathematics<br>
 Henry Ford College<br>
 5101 Evergreen Rd<br>
-Dearborn, MI&nbsp;48128<br>
+Dearborn, MI&nbsp; 48128<br>
 Email: [secretary@michmatyc.org](mailto:secretary@michmatyc.org)
 
 We appreciate your time, effort, and support of our organization!

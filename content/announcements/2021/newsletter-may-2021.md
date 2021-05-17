@@ -20,4 +20,4 @@ In this issue, you will find articles, news, and updates on the following:
 <li>List of Campus Representatives</li>
 <li>MichMATYC Officers and Staff</li></ul>
 
-I encourage you to reach out to anyone on the MichMATYC Executive Board (<a href="mailto:board@michmatyc.org">board@michmatyc.org</a>)if you have suggestions or ideas to implement within our organization. In addition, you can also please pass them to me in person or by email at <a href="mailto:president@michmatyc.org">president@michmatyc.org</a>.
+I encourage you to reach out to anyone on the MichMATYC Executive Board (<a href="mailto:board@michmatyc.org">board@michmatyc.org</a>) if you have suggestions or ideas to implement within our organization. In addition, you can also please pass them to me in person or by email at <a href="mailto:president@michmatyc.org">president@michmatyc.org</a>.

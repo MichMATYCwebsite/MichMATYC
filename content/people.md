@@ -113,7 +113,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow"><a href="http://www.delta.edu/">Delta College</a>
 </td>
 
-<td class="tg-c3ow"><a href="mailto:pglutz@delta.edu">Phoebe Lutz</a>
+<td class="tg-c3ow"><a href="mailto:sarosin@delta.edu">Steven Rosin</a>
 </td></tr>
 
 <tr>

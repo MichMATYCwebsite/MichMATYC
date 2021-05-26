@@ -201,10 +201,10 @@ Below is the contact information for the campus representatives from each member
 </td></tr>
 
 <tr>
-<td class="tg-c3ow"><a href="http://www.midmich.cc.mi.us/">Mid-Michigan Community College</a>
+<td class="tg-c3ow"><a href="http://www.midmich.cc.mi.us/">Mid Michigan Community College</a>
 </td>
 
-<td class="tg-c3ow"><a href="mailto:dkedrows@midmich.edu">David Kedrowski</a>
+<td class="tg-c3ow"><a href="mailto:relmore19@midmich.edu">Robert Elmore</a>
 </td></tr>
 
 <tr>

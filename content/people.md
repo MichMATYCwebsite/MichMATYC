@@ -56,7 +56,9 @@ class=title>Secretary/Treasurer
 <li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:secretary@michmatyc.org?Subject=MichMATYC">secretary@michmatyc.org</a>
 </ul>
 </div>
-</div><br/>
+</div>
+ </div>
+ </br>
 
 ### AMATYC Leadership in Michigan
 

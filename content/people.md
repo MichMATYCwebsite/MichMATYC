@@ -8,36 +8,36 @@ weight = 3
 
 +++
 ### MichMATYC Executive Board
-
-<div class=leadership-wrap>
-<div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/pemberton.jpg> 
-<div class=flex-wrap>   
-<p class=name>Michael Pemberton<p
-class=title>President
-</div>
-</div>
-<div class=contact-wrap>
-<ul class=fa-ul>
-<li><i class="fa-li fa fas fa-home"></i><a href="http://www.lcc.edu/" target=_blank> Lansing Community College</a>
-<li><i class="fa-li fa-address-card far"></i>419 North Washington Square<li><i class="fa-li fa-address-card far"></i>Lansing, MI  48933
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:president@michmatyc.org?Subject=MichMATYC">president@michmatyc.org</a>
-</ul>
-</div>
-</div>
  
 <div class=leadership-card>
 <div class=leadership-card-head><img class=leadership src=/uploads/gunkelman.jpg> 
 <div class=flex-wrap>
 <p class=name>Julie Gunkelman<p
-class=title>President Elect
+class=title>President
 </div>
 </div>
 <div class=contact-wrap>
 <ul class=fa-ul>
 <li><i class="fa-li fa fas fa-home"></i><a href= "https://www.oaklandcc.edu/" target=_blank> Oakland Community College, Orchard Ridge</a>
 <li><i class="fa-li fa-address-card far"></i>27055 Orchard Lake Rd.<li><i class="fa-li fa-address-card far"></i>Farmington Hills, MI  48334<li>
-<i class="fa-li fa fas fa-envelope"></i><a href="mailto:president-elect@michmatyc.org?Subject=MichMATYC">president-elect@michmatyc.org</a>
+<i class="fa-li fa fas fa-envelope"></i><a href="mailto:president@michmatyc.org?Subject=MichMATYC">president@michmatyc.org</a>
+</ul>
+</div>
+</div>
+
+<div class=leadership-wrap>
+<div class=leadership-card>
+<div class=leadership-card-head><img class=leadership src=/uploads/pemberton.jpg> 
+<div class=flex-wrap>   
+<p class=name>Michael Pemberton<p
+class=title>Past President
+</div>
+</div>
+<div class=contact-wrap>
+<ul class=fa-ul>
+<li><i class="fa-li fa fas fa-home"></i><a href="http://www.lcc.edu/" target=_blank> Lansing Community College</a>
+<li><i class="fa-li fa-address-card far"></i>419 North Washington Square<li><i class="fa-li fa-address-card far"></i>Lansing, MI  48933
+<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:past-president@michmatyc.org?Subject=MichMATYC">past-president@michmatyc.org</a>
 </ul>
 </div>
 </div>
@@ -55,23 +55,6 @@ class=title>Secretary/Treasurer
 <li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
 <li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:secretary@michmatyc.org?Subject=MichMATYC">secretary@michmatyc.org</a>
 </ul>
-</div>
-</div>
-
-<div class=leadership-card>
-<div class=leadership-card-head><img class=leadership src=/uploads/simpsonsingleton.jpg> 
-<div class=flex-wrap>
-<p class=name>Shanna Simpson-Singleton<p
-class=title>Affiliate Delegate
-</div>
-</div>
-<div class=contact-wrap>
-<ul class=fa-ul>
-<li><i class="fa-li fa fas fa-home"></i><a href="https://www.hfcc.edu/" target=_blank> Henry Ford College</a>
-<li><i class="fa-li fa-address-card far"></i>5101 Evergreen Rd.<li><i class="fa-li fa-address-card far"></i>Dearborn, MI  48128
-<li><i class="fa-li fa fas fa-envelope"></i><a href="mailto:delegate@michmatyc.org?Subject=MichMATYC">delegate@michmatyc.org</a>
-</ul>
-</div>
 </div>
 </div></br>
 

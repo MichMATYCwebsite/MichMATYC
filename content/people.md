@@ -8,7 +8,8 @@ weight = 3
 
 +++
 ### MichMATYC Executive Board
- 
+
+<div class=leadership-wrap>
 <div class=leadership-card>
 <div class=leadership-card-head><img class=leadership src=/uploads/gunkelman.jpg> 
 <div class=flex-wrap>
@@ -25,7 +26,6 @@ class=title>President
 </div>
 </div>
 
-<div class=leadership-wrap>
 <div class=leadership-card>
 <div class=leadership-card-head><img class=leadership src=/uploads/pemberton.jpg> 
 <div class=flex-wrap>   

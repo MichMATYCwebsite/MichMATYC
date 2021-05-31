@@ -28,6 +28,13 @@ The organizational rules and policies are contained in the <a href="https://mich
 </tr>
   
 <tr>
+<td class>2021-2023</td>
+<td class="tg-c3ow">Julie Gunkelman, Oakland CC, Orchard Ridge</td>
+
+<td class="tg-c3ow">2021: Virtual Conference</td>
+</tr>
+  
+<tr>
 <td class>2019-2021</td>
 <td class="tg-c3ow">Michael Pemberton, Lansing CC</td>
 

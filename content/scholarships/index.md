@@ -7,7 +7,7 @@ title = "Karen Sharp Student Scholarship Award"
 Established in 2000 by the MichMATYC Executive Board, the Student Scholarship Award recognizes an outstanding mathematics student each academic year. Beginning in 2012, the scholarship was named in honor of Karen Sharp, who had a fundamental role in the founding of our organization.<br></br>
 
 **Application Information:**<br>
-Deadline: May 31, 2021</br>
+Deadline: May 31, 2022</br>
 [Scholarship Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdL164p3Wv-mpIRerHJ921i9Bmqm-myqQTsGlH7YEqxOjIfrg/viewform)</br>
 
 **Contact Information:**<br>
@@ -39,6 +39,26 @@ Chair, Karen Sharp Student Scholarship Committee<br><br>
     
     <th class="tg-0pky"><b>Institution</b></th>
 
+</tr>
+    
+    <tr>
+
+    <td class="tg-0pky">2021</td>
+    
+    <td class="tg-0pky">Michael Reynolds</td>
+    
+    <td class="tg-0pky">Oakland CC</td>
+    
+</tr>
+
+<tr>
+
+    <td class="tg-0pky"></td>
+    
+    <td class="tg-0pky">Sandra Zori</td>
+    
+    <td class="tg-0pky">Oakland CC</td>
+    
 </tr>
 
 <tr>

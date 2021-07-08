@@ -1,5 +1,5 @@
 +++
-date = "2021-05-17T00:00:00+00:00"
+date = "2021-07-08T00:00:00+00:00"
 layout = "post"
 title = "The Sum-Times Hits the Stands"
 publishdate = "2021-05-17T00:00:00+00:00"

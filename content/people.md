@@ -182,7 +182,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow"><a href="http://www.macomb.edu/">Macomb Community College</a>, South Campus
 </td>
 
-<td class="tg-c3ow"><a href="mailto:kaplang@macomb.edu">Gary Kaplan</a>
+<td class="tg-c3ow"><a href="mailto:oaksj@macomb.edu">Jon Oaks</a>
 </td></tr>
 
 <tr>

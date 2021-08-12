@@ -119,7 +119,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow"><a href="http://www.grcc.edu/">Grand Rapids Community College</a>
 </td>
 
-<td class="tg-c3ow"><a href="mailto:jdersch@grcc.edu">John Dersch</a>
+<td class="tg-c3ow"><a href="mailto:carmenandert@grcc.edu">Carmen Andert</a>
 </td></tr>
 
 <tr>

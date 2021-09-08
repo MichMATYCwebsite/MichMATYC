@@ -17,4 +17,4 @@ We welcome presentation proposals from everyone engaged in improving mathematics
 
 <a href="https://github.com/MichMATYCwebsite/MichMATYC/files/7129552/Save.the.Date.with.presentation.proposals.32.pdf">Save the Date with Presentation Proposals</a>
 
-Learn more and submit your proposal at [http://www.gvsu.edu/mathinaction].
+Learn more and submit your proposal at http://www.gvsu.edu/mathinaction.

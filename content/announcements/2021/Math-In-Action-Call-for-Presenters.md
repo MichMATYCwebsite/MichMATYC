@@ -1,4 +1,5 @@
-+++ date = "2021-09-08T00:00:00+00:00" layout = "post" title = "Call for Presenters at 2021 Math In Action Conference" publishdate = "2021-02-27T00:00:00+00:00" +++
++++ date = "2021-09-08T00:00:00+00:00" layout = "post" title = "Call for Presenters at 2021 Math In Action Conference" publishdate = "2021-02-27T00:00:00+00:00" [Save the Date with presentation proposals[32].pdf](https://github.com/MichMATYCwebsite/MichMATYC/files/7129552/Save.the.Date.with.presentation.proposals.32.pdf)
++++
 
 Math in Action: Call for Presenters 
 Saturday, February 26, 2022

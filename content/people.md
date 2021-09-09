@@ -278,7 +278,7 @@ Below is the contact information for the campus representatives from each member
 <td class="tg-c3ow"><a href="http://www.schoolcraft.edu/">Schoolcraft Community College</a>
 </td>
 
-<td class="tg-c3ow"><a href="mailto:amingela@schoolcraft.edu">Audrey Mingela</a>
+<td class="tg-c3ow"><a href="mailto:mmccoy@schoolcraft.edu">Mike McCoy</a>
 </td></tr>
 
 <tr>

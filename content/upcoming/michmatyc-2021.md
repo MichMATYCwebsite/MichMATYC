@@ -24,4 +24,3 @@ Thank you to the MichMATYC Executive Board and Rodger Irish, for their assistanc
 
 ##### Keynote Speaker
 We are excited to introduce Patrick Riley, Professor of Mathematics at Hopkinsville Community College in Hopkinsville, Kentucky, and Webinar Coordinator for the American Mathematical Association of Two-Year Colleges (AMATYC), who will deliver our keynote presentation.
-who will deliver our keynote presentation.

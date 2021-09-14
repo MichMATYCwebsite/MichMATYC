@@ -12,8 +12,7 @@ title = "2021 MichMATYC Virtual Conference"
 
 <b>Conference Website</b>: [2021 MichMATYC Virtual Conference](http://bit.ly/2021michmatyc_virtualconf)
 
-<b>Conference Planning Team</b>:
-<ul><li>Michael Pemberton</li><li>Rodger Irish</li></ul>
+<b>Conference Planning Team</b>:<ul><li>Michael Pemberton</li><li>Rodger Irish</li></ul>
 
 Mark your calendars for this year's MichMATYC Virtual Conference on Saturday, October 9, 2021. This year's conference is going to be fantastic! The theme for the conference is Mathematics Support and Success: A Vision for the Future, which combines academic and support services that empowers our students to become the next generation of leaders and changemakers!<br>
 

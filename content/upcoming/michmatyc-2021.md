@@ -6,9 +6,9 @@ title = "2021 MichMATYC Virtual Conference"
 +++
 ##### Conference Information
 
-<b>Host</b>: Henry Ford College, Dearborn, Michigan
-<b>Date</b>: October 9, 2021
-<b>Theme</b>: "Mathematics Support and Success: A Vision for the Future"
+<b>Host</b>: Lansing Community College, Lansing, Michigan<br>
+<b>Date</b>: October 9, 2021<br>
+<b>Theme</b>: "Mathematics Support and Success: A Vision for the Future"<br>
 
 <b>Conference Website</b>: [2021 MichMATYC Virtual Conference](http://bit.ly/2021michmatyc_virtualconf)
 

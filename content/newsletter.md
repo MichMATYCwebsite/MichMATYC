@@ -10,8 +10,8 @@ The electronic version of the Michigan Mathematical Association of Two-Year Coll
 
 If you don't know if something would be appropriate, please ask us. The MichMATYC Sum-Times articles are light, short, and informative. Most of our articles run in length between 300 and 500 words and tend to be one column or two columns per page.
 
-**Contact Information**:<br/>[Shanna Simpson-Singleton](mailto:newsletter@michmatyc.org)<br/>
-Henry Ford College<br/>
+**Contact Information**:<br/>[Julie Gunkelman](mailto:newsletter@michmatyc.org)<br/>
+Oakland Community College, Orchard Ridge<br/>
 Newsletter Editor
 
 <br/>
@@ -43,6 +43,20 @@ Previous editions of the newsletter are archived on this page. Note that for 200
 <th class="tg-c3ow"><b>No. 2</b></th>
 
 <th class="tg-c3ow"><b>No. 3</b></th>
+
+</tr>
+  
+<tr>
+
+<td class="tg-c3ow">Volume 16</td>
+
+<td class="tg-c3ow">2021-22</td>
+
+<td class="tg-c3ow"><a href="/uploads/MichMatycNewsletterSept2021.pdf" target="_blank">Sept</a></td>
+
+<td class="tg-c3ow"></td>
+
+<td class="tg-c3ow"></td>
 
 </tr>
 

@@ -26,7 +26,7 @@ Please accept this invitation to join our organization. We would like to develop
 
 The registration fee for the annual conference includes a one-year individual membership valid from October 1 of each year to September 30 of the following year, but anyone interested may join at anytime during the year.
 
-The annual membership fee is just $5 and includes several opportunities and benefits that are provided in the list above. We also offer the option of a lifetime membership for a one-time payment of $100, which carries all benefits and privileges of an active annual membership in effect at the time of joining or in the future if new benefits are added. 
+The annual membership fee is just $10 and includes several opportunities and benefits that are provided in the list above. We also offer the option of a lifetime membership for a one-time payment of $150, which carries all benefits and privileges of an active annual membership in effect at the time of joining or in the future if new benefits are added. 
 
 To join or renew membership, fill out our [membership application](http://bit.ly/joinmichmatyc). You also have the option to complete the [PDF version](http://www.michmatyc.org/uploads/membershipform.pdf) and mail your completed membership form along with the membership dues to our [Secretary/Treasurer](mailto:secretary@michmatyc.org).</br></br>
 <b>Contact Information:</b></br>

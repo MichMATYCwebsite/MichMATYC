@@ -32,7 +32,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Oct 12, 2021</td>
   <td>Nov 15, 2021</td></tr>
   
-  <tr><td><a href="https://jobs.grcc.edu/psc/jobs/EXTERNAL_APPLICANT/GRCC_HR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U&TSPD_101_R0=08c71eb7abab2000f1d5b6efdf944089535b35e7709cd0072a9ba9d75cb62851167dcd02718dc6090878b5a61f144800c19da9afdab21ec5a35da98f2fc16fa5b4eaf98b09b9a4f34c18dde0bac6ac38cca51bc5f05e1bc076682dbce60f54393192ac265d4f326fc166561a68d1297d5b43d123c1dc9d89">Assistant Professor Mathematics, Tenure Track</a></td>
+  <tr><td><a href="https://jobs.grcc.edu/psp/jobs/EXTERNAL_APPLICANT/GRCC_HR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=1228&PostingSeq=1">Assistant Professor Mathematics, Tenure Track</a></td>
   <td><a href="https://www.grcc.edu">Grand Rapids Community College</a></td>
   <td>Oct 12, 2021</td>
   <td>Nov 15, 2021</td></tr>

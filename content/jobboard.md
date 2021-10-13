@@ -27,6 +27,11 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
   
+  <tr><td><a href="https://jobs.grcc.edu/psc/jobs/EXTERNAL_APPLICANT/GRCC_HR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U">Assistant Professor Mathematics, Tenure Track</a></td>
+  <td><a href="https://www.grcc.edu">Grand Rapids Community College</a></td>
+  <td>Oct 12, 2021</td>
+  <td>Nov 15, 2021</td></tr>
+  
   <tr><td><a href="https://jobs.macomb.edu/postings/4521">Associate Dean of Math, Arts & Sciences</a></td>
   <td><a href="http://www.macomb.edu/">Macomb Community College</a></td>
   <td>Apr 23, 2021</td>

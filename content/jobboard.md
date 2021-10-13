@@ -27,21 +27,16 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 
 </tr>
   
-  <tr><td><a href="https://jobs.grcc.edu/psp/jobs/EXTERNAL_APPLICANT/GRCC_HR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=1229&PostingSeq=1">Assistant Professor Mathematics (Developmental Mathematics), Tenure Track</a></td>
+  <tr><td><a href="/uploads/GRCC_DevMath.pdf">Assistant Professor of Mathematics (Developmental Math), Tenure Track</a></td>
   <td><a href="https://www.grcc.edu">Grand Rapids Community College</a></td>
   <td>Oct 12, 2021</td>
   <td>Nov 15, 2021</td></tr>
   
-  <tr><td><a href="https://jobs.grcc.edu/psp/jobs/EXTERNAL_APPLICANT/GRCC_HR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=1228&PostingSeq=1">Assistant Professor Mathematics, Tenure Track</a></td>
+  <tr><td><a href="/uploads/GRCC_Math">Assistant Professor of Mathematics, Tenure Track</a></td>
   <td><a href="https://www.grcc.edu">Grand Rapids Community College</a></td>
   <td>Oct 12, 2021</td>
   <td>Nov 15, 2021</td></tr>
-  
-  <tr><td><a href="https://jobs.macomb.edu/postings/4521">Associate Dean of Math, Arts & Sciences</a></td>
-  <td><a href="http://www.macomb.edu/">Macomb Community College</a></td>
-  <td>Apr 23, 2021</td>
-  <td>May 23, 2021</td></tr>
-  
+ 
  <tr><td><a href="https://lmc.simplehire.com/postings/3406">Faculty, Transitional/Developmental Mathematics (Part-Time)</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Dec 11, 2020</td>
@@ -52,30 +47,10 @@ The posting must include an electronic copy of the vacancy notice, a link to the
   <td>Dec 10, 2020</td>
   <td>Continuous</td></tr>
   
- <tr><td><a href="https://hfc.csod.com/ats/careersite/JobDetails.aspx?site=4&id=87">Adjunct Faculty - Mathematics</a></td>
-  <td><a href="http://www.hfcc.edu/">Henry Ford College</a></td>
-  <td>Dec 9, 2020</td>
-  <td></td></tr> 
-  
- <tr><td><a href="https://lmc.simplehire.com/postings/3354">Faculty, Math - Allegan Campus (Part-Time)</a></td>
-  <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
-  <td>Dec 8, 2020</td>
-  <td></td></tr>
-  
  <tr><td><a href="https://jobs.lssu.edu/">Assistant Professorship in Mathematics (Tenure Track)</a></td>
   <td><a href="http://www.lssu.edu/">Lake Superior State University</a></td>
   <td>Dec 8, 2020</td>
   <td>Open Until Filled</td></tr>
-  
-<tr><td><a href="https://www.governmentjobs.com/careers/jccmi/jobs/1894141/mathematics-college-level-adjunct-instructor">Mathematics (College-Level) Adjunct Instructor</a></td>
-  <td><a href="http://www.jccmi.edu">Jackson College</a></td>
-  <td>Feb 27, 2020</td>
-  <td></td></tr>
-  
-<tr><td><a href="https://www.governmentjobs.com/careers/jccmi/jobs/1926404/mathematics-developmental-adjunct-instructor">Mathematics (Developmental) Adjunct Instructor</a></td>
-  <td><a href="http://www.jccmi.edu/">Jackson College</a></td>
-  <td>Feb 27, 2020</td>
-  <td></td></tr>
   
 <tr><td><a href="https://delta.peopleadmin.com/postings/4557">Intermediate/College-Level Math and Statistics - Adjunct Instructor</a></td>
   <td><a href="http://www.delta.edu">Delta College</a></td>

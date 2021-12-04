@@ -26,17 +26,7 @@ The posting must include an electronic copy of the vacancy notice, a link to the
 <th class="tg-c3ow"><b>Closing Date</b></th>
 
 </tr>
-  
-  <tr><td><a href="/uploads/GRCC_DevMath.pdf">Assistant Professor of Mathematics (Developmental Math), Tenure Track</a></td>
-  <td><a href="https://www.grcc.edu">Grand Rapids Community College</a></td>
-  <td>Oct 12, 2021</td>
-  <td>Nov 15, 2021</td></tr>
-  
-  <tr><td><a href="/uploads/GRCC_Math">Assistant Professor of Mathematics, Tenure Track</a></td>
-  <td><a href="https://www.grcc.edu">Grand Rapids Community College</a></td>
-  <td>Oct 12, 2021</td>
-  <td>Nov 15, 2021</td></tr>
- 
+
  <tr><td><a href="https://lmc.simplehire.com/postings/3406">Faculty, Transitional/Developmental Mathematics (Part-Time)</a></td>
   <td><a href="http://www.lakemichigancollege.edu/">Lake Michigan College</a></td>
   <td>Dec 11, 2020</td>

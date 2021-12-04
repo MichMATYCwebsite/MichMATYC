@@ -31,7 +31,8 @@ The organizational rules and policies are contained in the <a href="https://mich
 <td class>2021-2023</td>
 <td class="tg-c3ow">Julie Gunkelman, Oakland CC, Orchard Ridge</td>
 
-<td class="tg-c3ow">2021: Virtual Conference</td>
+<td class="tg-c3ow">2022: Oakland CC, Auburn Hills<br>
+ 2021: Virtual Conference</td>
 </tr>
   
 <tr>

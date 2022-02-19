@@ -1,7 +1,7 @@
 +++
 date = "2022-02-15T00:00:00+00:00"
 layout = "post"
-title = "Latest Edition of The Sum-Times is Out"
+title = "Test Website"
 publishdate = "2022-02-17T00:00:00+00:00"
 +++
 

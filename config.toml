@@ -1,0 +1,18 @@
+baseURL = "https://michmatyc.org/"
+description = "Welcome to the website of the Michigan Mathematical Association of Two-Year Colleges! MichMATYC is an affiliate of the American Mathematical Association of Two Year Colleges (AMATYC) – the national organization devoted soley to issues facing mathematics educators in the first two years of college. Since its beginnings in 1981, a major focus of MichMATYC's mission has been professional development, which includes our annual conference in October each year. Here you can learn about our history, become a member, explore member resources, read our newsletter, visit links to professional organizations, and much more!"
+languageCode = "en-us"
+summaryLength = 20
+theme = "hyde"
+title = "MichMATYC"
+[blackfriday]
+hrefTargetBlank = true
+[[menu.main]]
+name = "Conferences"
+url = "/conf"
+weight = 4
+[params]
+disqusShortname = ""
+googleAnalytics = ""
+layoutReverse = false
+theme = "hyde"
+themeColor = ""

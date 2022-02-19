@@ -21,12 +21,6 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/upcoming
-  label: Upcoming conf.
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-- type: directory
   path: content/conferences
   label: Previous conf.
   create: all

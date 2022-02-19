@@ -7,7 +7,6 @@ title = "Other Information"
 weight = 8
 
 +++
-
 ### AMATYC Resources
 * [The American Mathematical Association of Two-Year Colleges (AMATYC)](http://www.amatyc.org/)
 * [AMATYC Beyond Crossroads](http://beyondcrossroads.matyc.org/)

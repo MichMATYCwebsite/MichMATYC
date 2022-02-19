@@ -6,10 +6,6 @@ theme = "hyde"
 title = "MichMATYC"
 [blackfriday]
 hrefTargetBlank = true
-[[menu.main]]
-name = "Conferences"
-url = "/conf"
-weight = 4
 [params]
 disqusShortname = ""
 googleAnalytics = ""

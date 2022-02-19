@@ -4,7 +4,7 @@ layout = "page"
 showdate = false
 title = "People"
 [menu.main]
-weight = 2
+weight = 3
 
 +++
 ### MichMATYC Executive Board

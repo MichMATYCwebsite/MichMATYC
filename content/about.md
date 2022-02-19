@@ -4,7 +4,7 @@ layout = "page"
 showdate = false
 title = "About"
 [menu.main]
-weight = 1
+weight = 0
 
 +++
 ### History

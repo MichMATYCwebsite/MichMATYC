@@ -4,7 +4,7 @@ layout = "page"
 showdate = false
 title = "Other Information"
 [menu.main]
-weight = 8
+weight = 9
 
 +++
 ### AMATYC Resources

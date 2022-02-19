@@ -1,0 +1,26 @@
+---
+label: Page
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+  description: Add page title here
+- type: boolean
+  name: showdate
+  label: Show Date
+  hidden: false
+pages:
+- content/about.md
+- content/competitions.md
+- content/conferences/michmatyc-2018.md
+- content/newsletter.md
+- content/other-information.md
+- content/people.md

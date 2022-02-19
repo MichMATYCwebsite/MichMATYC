@@ -4,7 +4,7 @@ layout = "page"
 showdate = false
 title = "Webinars"
 [menu.main]
-weight = 5
+weight = 4
 
 +++
 All webinars are recorded and available to watch afterwards. Below you will find information on our upcoming and previous webinars. Webinars are a great form of professional development that you can do from the comfort of your own home or office. Those that register will receive an email with a link to the recording. Each webinar presenter is an expert in their field and has many years of experience as classroom teachers.

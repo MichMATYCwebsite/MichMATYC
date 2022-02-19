@@ -3,7 +3,7 @@ layout = "page"
 showdate = false
 title = "Membership"
 [menu.main]
-weight = 3
+weight = 2
 
 +++
 The strength of MichMATYC is the membership and your membership makes a statement. It tells others that your profession is important to you and that you want to be a part of its growth and direction in the state of Michigan. The organization offers you an opportunity to join with other individuals who are interested in mathematics education at the two-year college level.

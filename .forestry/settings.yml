@@ -22,7 +22,7 @@ sections:
   - post
 - type: directory
   path: content/conferences
-  label: Previous conf.
+  label: Conferences
   create: all
   match: "**/*"
   new_doc_ext: md

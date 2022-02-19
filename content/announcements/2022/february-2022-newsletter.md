@@ -1,8 +1,8 @@
 +++
-date = "2021-02-23T00:00:00+00:00"
+date = "2022-02-15T00:00:00+00:00"
 layout = "post"
 title = "Latest Edition of The Sum-Times is Out"
-publishdate = "2021-02-23T00:00:00+00:00"
+publishdate = "2022-02-17T00:00:00+00:00"
 +++
 
 The <a href="https://michmatyc.org/uploads/MichMatycNewsletterFebruary2021.pdf">February 2021</a> issue of <a href="http://michmatyc.org/newsletter">The Sum-Times</a> has been published! I would also like to thank Shanna Simpson-Singleton, The Sum-Times Newsletter Editor, for putting together another wonderful newsletter. Please share the attached newsletter with your colleagues.<br/>

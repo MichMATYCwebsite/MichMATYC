@@ -7,6 +7,7 @@ title = "MichMATYC"
 [blackfriday]
 hrefTargetBlank = true
 [[menu.main]]
+weight = 1
 [params]
 disqusShortname = ""
 googleAnalytics = ""

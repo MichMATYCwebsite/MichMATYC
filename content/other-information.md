@@ -4,7 +4,7 @@ layout = "page"
 showdate = false
 title = "Other Information"
 [menu.main]
-weight = 7
+weight = 8
 
 +++
 

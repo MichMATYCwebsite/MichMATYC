@@ -3,7 +3,7 @@ layout = "page"
 showdate = false
 title = "The Sum-Times"
 [menu.main]
-weight = 5
+weight = 6
 
 +++
 The electronic version of the Michigan Mathematical Association of Two-Year Colleges' newsletter, "The MichMATYC Sum-Times", welcomes articles of interest to members three times a year - in February, May, and September. If it is about an accomplishment of you or your colleagues, recent retirements or new hires within your department, a short teaching topic or idea to share, or hints to help other members spend their professional time, please consider writing an article and sending it to the [Newsletter Editor](mailto:newsletter@michmatyc.org).

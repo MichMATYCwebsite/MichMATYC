@@ -1,0 +1,33 @@
+{{ partialCached "head-cached.html" . }}
+{{ partial "head.html" . }}
+
+  <body>
+
+  <!-- {{ partial "preloader.html" . }} -->
+  {{ partialCached "sidebar.html" . }}
+
+  <div id="dim">
+ 
+  {{ partial "hamburger.html" . }}
+  {{ partialCached "logo.html" . }}
+
+    <main class="content container" id="main">
+    
+    <div class="footer-wrap">
+
+    {{ block "main" . -}}
+    
+    {{- end }}
+  
+  </div>
+
+    {{ partialCached "footer.html" . }}
+    </main>
+  
+  </div>
+
+
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partialCached "js.html" . }}
+  </body>
+</html>

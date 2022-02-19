@@ -1,0 +1,55 @@
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"
+></script>
+
+<script src= "https://cdnjs.cloudflare.com/ajax/libs/turbolinks/5.2.0/turbolinks.js"> </script>
+
+
+<script>
+
+  function openSlideMenu() {    
+    document.getElementById("mobile-side-menu").style.left = "0px";
+    let dimmedBg = document.getElementById("dim");
+    dimmedBg.classList.add("dimmed");
+    dimmedBg.classList.remove("clear");
+    lastTop = $(window).scrollTop();
+    console.log(lastTop);
+    $("body")
+      .addClass("noscroll")
+      .css({ top: -lastTop });
+
+  window.addEventListener(
+    "mouseup",
+    function(event) {
+      var sideNav = document.getElementById("mobile-side-menu");
+      if (event.target != sideNav && event.target.parentNode != sideNav) {
+        document.getElementById("mobile-side-menu").style.left = "-220px";
+        let dimmedBg = document.getElementById("dim");
+        dimmedBg.classList.remove("dimmed");
+        dimmedBg.classList.add("clear");
+      
+        $("body").removeClass("noscroll");
+       $(window).scrollTop(lastTop);
+      }
+      delete lastTop;
+    },
+    false
+  );
+  }
+
+  function closeSlideMenu() {
+    document.getElementById("mobile-side-menu").style.left = "-220px";
+        let dimmedBg = document.getElementById("dim");
+        dimmedBg.classList.remove("dimmed");
+        dimmedBg.classList.add("clear");
+  }
+
+//   document.addEventListener("turbolinks:load", function() {
+//   $(function() {
+//     $('main').addClass('fade-out');
+//   });
+// })
+
+</script>

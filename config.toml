@@ -7,12 +7,6 @@ title = "MichMATYC"
 [blackfriday]
 hrefTargetBlank = true
 [[menu.main]]
-name = "Conferences"
-url = "/conf"
-weight = 4
-[[menu.main]]
-name = "Awards & Scholarships"
-weight = 7
 [params]
 disqusShortname = ""
 googleAnalytics = ""

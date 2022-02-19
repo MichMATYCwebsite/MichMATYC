@@ -1,7 +1,7 @@
 +++
 layout = "page"
 name = "Job Board"
-showdate = true
+showdate = false
 title = "Job Board"
 [menu.main]
 weight = 8

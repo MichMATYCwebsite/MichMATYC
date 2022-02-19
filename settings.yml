@@ -1,0 +1,63 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: directory
+  path: content/announcements
+  label: Announcements
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
+  path: content/events
+  label: Events
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
+  path: content/upcoming
+  label: Upcoming conf.
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+- type: directory
+  path: content/conferences
+  label: Previous conf.
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - page
+- type: directory
+  path: content
+  label: Pages
+  create: documents
+  match: "*"
+  templates:
+  - page
+- type: document
+  path: config.toml
+  label: Site Configuration
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+instant_preview: 
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.49
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+  preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+version: '0.49'

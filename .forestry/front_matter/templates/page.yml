@@ -19,7 +19,6 @@ fields:
   hidden: false
 pages:
 - content/about.md
-- content/competitions.md
 - content/conferences/michmatyc-2018.md
 - content/newsletter.md
 - content/other-information.md
